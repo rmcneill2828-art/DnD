@@ -1,7 +1,7 @@
 # Darkhawk Blondin
 
 **Race:** Goliath
-**Class & Level:** Barbarian 3 (Path of the Totem Warrior — Bear) / Fighter 2
+**Class & Level:** Barbarian 4 (Path of the Totem Warrior — Bear) / Fighter 2
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
@@ -11,9 +11,9 @@
 | 19 (+4) | 13 (+1) | 14 (+2) | 8 (−1) | 11 (+0) | 10 (+0) |
 
 ## Combat
-- **AC:** 15 (fitted breastplate: 14 + DEX, medium armor — replaces Unarmored Defense while worn)
-- **HP:** 46 / 46
-- **Hit Dice:** 3d12 + 2d10
+- **AC:** 16 (fitted breastplate: 14 + DEX = 15, +1 from Dual Wielder while wielding two melee weapons)
+- **HP:** 52 / 52
+- **Hit Dice:** 4d12 + 2d10
 - **Speed:** 30 ft
 - **Initiative bonus:** +1
 - **Passive Perception:** 12
@@ -27,7 +27,7 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 | Off-hand longsword | +6 | 1d8+4 slashing | 1d8+6 slashing |
 | Javelin (thrown, 30/120) | +6 | 1d6+4 piercing | 1d6+6 piercing |
 
-*Reforge grants STR modifier to off-hand damage (the benefit Dual Wielder normally requires the feat for). A future Dual Wielder feat would still add +1 AC on top of this.*
+*Reforge grants STR modifier to off-hand damage. Dual Wielder feat (taken at level 6) now adds the +1 AC on top of that, reflected above.*
 
 ## Proficiencies & Skills
 - **Saving throws:** Strength, Constitution
@@ -46,13 +46,14 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 - Mountain Born: resistance to cold damage; acclimated to high altitude
 
 **Barbarian**
-- Rage (2/day): bonus action to enter; +2 damage on Strength-based melee attacks, resistance to bludgeoning/piercing/slashing damage, advantage on Strength checks and saves; lasts 1 minute, ends early if you go a turn without attacking or taking damage. Can't wear heavy armor.
+- Rage (3/day): bonus action to enter; +2 damage on Strength-based melee attacks, resistance to bludgeoning/piercing/slashing damage, advantage on Strength checks and saves; lasts 1 minute, ends early if you go a turn without attacking or taking damage. Can't wear heavy armor.
 - Unarmored Defense: AC = 10 + DEX + CON when not wearing armor
 - **Reckless Attack** (lvl 2): on your first attack each turn, choose to attack recklessly — advantage on Strength-based melee attack rolls this turn, but attacks against you have advantage until your next turn.
 - **Danger Sense** (lvl 2): advantage on Dexterity saves against effects you can see, unless blinded, deafened, or incapacitated.
 - **Primal Path: Totem Warrior — Bear** (lvl 3):
   - *Spirit Seeker*: can cast Beast Sense and Speak with Animals as rituals, connecting with primal/animal spirits.
   - *Totem Spirit (Bear)*: while raging, resistance to **all** damage types except psychic (upgraded from just bludgeoning/piercing/slashing).
+- **Ability Score Improvement (lvl 4) — Dual Wielder feat**: +1 AC while wielding two melee weapons (reflected above), can two-weapon fight with non-light weapons, can draw two weapons at once.
 
 **Fighter (multiclass, 2 levels)**
 - **Second Wind**: bonus action, regain 1d10+2 HP. Once per short/long rest.
@@ -70,7 +71,7 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 - Hunting trap
 - An animal trophy from the mountains (flavor: a carved tusk or claw, last physical tie to a tribe he barely remembers)
 - Traveler's clothes
-- 45 gp (145 gp minus the 100 gp put toward the breastplate trade)
+- 57 gp (16 gp + 15 gp smithy commissions + 26 gp looted off the wagon crew's bodies)
 - 1 potion of healing (unlabeled vial, confirmed by Mara) — the other used on Kaldur Stonewake
 - Dark oiled cloak, hardtack, waterskins, and leather wrap for muffling weapons/metal — packed for the Vantor stakeout
 
@@ -91,12 +92,12 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 
 ## Current Status
 - Conditions: none
-- HP: 46 / 46
-- Rages used: 0 / 2
+- HP: 52 / 52
+- Rages used: 0 / 3
 - Second Wind: available
 - Action Surge: available
 - Stone's Endurance: available
-- Inspiration: no
+- Inspiration: yes
 - Notes: Vantor remains in magistrate custody in Kessick's Ford as a cooperating witness, awaiting formal proceedings.
 - Notes: Carries the Vantor Trading Concern/"Circuit" seal coin, a second fist-and-chain coin from Greta Ostmark's strongbox, the Keeper's signet ring and key ring, the Keeper's tally book, an unsigned letter referencing "the Warden," the Bramhollow ledgers and two Warden-sealed letters, and the fully identified regional map. Unused one-time Stealth advantage still banked.
 - Notes: Now Greta Ostmark's open "apprentice" (cover identity) — will carry the fairground buyer's next hardware delivery himself when the courier is next due, within the week.

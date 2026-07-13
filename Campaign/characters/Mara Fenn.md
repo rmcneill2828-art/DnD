@@ -1,7 +1,7 @@
 # Mara Fenn
 
 **Race:** Human
-**Class & Level:** Ranger 5 (Gloom Stalker)
+**Class & Level:** Ranger 6 (Gloom Stalker)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
@@ -12,8 +12,8 @@
 
 ## Combat
 - **AC:** 16 (studded leather: 12 + DEX)
-- **HP:** 35 / 35
-- **Hit Dice:** 5d10
+- **HP:** 45 / 45
+- **Hit Dice:** 6d10
 - **Speed:** 30 ft (+10 ft on the first turn of combat via Dread Ambusher)
 - **Initiative bonus:** +6 (DEX +4, plus WIS +2 from Dread Ambusher)
 - **Passive Perception:** 15
@@ -23,7 +23,7 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 
 | | To Hit | Damage |
 |---|---|---|
-| Longbow (main, 150/600) | +9 | 1d8+4 piercing (+1d6 if Hunter's Mark active) |
+| Fletch's longbow (main, 150/600) | +9 | 1d8+4 piercing (+1d6 if Hunter's Mark active) |
 | Shortsword (backup melee, finesse) | +7 | 1d6+4 slashing |
 
 **Extra Attack:** two attacks with the Attack action.
@@ -41,7 +41,7 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 
 **Ranger**
 - **Favored Enemy (Humanoids — the Circuit specifically):** advantage on Survival checks to track them, learn their signs/codes over time, and pick up a related language.
-- **Natural Explorer (Forest):** her home ground — never gets lost except by magic, can travel stealthily at normal pace, finds double food when foraging, and gets extra information/advantage on initiative and first-round surprise attempts in this terrain.
+- **Natural Explorer (Forest, Mountain):** second terrain gained at 6th level, chosen with the Greyhorn foothills ahead in mind. Home ground in either — never gets lost except by magic, can travel stealthily at normal pace, finds double food when foraging, and gets extra information/advantage on initiative and first-round surprise attempts.
 - **Primeval Awareness:** can expend a spell slot to sense whether aberrations, celestials, dragons, elementals, fey, fiends, or undead lurk within 1 mile (6 in favored terrain).
 - **Fighting Style — Archery:** +2 to attack rolls with ranged weapons.
 - **Spellcasting:** Wisdom-based. Spell save DC 13, spell attack +5. Known: **Hunter's Mark, Longstrider, Cure Wounds, Pass without Trace.** Slots: 4 (1st), 2 (2nd).
@@ -56,11 +56,12 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 - Wanderer: perfect recall of terrain traveled, can always find food/fresh water in the wild for herself and up to 5 others, and find the way back to civilization.
 
 ## Equipment
-- Longbow + 20 arrows
+- **Fletch's longbow** — exceptional yew longbow from master bowyer Harmon Fletch (Ravensmoor), traded for + 117 gp. Tillered and strung so quiet that firing it doesn't give away her position the way an ordinary bow's snap does: advantage on Stealth checks to remain hidden immediately after taking a shot with it.
+- 20 arrows
 - Shortsword
 - Studded leather armor
 - Explorer's pack, trapping gear, hunting knife, rope, dark oiled cloak
-- ~80 gp
+- ~12 gp (spent down to near nothing on the bow trade, then earned back selling furs/game/herbs)
 
 ## Personality
 - **Traits:** Reads terrain and people the same way — patient, watches before acting, rarely the first to move. Dry, quiet humor that surfaces most when she's actually relaxed.
@@ -75,7 +76,7 @@ What started as paid work became a real partnership, and — after Ravensmoor �
 
 ## Current Status
 - Conditions: none
-- HP: 35 / 35
+- HP: 45 / 45
 - Spell slots: 4/4 (1st), 2/2 (2nd)
 - Inspiration: no
 - Notes: carries the copied town-hall deed entry showing Ravenshollow's ownership of the Ravensmoor fairground building.
