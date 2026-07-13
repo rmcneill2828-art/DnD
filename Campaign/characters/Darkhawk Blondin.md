@@ -71,7 +71,7 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 - Hunting trap
 - An animal trophy from the mountains (flavor: a carved tusk or claw, last physical tie to a tribe he barely remembers)
 - Traveler's clothes
-- 57 gp (16 gp + 15 gp smithy commissions + 26 gp looted off the wagon crew's bodies)
+- 117 gp (57 gp + 12 gp commission deposit − 6 gp lost at dice + 34 gp taken off the captured Circuit operative + 20 gp gate latch completion payment). Farmer's fire-tool commission still in progress, unpaid.
 - 1 potion of healing (unlabeled vial, confirmed by Mara) — the other used on Kaldur Stonewake
 - Dark oiled cloak, hardtack, waterskins, and leather wrap for muffling weapons/metal — packed for the Vantor stakeout
 
