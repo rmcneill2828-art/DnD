@@ -1,0 +1,133 @@
+# Session Log — Blood Debt
+
+## Session 1 — 2026-07-11
+
+Darkhawk Blondin, freshly arrived in the border town of Kessick's Ford, spotted a suspicious "hire notice" on the bounty board — strong backs wanted, no questions asked, pay up front. Intimidated the nervous notice clerk into talking: the posting traced to a mysterious "Vantor Trading Concern," the recruitment was a trap (come alone, unarmed, after dark), and several townsfolk who'd answered similar notices over the past month had never been seen again.
+
+Scouted the Hollowmere estate outside town by daylight, then returned after dark and answered the "invitation" — armed, not alone, and openly skeptical. Talked his way past the gate guards just long enough to provoke a fight, then killed all four in the resulting skirmish (captain and one guard fled on foot; both put down with thrown javelins and a pursuit kill).
+
+Found a boarded outbuilding on the grounds holding six kidnapped townsfolk, including **Tomas Reeve** — the missing merchant's son from another bounty notice. Freed them and sent them to town under Tomas's lead to alert the guard.
+
+Infiltrated the manor itself (tripped a hidden door alarm in the process), ambushed and killed two responding guards in the entry hall, then cornered **Corwin Pell**, the operation's bookkeeper. Under pressure — and after being confronted directly about his complicity — Corwin turned: handed over a trafficking ledger, a sealed letter, payment evidence, guard counts, and the manor's layout, then agreed to turn himself in to Tomas and testify.
+
+Descended to the cellar and cleared it: killed **the Keeper** (the cells' overseer) and three more guards, freed the last two "sorted" captives, and sent them to town as well. Searched the dead and found confirmation that "the Circuit" — the trafficking operation — has standing orders to *report, not engage* anyone connected to "the Ashpit incident," i.e. Darkhawk's own past.
+
+Looted **Vantor's private office**: 280 gold, a hand-drawn regional map (Kessick's Ford, Hollowmere, and **Ravensmoor** named; four more locations marked only with the Circuit's fist-and-chain seal, unidentified), an unsigned letter referencing an unseen superior called **"the Warden"** and a quota for "Ravensmoor numbers before the season opens," and an engraved ceremonial dagger.
+
+Made a deliberate, high-risk choice: piled all ten Hollowmere dead in the service tunnel — Vantor's actual point of entry — with a handwritten note warning him and the Warden that an Ashpit survivor is alive and hunting them. This trades anonymity for a direct psychological strike; expect the Circuit to respond accordingly.
+
+Returned to Kessick's Ford. Tomas and Corwin both safe, the local magistrate now investigating Hollowmere officially (evidence and bodies left in place at Darkhawk's request). Secured Tomas's promise to protect Corwin and his daughter. Took a long rest above the Reeve family's counting house.
+
+**Ends:** fully rested, 3 nights remaining until Vantor is due at Hollowmere.
+
+## Session 2 — 2026-07-11 (continued)
+
+Leveled up (milestone) to **Barbarian 2** — gained Reckless Attack, Danger Sense, and a jump to 27 max HP.
+
+Spent the day in Kessick's Ford tying up loose ends. Told Corwin's daughter her father was a hero; Corwin, visibly moved, committed to testifying fully regardless of cost. Showed Halvard Reeve the recovered Circuit map: he recognized the fist-and-chain seal from a warehouse manifest at **Bramhollow**, a waystation ~2 days out on the Ravensmoor road, and identified it as one of the map's sealed nodes. Struck a standing mutual-aid pact with House Reeve — Halvard relays any Circuit-related intel his trade network picks up, in exchange for Darkhawk's help if House Reeve ever needs it.
+
+Noticed a second sealed node on the map, roughly 3-4 miles **south of Hollowmere**, that Halvard had no explanation for — no manifest, no rumor, nothing his trade network ever touched. He flagged it as more concerning than Bramhollow specifically because it isn't hiding behind legitimate paperwork at all, and pointed toward local trapper **Mara Fenn** as someone who might know the terrain.
+
+Found Mara at the Broken Wheel tavern. She independently confirmed the southern site: a "dead ground" she's avoided for two years (no game, no birds, occasional distant torchlight), and revealed the missing tannery lads used to drink at her regular table — giving her a personal stake. Hired her as a guide (20 gp) to investigate the site, departure set for night, after the swords were ready.
+
+Picked up the reforged longswords from Perrin Dask — properly balanced now for two-weapon fighting, off-hand strikes hit with full Strength behind them instead of the weaker standard off-hand rule.
+
+**Ends:** night has fallen, swords in hand, Mara Fenn ready at the smithy. About to depart for the dead ground south of Hollowmere.
+
+## Session 3 — 2026-07-12
+
+Guided by Mara, infiltrated the **Dead Ground site** south of Hollowmere — a hidden "proving grounds" built into old ruins where captives are forced to fight each other; winners "graduate" onward into the Circuit, losers often don't survive. Ambushed and killed all 6 guards there with Mara's help (bow support throughout). Freed three captives and sent them to Kessick's Ford.
+
+Found a fourth, long-held prisoner: **Kaldur Stonewake**, an older Goliath. He recognized Darkhawk's carried trophy as **Thundertree clan** craftsmanship — clan territory in the high passes, north and east — giving Darkhawk his first real lead on his own identity. Escorted Kaldur back to town for care.
+
+Looted the site: gold, 2 healing potions, a Trial record (11 captives "graduated" this year alone, 17 more blank/unaccounted for), and a duty log confirming guards rotate between Hollowmere, Bramhollow, and this site, and that **Vantor's visit would hit both Hollowmere and this site the same night, right after the Trial closed.**
+
+Leveled up narratively confirmed at Barbarian 2 (Reckless Attack, Danger Sense — noted here for continuity, actually gained just before this session's field work).
+
+Downtime in Kessick's Ford: showed Kaldur the recovered regional map — he confirmed Ravensmoor firsthand (a real market town, Circuit runs beneath it in "season") and flagged a possible second proving-grounds site, "the Western Yard" (unconfirmed, secondhand). Shared his own Ashpit backstory with Kaldur, who offered genuine solidarity — clan isn't only blood. Gathered stakeout supplies (cloaks, muffling wrap) with Mara's guidance. Halvard passed on a warning: someone's already asking around about a large Goliath mercenary, quietly, not via bounty.
+
+**The stakeout:** watched Vantor arrive at Hollowmere's service tunnel with 2 guards, discover the pile of bodies and the note, and panic — overheard him order a rider to Bramhollow to report to **the Warden** personally, confirming Bramhollow is the Warden's direct reporting line, not just a waystation. Raced Mara to the Dead Ground site ahead of Vantor's party and watched him discover the second message pile there too, fully unraveling.
+
+Confronted Vantor directly (unarmed approach, offer to talk instead of kill). It went sideways — his guards panicked, one fled with Vantor toward Bramhollow while the other held the line. Killed the blocking guard, lost the chase. Vantor's own words confirmed **Bramhollow is where he reports to the Warden.**
+
+Pushed Mara for a forced 2-day march to reach Bramhollow ahead of Vantor — succeeded, but the toll caught up (failed CON save, gained Exhaustion 1). Set an ambush outside Bramhollow; concealment was rough (fatigue-driven bad rolls both sides), and the last guard spotted the ambush before it sprang. Fought and killed him with Mara's help.
+
+**Captured Vantor alive**, bound, unharmed. Hid the dead guard's body, retreated to a hidden camp, and took a long rest — exhaustion cleared, full resources restored.
+
+Leveled up (milestone) to **Barbarian 3**, choosing **Path of the Totem Warrior — Bear**: Spirit Seeker (ritual Beast Sense / Speak with Animals) and Totem Spirit granting full damage resistance (except psychic) while raging. HP jumped to 39.
+
+Heading back toward Kessick's Ford, Mara scouted ahead and spotted a 5-rider search party sent from Bramhollow, already hunting for the overdue Vantor. Sent Mara ahead with the bound prisoner while Darkhawk held the road alone. Killed all five riders solo (with Bear Totem's full damage resistance carrying the fight), looted them, botched hiding the bodies (a passing cart likely found the scene), and took their horses to close the distance and catch up with Mara and Vantor.
+
+Rode into Kessick's Ford and delivered Vantor directly to Halvard and Tomas. Under no illusions about his position, **Vantor fully confessed and agreed to turn king's evidence**: confirmed the Warden is a title, not a name he's ever matched to a face — orders arrive only via sealed letters through Bramhollow, never in person. Confirmed the Circuit spans far more territory than what's been seen so far. Admitted he doesn't know who ran Ashpit or who betrayed Darkhawk specifically — only that the incident is used within the Circuit as a cautionary legend. Explained his own entanglement (a debt at 19 he was never allowed to walk away from).
+
+Filled in the last two blanks on the regional map: **the Western Yard** (another proving-grounds site, confirming Kaldur's secondhand rumor) and **Duskgate** (previously the map's last unknown mark — not a fighting site at all, but a private buyer market east of Ravensmoor where the highest-value "graduates" are actually sold). The map is now fully identified.
+
+Handed Vantor to Tomas for the magistrate, with an explicit message: if the law doesn't deliver justice with what Vantor and Corwin have both given them, Darkhawk will be the justice instead. Closed the day out on a quiet, reflective exchange with Mara about law versus justice.
+
+**Ends:** Vantor in custody and cooperating. Hollowmere, the Dead Ground, and the Bramhollow road are all resolved. Open threads for next time: the Warden's true identity, Bramhollow itself (still not directly investigated), the Western Yard, Duskgate, Ravensmoor/the Grand Circuit, and Thundertree clan.
+
+## Session 4 — 2026-07-13
+
+Visited Vantor in custody for a further debrief: rough guard estimates for every known Circuit site (Bramhollow ~8-10, Western Yard ~5-6, Duskgate ~10-12 higher-quality) and hand-sketched layouts for all three, honestly caveated as secondhand/imprecise. Confirmed with Mara: since Western Yard and any loud action at Bramhollow risk alerting the rest of the network, the plan shifted to **Bramhollow first, done quiet** — no bodies, no declaration this time, just extract proof of the Warden's existence and leave undetected.
+
+Recruited **Joss Ferrow**, Mara's old friend running the ferry crossing, as a paid outside lookout (30 gp) for the Bramhollow job — watch and signal only, not a fighter, explicit about his limits given his family.
+
+Sold the five horses and tack taken from the dead search party to Halvard Reeve for 175 gp. Tipped Mara 50 gp unprompted, acknowledging the guiding work was costing her actual trapping income.
+
+Had Perrin Dask rebalance the ceremonial dagger into a real weapon (20 gp) — concealable backup, well-suited to a stealth job. Also commissioned Perrin's off-the-books **sky-iron** (meteoric ore) to be worked into both longswords for 200 gp: not magical, but the blades now count as magical weapons for overcoming resistance/immunity to nonmagical attacks.
+
+Spent a rest day training stealth fundamentals solo (advantage on the first Stealth check at Bramhollow, one-time), gambling for fun at the Broken Wheel (down ~10 gp, correctly spotted a cheat and let it go), and picking up bar rumors: Ravensmoor's "season" reportedly starts at first frost, and local folklore already independently confirms Perrin's sky-iron story.
+
+Mara returned from scouting Bramhollow with real intel — but also a complication: the site is unusually alert, running a tighter rotation than Vantor's numbers accounted for, and is specifically watching for a large Goliath matching Darkhawk's description. Confirmed the warehouse office's exact location (ground floor, southeast corner) and a ~20-minute pre-dawn window when the yard is thinnest.
+
+**Revised plan locked in:** given Darkhawk's description is compromised, Mara goes into the office alone; Darkhawk and Joss hold overwatch outside. If Mara isn't out within **30 minutes**, Darkhawk moves in loud. Agreed to take one more rest day so Mara can confirm the timing window and go in at full strength.
+
+Noted for the next milestone level-up: player wants to multiclass 1 level into Fighter (Second Wind + a Fighting Style, to be picked together when it happens).
+
+**Ends:** resting in Kessick's Ford, one day out from the Bramhollow job. Plan is set: quiet infiltration, Mara solo on the office, Darkhawk + Joss on overwatch, 30-minute trigger.
+
+## Session 5 — 2026-07-14
+
+**Executed the Bramhollow job successfully and quietly.** Joss held outside lookout, Mara infiltrated the warehouse office alone within the 30-minute window and extracted ledgers plus two letters in the Warden's own sealed hand — real physical proof the Warden exists beyond Vantor's word. Darkhawk silently killed and hid one off-pattern patrol guard who nearly discovered the group; no alarm raised, no bodies left visible, no declaration. Joss's lookout contract concluded successfully.
+
+Reviewed all recovered evidence together and made a key deduction: **"the Circuit" implies a closed loop, but every confirmed site (Hollowmere, Dead Ground, Western Yard, Bramhollow, Ravensmoor, Duskgate) is a satellite — intake, processing, distribution, or sale. None of them is the actual hub the Warden operates from, and Ashpit's location is never once stated in any recovered document.** Took this theory to Halvard (now quietly tracing Circuit money) and Magistrate Kell (now checking property/land records) — both agreed to investigate in parallel.
+
+A tavern rumor, followed up in person, independently pointed the same direction: unusual land purchases (old mine workings, paid well above value, buyer untraceable, via a broker firm called **Ravenshollow** out of the regional seat) in the foothills of **the Greyhorn Range — Thundertree's home territory.** Mountain clan trade contacts confirm the Goliath clans there have grown noticeably more closed-off over roughly the same period. Strong circumstantial case that the Circuit's true center sits right where Darkhawk's own lost clan lives.
+
+Arranged **Fallow Cross** as a forward operating base via Halvard — a House Reeve trade post between the Western Yard and the road toward Ravensmoor/Duskgate, staffed by warehouse keeper **Ressa Dane**, with courier **Pell Ashworth** running messages and evidence back to Kessick's Ford on a schedule.
+
+Told Kaldur about the Greyhorn lead; he agreed to guide Darkhawk into the mountains once the more immediate Circuit threats are dealt with — his own clan (Ninebells) is different from Thundertree, but he knows how to move in that country without provoking a watchful clan.
+
+**Leveled up (milestone, for completing Bramhollow):** multiclassed into **Fighter 1** — Second Wind, and the **Protection** fighting style (reaction: impose disadvantage on an attack against an ally within 5 ft while wielding a shield — gives the back-harness shield real tactical purpose). Rolled poorly for HP (+3), bringing max HP to 42.
+
+Also picked up a steel shield with a quick-release back harness from Perrin and a rebalanced ceremonial dagger, and had **sky-iron** (rare meteoric ore) worked into both longswords — not magical, but the blades now count as magical weapons for overcoming resistance/immunity to nonmagical attacks.
+
+**Hit the Western Yard as planned — loud and deliberate this time, by design.** Walked in visibly rather than sneaking, backed by Mara sniping from a ridge. Declared the kill count aloud before the fight (a calculated psychological strike) and fought openly, killing all 6 guards. Took the officer alive as intended, then delivered an explicit, personal message rather than another anonymous note: **"I am Darkhawk Blondin, left for dead by the Warden... 31 dead, only you left alive... there is a storm coming."** Released him to carry it back to Bramhollow. This was a deliberate strategic shift, reasoned through carefully beforehand: an unnamed "Ashpit ghost" rumor is more dangerous to Kessick's Ford than a named, specific target is, since retaliation with no clear target tends to land on the nearest soft target instead. Freed 2 more captives from the site's cells and sent them to Tomas as well.
+
+Secured a small amount of official backing from Magistrate Kell before the operation: he can't send soldiers, but formally recorded that any Circuit retaliation should be understood as targeting Darkhawk specifically, not the town, and raised his own guardsmen's alertness.
+
+**Ends:** at Fallow Cross, Bramhollow evidence and Western Yard both resolved. Darkhawk's identity is now openly known to the Circuit — no longer a rumor. Open threads: Duskgate (personally tied to Ashpit), Ravensmoor, the Greyhorn foothills/Ravenshollow/Thundertree hub lead, and the ongoing Halvard/Kell investigations.
+
+## Session 6 — 2026-07-14/15
+
+Planned the next move at Fallow Cross over breakfast: deliberately deferred Duskgate (too well-defended for two people right now) and the Greyhorn foothills (Kaldur not ready, lead still circumstantial), choosing to scout Ravensmoor first while it's still an "ordinary" town, before the first-frost season starts. Traveled there posing as **"Mr. and Mrs. Blondin,"** a couple looking to open a smithy and a provisioning business, deliberately keeping the cover close to real skills (Darkhawk's real time at Perrin's forge, Mara's real hunting/provisioning background) and moving at an unhurried, unsuspicious pace.
+
+In Ravensmoor: cleared the gate easily, checked into the Hound's Rest, and got two names unprompted from separate locals — **Master Corlin Vey** (the town's land broker) and confirmation that land near the fairgrounds is priced strangely high for a town its size. A stranger in the tavern took real interest in the couple; a fake-drunk bait attempt (badly botched) spooked him into leaving fast and clean, and Mara lost his trail entirely — someone genuinely skilled at not being followed.
+
+Met Vey in person: legitimate broker, but visibly uneasy about the fairground district specifically — a separate, unnamed "holding company" manages those buildings and he's learned not to ask questions. Scouting the district directly, spotted one building that doesn't match the "unused off-season" story (reinforced door, fresh wagon ruts, a recently-used candle-wax watch post) and a permanent watcher stationed near Vey's own office.
+
+**Acquired Old Harlan's Forge** — a real, legitimate property at the edge of the fairground district, leased through Vey — giving Darkhawk and Mara a permanent, unsuspicious foothold to watch the suspicious building long-term. Discovered a well-maintained, deliberately unobtrusive **root-cellar hatch** around back of that building, separate from its main door.
+
+Began rotating night watches on the hatch. Mara witnessed one man use it casually around midnight. Darkhawk later witnessed a muffled wagon delivering crates and an **empty locked cage** to the building in the dead of night — hard evidence that "unused off-season" is false, and that whatever this site does isn't limited to the twice-yearly fair.
+
+**Major breakthrough — pieced together the Circuit's full structure:** intake sites (Hollowmere) feed proving grounds (Dead Ground, Western Yard) which cull and test captives; survivors get shipped to Ravensmoor, where "season" is itself another proving ground in front of buyers and promoters; the actual best of the best don't stay in the public circuit at all — they're sent somewhere private, whispered about like a legend rather than a location. **Ashpit isn't closed history. It's the ongoing, hidden top of the entire pyramid** — which may make it the same place as the Circuit's missing "true center" the Greyhorn foothills lead already pointed toward.
+
+This realization triggered real, dangerous anger — the instinct to storm the hatch immediately. Held to the "no more surprises" pact instead: told Mara directly, let the anger be felt without acting on it (with her steady support), and returned to the plan.
+
+While keeping watch alone that night, deliberately reached for suppressed childhood memory for the first time — recovered real, vivid fragments: cold mountain air, woodsmoke, a voice singing in Giant, the trophy given to him with ceremony, and the fractured moment of being taken, his own name called out behind him — audible in shape and rhythm, but the actual sound still wouldn't resolve. Confirmed to himself: finishing that memory requires standing in front of Thundertree in person.
+
+Shared the memory fully with Mara. The relationship shifted from professional partnership to openly mutual and romantic — a kiss during the cover performance "came out sounding a little too real" for both of them, and they explicitly acknowledged it wasn't an act. Darkhawk asked Mara to be with him when he finally faces Thundertree; she committed without hesitation.
+
+**Leveled up (milestone, belated credit for the Western Yard's full clear — a full fight plus the public identity reveal that was never actually credited before this):** **Fighter 2**, gaining **Action Surge** (once per rest, an additional action — doubles a turn's dual-wield attacks). Rolled poorly for HP again (+4), bringing max HP to 46.
+
+**Ends:** at Old Harlan's Forge, Ravensmoor, mid-investigation. The hatch is being watched nightly. Duskgate and the Greyhorn foothills/Ashpit both loom as the next major destinations, with a strong working theory that they may be connected or even identical.

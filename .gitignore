@@ -1,0 +1,9 @@
+# Reference library — large static PDFs/archives, not campaign state
+Books/
+DND/
+DnD.5e/
+Dungeons & Dragons/
+Source books/
+*.pdf
+*.zip
+*.7z
