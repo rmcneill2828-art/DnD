@@ -18,7 +18,7 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 ## Key NPCs (active)
 | Name | Status | One-line context |
 |------|--------|-------------------|
-| Mara Fenn | Partner — romantic, fully committed | Ongoing companion; will stand with Darkhawk at Thundertree |
+| Mara Fenn | Partner — romantic, fully committed | **Full party member with her own character sheet** (`Campaign/characters/Mara Fenn.md`), Ranger 5 Gloom Stalker, levels alongside Darkhawk; will stand with him at Thundertree |
 | Kaldur Stonewake | Ally, recovering in Kessick's Ford | Ninebells Goliath; guide-in-waiting for the Greyhorn foothills once ready |
 | Tomas & Halvard Reeve | Standing allies, House Reeve | Halvard quietly tracing Circuit money; Tomas handling town-side affairs |
 | Corwin Pell | Ally, Kessick's Ford | Turned bookkeeper witness; daughter under protection |
