@@ -98,7 +98,8 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 - Stone's Endurance: available
 - Inspiration: no
 - Notes: Vantor remains in magistrate custody in Kessick's Ford as a cooperating witness, awaiting formal proceedings.
-- Notes: Carries the Vantor Trading Concern/"Circuit" seal coin, the Keeper's signet ring and key ring, the Keeper's tally book, an unsigned letter referencing "the Warden," the Bramhollow ledgers and two Warden-sealed letters, and the fully identified regional map. Unused one-time Stealth advantage still banked.
+- Notes: Carries the Vantor Trading Concern/"Circuit" seal coin, a second fist-and-chain coin from Greta Ostmark's strongbox, the Keeper's signet ring and key ring, the Keeper's tally book, an unsigned letter referencing "the Warden," the Bramhollow ledgers and two Warden-sealed letters, and the fully identified regional map. Unused one-time Stealth advantage still banked.
+- Notes: Now Greta Ostmark's open "apprentice" (cover identity) — will carry the fairground buyer's next hardware delivery himself when the courier is next due, within the week.
 - **Fighter 1 multiclass complete:** Second Wind + Protection fighting style.
 - **Forward base:** Fallow Cross (House Reeve trade post, between the Western Yard and Ravensmoor/Duskgate) — Ressa Dane on site, Pell Ashworth running messages/evidence back to Kessick's Ford. Marked on the regional map.
 - **Current plan:** undercover in Ravensmoor as "Mr. and Mrs. Blondin" with Mara. **Acquired Old Harlan's Forge** (leased via Corlin Vey) at the edge of the fairground district — a legitimate, permanent foothold and cover for watching a suspicious building with a hidden root-cellar hatch nearby. Duskgate deliberately deferred until better prepared. Greyhorn foothills/Thundertree lead deliberately saved for last, once Kaldur is ready and more intel is in from Halvard/Kell.

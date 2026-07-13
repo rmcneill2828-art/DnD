@@ -3,16 +3,17 @@
 _Living tracker — active threads only. Full history lives in `session-log.md`; this file should always be quick to scan._
 
 ## Party
-- **Location:** Ostmark & Daughter smithy, Ravensmoor — Darkhawk mid-conversation with Greta Ostmark; Mara off independently scouting the town hall records office
-- **Current quest(s):** Keep watching the hatch/reinforced building to learn what it actually connects to. Working theory: the Circuit is a recruitment pyramid (intake → proving grounds → Ravensmoor's season → Ashpit as the hidden top tier), meaning Ashpit may be the same place as the Greyhorn foothills hub. Duskgate deliberately deferred. Awaiting updates from Halvard (financial trace) and Kell (property records). New: verify Greta's cage-hardware lead and cross-reference with the hatch/deed investigation.
-- **Conditions/effects active:** Barbarian 3 / Fighter 2 (Second Wind, Action Surge; **Protection fighting style currently unusable — no shield**). Longswords sky-iron forged. Traded the back-harness shield and ceremonial dagger, plus 100 gp, to Greta Ostmark for a fitted breastplate (AC 15, fitting done next midday). **Mara Fenn — relationship now openly romantic**, committed to standing with him at Thundertree. Darkhawk recovered a real, partial childhood memory (mountain home, a voice singing in Giant, the trophy given with ceremony, his own name almost-heard but unresolved) — only Thundertree can finish it. Darkhawk's identity (name, kill count, reference to the Warden) is openly known to the Circuit; now also shared voluntarily with Greta Ostmark. (HP/gold/full gear: see character sheet — authoritative, not duplicated here.)
+- **Location:** Old Harlan's Forge, Ravensmoor — morning after Session 7's close. Breastplate fitting + apprentice walkthrough with Greta scheduled for today.
+- **Current quest(s):** Await the courier boy's next hardware delivery (due within the week) — Darkhawk will carry it himself under the apprentice cover, a legitimate way toward wherever the fairground building's chain actually leads. Ravenshollow connection (see below) now in transit to Halvard/Kell via Fallow Cross. Working theory: the Circuit is a recruitment pyramid (intake → proving grounds → Ravensmoor's season → Ashpit as the hidden top tier); Ravenshollow now ties the Ravensmoor building directly to Greyhorn foothills land purchases, strengthening the case that Ashpit and the foothills hub are the same place. Duskgate deliberately deferred. Also owed: get the courier boy somewhere safe once this is resolved (both Darkhawk and Mara committed to this).
+- **Conditions/effects active:** Barbarian 3 / Fighter 2 (Second Wind, Action Surge; **Protection fighting style currently unusable — no shield**). Longswords sky-iron forged. Traded the back-harness shield and ceremonial dagger, plus 100 gp, to Greta Ostmark for a fitted breastplate (AC 15, fitting today). Darkhawk is now openly Greta's "apprentice" — real cover, real forge work. **Mara Fenn — relationship now openly romantic**, committed to standing with him at Thundertree; spent last night together at Old Harlan's Forge. Darkhawk recovered a real, partial childhood memory (mountain home, a voice singing in Giant, the trophy given with ceremony, his own name almost-heard but unresolved) — only Thundertree can finish it. Darkhawk's identity (name, kill count, reference to the Warden) is openly known to the Circuit; now also shared voluntarily with Greta Ostmark. (HP/gold/full gear: see character sheet — authoritative, not duplicated here.)
 
 ## Key evidence carried
 - Regional map (fully identified): Kessick's Ford, Hollowmere, Bramhollow, the Western Yard, Duskgate, Ravensmoor, the Dead Ground site, Fallow Cross, and the Greyhorn foothills lead
 - The Keeper's tally book and signet ring — confirms the "Ashpit stock — report, do not engage" standing order in writing
 - Bramhollow ledgers + two letters in the Warden's own sealed hand — physical proof the Warden exists
 - Vantor's own confession (now on record with Magistrate Kell)
-- **New lead (Greta Ostmark):** anonymous standing order for cage-grade hardware (shackle stock, hinges, two heavy sliding bolts) over 2 years, paid via a silent ~12-year-old courier, scaling up — latest order implies two holding cells/doors under the fairground building. One payment included an old coin bearing the Circuit's fist-and-chain sigil, kept in her strongbox.
+- Fist-and-chain sigil coin, from Greta Ostmark's strongbox — matches a payment from the fairground building's anonymous buyer
+- **Ravenshollow lead:** the Ravensmoor fairground building's deed (copied from the town hall records office) is held by broker firm **Ravenshollow** — the same firm buying land in the Greyhorn foothills near Thundertree. Sent to Halvard/Kell via Fallow Cross for cross-reference with their own financial/property traces.
 
 ## Key NPCs (active)
 | Name | Status | One-line context |
@@ -25,8 +26,10 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 | Magistrate Aldric Kell | Official ally | Checking regional property records for the Circuit's hub |
 | Ressa Dane / Pell Ashworth | Ally, Fallow Cross | Base keeper / courier line back to Kessick's Ford |
 | Master Corlin Vey | Unwitting source, Ravensmoor | Leased Old Harlan's Forge to "the Blondins"; uneasy about the fairground district |
-| Greta Ostmark | Ally (new), Ravensmoor | Smith, Ostmark & Daughter; told Darkhawk's full truth; unknowingly supplied cage hardware to the fairground buyer for 2 years — now cooperating |
+| Greta Ostmark | Ally, Ravensmoor | Smith, Ostmark & Daughter; knows Darkhawk's full truth; publicly claims him as her apprentice as cover; will let him carry her next hardware delivery to the fairground buyer, due within the week |
+| Courier boy | Unidentified, sympathetic target | ~12 y/o, silent (likely trained not to speak), delivers for the fairground building; both Darkhawk and Mara intend to get him safe once this is resolved |
 | "The Warden" | Antagonist, identity unknown | Title, not a met individual; communicates only via sealed letters through Bramhollow |
+| Ravenshollow | Antagonist entity, likely Circuit front | Broker firm; holds the deed on Ravensmoor's fairground building AND is buying land in the Greyhorn foothills — same name behind both, reported to Halvard/Kell |
 
 *(Enemies killed across Hollowmere, the Dead Ground, Bramhollow, the Western Yard, and the road ambush — full accounting in `session-log.md`, not tracked individually here.)*
 
@@ -44,10 +47,11 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 | The Greyhorn foothills | Suspected true Circuit hub / possible Ashpit location — not yet visited |
 
 ## Active Quest Log
-- Watch the Ravensmoor hatch nightly; learn what it actually connects to
-- Scout and break into the Ravensmoor town hall records office to trace the fairground building's ownership (Mara currently scouting)
-- Follow up with Greta Ostmark: get a description of the courier boy, examine the fist-and-chain coin in her strongbox
-- Await Halvard (financial trace) and Kell (property records) — both digging toward the Circuit's hidden hub
+- Breastplate fitting + apprentice walkthrough with Greta Ostmark (today)
+- Continue forge repairs on Old Harlan's Forge to keep the apprentice cover solid
+- Wait for the courier boy's next delivery (within the week); Darkhawk carries it under cover to trace where it actually goes
+- Await Halvard/Kell's response to the Ravenshollow finding, now en route via Fallow Cross
+- Get the courier boy safe once the operation is resolved
 - Eventually: Duskgate, the Greyhorn foothills/Thundertree, identifying the Warden, and Ashpit itself
 
 ## Player Choices of Consequence
