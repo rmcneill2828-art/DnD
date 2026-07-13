@@ -131,3 +131,17 @@ Shared the memory fully with Mara. The relationship shifted from professional pa
 **Leveled up (milestone, belated credit for the Western Yard's full clear — a full fight plus the public identity reveal that was never actually credited before this):** **Fighter 2**, gaining **Action Surge** (once per rest, an additional action — doubles a turn's dual-wield attacks). Rolled poorly for HP again (+4), bringing max HP to 46.
 
 **Ends:** at Old Harlan's Forge, Ravensmoor, mid-investigation. The hatch is being watched nightly. Duskgate and the Greyhorn foothills/Ashpit both loom as the next major destinations, with a strong working theory that they may be connected or even identical.
+
+## Session 7 — 2026-07-15
+
+Planning session with Mara over what's needed next: real numbers on the fairground building and confirmation of what's underneath it. Mara proposed patient nightly counting plus digging into who legally owns the building; Darkhawk pushed straight for breaking into wherever deeds are filed. Agreed target: Ravensmoor's town hall records office off the market square — civil building, one night watchman, lock strength unknown. Split up: Mara went to scout the town hall's rounds and locks solo; Darkhawk headed to **Ostmark & Daughter**, the best smithy in town, to look at armor and get eyes on the swords.
+
+Met smith **Greta Ostmark** — sharp, no-nonsense, immediately clocked him as the stranger who'd taken over Old Harlan's Forge. Negotiated a trade for a used, fitted breastplate (AC 15): first offer (100 gp + the ceremonial dagger) was lowballed and rejected outright (nat 1 Persuasion). Sweetened it by adding the back-harness shield; Greta accepted — **100 gp + ceremonial dagger + shield for the breastplate**, fitting to be finished the next day. Trade-off noted: Protection fighting style is now unusable until a new shield is acquired.
+
+Greta examined both longswords, recognized Perrin Dask's rebalancing work as equal in skill to the sky-iron treatment itself, and offered free maintenance going forward as professional courtesy.
+
+**Major unprompted lead:** Greta revealed she's unknowingly been supplying cage-grade hardware (shackle stock, hinges, two heavy sliding bolts) to an anonymous buyer for roughly two years — paid in cash via a silent ~12-year-old courier, orders scaling up over time. The most recent order implies **two separate holding cells/doors**, and the site is almost certainly the fairground building they're already watching. She also kept one payment coin bearing the Circuit's fist-and-chain sigil, stored in her strongbox.
+
+Darkhawk told her the full truth — Ashpit, the betrayal, the campaign against the Circuit so far (Hollowmere, the Dead Ground, Bramhollow, the Western Yard, Vantor's capture), and the real purpose of the Ravensmoor cover. Greta, shaken to learn her honest work had gone toward what sounds like a holding pen, committed fully to cooperating.
+
+**Ends:** mid-conversation at Ostmark & Daughter. Still to do: get a description of the courier boy, examine the fist-and-chain coin, and reconvene with Mara on the town hall scouting report. Breastplate fitting scheduled for tomorrow midday.

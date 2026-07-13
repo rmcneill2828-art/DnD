@@ -11,7 +11,7 @@
 | 19 (+4) | 13 (+1) | 14 (+2) | 8 (−1) | 11 (+0) | 10 (+0) |
 
 ## Combat
-- **AC:** 13 unarmored (10 + DEX + CON), or **15 with shield out** (Unarmored Defense + shield's +2)
+- **AC:** 15 (fitted breastplate: 14 + DEX, medium armor — replaces Unarmored Defense while worn)
 - **HP:** 46 / 46
 - **Hit Dice:** 3d12 + 2d10
 - **Speed:** 30 ft
@@ -56,7 +56,7 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 
 **Fighter (multiclass, 2 levels)**
 - **Second Wind**: bonus action, regain 1d10+2 HP. Once per short/long rest.
-- **Fighting Style: Protection** — reaction, when a creature you can see attacks a target other than you that's within 5 ft of you, impose disadvantage on that attack roll. Requires wielding a shield (the back-harness shield — normally unused for the look, now with real purpose when guarding an ally specifically).
+- **Fighting Style: Protection** — reaction, when a creature you can see attacks a target other than you that's within 5 ft of you, impose disadvantage on that attack roll. Requires wielding a shield — **currently unusable; shield traded away at Ostmark & Daughter (Ravensmoor)**, would need a new shield to use this again.
 - **Action Surge** (lvl 2): once per short/long rest, take one additional action on your turn. With dual-wielding, effectively doubles a turn's attacks (main-hand, off-hand, main-hand, off-hand).
 
 **Outlander**
@@ -64,16 +64,15 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 
 ## Equipment
 - Two longswords — **reforged by Perrin Dask for true two-weapon balance.** Off-hand attacks now add STR modifier to damage: main-hand 1d8+4 (1d8+6 raging), off-hand 1d8+4 (1d8+6 raging) — both blades hit equally hard.
-- Ceremonial dagger (fist-and-chain sigil, Vantor's office) — rebalanced by Perrin into a real weapon: concealable, good for a throw or a fast close cut, +6 to hit / 1d4+4 damage (+6 raging). Useful specifically for jobs where two longswords would be too conspicuous.
+- Fitted steel breastplate — **traded from Greta Ostmark (Ostmark & Daughter, Ravensmoor)** for 100 gp, the ceremonial dagger, and the back-harness shield. AC 15, no Stealth disadvantage, doesn't interfere with dual-wielding. Fitting takes a day at her forge.
 - Four javelins (one thrown and lost near the Hollowmere gate)
 - Explorer's pack
 - Hunting trap
 - An animal trophy from the mountains (flavor: a carved tusk or claw, last physical tie to a tribe he barely remembers)
 - Traveler's clothes
-- 145 gp (93 gp, plus 52 gp retroactively credited: 35 gp from the Western Yard's six guards, 17 gp from the five riders on the Bramhollow road — both searches mentioned "coin" narratively but were never actually added at the time)
+- 45 gp (145 gp minus the 100 gp put toward the breastplate trade)
 - 1 potion of healing (unlabeled vial, confirmed by Mara) — the other used on Kaldur Stonewake
 - Dark oiled cloak, hardtack, waterskins, and leather wrap for muffling weapons/metal — packed for the Vantor stakeout
-- Steel shield with quick-release back harness (emergency/intimidation use only — dropping it into hand means giving up the off-hand blade; normally worn but unused, purely for the visual of a man who doesn't feel he needs it. Equipped: AC 15, single main-hand attack only, no off-hand strike.)
 
 ## Personality
 - **Traits:** Reads a room like an arena — instinctively clocks exits, weapons, and who's about to start something. Goes quiet and gentle around anyone weaker or more frightened than him.
