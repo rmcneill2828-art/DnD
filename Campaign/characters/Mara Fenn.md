@@ -77,6 +77,6 @@ What started as paid work became a real partnership, and — after Ravensmoor �
 ## Current Status
 - Conditions: none
 - HP: 45 / 45
-- Spell slots: 4/4 (1st), 2/2 (2nd)
+- Spell slots: 4/4 (1st), 1/2 (2nd) — Pass without Trace cast during the fairground building raid
 - Inspiration: no
 - Notes: carries the copied town-hall deed entry showing Ravenshollow's ownership of the Ravensmoor fairground building.

@@ -1,7 +1,7 @@
 # Darkhawk Blondin
 
 **Race:** Goliath
-**Class & Level:** Barbarian 4 (Path of the Totem Warrior — Bear) / Fighter 2
+**Class & Level:** Barbarian 5 (Path of the Totem Warrior — Bear) / Fighter 2
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
@@ -12,22 +12,22 @@
 
 ## Combat
 - **AC:** 16 (fitted breastplate: 14 + DEX = 15, +1 from Dual Wielder while wielding two melee weapons)
-- **HP:** 52 / 52
-- **Hit Dice:** 4d12 + 2d10
-- **Speed:** 30 ft
+- **HP:** 64 / 64
+- **Hit Dice:** 5d12 + 2d10
+- **Speed:** 40 ft (Fast Movement, Barbarian 5 — not wearing heavy armor)
 - **Initiative bonus:** +1
 - **Passive Perception:** 12
 
 ### Attacks
-Dual-wielding two longswords one-handed (DM house rule — narratively justified by Goliath Powerful Build; reforged by Perrin Dask into a true matched dual-wielding pair, then worked through with **sky-iron** — meteoric ore, not magic, but the blades now count as magical weapons for the purpose of overcoming resistance/immunity to nonmagical attacks). Main hand = action, off-hand = bonus action.
+Dual-wielding two longswords one-handed (DM house rule — narratively justified by Goliath Powerful Build; reforged by Perrin Dask into a true matched dual-wielding pair, then worked through with **sky-iron** — meteoric ore, not magic, but the blades now count as magical weapons for the purpose of overcoming resistance/immunity to nonmagical attacks). **Extra Attack (Barbarian 5):** the Attack action now grants two attacks; off-hand remains a bonus action, for three total attacks in a full turn.
 
 | | To Hit | Damage (not raging) | Damage (raging) |
 |---|---|---|---|
-| Main-hand longsword | +6 | 1d8+4 slashing | 1d8+6 slashing |
-| Off-hand longsword | +6 | 1d8+4 slashing | 1d8+6 slashing |
+| Main-hand longsword (x2, Extra Attack) | +6 | 1d8+4 slashing | 1d8+6 slashing |
+| Off-hand longsword (bonus action) | +6 | 1d8+4 slashing | 1d8+6 slashing |
 | Javelin (thrown, 30/120) | +6 | 1d6+4 piercing | 1d6+6 piercing |
 
-*Reforge grants STR modifier to off-hand damage. Dual Wielder feat (taken at level 6) now adds the +1 AC on top of that, reflected above.*
+*Reforge grants STR modifier to off-hand damage. Dual Wielder feat (taken at level 4) adds the +1 AC on top of that, reflected above.*
 
 ## Proficiencies & Skills
 - **Saving throws:** Strength, Constitution
@@ -54,6 +54,8 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
   - *Spirit Seeker*: can cast Beast Sense and Speak with Animals as rituals, connecting with primal/animal spirits.
   - *Totem Spirit (Bear)*: while raging, resistance to **all** damage types except psychic (upgraded from just bludgeoning/piercing/slashing).
 - **Ability Score Improvement (lvl 4) — Dual Wielder feat**: +1 AC while wielding two melee weapons (reflected above), can two-weapon fight with non-light weapons, can draw two weapons at once.
+- **Extra Attack (lvl 5)**: the Attack action now grants two attacks.
+- **Fast Movement (lvl 5)**: +10 ft speed while not wearing heavy armor (reflected above).
 
 **Fighter (multiclass, 2 levels)**
 - **Second Wind**: bonus action, regain 1d10+2 HP. Once per short/long rest.
@@ -71,7 +73,7 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 - Hunting trap
 - An animal trophy from the mountains (flavor: a carved tusk or claw, last physical tie to a tribe he barely remembers)
 - Traveler's clothes
-- 117 gp (57 gp + 12 gp commission deposit − 6 gp lost at dice + 34 gp taken off the captured Circuit operative + 20 gp gate latch completion payment). Farmer's fire-tool commission still in progress, unpaid.
+- 183 gp (166 gp + 17 gp off the three dead fairground guards). Farmer's fire-tool commission still in progress, unpaid.
 - 1 potion of healing (unlabeled vial, confirmed by Mara) — the other used on Kaldur Stonewake
 - Dark oiled cloak, hardtack, waterskins, and leather wrap for muffling weapons/metal — packed for the Vantor stakeout
 
@@ -92,7 +94,7 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 
 ## Current Status
 - Conditions: none
-- HP: 52 / 52
+- HP: 64 / 64
 - Rages used: 0 / 3
 - Second Wind: available
 - Action Surge: available
@@ -100,7 +102,7 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 - Inspiration: yes
 - Notes: Vantor remains in magistrate custody in Kessick's Ford as a cooperating witness, awaiting formal proceedings.
 - Notes: Carries the Vantor Trading Concern/"Circuit" seal coin, a second fist-and-chain coin from Greta Ostmark's strongbox, the Keeper's signet ring and key ring, the Keeper's tally book, an unsigned letter referencing "the Warden," the Bramhollow ledgers and two Warden-sealed letters, and the fully identified regional map. Unused one-time Stealth advantage still banked.
-- Notes: Now Greta Ostmark's open "apprentice" (cover identity) — will carry the fairground buyer's next hardware delivery himself when the courier is next due, within the week.
+- Notes: The fairground building's count ledger, a second handler's ledger, and a pay roster (noting a fourth guard reassigned to the mine road the same night) are stashed under a loose floorboard at Old Harlan's Forge, Ravensmoor.
 - **Fighter 1 multiclass complete:** Second Wind + Protection fighting style.
 - **Forward base:** Fallow Cross (House Reeve trade post, between the Western Yard and Ravensmoor/Duskgate) — Ressa Dane on site, Pell Ashworth running messages/evidence back to Kessick's Ford. Marked on the regional map.
-- **Current plan:** undercover in Ravensmoor as "Mr. and Mrs. Blondin" with Mara. **Acquired Old Harlan's Forge** (leased via Corlin Vey) at the edge of the fairground district — a legitimate, permanent foothold and cover for watching a suspicious building with a hidden root-cellar hatch nearby. Duskgate deliberately deferred until better prepared. Greyhorn foothills/Thundertree lead deliberately saved for last, once Kaldur is ready and more intel is in from Halvard/Kell.
+- **Current plan:** the Ravensmoor undercover operation is effectively concluded — the fairground building raided and burned, four more captives freed, its staff killed, and "Dar" walked away from the wreckage as an anonymous stranger with a watch witness backing the story. Still holding Old Harlan's Forge (leased via Corlin Vey) as a legitimate foothold for now. Duskgate deliberately deferred until better prepared. Greyhorn foothills/Thundertree lead deliberately saved for last, once Kaldur is ready and more intel is in from Halvard/Kell.
