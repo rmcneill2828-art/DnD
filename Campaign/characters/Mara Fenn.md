@@ -30,6 +30,8 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 **Extra Attack:** two attacks with the Attack action.
 **Dread Ambusher:** if she acts in the surprise round or before every enemy in the first round of combat, she can make one additional weapon attack as part of that action, dealing an extra 1d8 damage on the first hit of the turn.
 
+> **DM quick-check per turn: 2 attacks baseline, 3 if this is a surprise round (+1d8 on her first hit that round). Verify before rolling, don't default to 1-2.**
+
 ## Proficiencies & Skills
 - **Saving throws:** Strength +4, Dexterity +9, Wisdom +6 (Iron Mind, lvl 7)
 - **Skills:** Athletics +4, Survival +6 (Outlander), Stealth +9, Perception +6, Investigation +5 (Ranger)
