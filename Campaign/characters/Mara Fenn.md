@@ -1,7 +1,7 @@
 # Mara Fenn
 
 **Race:** Human
-**Class & Level:** Ranger 8 (Gloom Stalker)
+**Class & Level:** Ranger 10 (Gloom Stalker)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
@@ -12,26 +12,27 @@
 
 ## Combat
 - **AC:** 17 (studded leather: 12 + DEX)
-- **HP:** 58 / 58
-- **Hit Dice:** 8d10
+- **HP:** 69 / 69
+- **Hit Dice:** 10d10
 - **Speed:** 30 ft (+10 ft on the first turn of combat via Dread Ambusher)
 - **Initiative bonus:** +7 (DEX +5, plus WIS +2 from Dread Ambusher)
-- **Passive Perception:** 15
+- **Passive Perception:** 16
+- **Proficiency bonus:** +4 (character level 10)
 
 ### Attacks
 Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into the numbers below).
 
 | | To Hit | Damage |
 |---|---|---|
-| Fletch's longbow (main, 150/600) | +10 | 1d8+5 piercing (+1d6 if Hunter's Mark active) |
-| Shortsword (backup melee, finesse) | +8 | 1d6+5 slashing |
+| Fletch's longbow (main, 150/600) | +11 | 1d8+5 piercing (+1d6 if Hunter's Mark active) |
+| Shortsword (backup melee, finesse) | +9 | 1d6+5 slashing |
 
 **Extra Attack:** two attacks with the Attack action.
 **Dread Ambusher:** if she acts in the surprise round or before every enemy in the first round of combat, she can make one additional weapon attack as part of that action, dealing an extra 1d8 damage on the first hit of the turn.
 
 ## Proficiencies & Skills
-- **Saving throws:** Strength, Dexterity, Wisdom (Iron Mind, lvl 7)
-- **Skills:** Athletics, Survival (Outlander), Stealth, Perception, Investigation (Ranger)
+- **Saving throws:** Strength +4, Dexterity +9, Wisdom +6 (Iron Mind, lvl 7)
+- **Skills:** Athletics +4, Survival +6 (Outlander), Stealth +9, Perception +6, Investigation +5 (Ranger)
 - **Languages:** Common, +1 (Favored Enemy — suggest whatever the Circuit's own thieves'-cant-equivalent turns out to be, or Giant to better keep pace with Darkhawk at Thundertree)
 - **Tools:** none (trapper's know-how handled narratively via Survival)
 - **Weapons:** simple and martial weapons
@@ -44,10 +45,11 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 - **Natural Explorer (Forest, Mountain):** second terrain gained at 6th level, chosen with the Greyhorn foothills ahead in mind. Home ground in either — never gets lost except by magic, can travel stealthily at normal pace, finds double food when foraging, and gets extra information/advantage on initiative and first-round surprise attempts.
 - **Primeval Awareness:** can expend a spell slot to sense whether aberrations, celestials, dragons, elementals, fey, fiends, or undead lurk within 1 mile (6 in favored terrain).
 - **Fighting Style — Archery:** +2 to attack rolls with ranged weapons.
-- **Spellcasting:** Wisdom-based. Spell save DC 13, spell attack +5. Known: **Hunter's Mark, Longstrider, Cure Wounds, Pass without Trace, Silence** (new at lvl 7). Slots: 4 (1st), 3 (2nd).
+- **Spellcasting:** Wisdom-based. Spell save DC 14, spell attack +6. Known: **Hunter's Mark, Longstrider, Cure Wounds, Pass without Trace, Silence, Conjure Animals** (new at lvl 9). Slots: 4 (1st), 3 (2nd), 2 (3rd).
 - **Extra Attack** (5th level).
 - **Ability Score Improvement (lvl 8):** +2 DEX (18 → 20, reflected above).
 - **Land's Stride (lvl 8):** moving through nonmagical difficult terrain costs no extra movement; ignores harmful effects of magical plants unless she chooses not to.
+- **3rd-level spell slots (lvl 9)** and **Hide in Plain Sight (lvl 10)**: with 1 minute undisturbed, can camouflage and become very hard to detect (+10 Stealth) while remaining perfectly still, breaking on movement or an attack.
 
 **Gloom Stalker (Ranger Archetype)**
 - **Dread Ambusher:** see Attacks above; also grants +WIS to initiative and +10 ft speed on the first turn of combat.
@@ -79,7 +81,8 @@ What started as paid work became a real partnership, and — after Ravensmoor �
 
 ## Current Status
 - Conditions: none
-- HP: 58 / 58
-- Spell slots: 4/4 (1st), 3/3 (2nd) — refreshed after a long rest at the second relay stop
+- HP: 69 / 69 (full — leveled up twice at the end of the mine assault)
+- Spell slots: full (4/4 1st, 3/3 2nd, 2/2 3rd) after the level-up
 - Inspiration: no
+- **Milestone level-up (Session 14):** Ranger 8 → 10 (Gloom Stalker) — two milestones in one session: clearing the barracks/commander's post, and killing the Warden's man (a fiend) while breaking the front entrance's defense. Gained 3rd-level spell slots, learned Conjure Animals, and gained Hide in Plain Sight. Rolled +4 then +7 HP, now **69 max**.
 - Notes: carries the copied town-hall deed entry showing Ravenshollow's ownership of the Ravensmoor fairground building.

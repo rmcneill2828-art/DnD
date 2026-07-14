@@ -3,9 +3,11 @@
 _Living tracker — active threads only. Full history lives in `session-log.md`; this file should always be quick to scan._
 
 ## Party
-- **Location:** **Mid-combat, paused.** The mine's north face service cut, Greyhorn foothills. Darkhawk and Mara struck alone via the service cut exactly as Kaldur's 25-warrior Thundertree feint hit the main entrance. Three mine guards killed at the cut so far; a fourth escaped and raised a wider alarm. A disciplined 4-guard shield team is now advancing on their chokepoint — **resume combat here.** No word yet on how Kaldur's feint is faring on the other side of the mountain.
-- **Current quest(s):** Win the fight at the service cut, push into the mine, light the sustained white-smoke signal the moment it's safe to do so (Thundertree warriors are watching for it to seal the escape paths). Find/deal with the unnamed garrison commander. Get the coded second ledger to Corwin Pell at Kessick's Ford for decoding. The Warden's letter sets a hard deadline — "the count concludes within the fortnight."
-- **Conditions/effects active:** Darkhawk: Barbarian 6 (Path of the Totem Warrior — Bear) / Fighter 2, AC 16 (Dual Wielder), 75/75 HP, **raging (1/4 rages used)**, Extra Attack (3 attacks/turn dual-wielding), 40 ft speed (Fast Movement), Aspect of the Beast (Bear), Inspiration available. Mara: Ranger 8 (Gloom Stalker), 58/58 HP, AC 17, Natural Explorer in Forest and Mountain, Iron Mind, Land's Stride, no spell slots spent this fight. Both level alongside each other on the same milestone schedule. Longswords sky-iron forged; Mara carries Fletch's longbow (advantage on Stealth after firing). **Protection fighting style still unusable — no shield.** **Mara Fenn — relationship openly romantic**, both have said "I love you," welcomed as family by Darkhawk's parents. **Darkhawk's true name confirmed: Rurik, son of Sesha and Harek of Thundertree** — see Key NPCs. **Completed the Long Climb**, Thundertree's coming-of-age rite — formally Thundertree "not just by blood" now, at peace holding both "Darkhawk" and "Rurik" as one man. **Ashpit confirmed as the same site as the mine** (old fighting-pit structures spotted by Vosk's scouts). Ravensmoor cover fully retired: Old Harlan's Forge handed to Greta Ostmark. (HP/gold/full gear: see character sheets — authoritative, not duplicated here.)
+- **Location:** The mine's front entrance, Greyhorn foothills — **the entire mine is cleared, top to bottom.** Darkhawk and Mara took the service cut, holding area, commander's post, barracks, and processing area alone, then killed the Warden's man (a literal fiend) in his own chamber, before flanking the front entrance from inside and breaking its defense to link up with Kaldur's Thundertree line. Signal lit, escape paths sealed by Vosk's warriors. About to head back to Thundertree.
+- **Current quest(s):** Get the coded second ledger to Corwin Pell at Kessick's Ford for decoding (now doubly urgent — matches the processing area's shipment ledger). Follow up the Ravenshollow lead directly — the pact contract names them outright as the Warden's own instrument. Beat the Warden's deadline if it still applies now that the mine's gone. Eventually: Duskgate.
+- **Conditions/effects active:** Darkhawk: **Barbarian 8** (Path of the Totem Warrior — Bear) / Fighter 2, AC 16 (Dual Wielder), 95/95 HP (full, just leveled), STR 21, not raging (4/4 rages available), Extra Attack (3 attacks/turn dual-wielding), Feral Instinct (advantage on initiative), 40 ft speed. Mara: **Ranger 10** (Gloom Stalker), 69/69 HP (full, just leveled), AC 17, full spell slots (4/4 1st, 3/3 2nd, 2/2 3rd), knows Conjure Animals, has Hide in Plain Sight. Both leveled twice this session (milestones: clearing the barracks/commander's post, and killing the Warden's man while breaking the entrance). Longswords sky-iron forged; Darkhawk also carries a new **+1 dagger** (fiend-forged, resonates near lies). Mara carries Fletch's longbow. **Protection fighting style still unusable — no shield.** **Mara Fenn — relationship openly romantic**, both have said "I love you," welcomed as family by Darkhawk's parents. **Darkhawk's true name confirmed: Rurik, son of Sesha and Harek of Thundertree** — see Key NPCs. **Completed the Long Climb.** **Ashpit confirmed as the same site as the mine.** Ravensmoor cover fully retired. (HP/gold/full gear: see character sheets — authoritative, not duplicated here.)
+- **New allies:** Joss, Idra, and Corren — three former captives who chose to stay and fight rather than flee once freed; fought alongside the party through the barracks and processing area, unharmed.
+- **Thundertree losses at the entrance:** three warriors dead — Ren Alderhawk and both of Yorik Stonebrand's sons — plus 8-9 wounded but expected to recover. Darkhawk intends to tell the families himself, as Rurik rather than Darkhawk.
 
 ## Key evidence carried
 - Regional map (fully identified): Kessick's Ford, Hollowmere, Bramhollow, the Western Yard, Duskgate, Ravensmoor, the Dead Ground site, Fallow Cross, and the Greyhorn foothills lead
@@ -21,6 +23,10 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 - **Fairground building's second ledger and pay roster:** taken from the handler's office strongbox. The roster shows a fourth guard reassigned to "the mine road" effective the same night as the raid. The second ledger is written in numeric shorthand nobody at Fallow Cross could crack — earmarked for Corwin Pell at Kessick's Ford.
 - **The Warden's dead-drop letter (waystation road):** intercepted uncollected — orders halting all traffic until "the count concludes... within the fortnight," instructing posts to fall back rather than engage strangers, and stating he'd accept losing every post before losing his own silence. A hard deadline, not just accelerated urgency.
 - **Ravenshollow's land parcels, plotted on Vantor's Map:** six years of purchases skirting Thundertree's border without crossing it; newest parcel closed 11 days before the relay-stop operation, deepest into the foothills of any — circled as the likely site of the true hub.
+- **The mine commander's map and rosters:** a detailed interior layout (barracks, processing area, the Warden's man's chamber) and troop dispositions, recovered from his command table.
+- **The processing area's shipment ledger:** coded the same way as the second ledger already headed to Corwin Pell — once decoded, both should reveal exactly where "the count" was meant to end up.
+- **The Warden's man's pact contract:** countersigned "on behalf of Ravenshollow" rather than a person's name — direct written proof Ravenshollow is the Warden's own instrument, not just a front or broker. The strongest lead yet toward the Warden's actual identity.
+- **A black scrying mirror:** the fiend's means of reporting to its master — untested, could be a way to reach the Warden directly, or a very bad idea.
 
 ## Key NPCs (active)
 | Name | Status | One-line context |
@@ -39,11 +45,13 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 | Rennick | Ally, turned | Former senior guard, waystation — surrendered, turned, now reports to Fenris Cray holding the waystation as an allied garrison |
 | Fenris Cray | Ally, House Reeve retainer lead | Commands the garrison holding the waystation and both relay stops |
 | Courier boy | Safe, Fallow Cross | ~12 y/o, still silent, chose to follow the party rather than stay in Ravensmoor; given a real task watching the yard for Ressa Dane |
-| "The Warden" | Antagonist, identity unknown | Communicates only via sealed dead-drop letters; set a hard deadline — the mine's "count" concludes within a fortnight |
-| Mine garrison commander | Antagonist, unnamed, not yet engaged | Spotted by Vosk's scouts directing ~20+ trained guards at the mine; better-armored than rank and file, almost certainly a lieutenant rather than the Warden himself |
-| Ravenshollow | Antagonist entity, likely Circuit front | Broker firm; six years of land purchases skirting Thundertree's border, newest parcel (11 days old) circled as the likely true hub |
+| "The Warden" | Antagonist, identity unknown | Communicates only via sealed dead-drop letters; the pact contract now ties them directly to Ravenshollow rather than just a front company |
+| "The Warden's man" | **Dead.** Was a fiend, not a person | Turned out to be a literal fiend rather than a human intermediary — explains why nobody who dealt with him ever really "met" anyone. Killed in his own chamber; body dissolved to ash on death |
+| Mine commander & garrison | **Dead — entire mine cleared** | Commander, ~21 guards across the service cut/holding area/barracks, 2 processing handlers, plus a final ~6-7 at the front entrance — all killed. One guard (G3) captured and held in the mine's own cells |
+| Ravenshollow | Antagonist entity, now directly implicated | Broker firm; six years of land purchases skirting Thundertree's border; the Warden's man's pact contract names them as the Warden's own instrument, not just a front |
 | Ravensmoor cast (resolved) | Inactive | Greta Ostmark now holds Old Harlan's Forge outright; Wren settled in Ravensmoor for good; Sela Hollis, Old Tammas, Harmon Fletch, Corlin Vey all stable background allies/contacts, no open threads |
-| Freed captives (11 total) | Safe | 4 from the wagon ambush + 4 from the fairground building at Fallow Cross/Ravensmoor, all placed; 2 more from the tavern-stranger house resolved earlier |
+| Freed captives (22 total) | Safe | 11 from earlier sessions + 5 from the mine's holding area + 6 from the processing pens, all sent out via the cleared service cut |
+| Joss, Idra, Corren | Allies, fighting alongside the party | Former mine captives who chose to stay and fight rather than flee; fought through the barracks and processing area, unharmed |
 | Captured Circuit operative (tavern stranger) | Cooperating, magistrate custody | Turned king's evidence; formal statement being taken by Kell at Fallow Cross |
 
 *(Enemies killed/turned across Hollowmere, the Dead Ground, Bramhollow, the Western Yard, the mine-road wagon ambush, the fairground building, and the waystation/relay stops — full accounting in `session-log.md`, not tracked individually here.)*
@@ -63,16 +71,14 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 | Second relay stop | **Current location** — held, garrisoned — 3 dead, 1 alive and talking |
 | Duskgate | Known, not visited — deliberately deferred (too well-defended for now) |
 | Thundertree | Darkhawk's birth clan; family reunited, alliance secured with Elder Vosk |
-| The mine / Ashpit | **Current location — mid-assault.** Confirmed true Circuit hub and the same site as Ashpit. Fortified entrance (2 watch towers) + north service cut (breached). ~20+ trained garrison, captives held separately, unnamed commander. Simultaneous strike underway: Darkhawk/Mara via the service cut, Kaldur's 25-warrior feint at the front |
+| The mine / Ashpit | **Fully cleared.** Confirmed true Circuit hub and the same site as Ashpit. Every guard post, the processing area, the Warden's man (a fiend), and the front entrance's defense all cleared or killed. G3 held captive in the mine's own cells. Nothing left contesting the site |
 
 ## Active Quest Log
-- **Resume the fight** at the north service cut (4 disciplined guards closing in)
-- Light the sustained white-smoke signal once the assault is confirmed underway, so Thundertree seals the escape paths
-- Check on Kaldur's feint at the main entrance
-- Find/deal with the garrison commander; free the captives held at the mine
-- Get the coded second ledger to Corwin Pell at Kessick's Ford for decoding
-- Beat the Warden's own deadline — "the count concludes within the fortnight"
-- Eventually: Duskgate and identifying the Warden
+- Return to Thundertree; Darkhawk to tell the fallen warriors' families himself
+- Get the coded second ledger (and now the matching shipment ledger) to Corwin Pell at Kessick's Ford for decoding
+- Follow the Ravenshollow lead directly — now the strongest thread to the Warden's real identity
+- Decide what to do with the black scrying mirror
+- Eventually: Duskgate
 
 ## Player Choices of Consequence
 - Piled the Hollowmere dead with a note threatening the Warden directly — a deliberate declaration, not a cover-up.
@@ -82,14 +88,15 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 - With the tavern stranger, reversed that line: told him plainly he intended to kill him, then accepted a genuine deal (Wren's safety, later a full turn to king's evidence) rather than following through — consistent inconsistency the campaign keeps returning to.
 - At the fairground building, baited two unarmed guards into the open with a fake cry for help and had Mara kill them the instant they appeared, no warning or chance to surrender — and separately killed the fifth Circuit man from behind before he'd even drawn a weapon, purely to keep him silent. No offer of quarter to anyone this raid, unlike Vantor/the tavern stranger.
 - At the waystation, deliberately offered mercy and genuine redemption to Rennick and his men rather than killing them — the first time an entire enemy post was turned rather than eliminated. Repeated at the first relay stop with the two survivors, though this time only after failing a self-control check mid-rage and very nearly killing them despite their surrender — the line between mercy and bloodlust getting harder to hold the closer this gets to the mine.
+- At the mine, freed captives were given a genuine choice between fleeing to safety or staying to fight (twice — the holding area and the processing pens) rather than being moved along automatically; several took up arms and fought the rest of the assault alongside the party. The last standing guard at the commander's post was offered surrender rather than killed outright once the fight was clearly decided, and is being held for questioning rather than executed.
 
 ## Loose Threads
 - Who betrayed Darkhawk at Ashpit — still unknown; even Vantor didn't know
-- The Warden's true identity — unknown, deliberately untraceable even to their own people; even direct-report operatives never see who they answer to
-- Ashpit's exact location — never stated in any recovered document; working theory it's the same place as the Greyhorn hub, now roughly two days past the second relay stop per relay-stop guards
-- **The Warden-testing theory (Darkhawk's, shared with Mara):** that the Warden is deliberately testing him the way the ring once did, and that everything easy so far has been disposable "grunts" by design — still genuinely unconfirmed. Darkhawk's made peace with the fear itself after the Long Climb, but the theory hasn't been proven or disproven either way
-- The fairground building's second ledger — coded numeric shorthand, headed to Corwin Pell at Kessick's Ford to crack
-- The Warden's dead-drop letter — a hard fortnight deadline on "the count," reason unknown
+- **The Warden's true identity — narrowed, not solved.** The pact contract proves the Warden operates through/as Ravenshollow directly, not just via a front company. No personal name yet.
+- **The Warden-testing theory (Darkhawk's, shared with Mara):** that the Warden is deliberately testing him the way the ring once did — still genuinely unconfirmed, though a fiend serving as the Warden's own intermediary raises the stakes on what "testing" might actually mean
+- Two coded ledgers (fairground building + processing area) both headed to Corwin Pell — decoding either should reveal where "the count" was actually shipping people to
+- The Warden's fortnight deadline on "the count" — unclear if it still applies now that the mine itself is gone
+- The black scrying mirror — untried, could be a direct line to the Warden or a trap
 - Darkhawk named a fear of "a choice I already know the answer to" coming further down this road — unspecified, unresolved, Mara asked only to be present for it when it comes
 - The watcher spotted once in the alley behind Old Harlan's Forge — never identified, never seen again
-- Thyra, Darkhawk's sister, still not yet met — due back at Thundertree within two to three days
+- Thyra, Darkhawk's sister, still not yet met — was due back at Thundertree within two to three days as of Session 13

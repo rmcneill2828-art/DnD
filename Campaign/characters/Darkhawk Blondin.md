@@ -2,37 +2,38 @@
 
 **Birth name:** Rurik, son of Sesha and Harek, Thundertree clan (confirmed Session 12 — still goes by "Darkhawk Blondin" day to day)
 **Race:** Goliath
-**Class & Level:** Barbarian 6 (Path of the Totem Warrior — Bear) / Fighter 2
+**Class & Level:** Barbarian 8 (Path of the Totem Warrior — Bear) / Fighter 2
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
-| 19 (+4) | 13 (+1) | 14 (+2) | 8 (−1) | 11 (+0) | 10 (+0) |
+| 21 (+5) | 13 (+1) | 14 (+2) | 8 (−1) | 11 (+0) | 10 (+0) |
 
 ## Combat
 - **AC:** 16 (fitted breastplate: 14 + DEX = 15, +1 from Dual Wielder while wielding two melee weapons)
-- **HP:** 75 / 75
-- **Hit Dice:** 6d12 + 2d10
+- **HP:** 95 / 95
+- **Hit Dice:** 8d12 + 2d10
 - **Speed:** 40 ft (Fast Movement, Barbarian 5 — not wearing heavy armor)
-- **Initiative bonus:** +1
-- **Passive Perception:** 12
+- **Initiative bonus:** +1, with **advantage** (Feral Instinct, Barbarian 7)
+- **Passive Perception:** 14
+- **Proficiency bonus:** +4 (character level 10)
 
 ### Attacks
 Dual-wielding two longswords one-handed (DM house rule — narratively justified by Goliath Powerful Build; reforged by Perrin Dask into a true matched dual-wielding pair, then worked through with **sky-iron** — meteoric ore, not magic, but the blades now count as magical weapons for the purpose of overcoming resistance/immunity to nonmagical attacks). **Extra Attack (Barbarian 5):** the Attack action now grants two attacks; off-hand remains a bonus action, for three total attacks in a full turn.
 
 | | To Hit | Damage (not raging) | Damage (raging) |
 |---|---|---|---|
-| Main-hand longsword (x2, Extra Attack) | +6 | 1d8+4 slashing | 1d8+6 slashing |
-| Off-hand longsword (bonus action) | +6 | 1d8+4 slashing | 1d8+6 slashing |
-| Javelin (thrown, 30/120) | +6 | 1d6+4 piercing | 1d6+6 piercing |
+| Main-hand longsword (x2, Extra Attack) | +8 | 1d8+5 slashing | 1d8+7 slashing |
+| Off-hand longsword (bonus action) | +8 | 1d8+5 slashing | 1d8+7 slashing |
+| Javelin (thrown, 30/120) | +8 | 1d6+5 piercing | 1d6+7 piercing |
 
 *Reforge grants STR modifier to off-hand damage. Dual Wielder feat (taken at level 4) adds the +1 AC on top of that, reflected above.*
 
 ## Proficiencies & Skills
-- **Saving throws:** Strength, Constitution
-- **Skills:** Athletics, Survival, Perception, Intimidation, Animal Handling
+- **Saving throws:** Strength +9, Constitution +6
+- **Skills:** Athletics +9, Survival +4, Perception +4, Intimidation +4, Animal Handling +4
 - **Languages:** Common, Giant, +1 (Outlander choice — suggest Dwarvish or Orc, pick when it matters in-story)
 - **Tools:** one musical instrument (Outlander — suggest a tribal drum)
 - **Weapons:** simple and martial weapons
@@ -58,6 +59,8 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 - **Ability Score Improvement (lvl 4) — Dual Wielder feat**: +1 AC while wielding two melee weapons (reflected above), can two-weapon fight with non-light weapons, can draw two weapons at once.
 - **Extra Attack (lvl 5)**: the Attack action now grants two attacks.
 - **Fast Movement (lvl 5)**: +10 ft speed while not wearing heavy armor (reflected above).
+- **Feral Instinct (lvl 7)**: advantage on initiative rolls (reflected above). If surprised at the start of combat and not incapacitated, can still act normally on the first turn, provided rage is entered before doing anything else that turn.
+- **Ability Score Improvement (lvl 8)**: +2 STR (19 → 21, reflected above).
 
 **Fighter (multiclass, 2 levels)**
 - **Second Wind**: bonus action, regain 1d10+2 HP. Once per short/long rest.
@@ -75,8 +78,13 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 - Hunting trap
 - An animal trophy from the mountains (flavor: a carved tusk or claw, last physical tie to a tribe he barely remembers)
 - Traveler's clothes
-- 230 gp (215 gp + 15 gp found at the first relay stop's depot). Farmer's fire-tool commission still in progress, unpaid.
-- 1 potion of healing (unlabeled vial, confirmed by Mara) — the other used on Kaldur Stonewake
+- 338 gp (326 gp + 12 gp found in the processing area's cash box). Farmer's fire-tool commission still in progress, unpaid.
+- A rough charcoal sketch of the mine's interior tunnels, found on the lead response-team guard — shows a fork not far past the bend: one branch toward a marked holding area, the other toward what's likely the commander's post.
+- A knotted tally cord taken off one of the holding-area guards — rows of counted knots, the last several visibly fresher than the rest. Matches the Warden's own phrase, "the count," from his dead-drop letter. What it's actually counting is still unknown.
+- Off the mine commander's body: a half-written, unsent order addressed to "the Warden's man" (confirms this figure is stationed somewhere deeper in the mine, not the Warden himself), a rank clasp bearing the fist-and-chain sigil, and an unmarked heavy iron key that doesn't fit anything on the guards.
+- The processing area's shipment ledger — coded the same way as the second ledger already headed to Corwin Pell, destination marked only by the fist-and-chain sigil instead of a place name. Confirms decoding the existing ledger will reveal where "the count" was always meant to end up.
+- From the Warden's man's chamber: a leather-bound pact contract, countersigned "on behalf of Ravenshollow" rather than a name — direct written proof Ravenshollow is the Warden's own instrument, not just a front. A black scrying mirror, the fiend's means of reporting back (untested — could be a way to reach the Warden, or a very bad idea). A **+1 dagger**, black iron, etched with the fist-and-chain sigil — genuinely magical, and seems to resonate faintly near spoken lies.
+- No potions of healing remaining — both used (one on Kaldur Stonewake, the second on himself at the service cut)
 - Dark oiled cloak, hardtack, waterskins, and leather wrap for muffling weapons/metal — packed for the Vantor stakeout
 
 ## Personality
@@ -96,12 +104,14 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 
 ## Current Status
 - Conditions: none
-- HP: 75 / 75
-- Rages used: 1 / 4 — **currently raging**, mid-combat at the mine's north service cut (session paused here, resume in combat)
+- HP: 95 / 95 (full — leveled up twice at the end of the mine assault)
+- Hit Dice: 8d12 + 2d10 (full, refreshed with the level-up)
+- Rages used: 0 / 4 — not raging, mine and entrance both cleared
 - Second Wind: available
 - Action Surge: available
 - Stone's Endurance: available
-- Inspiration: yes
+- Inspiration: spent (burned on a disarm attempt against the shield-wall guards; DM owes a fresh one for good roleplay when it comes up)
+- **Milestone level-up (Session 14):** Barbarian 6 → 8 (Fighter 2 unchanged) — two milestones in one session: clearing the barracks/commander's post, and killing the Warden's man (a fiend) while breaking the front entrance's defense. Gained Feral Instinct, an ASI (+2 STR, 19→21), and rolled +12 then +8 HP, now **95 max**.
 - Notes: Vantor remains in magistrate custody in Kessick's Ford as a cooperating witness, awaiting formal proceedings.
 - Notes: Carries the Vantor Trading Concern/"Circuit" seal coin, a second fist-and-chain coin from Greta Ostmark's strongbox, the Keeper's signet ring and key ring, the Keeper's tally book, an unsigned letter referencing "the Warden," the Bramhollow ledgers and two Warden-sealed letters, and the fully identified regional map. Unused one-time Stealth advantage still banked.
 - Notes: The fairground building's count ledger, a second handler's ledger, and a pay roster (noting a fourth guard reassigned to the mine road the same night) are stashed under a loose floorboard at Old Harlan's Forge, Ravensmoor.
