@@ -3,9 +3,9 @@
 _Living tracker — active threads only. Full history lives in `session-log.md`; this file should always be quick to scan._
 
 ## Party
-- **Location:** The second relay stop, deep in the Greyhorn foothills. Both relay stops and the waystation now held and garrisoned — the mine's supply line is fully cut off.
-- **Current quest(s):** Push on toward Thundertree with Kaldur guiding, while the choke on the mine holds behind them. Get the coded second ledger to Corwin Pell at Kessick's Ford for decoding. The Warden's letter sets a hard deadline — "the count concludes within the fortnight."
-- **Conditions/effects active:** Darkhawk: Barbarian 6 (Path of the Totem Warrior — Bear) / Fighter 2, AC 16 (Dual Wielder), 75 HP, Extra Attack (3 attacks/turn dual-wielding), 40 ft speed (Fast Movement), Rage 4/day, Aspect of the Beast (Bear), Inspiration available. Mara: Ranger 8 (Gloom Stalker), 58 HP, AC 17, Natural Explorer in Forest and Mountain, Iron Mind, Land's Stride. Both level alongside each other on the same milestone schedule. Longswords sky-iron forged; Mara carries Fletch's longbow (advantage on Stealth after firing). **Protection fighting style still unusable — no shield.** **Mara Fenn — relationship openly romantic**, both have said "I love you." Darkhawk had a genuine, brief loss of control mid-rage after the first relay stop fight — first time since the fighting ring — and now openly fears the Warden is testing him the way the ring once did, and that Ashpit may be where all of this converges. Ravensmoor cover fully retired: Old Harlan's Forge handed to Greta Ostmark. (HP/gold/full gear: see character sheets — authoritative, not duplicated here.)
+- **Location:** Thundertree, in Sesha and Harek's longhouse. Resting; an audience with Elder Vosk expected soon.
+- **Current quest(s):** Meet Elder Vosk and propose an alliance to help hold/close the mine. Get the coded second ledger to Corwin Pell at Kessick's Ford for decoding. The Warden's letter sets a hard deadline — "the count concludes within the fortnight."
+- **Conditions/effects active:** Darkhawk: Barbarian 6 (Path of the Totem Warrior — Bear) / Fighter 2, AC 16 (Dual Wielder), 75 HP, Extra Attack (3 attacks/turn dual-wielding), 40 ft speed (Fast Movement), Rage 4/day, Aspect of the Beast (Bear), Inspiration available. Mara: Ranger 8 (Gloom Stalker), 58 HP, AC 17, Natural Explorer in Forest and Mountain, Iron Mind, Land's Stride. Both level alongside each other on the same milestone schedule. Longswords sky-iron forged; Mara carries Fletch's longbow (advantage on Stealth after firing). **Protection fighting style still unusable — no shield.** **Mara Fenn — relationship openly romantic**, both have said "I love you," welcomed as family by Darkhawk's parents. **Darkhawk's true name confirmed: Rurik, son of Sesha and Harek of Thundertree** — see Key NPCs. Darkhawk had a genuine, brief loss of control mid-rage after the first relay stop fight — first time since the fighting ring — and now openly fears the Warden is testing him the way the ring once did, and that Ashpit may be where all of this converges. Ravensmoor cover fully retired: Old Harlan's Forge handed to Greta Ostmark. (HP/gold/full gear: see character sheets — authoritative, not duplicated here.)
 
 ## Key evidence carried
 - Regional map (fully identified): Kessick's Ford, Hollowmere, Bramhollow, the Western Yard, Duskgate, Ravensmoor, the Dead Ground site, Fallow Cross, and the Greyhorn foothills lead
@@ -26,7 +26,11 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 | Name | Status | One-line context |
 |------|--------|-------------------|
 | Mara Fenn | Partner — romantic, fully committed | **Full party member with her own character sheet** (`Campaign/characters/Mara Fenn.md`), Ranger 8 Gloom Stalker, levels alongside Darkhawk; both have said "I love you" |
-| Kaldur Stonewake | Ally, guiding toward Thundertree | Ninebells Goliath; held the waystation during the relay-stop push, now the guide for the final leg |
+| Kaldur Stonewake | Ally, at Thundertree | Ninebells Goliath; guided Darkhawk home, now being given real hospitality by Sesha in recognition of it |
+| Sesha | Darkhawk's mother, Thundertree | Recognized her son on sight via the carved trophy he's carried his whole life; welcomed Mara as family too |
+| Harek | Darkhawk's father, Thundertree | Gone to request an urgent audience with Elder Vosk on Darkhawk's behalf |
+| Thyra | Darkhawk's younger sister, Thundertree | Born after the raid that took him; currently out on a hunting circuit, due back within days, has only known him as family legend |
+| Elder Vosk | Thundertree's speaker, not yet met | Reportedly already watching the mine/Ravenshollow's land purchases with worry; audience pending |
 | Tomas & Halvard Reeve | Standing allies, House Reeve | Halvard traced the full Ravenshollow money/land trail; Tomas handling town-side affairs |
 | Corwin Pell | Ally, Kessick's Ford | Turned bookkeeper witness; next up to decode the fairground building's coded second ledger |
 | J. Vantor | Cooperating witness, magistrate custody | Fully confessed; testimony being formalized |
@@ -57,10 +61,11 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 | First relay stop | Held, garrisoned — 2 dead, 2 turned/contained |
 | Second relay stop | **Current location** — held, garrisoned — 3 dead, 1 alive and talking |
 | Duskgate | Known, not visited — deliberately deferred (too well-defended for now) |
+| Thundertree | **Current location** — Darkhawk's birth clan, reunited with his family; Elder Vosk audience pending |
 | The Greyhorn foothills / the mine | Suspected true Circuit hub / possible Ashpit location — roughly two days past the second relay stop, above the tree line; not yet visited |
 
 ## Active Quest Log
-- Push on to Thundertree with Kaldur guiding, while the garrison holds the choke on the mine behind them
+- Meet Elder Vosk and secure Thundertree's help against the mine
 - Get the coded second ledger to Corwin Pell at Kessick's Ford for decoding
 - Beat the Warden's own deadline — "the count concludes within the fortnight"
 - Eventually: the mine itself, Duskgate, identifying the Warden, and Ashpit
@@ -76,7 +81,6 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 
 ## Loose Threads
 - Who betrayed Darkhawk at Ashpit — still unknown; even Vantor didn't know
-- Darkhawk's birth name and family — Thundertree clan confirmed as the lead; only standing before them in person will finish it
 - The Warden's true identity — unknown, deliberately untraceable even to their own people; even direct-report operatives never see who they answer to
 - Ashpit's exact location — never stated in any recovered document; working theory it's the same place as the Greyhorn hub, now roughly two days past the second relay stop per relay-stop guards
 - **New theory (Darkhawk's, shared with Mara):** that the Warden is deliberately testing him the way the ring once did, and that everything easy so far has been disposable "grunts" by design rather than the real defense — genuinely unconfirmed, but the pattern (only low-tier resistance everywhere) hasn't been contradicted yet

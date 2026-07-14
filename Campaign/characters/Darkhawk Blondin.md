@@ -1,5 +1,6 @@
 # Darkhawk Blondin
 
+**Birth name:** Rurik, son of Sesha and Harek, Thundertree clan (confirmed Session 12 — still goes by "Darkhawk Blondin" day to day)
 **Race:** Goliath
 **Class & Level:** Barbarian 6 (Path of the Totem Warrior — Bear) / Fighter 2
 **Background:** Outlander
@@ -89,14 +90,14 @@ Taken from his tribe as a child, Darkhawk doesn't remember much of the mountains
 
 He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking jobs across the region — but he runs by his own code, not his employer's: innocents get protected, no exceptions, and justice is not the same thing as the law. Somewhere out there are the people who betrayed him, and somewhere further back, in memory he can barely hold onto, is who he actually is.
 
-**Lead on his identity (new):** A fellow captive, an older Goliath named Kaldur Stonewake (Ninebells clan), recognized the carved trophy Darkhawk has always carried as **Thundertree** clan craftsmanship — a clan holding territory in the high passes, north and east. Kaldur didn't know Darkhawk personally, but believes Thundertree would recognize their own work, and possibly him, if he ever stood before them.
+**Identity confirmed (Session 12):** Reunited with Thundertree — his birth name is **Rurik**, son of **Sesha** and **Harek**, taken as a young child in a slaver raid that also killed two elders and a hunter. He has a younger sister, **Thyra**, born after the raid and not yet met. Still answers to "Darkhawk Blondin" day to day; the name Rurik is real but not yet fully his in practice.
 
 **Converging thread:** Independent investigation into the Circuit's hidden central hub (as opposed to its known satellite sites) points toward the foothills of the Greyhorn Range — the same mountains associated with Thundertree territory. Mountain clans have reportedly grown more closed-off over the same period suspicious land purchases began there. The Circuit's true heart and Darkhawk's own lost clan may be on a collision course.
 
 ## Current Status
 - Conditions: none
 - HP: 75 / 75
-- Rages used: 1 / 4 (first relay stop assault)
+- Rages used: 0 / 4 (long rest at the second relay stop)
 - Second Wind: available
 - Action Surge: available
 - Stone's Endurance: available

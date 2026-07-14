@@ -80,6 +80,6 @@ What started as paid work became a real partnership, and — after Ravensmoor �
 ## Current Status
 - Conditions: none
 - HP: 58 / 58
-- Spell slots: 4/4 (1st), 2/3 (2nd) — one 2nd-level slot spent on Pass without Trace at the second relay stop approach
+- Spell slots: 4/4 (1st), 3/3 (2nd) — refreshed after a long rest at the second relay stop
 - Inspiration: no
 - Notes: carries the copied town-hall deed entry showing Ravenshollow's ownership of the Ravensmoor fairground building.
