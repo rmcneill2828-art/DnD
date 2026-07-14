@@ -1,7 +1,7 @@
 # Darkhawk Blondin
 
 **Race:** Goliath
-**Class & Level:** Barbarian 5 (Path of the Totem Warrior — Bear) / Fighter 2
+**Class & Level:** Barbarian 6 (Path of the Totem Warrior — Bear) / Fighter 2
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
@@ -12,8 +12,8 @@
 
 ## Combat
 - **AC:** 16 (fitted breastplate: 14 + DEX = 15, +1 from Dual Wielder while wielding two melee weapons)
-- **HP:** 64 / 64
-- **Hit Dice:** 5d12 + 2d10
+- **HP:** 75 / 75
+- **Hit Dice:** 6d12 + 2d10
 - **Speed:** 40 ft (Fast Movement, Barbarian 5 — not wearing heavy armor)
 - **Initiative bonus:** +1
 - **Passive Perception:** 12
@@ -46,13 +46,14 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 - Mountain Born: resistance to cold damage; acclimated to high altitude
 
 **Barbarian**
-- Rage (3/day): bonus action to enter; +2 damage on Strength-based melee attacks, resistance to bludgeoning/piercing/slashing damage, advantage on Strength checks and saves; lasts 1 minute, ends early if you go a turn without attacking or taking damage. Can't wear heavy armor.
+- Rage (4/day): bonus action to enter; +2 damage on Strength-based melee attacks, resistance to bludgeoning/piercing/slashing damage, advantage on Strength checks and saves; lasts 1 minute, ends early if you go a turn without attacking or taking damage. Can't wear heavy armor.
 - Unarmored Defense: AC = 10 + DEX + CON when not wearing armor
 - **Reckless Attack** (lvl 2): on your first attack each turn, choose to attack recklessly — advantage on Strength-based melee attack rolls this turn, but attacks against you have advantage until your next turn.
 - **Danger Sense** (lvl 2): advantage on Dexterity saves against effects you can see, unless blinded, deafened, or incapacitated.
 - **Primal Path: Totem Warrior — Bear** (lvl 3):
   - *Spirit Seeker*: can cast Beast Sense and Speak with Animals as rituals, connecting with primal/animal spirits.
   - *Totem Spirit (Bear)*: while raging, resistance to **all** damage types except psychic (upgraded from just bludgeoning/piercing/slashing).
+- **Aspect of the Beast (Bear, lvl 6)**: advantage on Strength checks to push, pull, lift, or break objects; carrying capacity doubled (stacks with Powerful Build).
 - **Ability Score Improvement (lvl 4) — Dual Wielder feat**: +1 AC while wielding two melee weapons (reflected above), can two-weapon fight with non-light weapons, can draw two weapons at once.
 - **Extra Attack (lvl 5)**: the Attack action now grants two attacks.
 - **Fast Movement (lvl 5)**: +10 ft speed while not wearing heavy armor (reflected above).
@@ -73,7 +74,7 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 - Hunting trap
 - An animal trophy from the mountains (flavor: a carved tusk or claw, last physical tie to a tribe he barely remembers)
 - Traveler's clothes
-- 183 gp (166 gp + 17 gp off the three dead fairground guards). Farmer's fire-tool commission still in progress, unpaid.
+- 230 gp (215 gp + 15 gp found at the first relay stop's depot). Farmer's fire-tool commission still in progress, unpaid.
 - 1 potion of healing (unlabeled vial, confirmed by Mara) — the other used on Kaldur Stonewake
 - Dark oiled cloak, hardtack, waterskins, and leather wrap for muffling weapons/metal — packed for the Vantor stakeout
 
@@ -94,8 +95,8 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 
 ## Current Status
 - Conditions: none
-- HP: 64 / 64
-- Rages used: 0 / 3
+- HP: 75 / 75
+- Rages used: 1 / 4 (first relay stop assault)
 - Second Wind: available
 - Action Surge: available
 - Stone's Endurance: available

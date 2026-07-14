@@ -1,21 +1,21 @@
 # Mara Fenn
 
 **Race:** Human
-**Class & Level:** Ranger 6 (Gloom Stalker)
+**Class & Level:** Ranger 8 (Gloom Stalker)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
-| 10 (+0) | 18 (+4) | 13 (+1) | 12 (+1) | 14 (+2) | 11 (+0) |
+| 10 (+0) | 20 (+5) | 13 (+1) | 12 (+1) | 14 (+2) | 11 (+0) |
 
 ## Combat
-- **AC:** 16 (studded leather: 12 + DEX)
-- **HP:** 45 / 45
-- **Hit Dice:** 6d10
+- **AC:** 17 (studded leather: 12 + DEX)
+- **HP:** 58 / 58
+- **Hit Dice:** 8d10
 - **Speed:** 30 ft (+10 ft on the first turn of combat via Dread Ambusher)
-- **Initiative bonus:** +6 (DEX +4, plus WIS +2 from Dread Ambusher)
+- **Initiative bonus:** +7 (DEX +5, plus WIS +2 from Dread Ambusher)
 - **Passive Perception:** 15
 
 ### Attacks
@@ -23,14 +23,14 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 
 | | To Hit | Damage |
 |---|---|---|
-| Fletch's longbow (main, 150/600) | +9 | 1d8+4 piercing (+1d6 if Hunter's Mark active) |
-| Shortsword (backup melee, finesse) | +7 | 1d6+4 slashing |
+| Fletch's longbow (main, 150/600) | +10 | 1d8+5 piercing (+1d6 if Hunter's Mark active) |
+| Shortsword (backup melee, finesse) | +8 | 1d6+5 slashing |
 
 **Extra Attack:** two attacks with the Attack action.
 **Dread Ambusher:** if she acts in the surprise round or before every enemy in the first round of combat, she can make one additional weapon attack as part of that action, dealing an extra 1d8 damage on the first hit of the turn.
 
 ## Proficiencies & Skills
-- **Saving throws:** Strength, Dexterity
+- **Saving throws:** Strength, Dexterity, Wisdom (Iron Mind, lvl 7)
 - **Skills:** Athletics, Survival (Outlander), Stealth, Perception, Investigation (Ranger)
 - **Languages:** Common, +1 (Favored Enemy — suggest whatever the Circuit's own thieves'-cant-equivalent turns out to be, or Giant to better keep pace with Darkhawk at Thundertree)
 - **Tools:** none (trapper's know-how handled narratively via Survival)
@@ -44,12 +44,15 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 - **Natural Explorer (Forest, Mountain):** second terrain gained at 6th level, chosen with the Greyhorn foothills ahead in mind. Home ground in either — never gets lost except by magic, can travel stealthily at normal pace, finds double food when foraging, and gets extra information/advantage on initiative and first-round surprise attempts.
 - **Primeval Awareness:** can expend a spell slot to sense whether aberrations, celestials, dragons, elementals, fey, fiends, or undead lurk within 1 mile (6 in favored terrain).
 - **Fighting Style — Archery:** +2 to attack rolls with ranged weapons.
-- **Spellcasting:** Wisdom-based. Spell save DC 13, spell attack +5. Known: **Hunter's Mark, Longstrider, Cure Wounds, Pass without Trace.** Slots: 4 (1st), 2 (2nd).
+- **Spellcasting:** Wisdom-based. Spell save DC 13, spell attack +5. Known: **Hunter's Mark, Longstrider, Cure Wounds, Pass without Trace, Silence** (new at lvl 7). Slots: 4 (1st), 3 (2nd).
 - **Extra Attack** (5th level).
+- **Ability Score Improvement (lvl 8):** +2 DEX (18 → 20, reflected above).
+- **Land's Stride (lvl 8):** moving through nonmagical difficult terrain costs no extra movement; ignores harmful effects of magical plants unless she chooses not to.
 
 **Gloom Stalker (Ranger Archetype)**
 - **Dread Ambusher:** see Attacks above; also grants +WIS to initiative and +10 ft speed on the first turn of combat.
 - **Umbral Sight:** darkvision 60 ft (or +30 ft if already possessed); invisible to darkvision-reliant creatures while she's in darkness or dim light.
+- **Iron Mind (lvl 7):** proficiency in Wisdom saving throws (reflected above).
 - **Bonus spells (always prepared, don't count against spells known):** Disguise Self, Rope Trick.
 
 **Outlander**
@@ -76,7 +79,7 @@ What started as paid work became a real partnership, and — after Ravensmoor �
 
 ## Current Status
 - Conditions: none
-- HP: 45 / 45
-- Spell slots: 4/4 (1st), 1/2 (2nd) — Pass without Trace cast during the fairground building raid
+- HP: 58 / 58
+- Spell slots: 4/4 (1st), 2/3 (2nd) — one 2nd-level slot spent on Pass without Trace at the second relay stop approach
 - Inspiration: no
 - Notes: carries the copied town-hall deed entry showing Ravenshollow's ownership of the Ravensmoor fairground building.

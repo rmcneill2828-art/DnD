@@ -3,9 +3,9 @@
 _Living tracker — active threads only. Full history lives in `session-log.md`; this file should always be quick to scan._
 
 ## Party
-- **Location:** Old Harlan's Forge, Ravensmoor, at dawn after the fairground building raid. Ravensmoor undercover operation effectively concluded.
-- **Current quest(s):** Decide next steps now that Ravensmoor is done: trace the two unconfirmed relay stops and the old mine itself, get the courier boy (now safe but unplaced long-term) settled somewhere durable, decide on Duskgate vs. the Greyhorn foothills. Awaiting Halvard/Kell's response to the Ravenshollow finding.
-- **Conditions/effects active:** Darkhawk: Barbarian 5 (Path of the Totem Warrior — Bear) / Fighter 2, AC 16 (Dual Wielder), 64 HP, Extra Attack (3 attacks/turn dual-wielding), 40 ft speed (Fast Movement), Rage 3/day, Inspiration available. Mara: Ranger 6 (Gloom Stalker), 45 HP, Natural Explorer in Forest and Mountain. Both level alongside each other on the same milestone schedule. Longswords sky-iron forged; Mara carries Fletch's longbow (advantage on Stealth after firing). **Protection fighting style still unusable — no shield.** Darkhawk was Greta Ostmark's "apprentice" cover in Ravensmoor; status now uncertain with the operation concluded and public attention on the fire. **Mara Fenn — relationship openly romantic**, committed to standing with Darkhawk at Thundertree. Darkhawk's identity is openly known to the Circuit and shared voluntarily with Greta Ostmark; publicly gave only a half-name ("Dar—") to the Ravensmoor watch. (HP/gold/full gear: see character sheets — authoritative, not duplicated here.)
+- **Location:** The second relay stop, deep in the Greyhorn foothills. Both relay stops and the waystation now held and garrisoned — the mine's supply line is fully cut off.
+- **Current quest(s):** Push on toward Thundertree with Kaldur guiding, while the choke on the mine holds behind them. Get the coded second ledger to Corwin Pell at Kessick's Ford for decoding. The Warden's letter sets a hard deadline — "the count concludes within the fortnight."
+- **Conditions/effects active:** Darkhawk: Barbarian 6 (Path of the Totem Warrior — Bear) / Fighter 2, AC 16 (Dual Wielder), 75 HP, Extra Attack (3 attacks/turn dual-wielding), 40 ft speed (Fast Movement), Rage 4/day, Aspect of the Beast (Bear), Inspiration available. Mara: Ranger 8 (Gloom Stalker), 58 HP, AC 17, Natural Explorer in Forest and Mountain, Iron Mind, Land's Stride. Both level alongside each other on the same milestone schedule. Longswords sky-iron forged; Mara carries Fletch's longbow (advantage on Stealth after firing). **Protection fighting style still unusable — no shield.** **Mara Fenn — relationship openly romantic**, both have said "I love you." Darkhawk had a genuine, brief loss of control mid-rage after the first relay stop fight — first time since the fighting ring — and now openly fears the Warden is testing him the way the ring once did, and that Ashpit may be where all of this converges. Ravensmoor cover fully retired: Old Harlan's Forge handed to Greta Ostmark. (HP/gold/full gear: see character sheets — authoritative, not duplicated here.)
 
 ## Key evidence carried
 - Regional map (fully identified): Kessick's Ford, Hollowmere, Bramhollow, the Western Yard, Duskgate, Ravensmoor, the Dead Ground site, Fallow Cross, and the Greyhorn foothills lead
@@ -18,32 +18,30 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 - **The Warden's letter:** sealed note carried by the captured Circuit operative, confirming the Warden is personally alarmed by the missing wagon crew and is moving up the mine's "count" timeline regardless of season, because of Darkhawk's own campaign.
 - **Fairground building layout (confirmed, from the captured operative):** side door/corridor already known, two iron-banded holding cells, a handler's office with the count ledger, 2-3 staff on rotation, no real garrison, roughly four captives held as of last information.
 - **The dead-drop system:** the captured operative reports to the Warden via a hidden well behind the unmarked house — never sees who collects messages, confirming even trusted operatives don't get a real line to the Warden's identity.
-- **Fairground building's second ledger and pay roster:** taken from the handler's office strongbox and stashed under a loose floorboard at Old Harlan's Forge. The roster shows a fourth guard reassigned to "the mine road" effective the same night as the raid — direct confirmation the Warden is thinning every post he can spare to feed the mine's accelerated count.
+- **Fairground building's second ledger and pay roster:** taken from the handler's office strongbox. The roster shows a fourth guard reassigned to "the mine road" effective the same night as the raid. The second ledger is written in numeric shorthand nobody at Fallow Cross could crack — earmarked for Corwin Pell at Kessick's Ford.
+- **The Warden's dead-drop letter (waystation road):** intercepted uncollected — orders halting all traffic until "the count concludes... within the fortnight," instructing posts to fall back rather than engage strangers, and stating he'd accept losing every post before losing his own silence. A hard deadline, not just accelerated urgency.
+- **Ravenshollow's land parcels, plotted on Vantor's Map:** six years of purchases skirting Thundertree's border without crossing it; newest parcel closed 11 days before the relay-stop operation, deepest into the foothills of any — circled as the likely site of the true hub.
 
 ## Key NPCs (active)
 | Name | Status | One-line context |
 |------|--------|-------------------|
-| Mara Fenn | Partner — romantic, fully committed | **Full party member with her own character sheet** (`Campaign/characters/Mara Fenn.md`), Ranger 5 Gloom Stalker, levels alongside Darkhawk; will stand with him at Thundertree |
-| Kaldur Stonewake | Ally, recovering in Kessick's Ford | Ninebells Goliath; guide-in-waiting for the Greyhorn foothills once ready |
-| Tomas & Halvard Reeve | Standing allies, House Reeve | Halvard quietly tracing Circuit money; Tomas handling town-side affairs |
-| Corwin Pell | Ally, Kessick's Ford | Turned bookkeeper witness; daughter under protection |
+| Mara Fenn | Partner — romantic, fully committed | **Full party member with her own character sheet** (`Campaign/characters/Mara Fenn.md`), Ranger 8 Gloom Stalker, levels alongside Darkhawk; both have said "I love you" |
+| Kaldur Stonewake | Ally, guiding toward Thundertree | Ninebells Goliath; held the waystation during the relay-stop push, now the guide for the final leg |
+| Tomas & Halvard Reeve | Standing allies, House Reeve | Halvard traced the full Ravenshollow money/land trail; Tomas handling town-side affairs |
+| Corwin Pell | Ally, Kessick's Ford | Turned bookkeeper witness; next up to decode the fairground building's coded second ledger |
 | J. Vantor | Cooperating witness, magistrate custody | Fully confessed; testimony being formalized |
-| Magistrate Aldric Kell | Official ally | Checking regional property records for the Circuit's hub |
-| Ressa Dane / Pell Ashworth | Ally, Fallow Cross | Base keeper / courier line back to Kessick's Ford |
-| Master Corlin Vey | Unwitting source, Ravensmoor | Leased Old Harlan's Forge to "the Blondins"; uneasy about the fairground district |
-| Greta Ostmark | Ally, Ravensmoor | Smith, Ostmark & Daughter; knows Darkhawk's full truth; publicly claims him as her apprentice as cover; will let him carry her next hardware delivery to the fairground buyer, due within the week |
-| Courier boy | Safe, at Wren's old house, Ravensmoor | ~12 y/o, silent, recognized Darkhawk on sight; freed from the fairground building's cells along with three others. Long-term placement still an open question |
-| "The Warden" | Antagonist, identity unknown | Title, not a met individual; communicates only via sealed letters through Bramhollow |
-| Ravenshollow | Antagonist entity, likely Circuit front | Broker firm; holds the deed on Ravensmoor's fairground building AND is buying land in the Greyhorn foothills — same name behind both, reported to Halvard/Kell |
-| Sela Hollis | Ally, Ravensmoor | Innkeeper, the Hound's Rest; genuine goodwill built, does small smithy trade with the forge |
-| Old Tammas | Unwitting source, Ravensmoor | Charcoal supplier; his regular route now includes the forge, giving a mundane reason to walk the fairground district |
-| Harmon Fletch | Ally, Ravensmoor | Bowyer; sold Mara an exceptional longbow, now has a standing arrowhead-supply trade with the forge |
-| Four rescued captives (wagon) | Safe, Fallow Cross | Being cared for by Ressa Dane |
-| Four rescued captives (fairground building) | Safe, Wren's old house, Ravensmoor | Freed from the cells; gave their account to the Ravensmoor watch to lock in the cover story. Includes the courier boy (see below) |
-| Wren | Ally, Ravensmoor | Freed from debt bondage at the unmarked house; now genuinely free housekeeper at Old Harlan's Forge |
-| Captured Circuit operative | Cooperating, en route to magistrate custody | The Ravensmoor tavern stranger; the Warden's direct-report enforcer, no Bramhollow filter; turned king's evidence in exchange for Wren's safety and the same deal Vantor got; handed to Ressa Dane at Fallow Cross, awaiting Magistrate Kell |
+| Magistrate Aldric Kell | Official ally | Deputized watch to help hold the relay-stop garrisons; taking the tavern stranger's formal statement |
+| Ressa Dane / Pell Ashworth | Ally, Fallow Cross | Base keeper; also now looking after the courier boy, who watches the yard for her |
+| Rennick | Ally, turned | Former senior guard, waystation — surrendered, turned, now reports to Fenris Cray holding the waystation as an allied garrison |
+| Fenris Cray | Ally, House Reeve retainer lead | Commands the garrison holding the waystation and both relay stops |
+| Courier boy | Safe, Fallow Cross | ~12 y/o, still silent, chose to follow the party rather than stay in Ravensmoor; given a real task watching the yard for Ressa Dane |
+| "The Warden" | Antagonist, identity unknown | Communicates only via sealed dead-drop letters; set a hard deadline — the mine's "count" concludes within a fortnight |
+| Ravenshollow | Antagonist entity, likely Circuit front | Broker firm; six years of land purchases skirting Thundertree's border, newest parcel (11 days old) circled as the likely true hub |
+| Ravensmoor cast (resolved) | Inactive | Greta Ostmark now holds Old Harlan's Forge outright; Wren settled in Ravensmoor for good; Sela Hollis, Old Tammas, Harmon Fletch, Corlin Vey all stable background allies/contacts, no open threads |
+| Freed captives (11 total) | Safe | 4 from the wagon ambush + 4 from the fairground building at Fallow Cross/Ravensmoor, all placed; 2 more from the tavern-stranger house resolved earlier |
+| Captured Circuit operative (tavern stranger) | Cooperating, magistrate custody | Turned king's evidence; formal statement being taken by Kell at Fallow Cross |
 
-*(Enemies killed across Hollowmere, the Dead Ground, Bramhollow, the Western Yard, and the mine-road wagon ambush — full accounting in `session-log.md`, not tracked individually here.)*
+*(Enemies killed/turned across Hollowmere, the Dead Ground, Bramhollow, the Western Yard, the mine-road wagon ambush, the fairground building, and the waystation/relay stops — full accounting in `session-log.md`, not tracked individually here.)*
 
 ## Known Locations — current status
 | Location | Status |
@@ -53,17 +51,19 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 | The Dead Ground site | Cleared, resolved |
 | Bramhollow | Infiltrated quietly; evidence extracted; otherwise undisturbed |
 | The Western Yard | Cleared loudly; Darkhawk's identity declared here |
-| Fallow Cross | Forward base (House Reeve) |
-| **Ravensmoor** | **Current location** — undercover operation concluded; fairground building raided, cleared, and burned. Still holding Old Harlan's Forge as a foothold |
+| Fallow Cross | Forward base (House Reeve); courier boy staying here |
+| Ravensmoor | Resolved; fairground building raided and burned; forge now Greta's |
+| The waystation | Held, garrisoned — Rennick and his two men under Fenris Cray |
+| First relay stop | Held, garrisoned — 2 dead, 2 turned/contained |
+| Second relay stop | **Current location** — held, garrisoned — 3 dead, 1 alive and talking |
 | Duskgate | Known, not visited — deliberately deferred (too well-defended for now) |
-| The Greyhorn foothills | Suspected true Circuit hub / possible Ashpit location — not yet visited |
+| The Greyhorn foothills / the mine | Suspected true Circuit hub / possible Ashpit location — roughly two days past the second relay stop, above the tree line; not yet visited |
 
 ## Active Quest Log
-- Decide what's next for the courier boy and the other three freed captives now that they're safe at Wren's old house
-- Trace the two unconfirmed relay stops and the old mine itself
-- Await Halvard/Kell's response to the Ravenshollow finding, and Magistrate Kell's arrival at Fallow Cross to collect the captured operative
-- Decide whether Old Harlan's Forge and the "Blondin" cover are still worth holding now that Ravensmoor's operation is public and burned
-- Eventually: Duskgate, the Greyhorn foothills/Thundertree, identifying the Warden, and Ashpit itself
+- Push on to Thundertree with Kaldur guiding, while the garrison holds the choke on the mine behind them
+- Get the coded second ledger to Corwin Pell at Kessick's Ford for decoding
+- Beat the Warden's own deadline — "the count concludes within the fortnight"
+- Eventually: the mine itself, Duskgate, identifying the Warden, and Ashpit
 
 ## Player Choices of Consequence
 - Piled the Hollowmere dead with a note threatening the Warden directly — a deliberate declaration, not a cover-up.
@@ -72,12 +72,15 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 - At the mine-road wagon ambush, killed the last surrendering guard outright rather than taking him captive — a harder line than the Vantor/Western Yard precedent of capturing for information or message-sending.
 - With the tavern stranger, reversed that line: told him plainly he intended to kill him, then accepted a genuine deal (Wren's safety, later a full turn to king's evidence) rather than following through — consistent inconsistency the campaign keeps returning to.
 - At the fairground building, baited two unarmed guards into the open with a fake cry for help and had Mara kill them the instant they appeared, no warning or chance to surrender — and separately killed the fifth Circuit man from behind before he'd even drawn a weapon, purely to keep him silent. No offer of quarter to anyone this raid, unlike Vantor/the tavern stranger.
+- At the waystation, deliberately offered mercy and genuine redemption to Rennick and his men rather than killing them — the first time an entire enemy post was turned rather than eliminated. Repeated at the first relay stop with the two survivors, though this time only after failing a self-control check mid-rage and very nearly killing them despite their surrender — the line between mercy and bloodlust getting harder to hold the closer this gets to the mine.
 
 ## Loose Threads
 - Who betrayed Darkhawk at Ashpit — still unknown; even Vantor didn't know
 - Darkhawk's birth name and family — Thundertree clan confirmed as the lead; only standing before them in person will finish it
 - The Warden's true identity — unknown, deliberately untraceable even to their own people; even direct-report operatives never see who they answer to
-- Ashpit's exact location — never stated in any recovered document; working theory it's the same place as the Greyhorn hub
-- The Greyhorn foothills — land quietly bought up via broker firm **Ravenshollow**; local Goliath clans have grown closed-off over the same period; the mine's "count" is now being accelerated because of Darkhawk's campaign
-- The two unconfirmed relay stops between the waystation and the old mine — exact locations unknown
-- The courier boy — safe now, but no long-term plan for him yet
+- Ashpit's exact location — never stated in any recovered document; working theory it's the same place as the Greyhorn hub, now roughly two days past the second relay stop per relay-stop guards
+- **New theory (Darkhawk's, shared with Mara):** that the Warden is deliberately testing him the way the ring once did, and that everything easy so far has been disposable "grunts" by design rather than the real defense — genuinely unconfirmed, but the pattern (only low-tier resistance everywhere) hasn't been contradicted yet
+- The fairground building's second ledger — coded numeric shorthand, headed to Corwin Pell at Kessick's Ford to crack
+- The Warden's dead-drop letter — a hard fortnight deadline on "the count," reason unknown
+- Darkhawk named a fear of "a choice I already know the answer to" coming further down this road — unspecified, unresolved, Mara asked only to be present for it when it comes
+- The watcher spotted once in the alley behind Old Harlan's Forge — never identified, never seen again
