@@ -97,7 +97,7 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 ## Current Status
 - Conditions: none
 - HP: 75 / 75
-- Rages used: 0 / 4 (long rest at the second relay stop)
+- Rages used: 1 / 4 — **currently raging**, mid-combat at the mine's north service cut (session paused here, resume in combat)
 - Second Wind: available
 - Action Surge: available
 - Stone's Endurance: available

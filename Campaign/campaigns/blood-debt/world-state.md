@@ -3,9 +3,9 @@
 _Living tracker — active threads only. Full history lives in `session-log.md`; this file should always be quick to scan._
 
 ## Party
-- **Location:** Thundertree, in Sesha and Harek's longhouse. Resting; awaiting Vosk's scouts to report back on the mine.
-- **Current quest(s):** Await the scout report (within a day or two), then move on the mine within the agreed 3-4 day window — signal Thundertree with sustained white smoke the moment the assault begins so warriors can seal the escape paths. Get the coded second ledger to Corwin Pell at Kessick's Ford for decoding. The Warden's letter sets a hard deadline — "the count concludes within the fortnight."
-- **Conditions/effects active:** Darkhawk: Barbarian 6 (Path of the Totem Warrior — Bear) / Fighter 2, AC 16 (Dual Wielder), 75 HP, Extra Attack (3 attacks/turn dual-wielding), 40 ft speed (Fast Movement), Rage 4/day, Aspect of the Beast (Bear), Inspiration available. Mara: Ranger 8 (Gloom Stalker), 58 HP, AC 17, Natural Explorer in Forest and Mountain, Iron Mind, Land's Stride. Both level alongside each other on the same milestone schedule. Longswords sky-iron forged; Mara carries Fletch's longbow (advantage on Stealth after firing). **Protection fighting style still unusable — no shield.** **Mara Fenn — relationship openly romantic**, both have said "I love you," welcomed as family by Darkhawk's parents. **Darkhawk's true name confirmed: Rurik, son of Sesha and Harek of Thundertree** — see Key NPCs. **Completed the Long Climb**, Thundertree's coming-of-age rite, in a compressed/urgent form blessed by Vosk — formally Thundertree "not just by blood" now, and has made peace (in his own words) with holding both "Darkhawk" and "Rurik" as one man rather than a war between them. Ravensmoor cover fully retired: Old Harlan's Forge handed to Greta Ostmark. (HP/gold/full gear: see character sheets — authoritative, not duplicated here.)
+- **Location:** **Mid-combat, paused.** The mine's north face service cut, Greyhorn foothills. Darkhawk and Mara struck alone via the service cut exactly as Kaldur's 25-warrior Thundertree feint hit the main entrance. Three mine guards killed at the cut so far; a fourth escaped and raised a wider alarm. A disciplined 4-guard shield team is now advancing on their chokepoint — **resume combat here.** No word yet on how Kaldur's feint is faring on the other side of the mountain.
+- **Current quest(s):** Win the fight at the service cut, push into the mine, light the sustained white-smoke signal the moment it's safe to do so (Thundertree warriors are watching for it to seal the escape paths). Find/deal with the unnamed garrison commander. Get the coded second ledger to Corwin Pell at Kessick's Ford for decoding. The Warden's letter sets a hard deadline — "the count concludes within the fortnight."
+- **Conditions/effects active:** Darkhawk: Barbarian 6 (Path of the Totem Warrior — Bear) / Fighter 2, AC 16 (Dual Wielder), 75/75 HP, **raging (1/4 rages used)**, Extra Attack (3 attacks/turn dual-wielding), 40 ft speed (Fast Movement), Aspect of the Beast (Bear), Inspiration available. Mara: Ranger 8 (Gloom Stalker), 58/58 HP, AC 17, Natural Explorer in Forest and Mountain, Iron Mind, Land's Stride, no spell slots spent this fight. Both level alongside each other on the same milestone schedule. Longswords sky-iron forged; Mara carries Fletch's longbow (advantage on Stealth after firing). **Protection fighting style still unusable — no shield.** **Mara Fenn — relationship openly romantic**, both have said "I love you," welcomed as family by Darkhawk's parents. **Darkhawk's true name confirmed: Rurik, son of Sesha and Harek of Thundertree** — see Key NPCs. **Completed the Long Climb**, Thundertree's coming-of-age rite — formally Thundertree "not just by blood" now, at peace holding both "Darkhawk" and "Rurik" as one man. **Ashpit confirmed as the same site as the mine** (old fighting-pit structures spotted by Vosk's scouts). Ravensmoor cover fully retired: Old Harlan's Forge handed to Greta Ostmark. (HP/gold/full gear: see character sheets — authoritative, not duplicated here.)
 
 ## Key evidence carried
 - Regional map (fully identified): Kessick's Ford, Hollowmere, Bramhollow, the Western Yard, Duskgate, Ravensmoor, the Dead Ground site, Fallow Cross, and the Greyhorn foothills lead
@@ -40,6 +40,7 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 | Fenris Cray | Ally, House Reeve retainer lead | Commands the garrison holding the waystation and both relay stops |
 | Courier boy | Safe, Fallow Cross | ~12 y/o, still silent, chose to follow the party rather than stay in Ravensmoor; given a real task watching the yard for Ressa Dane |
 | "The Warden" | Antagonist, identity unknown | Communicates only via sealed dead-drop letters; set a hard deadline — the mine's "count" concludes within a fortnight |
+| Mine garrison commander | Antagonist, unnamed, not yet engaged | Spotted by Vosk's scouts directing ~20+ trained guards at the mine; better-armored than rank and file, almost certainly a lieutenant rather than the Warden himself |
 | Ravenshollow | Antagonist entity, likely Circuit front | Broker firm; six years of land purchases skirting Thundertree's border, newest parcel (11 days old) circled as the likely true hub |
 | Ravensmoor cast (resolved) | Inactive | Greta Ostmark now holds Old Harlan's Forge outright; Wren settled in Ravensmoor for good; Sela Hollis, Old Tammas, Harmon Fletch, Corlin Vey all stable background allies/contacts, no open threads |
 | Freed captives (11 total) | Safe | 4 from the wagon ambush + 4 from the fairground building at Fallow Cross/Ravensmoor, all placed; 2 more from the tavern-stranger house resolved earlier |
@@ -61,15 +62,17 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 | First relay stop | Held, garrisoned — 2 dead, 2 turned/contained |
 | Second relay stop | **Current location** — held, garrisoned — 3 dead, 1 alive and talking |
 | Duskgate | Known, not visited — deliberately deferred (too well-defended for now) |
-| Thundertree | **Current location** — Darkhawk's birth clan, reunited with his family; Elder Vosk audience pending |
-| The Greyhorn foothills / the mine | Suspected true Circuit hub / possible Ashpit location — roughly two days past the second relay stop, above the tree line; not yet visited |
+| Thundertree | Darkhawk's birth clan; family reunited, alliance secured with Elder Vosk |
+| The mine / Ashpit | **Current location — mid-assault.** Confirmed true Circuit hub and the same site as Ashpit. Fortified entrance (2 watch towers) + north service cut (breached). ~20+ trained garrison, captives held separately, unnamed commander. Simultaneous strike underway: Darkhawk/Mara via the service cut, Kaldur's 25-warrior feint at the front |
 
 ## Active Quest Log
-- Await Vosk's scout report on the mine's real numbers/defenses (expected within a day or two)
-- Move on the mine within the 3-4 day window, signaling Thundertree with white smoke to close the paths behind
+- **Resume the fight** at the north service cut (4 disciplined guards closing in)
+- Light the sustained white-smoke signal once the assault is confirmed underway, so Thundertree seals the escape paths
+- Check on Kaldur's feint at the main entrance
+- Find/deal with the garrison commander; free the captives held at the mine
 - Get the coded second ledger to Corwin Pell at Kessick's Ford for decoding
 - Beat the Warden's own deadline — "the count concludes within the fortnight"
-- Eventually: Duskgate, identifying the Warden, and Ashpit
+- Eventually: Duskgate and identifying the Warden
 
 ## Player Choices of Consequence
 - Piled the Hollowmere dead with a note threatening the Warden directly — a deliberate declaration, not a cover-up.
