@@ -3,7 +3,10 @@
 _Living tracker — active threads only. Full history lives in `session-log.md`; this file should always be quick to scan._
 
 ## Party
-- **Location:** The Bear Cave (formerly the mine/Ashpit), forward base. Vale, Merrick, and Vale's two guards escorted back and held separately from G3. Kaldur stays to hold the base, work Vosk and the wider mountain clans for reinforcements, and manage the mine's spare gear going to Joss/Idra/Corren and other allies. Darkhawk and Mara are about to depart for Kessick's Ford to deliver Vale and the evidence to Magistrate Kell in person, with a rider sent ahead to Greta Ostmark in Ravensmoor.
+- **Location:** Kessick's Ford, business concluded — Darkhawk, Mara, and Vale (recaptured for transport) about to head back to the Bear Cave. Kaldur holds the base with Merrick, G3, and Vale's two guards secured separately. Joss already dispatched to Ravensmoor to brief Greta Ostmark in person.
+- **Critical new intel from Vale, given freely as a final act of cooperation:** the Warden's bargain does not renew automatically on death — it requires a living successor to travel to Duskgate in person and accept it. Vale had been quietly grooming **Merrick** as his own successor, without ever telling him plainly. As long as neither Vale nor Merrick reaches Duskgate again, the bargain has no one to renew into — meaning **the Bear Cave, holding both men, is now the single most important place in the entire conflict to keep secure.**
+- **Kessick's Ford council (Kell, Halvard, Corwin) committed real support:** a dozen deputized fighters marching to the Bear Cave within two days; a standing House Reeve supply line (coin, weapons, armor) starting within the week; Corwin personally escorting both coded ledgers to **Sister Ysolde Marrow**, a cleric at the regional seat (same city Ravenshollow is chartered from) versed in infernal contracts — strong chance the ledgers are written in Infernal rather than a numeric cipher, which is why nobody's cracked them yet. A discreet, detail-free message already sent ahead to her.
+- **Perrin Dask** is arranging mass sky-iron (and silvering, where possible) treatment for the incoming garrison's weapons, first shipment expected within the week alongside Halvard's supply convoy — plain steel isn't reliable against whatever's actually waiting at Duskgate.
 - **The bargain, named:** Vale confirmed under direct questioning that "the Warden" is an inherited title sustained by a genuine infernal bargain — souls, not people, are the actual currency; captives/spectacle/profit are just the vessel. The devil on the other end of it is known only as **Malphestor, the Reckoner** — itself likely a title rather than a true name. The bargain was first struck at **Duskgate**, and is renewed there each time a warden dies or steps aside — meaning Duskgate, not any individual warden, is the actual thing that has to be destroyed to end this for good.
 - Previously: the mine is **fully cleared, top to bottom**, the original Ashpit chamber visited and emotionally closed, both grieving Thundertree families told in person, Darkhawk and Mara engaged (see Loose Threads for details).
 - **Current quest(s):** Get the coded second ledger to Corwin Pell at Kessick's Ford for decoding (now doubly urgent — matches the processing area's shipment ledger). Follow up the Ravenshollow lead directly — the pact contract names them outright as the Warden's own instrument. Beat the Warden's deadline if it still applies now that the mine's gone. Eventually: Duskgate.
@@ -58,9 +61,10 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 | Yorik Stonebrand | Ally, grieving, Thundertree | Father of Bram and Torin, both killed at the mine's entrance; gave Rurik a mourning-stone to carry into battle |
 | Vessa & Kessa Alderhawk | Ally, grieving, Thundertree | Ren Alderhawk's widow and young daughter; asked only that Ren be remembered as a friend, not just a warrior in a line |
 | Aldous Rook & Pellin Marsh | Turned, cooperating | Ravenshollow's two guards at the new foothill parcel; surrendered without a fight, kept working their normal rotation to cover the stakeout |
-| Merrick | Antagonist, foreman | Well-dressed Ravenshollow site inspector, visits the foothill parcel every 8-9 days; not "the owner" himself |
-| Edmund Vale ("the owner") | **Captured, in custody** | Current holder of the Warden's title; confirmed the bargain is with a devil, "Malphestor, the Reckoner," first struck at Duskgate and renewed there each time a warden dies or steps aside. Carried a passed-down signet ring and an unsent letter to "my successor." |
+| Edmund Vale ("the owner") | **Captured, in custody, fully cooperating** | Current holder of the Warden's title; confirmed the bargain is with a devil, "Malphestor, the Reckoner," first struck at Duskgate and renewed there only when a living successor travels there in person to accept it. Revealed Merrick as his own groomed (but never informed) successor as a final act of redemption. |
 | Malphestor, the Reckoner | Antagonist, unmet | The devil behind the whole bargain — souls, not people, are the actual currency. Likely a title, not a true name, mirroring "the Warden" itself. |
+| Merrick | **Captured, unaware** | The foothill parcel's foreman — and Edmund Vale's groomed, never-informed successor to the Warden's title. As long as he's held at the Bear Cave and never reaches Duskgate, the bargain has no one to renew into. |
+| Sister Ysolde Marrow | Ally, unmet, regional seat | Cleric of a lawful order concerned with judgment and the settling of debts after death; Kell's contact, likely able to translate the two coded ledgers (probably Infernal, not cipher) and advise on the bargain itself. |
 
 *(Enemies killed/turned across Hollowmere, the Dead Ground, Bramhollow, the Western Yard, the mine-road wagon ambush, the fairground building, and the waystation/relay stops — full accounting in `session-log.md`, not tracked individually here.)*
 
@@ -82,10 +86,11 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 | **The Bear Cave** (formerly Ashpit / the mine) | **Fully cleared and reclaimed as the party's forward base.** Renamed by Darkhawk himself — Ashpit no longer gets to own the name. Held by Kaldur and Thundertree warriors; G3, Merrick, and Vale's two guards all in custody here, kept apart from each other |
 
 ## Active Quest Log
-- Escort Edmund Vale, Merrick, and Vale's two guards back to the mine for holding, alongside G3.
-- Ledgers already sent via Thundertree's runners through the relay network to Fallow Cross, onward to Corwin Pell at Kessick's Ford — in motion, not yet resolved.
-- Decide what to do with the black scrying mirror
-- **Duskgate is now the confirmed final target** — not just the Circuit's last stronghold, but the literal site where the bargain with Malphestor the Reckoner was struck and is renewed. Ending the Warden's title for good means destroying what's at Duskgate, not just whoever currently holds the title.
+- **Return Vale to the Bear Cave and reinforce it fast** — the single highest-priority task now that Vale and Merrick together represent the bargain's only path back to Duskgate.
+- Await the dozen deputies (2 days), Halvard's supply convoy and Perrin's sky-iron-treated weapons (within the week).
+- Await word from Corwin re: Sister Ysolde — the two coded ledgers (likely Infernal, not cipher) and guidance on the bargain itself.
+- Decide what to do with the black scrying mirror.
+- **Duskgate remains the confirmed final target**, but with the successor mechanic now known, there's no immediate rush — the bargain can't renew while Vale and Merrick stay held. Consolidate first.
 
 ## Player Choices of Consequence
 - Piled the Hollowmere dead with a note threatening the Warden directly — a deliberate declaration, not a cover-up.
