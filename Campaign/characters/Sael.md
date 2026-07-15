@@ -55,6 +55,7 @@
 - **Discovery:** during her years alone in the wild, uncovered a genuine, profound truth — the existence of a real bear-spirit tied to acts of mercy in extremity, and her own part in one of its rare interventions.
 
 ## Equipment
+- **Consecrated against fiends (Sister Ysolde, Session 15):** both the quarterstaff and sickle now carry a lasting ward against fiends specifically — better odds landing a blow true, plus some resistance to the fear and corruption fiends favor using before a fight even starts.
 - Quarterstaff, sickle
 - Studded leather armor (non-metal), small wooden shield
 - Herbalism kit

@@ -30,6 +30,8 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 **Extra Attack:** two attacks with the Attack action.
 **Dread Ambusher:** if she acts in the surprise round or before every enemy in the first round of combat, she can make one additional weapon attack as part of that action, dealing an extra 1d8 damage on the first hit of the turn.
 
+**Consecrated against fiends (Sister Ysolde, Session 15):** both Fletch's longbow and her shortsword now carry a lasting ward against fiends specifically — better odds landing a blow true, plus some resistance to the fear and corruption fiends favor using before a fight even starts.
+
 > **DM quick-check per turn: 2 attacks baseline, 3 if this is a surprise round (+1d8 on her first hit that round). Verify before rolling, don't default to 1-2.**
 
 ## Proficiencies & Skills

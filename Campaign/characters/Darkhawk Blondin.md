@@ -31,6 +31,8 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 
 *Reforge grants STR modifier to off-hand damage. Dual Wielder feat (taken at level 4) adds the +1 AC on top of that, reflected above.*
 
+**Consecrated against fiends (Sister Ysolde, Session 15):** both longswords and the +1 dagger now carry a lasting ward against fiends specifically — better odds landing a blow true, plus some resistance to the fear and corruption fiends favor using before a fight even starts.
+
 ## Proficiencies & Skills
 - **Saving throws:** Strength +9, Constitution +6
 - **Skills:** Athletics +9, Survival +4, Perception +4, Intimidation +4, Animal Handling +4
