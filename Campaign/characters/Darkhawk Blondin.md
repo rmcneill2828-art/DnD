@@ -78,7 +78,10 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 - Hunting trap
 - An animal trophy from the mountains (flavor: a carved tusk or claw, last physical tie to a tribe he barely remembers)
 - Traveler's clothes
-- 361 gp (338 gp + 23 gp in aged fist-and-chain coin recovered from the old Ashpit chamber). Farmer's fire-tool commission still in progress, unpaid.
+- 423 gp (361 gp + 40 gp off Edmund Vale + 22 gp off his two guards). Farmer's fire-tool commission still in progress, unpaid.
+- **Edmund Vale's signet ring** — plain iron, fist-and-chain sigil, worn smooth from more than one owner's hand. Physical proof the "Warden" title is inherited rather than personal.
+- **Edmund Vale's document case** — personal correspondence confirming his name, and an unsent letter to "my successor" with instructions for the parcel "if the reckoning comes for me before the bargain does."
+- **The foothill parcel's preliminary manifest** — unsigned, listing an expected first intake of 12-15 captives once the strongroom's operational, timed to after the mine's numbers would have closed. Confirms this site was built as the mine's replacement.
 - **Ashpit ledger fragment** — water-damaged but partially legible match/wager records from the original pit, recovered from a hidden alcove cache. Every surviving page header reads "By the Warden's word," never a name — strong evidence "the Warden" is an inherited title/office, not one person, and that this pit is where it began.
 - A rough charcoal sketch of the mine's interior tunnels, found on the lead response-team guard — shows a fork not far past the bend: one branch toward a marked holding area, the other toward what's likely the commander's post.
 - A knotted tally cord taken off one of the holding-area guards — rows of counted knots, the last several visibly fresher than the rest. Matches the Warden's own phrase, "the count," from his dead-drop letter. What it's actually counting is still unknown.
