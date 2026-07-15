@@ -2,7 +2,7 @@
 
 **Birth name:** Rurik, son of Sesha and Harek, Thundertree clan (confirmed Session 12 — still goes by "Darkhawk Blondin" day to day)
 **Race:** Goliath
-**Class & Level:** Barbarian 8 (Path of the Totem Warrior — Bear) / Fighter 2
+**Class & Level:** Barbarian 8 (Path of the Totem Warrior — Bear) / Fighter 3 (Battle Master)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
@@ -13,12 +13,12 @@
 
 ## Combat
 - **AC:** 16 (fitted breastplate: 14 + DEX = 15, +1 from Dual Wielder while wielding two melee weapons)
-- **HP:** 95 / 95
-- **Hit Dice:** 8d12 + 2d10
+- **HP:** 104 / 104
+- **Hit Dice:** 8d12 + 3d10
 - **Speed:** 40 ft (Fast Movement, Barbarian 5 — not wearing heavy armor)
 - **Initiative bonus:** +1, with **advantage** (Feral Instinct, Barbarian 7)
 - **Passive Perception:** 14
-- **Proficiency bonus:** +4 (character level 10)
+- **Proficiency bonus:** +4 (character level 11)
 
 ### Attacks
 Dual-wielding two longswords one-handed (DM house rule — narratively justified by Goliath Powerful Build; reforged by Perrin Dask into a true matched dual-wielding pair, then worked through with **sky-iron** — meteoric ore, not magic, but the blades now count as magical weapons for the purpose of overcoming resistance/immunity to nonmagical attacks). **Extra Attack (Barbarian 5):** the Attack action now grants two attacks; off-hand remains a bonus action, for three total attacks in a full turn.
@@ -62,10 +62,15 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 - **Feral Instinct (lvl 7)**: advantage on initiative rolls (reflected above). If surprised at the start of combat and not incapacitated, can still act normally on the first turn, provided rage is entered before doing anything else that turn.
 - **Ability Score Improvement (lvl 8)**: +2 STR (19 → 21, reflected above).
 
-**Fighter (multiclass, 2 levels)**
+**Fighter (multiclass, 3 levels — Battle Master)**
 - **Second Wind**: bonus action, regain 1d10+2 HP. Once per short/long rest.
 - **Fighting Style: Protection** — reaction, when a creature you can see attacks a target other than you that's within 5 ft of you, impose disadvantage on that attack roll. Requires wielding a shield — **currently unusable; shield traded away at Ostmark & Daughter (Ravensmoor)**, would need a new shield to use this again.
 - **Action Surge** (lvl 2): once per short/long rest, take one additional action on your turn. With dual-wielding, effectively doubles a turn's attacks (main-hand, off-hand, main-hand, off-hand).
+- **Martial Archetype: Battle Master (lvl 3)** — **Combat Superiority**: 4 superiority dice (d8), regained on a short/long rest. Three maneuvers known:
+  - *Trip Attack*: on a hit, spend a superiority die to add the die to damage and force a Strength save or the target falls prone.
+  - *Disarming Attack*: on a hit, spend a superiority die to add the die to damage and force a Strength save or the target drops one item of your choice it's holding.
+  - *Riposte*: reaction, when a creature misses you with a melee attack, spend a superiority die to make a melee attack against it, adding the die to damage on a hit.
+  - **Student of War**: proficiency with smith's tools (fits the Ostmark & Daughter apprentice cover).
 
 **Outlander**
 - Wanderer: perfect recall of terrain you've traveled, can always find food/fresh water for yourself and up to 5 others in the wild, and find the way back to civilization
@@ -116,6 +121,7 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 - Stone's Endurance: available
 - Inspiration: spent (burned on a disarm attempt against the shield-wall guards; DM owes a fresh one for good roleplay when it comes up)
 - **Milestone level-up (Session 14):** Barbarian 6 → 8 (Fighter 2 unchanged) — two milestones in one session: clearing the barracks/commander's post, and killing the Warden's man (a fiend) while breaking the front entrance's defense. Gained Feral Instinct, an ASI (+2 STR, 19→21), and rolled +12 then +8 HP, now **95 max**.
+- **Milestone level-up (Session 15):** Fighter 2 → 3, choosing **Battle Master** (Trip Attack, Disarming Attack, Riposte) — earned for solving the campaign's central mystery: Edmund Vale (the Warden's title-holder) captured alive and Duskgate confirmed as the true target, alongside closing the Ashpit/identity arc. Rolled +9 HP, now **104 max**.
 - Notes: Vantor remains in magistrate custody in Kessick's Ford as a cooperating witness, awaiting formal proceedings.
 - Notes: Carries the Vantor Trading Concern/"Circuit" seal coin, a second fist-and-chain coin from Greta Ostmark's strongbox, the Keeper's signet ring and key ring, the Keeper's tally book, an unsigned letter referencing "the Warden," the Bramhollow ledgers and two Warden-sealed letters, and the fully identified regional map. Unused one-time Stealth advantage still banked.
 - Notes: The fairground building's count ledger, a second handler's ledger, and a pay roster (noting a fourth guard reassigned to the mine road the same night) are stashed under a loose floorboard at Old Harlan's Forge, Ravensmoor.

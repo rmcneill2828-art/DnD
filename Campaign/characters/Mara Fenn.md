@@ -1,7 +1,7 @@
 # Mara Fenn
 
 **Race:** Human
-**Class & Level:** Ranger 10 (Gloom Stalker)
+**Class & Level:** Ranger 11 (Gloom Stalker)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
@@ -12,12 +12,12 @@
 
 ## Combat
 - **AC:** 17 (studded leather: 12 + DEX)
-- **HP:** 69 / 69
-- **Hit Dice:** 10d10
+- **HP:** 76 / 76
+- **Hit Dice:** 11d10
 - **Speed:** 30 ft (+10 ft on the first turn of combat via Dread Ambusher)
 - **Initiative bonus:** +7 (DEX +5, plus WIS +2 from Dread Ambusher)
 - **Passive Perception:** 16
-- **Proficiency bonus:** +4 (character level 10)
+- **Proficiency bonus:** +4 (character level 11)
 
 ### Attacks
 Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into the numbers below).
@@ -47,7 +47,7 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 - **Natural Explorer (Forest, Mountain):** second terrain gained at 6th level, chosen with the Greyhorn foothills ahead in mind. Home ground in either — never gets lost except by magic, can travel stealthily at normal pace, finds double food when foraging, and gets extra information/advantage on initiative and first-round surprise attempts.
 - **Primeval Awareness:** can expend a spell slot to sense whether aberrations, celestials, dragons, elementals, fey, fiends, or undead lurk within 1 mile (6 in favored terrain).
 - **Fighting Style — Archery:** +2 to attack rolls with ranged weapons.
-- **Spellcasting:** Wisdom-based. Spell save DC 14, spell attack +6. Known: **Hunter's Mark, Longstrider, Cure Wounds, Pass without Trace, Silence, Conjure Animals** (new at lvl 9). Slots: 4 (1st), 3 (2nd), 2 (3rd).
+- **Spellcasting:** Wisdom-based. Spell save DC 14, spell attack +6. Known: **Hunter's Mark, Longstrider, Cure Wounds, Pass without Trace, Silence, Conjure Animals, Protection from Energy** (new at lvl 11). Slots: 4 (1st), 3 (2nd), 3 (3rd).
 - **Extra Attack** (5th level).
 - **Ability Score Improvement (lvl 8):** +2 DEX (18 → 20, reflected above).
 - **Land's Stride (lvl 8):** moving through nonmagical difficult terrain costs no extra movement; ignores harmful effects of magical plants unless she chooses not to.
@@ -58,6 +58,7 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 - **Umbral Sight:** darkvision 60 ft (or +30 ft if already possessed); invisible to darkvision-reliant creatures while she's in darkness or dim light.
 - **Iron Mind (lvl 7):** proficiency in Wisdom saving throws (reflected above).
 - **Bonus spells (always prepared, don't count against spells known):** Disguise Self, Rope Trick.
+- **Stalker's Flurry (lvl 11):** once per turn, when she misses with a weapon attack, she can reroll it.
 
 **Outlander**
 - Wanderer: perfect recall of terrain traveled, can always find food/fresh water in the wild for herself and up to 5 others, and find the way back to civilization.
@@ -87,5 +88,6 @@ What started as paid work became a real partnership, and — after Ravensmoor �
 - Spell slots: full (4/4 1st, 3/3 2nd, 2/2 3rd) after the level-up
 - Inspiration: no
 - **Milestone level-up (Session 14):** Ranger 8 → 10 (Gloom Stalker) — two milestones in one session: clearing the barracks/commander's post, and killing the Warden's man (a fiend) while breaking the front entrance's defense. Gained 3rd-level spell slots, learned Conjure Animals, and gained Hide in Plain Sight. Rolled +4 then +7 HP, now **69 max**.
+- **Milestone level-up (Session 15):** Ranger 10 → 11 (Gloom Stalker) — earned for solving the campaign's central mystery: Edmund Vale captured alive and Duskgate confirmed as the true target, alongside closing the Ashpit/identity arc. Gained Stalker's Flurry, 3rd-level spell slots increased to 3/3, and learned Protection from Energy. Rolled +7 HP, now **76 max**.
 - Notes: carries the copied town-hall deed entry showing Ravenshollow's ownership of the Ravensmoor fairground building.
 - **Engaged to Darkhawk/Rurik (Session 15)** — accepted on the mountain at Thundertree, the morning after the mine's fall. Welcomed by Sesha and Harek as their daughter-in-law. Terms of her own on the road ahead: everything up to the Warden is done together — Duskgate, the Circuit's fall, all of it — but the Warden himself is Darkhawk's fight alone. Her condition: she won't be shut out of the field when it happens, only out of the fight itself. To be married once the Warden is dealt with.
