@@ -2,7 +2,7 @@
 
 **Birth name:** Rurik, son of Sesha and Harek, Thundertree clan (confirmed Session 12 — still goes by "Darkhawk Blondin" day to day)
 **Race:** Goliath
-**Class & Level:** Barbarian 8 (Path of the Totem Warrior — Bear) / Fighter 3 (Battle Master)
+**Class & Level:** Barbarian 9 (Path of the Totem Warrior — Bear) / Fighter 3 (Battle Master)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
@@ -13,12 +13,12 @@
 
 ## Combat
 - **AC:** 16 (fitted breastplate: 14 + DEX = 15, +1 from Dual Wielder while wielding two melee weapons)
-- **HP:** 104 / 104
-- **Hit Dice:** 8d12 + 3d10
+- **HP:** 113 / 113
+- **Hit Dice:** 9d12 + 3d10
 - **Speed:** 40 ft (Fast Movement, Barbarian 5 — not wearing heavy armor)
 - **Initiative bonus:** +1, with **advantage** (Feral Instinct, Barbarian 7)
 - **Passive Perception:** 14
-- **Proficiency bonus:** +4 (character level 11)
+- **Proficiency bonus:** +4 (character level 12)
 
 ### Attacks
 Dual-wielding two longswords one-handed (DM house rule — narratively justified by Goliath Powerful Build; reforged by Perrin Dask into a true matched dual-wielding pair, then worked through with **sky-iron** — meteoric ore, not magic, but the blades now count as magical weapons for the purpose of overcoming resistance/immunity to nonmagical attacks). **Extra Attack (Barbarian 5):** the Attack action now grants two attacks; off-hand remains a bonus action, for three total attacks in a full turn.
@@ -58,11 +58,13 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
   - *Spirit Seeker*: can cast Beast Sense and Speak with Animals as rituals, connecting with primal/animal spirits.
   - *Totem Spirit (Bear)*: while raging, resistance to **all** damage types except psychic (upgraded from just bludgeoning/piercing/slashing).
 - **Aspect of the Beast (Bear, lvl 6)**: advantage on Strength checks to push, pull, lift, or break objects; carrying capacity doubled (stacks with Powerful Build).
+- **Bear-Claimed (Session 15, Duskgate):** surviving the anchor's soul trial left a permanent claw-shaped scar over his heart and a standing bond with the bear-spirit, not just a one-time debt. Permanent **advantage on saving throws against being charmed, frightened, or possessed.**
 - **Ability Score Improvement (lvl 4) — Dual Wielder feat**: +1 AC while wielding two melee weapons (reflected above), can two-weapon fight with non-light weapons, can draw two weapons at once.
 - **Extra Attack (lvl 5)**: the Attack action now grants two attacks.
 - **Fast Movement (lvl 5)**: +10 ft speed while not wearing heavy armor (reflected above).
 - **Feral Instinct (lvl 7)**: advantage on initiative rolls (reflected above). If surprised at the start of combat and not incapacitated, can still act normally on the first turn, provided rage is entered before doing anything else that turn.
 - **Ability Score Improvement (lvl 8)**: +2 STR (19 → 21, reflected above).
+- **Brutal Critical (lvl 9)**: roll one extra weapon damage die when he scores a critical hit.
 
 **Fighter (multiclass, 3 levels — Battle Master)**
 - **Second Wind**: bonus action, regain 1d10+2 HP. Once per short/long rest.
@@ -114,7 +116,7 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 **Converging thread:** Independent investigation into the Circuit's hidden central hub (as opposed to its known satellite sites) points toward the foothills of the Greyhorn Range — the same mountains associated with Thundertree territory. Mountain clans have reportedly grown more closed-off over the same period suspicious land purchases began there. The Circuit's true heart and Darkhawk's own lost clan may be on a collision course.
 
 ## Current Status
-- Conditions: none
+- Conditions: **Exhaustion 1** (from the anchor's soul trial at Duskgate — clears on a full long rest)
 - HP: 95 / 95 (full — leveled up twice at the end of the mine assault)
 - Hit Dice: 8d12 + 2d10 (full, refreshed with the level-up)
 - Rages used: 0 / 4 — not raging, mine and entrance both cleared
@@ -124,6 +126,7 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 - Inspiration: spent (burned on a disarm attempt against the shield-wall guards; DM owes a fresh one for good roleplay when it comes up)
 - **Milestone level-up (Session 14):** Barbarian 6 → 8 (Fighter 2 unchanged) — two milestones in one session: clearing the barracks/commander's post, and killing the Warden's man (a fiend) while breaking the front entrance's defense. Gained Feral Instinct, an ASI (+2 STR, 19→21), and rolled +12 then +8 HP, now **95 max**.
 - **Milestone level-up (Session 15):** Fighter 2 → 3, choosing **Battle Master** (Trip Attack, Disarming Attack, Riposte) — earned for solving the campaign's central mystery: Edmund Vale (the Warden's title-holder) captured alive and Duskgate confirmed as the true target, alongside closing the Ashpit/identity arc. Rolled +9 HP, now **104 max**.
+- **Milestone level-up (Session 15, Duskgate):** Barbarian 8 → 9, gaining **Brutal Critical** — earned for the campaign's true climax: breaking the anchor at Duskgate, ending the Warden's bargain permanently, and offering Malphestor itself genuine hope rather than simple vengeance. Rolled +9 HP, now **113 max**.
 - Notes: Vantor remains in magistrate custody in Kessick's Ford as a cooperating witness, awaiting formal proceedings.
 - Notes: Carries the Vantor Trading Concern/"Circuit" seal coin, a second fist-and-chain coin from Greta Ostmark's strongbox, the Keeper's signet ring and key ring, the Keeper's tally book, an unsigned letter referencing "the Warden," the Bramhollow ledgers and two Warden-sealed letters, and the fully identified regional map. Unused one-time Stealth advantage still banked.
 - Notes: The fairground building's count ledger, a second handler's ledger, and a pay roster (noting a fourth guard reassigned to the mine road the same night) are stashed under a loose floorboard at Old Harlan's Forge, Ravensmoor.

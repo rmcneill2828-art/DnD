@@ -1,7 +1,7 @@
 # Sister Ysolde Marrow
 
 **Race:** Human
-**Class & Level:** Cleric 10 (Grave Domain)
+**Class & Level:** Cleric 11 (Grave Domain)
 **Deity:** Thossia, the Arbiter — goddess of judgment and the settling of debts after death
 **Background:** Sage (Order Scholar)
 **Alignment:** Lawful Good
@@ -13,11 +13,11 @@
 
 ## Combat
 - **AC:** 17 (scale mail + shield)
-- **HP:** 69 / 69
-- **Hit Dice:** 10d8
+- **HP:** 79 / 79
+- **Hit Dice:** 11d8
 - **Speed:** 30 ft
 - **Passive Perception:** 14
-- **Proficiency bonus:** +4 (character level 10)
+- **Proficiency bonus:** +4 (character level 11)
 
 ### Attacks
 | | To Hit | Damage |
@@ -37,8 +37,8 @@ Not a frontline fighter by her own admission — her value is spellcasting, ward
 ## Features & Traits
 
 **Cleric**
-- **Spellcasting:** Wisdom-based. Spell save DC 16, spell attack +8. Prepares WIS mod + level = 14 spells daily from the full cleric list, plus domain spells always prepared. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 2 (5th).
-  - Commonly prepared: *Bless, Command, Zone of Truth, Protection from Evil and Good, Dispel Magic, Remove Curse, Banishment, Dispel Evil and Good.*
+- **Spellcasting:** Wisdom-based. Spell save DC 16, spell attack +8. Prepares WIS mod + level = 15 spells daily from the full cleric list, plus domain spells always prepared. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 2 (5th), 1 (6th).
+  - Commonly prepared: *Bless, Command, Zone of Truth, Protection from Evil and Good, Dispel Magic, Remove Curse, Banishment, Dispel Evil and Good, **Guiding Bolt** (1st — ranged radiant spell attack, solid reliable damage at range), **Spiritual Weapon** (2nd — bonus action floating ranged weapon, good action economy), **Flame Strike** (5th — ranged column of fire and radiant damage, fits Thossia's judgment theme).*
 - **Channel Divinity (2/short or long rest):** Turn Undead, and Path to the Grave (curse a creature within 30 ft — the next attack against it before the start of her next turn has advantage and scores a critical hit on any hit).
 - **Divine Intervention** (lvl 10): can call on Thossia directly to intervene, once per long rest at this level (percentage chance based on cleric level).
 
@@ -70,8 +70,10 @@ Magistrate Kell corresponded with her twice on unrelated legal-religious matters
 
 ## Current Status
 - Conditions: none
-- HP: 69 / 69 (full)
-- Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th)
+- HP: 79 / 79 (full)
+- Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th)
 - **Joined the party (Session 15)** — translated the two coded ledgers (partial copy of the bargain's renewal rite), confirmed the Warden's bargain terms (accumulated soul-tribute banked across a tenure, offered at Duskgate alongside a living successor's acceptance; grants wealth, network control, and a ward against being truly seen/scried), and identified a fortnight grace period after which Malphestor can act directly to compel a new successor if none comes willingly.
 - Performed a full day's consecration ritual on the party's weapons — lasting wards against fiends (better odds landing a blow, resistance to fear/corruption from fiends) on Darkhawk's longswords and dagger, Mara's bow and shortsword, and Sael's staff and sickle.
-- Committed to travel to the Bear Cave to examine the black scrying mirror under prepared wards, and to remain through to Duskgate itself to bless the full strike force before the final assault. Not a frontline fighter by her own admission.
+- Cast Protection from Evil and Good on Darkhawk before he approached Duskgate's inner altar — the ward against charm/fear/possession by fiends that she'd been saving for exactly that moment.
+- **Milestone level-up (Session 15, Duskgate):** Cleric 10 → 11 — earned alongside the rest of the party for breaking the anchor and ending the Warden's bargain. Rolled +10 HP, now **79 max**.
+- Not a frontline fighter by her own admission — her value was proven at Duskgate itself: wards, blessings, and the expertise nobody else in the party had.

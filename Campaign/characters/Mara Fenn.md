@@ -1,23 +1,23 @@
 # Mara Fenn
 
 **Race:** Human
-**Class & Level:** Ranger 11 (Gloom Stalker)
+**Class & Level:** Ranger 12 (Gloom Stalker)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
-| 10 (+0) | 20 (+5) | 13 (+1) | 12 (+1) | 14 (+2) | 11 (+0) |
+| 10 (+0) | 20 (+5) | 13 (+1) | 12 (+1) | 16 (+3) | 11 (+0) |
 
 ## Combat
 - **AC:** 17 (studded leather: 12 + DEX)
-- **HP:** 76 / 76
-- **Hit Dice:** 11d10
+- **HP:** 80 / 80
+- **Hit Dice:** 12d10
 - **Speed:** 30 ft (+10 ft on the first turn of combat via Dread Ambusher)
-- **Initiative bonus:** +7 (DEX +5, plus WIS +2 from Dread Ambusher)
-- **Passive Perception:** 16
-- **Proficiency bonus:** +4 (character level 11)
+- **Initiative bonus:** +8 (DEX +5, plus WIS +3 from Dread Ambusher)
+- **Passive Perception:** 17
+- **Proficiency bonus:** +4 (character level 12)
 
 ### Attacks
 Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into the numbers below).
@@ -35,8 +35,8 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 > **DM quick-check per turn: 2 attacks baseline, 3 if this is a surprise round (+1d8 on her first hit that round). Verify before rolling, don't default to 1-2.**
 
 ## Proficiencies & Skills
-- **Saving throws:** Strength +4, Dexterity +9, Wisdom +6 (Iron Mind, lvl 7)
-- **Skills:** Athletics +4, Survival +6 (Outlander), Stealth +9, Perception +6, Investigation +5 (Ranger)
+- **Saving throws:** Strength +4, Dexterity +9, Wisdom +7 (Iron Mind, lvl 7)
+- **Skills:** Athletics +4, Survival +7 (Outlander), Stealth +9, Perception +7, Investigation +5 (Ranger)
 - **Languages:** Common, +1 (Favored Enemy — suggest whatever the Circuit's own thieves'-cant-equivalent turns out to be, or Giant to better keep pace with Darkhawk at Thundertree)
 - **Tools:** none (trapper's know-how handled narratively via Survival)
 - **Weapons:** simple and martial weapons
@@ -49,9 +49,10 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 - **Natural Explorer (Forest, Mountain):** second terrain gained at 6th level, chosen with the Greyhorn foothills ahead in mind. Home ground in either — never gets lost except by magic, can travel stealthily at normal pace, finds double food when foraging, and gets extra information/advantage on initiative and first-round surprise attempts.
 - **Primeval Awareness:** can expend a spell slot to sense whether aberrations, celestials, dragons, elementals, fey, fiends, or undead lurk within 1 mile (6 in favored terrain).
 - **Fighting Style — Archery:** +2 to attack rolls with ranged weapons.
-- **Spellcasting:** Wisdom-based. Spell save DC 14, spell attack +6. Known: **Hunter's Mark, Longstrider, Cure Wounds, Pass without Trace, Silence, Conjure Animals, Protection from Energy** (new at lvl 11). Slots: 4 (1st), 3 (2nd), 3 (3rd).
+- **Spellcasting:** Wisdom-based. Spell save DC 15, spell attack +7. Known: **Hunter's Mark, Longstrider, Cure Wounds, Pass without Trace, Silence, Conjure Animals, Protection from Energy** (new at lvl 11). Slots: 4 (1st), 3 (2nd), 3 (3rd).
 - **Extra Attack** (5th level).
 - **Ability Score Improvement (lvl 8):** +2 DEX (18 → 20, reflected above).
+- **Ability Score Improvement (lvl 12):** +2 WIS (14 → 16, reflected above).
 - **Land's Stride (lvl 8):** moving through nonmagical difficult terrain costs no extra movement; ignores harmful effects of magical plants unless she chooses not to.
 - **3rd-level spell slots (lvl 9)** and **Hide in Plain Sight (lvl 10)**: with 1 minute undisturbed, can camouflage and become very hard to detect (+10 Stealth) while remaining perfectly still, breaking on movement or an attack.
 
@@ -91,5 +92,6 @@ What started as paid work became a real partnership, and — after Ravensmoor �
 - Inspiration: no
 - **Milestone level-up (Session 14):** Ranger 8 → 10 (Gloom Stalker) — two milestones in one session: clearing the barracks/commander's post, and killing the Warden's man (a fiend) while breaking the front entrance's defense. Gained 3rd-level spell slots, learned Conjure Animals, and gained Hide in Plain Sight. Rolled +4 then +7 HP, now **69 max**.
 - **Milestone level-up (Session 15):** Ranger 10 → 11 (Gloom Stalker) — earned for solving the campaign's central mystery: Edmund Vale captured alive and Duskgate confirmed as the true target, alongside closing the Ashpit/identity arc. Gained Stalker's Flurry, 3rd-level spell slots increased to 3/3, and learned Protection from Energy. Rolled +7 HP, now **76 max**.
+- **Milestone level-up (Session 15, Duskgate):** Ranger 11 → 12 (Gloom Stalker), gaining an Ability Score Improvement (+2 WIS, 14→16) — earned for the campaign's true climax: breaking the anchor at Duskgate and ending the Warden's bargain for good. Rolled +4 HP, now **80 max**.
 - Notes: carries the copied town-hall deed entry showing Ravenshollow's ownership of the Ravensmoor fairground building.
 - **Engaged to Darkhawk/Rurik (Session 15)** — accepted on the mountain at Thundertree, the morning after the mine's fall. Welcomed by Sesha and Harek as their daughter-in-law. Terms of her own on the road ahead: everything up to the Warden is done together — Duskgate, the Circuit's fall, all of it — but the Warden himself is Darkhawk's fight alone. Her condition: she won't be shut out of the field when it happens, only out of the fight itself. To be married once the Warden is dealt with.
