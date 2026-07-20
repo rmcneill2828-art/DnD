@@ -91,7 +91,7 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 | **The Bear Cave** (formerly Ashpit / the mine) | **Fully cleared and reclaimed as the party's forward base.** Renamed by Darkhawk himself — Ashpit no longer gets to own the name. Held by Kaldur and Thundertree warriors; G3, Merrick, and Vale's two guards all in custody here, kept apart from each other |
 
 ## Active Quest Log
-- **The compensation call is out.** Runners carrying word to Kessick's Ford, Fallow Cross, the Western Yard's settlements, and Ravensmoor: anyone who lost someone to the Circuit can come to the Bear Cave with proof of who they are and who they lost, to claim a share of the recovered wealth. Awaiting who actually comes.
+- **The compensation call is live and ongoing.** Reception area at the Bear Cave's entrance, staffed personally by Darkhawk. **7 verified claimants paid so far, 287 gp distributed, 953 gp remaining** in the walled-off Family Restitution Fund (whatever's left once claims stop gets split evenly across everyone who came). One false claim refused outright rather than paid. Still open — more claimants may arrive as word keeps spreading.
 - **The courier boy's origin, found in Duskgate's own ledger:** taken from a farm near Fallow Cross just over two years ago after his parents were killed refusing to hand him over; his trained silence confirmed as exactly that — training, not shyness. His family's dead, but he now has a real documented history rather than just a mystery, something Ressa Dane and Pell Ashworth could help him carry if he wants it.
 - Three other ledger entries matched known threads: a Kessick's Ford missing-persons case from Session 1, a farm near the Western Yard, and — too late to help, but not too late to tell the truth — one of the Dead Ground's old "unaccounted for" captives.
 - **Identify the engraved pendant's owner** from Duskgate's strongroom — a small, human-sized loose thread.
@@ -99,6 +99,7 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 - Decide what to do about Malphestor's uncertain, unresolved fate, if anything further is even possible.
 - Still open: who betrayed Darkhawk at Ashpit — never resolved, and Malphestor didn't know either.
 - What remains of the Circuit's scattered remnants now that its true center is gone — likely nothing organized, but unconfirmed.
+- **What's above Malphestor.** Its own words, replaying in Darkhawk's mind during the long rest: it answers to something further up, and that something will have felt every banked soul vanish the instant the anchor broke. Nobody has confirmed what that entity is, whether it can reach this far, or whether it even can act — only that it noticed.
 
 ## Player Choices of Consequence
 - Piled the Hollowmere dead with a note threatening the Warden directly — a deliberate declaration, not a cover-up.

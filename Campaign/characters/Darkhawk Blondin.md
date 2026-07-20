@@ -87,7 +87,8 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 - Hunting trap
 - An animal trophy from the mountains (flavor: a carved tusk or claw, last physical tie to a tribe he barely remembers)
 - Traveler's clothes
-- 1,720 gp (423 gp + 57 gp off the market guards + 1,240 gp from Duskgate's strongroom). Farmer's fire-tool commission still in progress, unpaid. **Earmarked for redistribution to families the Circuit destroyed, per Darkhawk's own word — not to be spent personally.**
+- 480 gp (423 gp + 57 gp off the market guards). Farmer's fire-tool commission still in progress, unpaid.
+- **Family Restitution Fund: 953 gp** (1,240 gp − 287 gp paid to 7 verified claimants) — set aside separately from all other coin, sourced entirely from Duskgate's strongroom. **Policy set:** each verified claimant receives an individual payment now; whatever remains once all claims are in gets split evenly across every claimant. One claim was refused outright — story didn't match the ledger, and Darkhawk turned it down rather than pay a claim he couldn't stand behind. Still open-ended; more claimants may yet come.
 - A small collection of gemstones and mixed rings/bracelets from the strongroom, likewise earmarked for redistribution.
 - **A matched pair of silver-inlaid dueling daggers**, exceptional craftsmanship, no maker's mark, from Duskgate's strongroom.
 - **A fine chainmail shirt**, lightweight, well-made, stripped off a "graduate" before sale — from Duskgate's strongroom.
@@ -120,7 +121,7 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 **Converging thread:** Independent investigation into the Circuit's hidden central hub (as opposed to its known satellite sites) points toward the foothills of the Greyhorn Range — the same mountains associated with Thundertree territory. Mountain clans have reportedly grown more closed-off over the same period suspicious land purchases began there. The Circuit's true heart and Darkhawk's own lost clan may be on a collision course.
 
 ## Current Status
-- Conditions: **Exhaustion 1** (from the anchor's soul trial at Duskgate — clears on a full long rest)
+- Conditions: none (exhaustion cleared after a full long rest at the Bear Cave)
 - HP: 95 / 95 (full — leveled up twice at the end of the mine assault)
 - Hit Dice: 8d12 + 2d10 (full, refreshed with the level-up)
 - Rages used: 0 / 4 — not raging, mine and entrance both cleared
