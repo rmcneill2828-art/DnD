@@ -87,7 +87,11 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 - Hunting trap
 - An animal trophy from the mountains (flavor: a carved tusk or claw, last physical tie to a tribe he barely remembers)
 - Traveler's clothes
-- 423 gp (361 gp + 40 gp off Edmund Vale + 22 gp off his two guards). Farmer's fire-tool commission still in progress, unpaid.
+- 1,720 gp (423 gp + 57 gp off the market guards + 1,240 gp from Duskgate's strongroom). Farmer's fire-tool commission still in progress, unpaid. **Earmarked for redistribution to families the Circuit destroyed, per Darkhawk's own word — not to be spent personally.**
+- A small collection of gemstones and mixed rings/bracelets from the strongroom, likewise earmarked for redistribution.
+- **A matched pair of silver-inlaid dueling daggers**, exceptional craftsmanship, no maker's mark, from Duskgate's strongroom.
+- **A fine chainmail shirt**, lightweight, well-made, stripped off a "graduate" before sale — from Duskgate's strongroom.
+- **A gold pendant, deep-blue stone, engraved with unknown initials** — someone's, once. Worth trying to identify and return rather than keep.
 - **Edmund Vale's signet ring** — plain iron, fist-and-chain sigil, worn smooth from more than one owner's hand. Physical proof the "Warden" title is inherited rather than personal.
 - **Edmund Vale's document case** — personal correspondence confirming his name, and an unsent letter to "my successor" with instructions for the parcel "if the reckoning comes for me before the bargain does."
 - **The foothill parcel's preliminary manifest** — unsigned, listing an expected first intake of 12-15 captives once the strongroom's operational, timed to after the mine's numbers would have closed. Confirms this site was built as the mine's replacement.
