@@ -91,7 +91,9 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 | **The Bear Cave** (formerly Ashpit / the mine) | **Fully cleared and reclaimed as the party's forward base.** Renamed by Darkhawk himself — Ashpit no longer gets to own the name. Held by Kaldur and Thundertree warriors; G3, Merrick, and Vale's two guards all in custody here, kept apart from each other |
 
 ## Active Quest Log
-- **Distribute the recovered wealth** to the families actually owed it — Yorik Stonebrand, Vessa and Kessa Alderhawk, and everyone else this campaign has touched are the obvious starting list.
+- **The compensation call is out.** Runners carrying word to Kessick's Ford, Fallow Cross, the Western Yard's settlements, and Ravensmoor: anyone who lost someone to the Circuit can come to the Bear Cave with proof of who they are and who they lost, to claim a share of the recovered wealth. Awaiting who actually comes.
+- **The courier boy's origin, found in Duskgate's own ledger:** taken from a farm near Fallow Cross just over two years ago after his parents were killed refusing to hand him over; his trained silence confirmed as exactly that — training, not shyness. His family's dead, but he now has a real documented history rather than just a mystery, something Ressa Dane and Pell Ashworth could help him carry if he wants it.
+- Three other ledger entries matched known threads: a Kessick's Ford missing-persons case from Session 1, a farm near the Western Yard, and — too late to help, but not too late to tell the truth — one of the Dead Ground's old "unaccounted for" captives.
 - **Identify the engraved pendant's owner** from Duskgate's strongroom — a small, human-sized loose thread.
 - Tell Vosk, the wider coalition, and everyone at Kessick's Ford how this actually ended — the bargain's real nature was never fully explained to most of them.
 - Decide what to do about Malphestor's uncertain, unresolved fate, if anything further is even possible.
