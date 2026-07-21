@@ -47,6 +47,7 @@ Not a frontline fighter by her own admission — her value is spellcasting, ward
 - **Circle of Mortality:** when healing a creature at 0 HP, healing dice are treated as rolling their maximum.
 - **Eyes of the Grave:** can sense undead within 60 ft as an action, a limited number of times per day.
 - **Sentinel at Death's Door** (lvl 8): a limited number of times per day, can turn a critical hit against a creature within 30 ft into a normal hit.
+- **The Storm's Judgment (Session 18, the ancient village):** Ysolde offered the truth of stepping out from thirty years of careful scholarship into real action to a primal spirit of storm, and it answered. Once per long rest, as a bonus action, she can call its charge into her next spell: the first creature it damages before the end of her next turn must also succeed on a Wisdom save (her spell save DC) or have disadvantage on its next saving throw.
 
 **Sage (Order Scholar) background**
 - **Researcher:** if she doesn't know a piece of lore, she usually knows where or from whom she can obtain it — in this case, her own order's archives on infernal contracts and pacts.

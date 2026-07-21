@@ -50,6 +50,7 @@
 **Circle of the Moon**
 - **Combat Wild Shape:** can Wild Shape as a bonus action, and can use a spell slot as a bonus action while shape-shifted to heal HP equal to twice the slot's level.
 - **Circle Forms:** can transform into beasts with a challenge rating as high as 1 at 2nd level, and higher as she gains levels (CR 3 at 9th).
+- **The Mountain's Patience (Session 18, the ancient village):** Sael offered the truth of her own ended solitude — choosing to stay and be seen rather than watch from a distance — to a primal spirit of stone, and it answered. Once per long rest, as a reaction when she takes damage, she can reduce it by 1d12 + her Constitution modifier, her skin going briefly hard and unyielding as old rock.
 
 **Hermit**
 - **Discovery:** during her years alone in the wild, uncovered a genuine, profound truth — the existence of a real bear-spirit tied to acts of mercy in extremity, and her own part in one of its rare interventions.

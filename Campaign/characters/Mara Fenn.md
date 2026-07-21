@@ -62,6 +62,7 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 - **Iron Mind (lvl 7):** proficiency in Wisdom saving throws (reflected above).
 - **Bonus spells (always prepared, don't count against spells known):** Disguise Self, Rope Trick.
 - **Stalker's Flurry (lvl 11):** once per turn, when she misses with a weapon attack, she can reroll it.
+- **The Deep Water's Stillness (Session 18, the ancient village):** Mara offered the truth of her own patient watchfulness to a primal spirit of still water, and it answered. Once per long rest, as a reaction when she would be hit by an attack, she can go perfectly, deliberately still — the attack automatically misses, as if she'd simply yielded around it rather than been struck.
 
 **Outlander**
 - Wanderer: perfect recall of terrain traveled, can always find food/fresh water in the wild for herself and up to 5 others, and find the way back to civilization.
