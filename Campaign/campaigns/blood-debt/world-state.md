@@ -3,8 +3,10 @@
 _Living tracker — active threads only. Full history lives in `session-log.md`; this file should always be quick to scan._
 
 ## Party
-- **Location:** Deep in the unmapped Greyhorn Range, at **the Standing Ring** — days past the last marker stone any Thundertree hunter has ever reached. Home base remains **Urskelde** ("the bear's shelter" in Giant — formerly Ashpit/the mine/"the Bear Cave"), now stable enough to run without the party (Kaldur, plus newly-trusted deputies Idra and Torvin, hold it).
-- **The Greyhorn expedition is underway.** Marching order: Sael and Mara lead, Ysolde center, Darkhawk rear. Mara's Primeval Awareness confirmed a single, unmoving elemental presence within range — "settled," not roaming. The party found **the Standing Ring**: an ancient circle of standing stones around a counterweighted central slab, four of the stones each head a carved channel running to the center. Investigation (Mara, Sael, Ysolde all rolled 21+) confirmed it's a deliberate binding, still holding, not failing — and that forcing it is dangerous; it must be opened by ritual, not force. Darkhawk reached out to the bear-spirit directly, which answered with an impression: **walk the ring, don't break it open — it takes four.** The party is now positioned at the four channel-stones, about to walk inward together. Outcome not yet resolved.
+- **Location:** The Standing Ring's inner chamber, deep in the unmapped Greyhorn Range. Home base remains **Urskelde** ("the bear's shelter" in Giant — formerly Ashpit/the mine/"the Bear Cave"), stable enough to run without the party (Kaldur, plus deputies Idra and Torvin, hold it).
+- **The Standing Ring, resolved (for now):** the four-person ritual walk opened a hidden stair beneath the central slab, descending to a sealed chamber. There the party met **Kethrun**, an ancient stone sentinel — goliath-kin-made, older than Thundertree's own history — set to guard **an ancient sealed wound** where something extraplanar once tried to force a foothold into these mountains, fought back by long-dead goliath-kin and primal spirits (kin to the bear-spirit) working together. Kethrun confirmed Urskelde's own boundary cairns are the "lesser ward" technique of the same ancient tradition — whoever built them was unknowingly continuing his makers' work.
+- **The seal is thinning, and it's connected to the main threat:** Kethrun has felt something testing the seal faintly since the night Duskgate's anchor broke — very likely whatever sits above Malphestor, searching for a new foothold now that its old one (the Warden's bargain) failed. Closing this fully won't end that threat, but buys real time.
+- **Darkhawk formally took Kethrun and the wound under Urskelde's protection** — asked for, not assumed. Kethrun accepted: he'll sense anything testing the seal and relay warning through the cairns if they're kept tended, in exchange for Urskelde sending people (a mason who understands old ward-work, a cleric to renew blessings regularly) to help him maintain the seal rather than leaving him to hold it alone. Darkhawk intends to bring this to a full council before committing resources.
 - **Darkhawk and Mara are married**, not just engaged — a Thundertree rite plus Sister Ysolde's blessing, arranged in secret by Darkhawk as a surprise. (See character sheets for details.)
 - **Duskgate is fully and completely resolved.** The anchor is broken, the Warden's bargain permanently ended, every soul bound to the altar freed. Market cleared, captives freed, strongroom wealth recovered (see character sheets for gold/gear — authoritative, not duplicated here).
 - **Malphestor's fate is unknown** — stripped of purpose, not hostile, walked off to await judgment from its own superiors. Its parting words hinted at something further up the chain that felt every banked soul vanish when the anchor broke; nobody's confirmed what that is or whether it can reach this far.
@@ -15,7 +17,7 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 - **Thundertree losses at the entrance:** three warriors dead (Ren Alderhawk, Bram and Torin Stonebrand), 8-9 wounded but recovering. Told in person by Rurik and Kaldur. Yorik Stonebrand gave Rurik a mourning-stone to carry into battle; Ren's widow Vessa and daughter Kessa asked only that he be remembered as a friend.
 
 ## Active leads / evidence
-- **The Standing Ring** — see Party notes above. The immediate active thread.
+- **Kethrun and the sealed wound** — see Party notes above. Now the primary active thread going into Part Two: directly connects Urskelde's own cairns, the bear-spirit's tradition, and whatever sits above Malphestor searching for a new foothold.
 - **Ravenshollow's regional office lead — resolved, low priority.** Halvard traced the unfamiliar signature to Ostrin Vahl, Vale's ordinary bookkeeper, now vanished with no trail; the unidentified third town turned out to be a dead, undeveloped parcel. Halvard's read: someone covering their own tracks, not a hidden conspiracy. Not worth chasing further unless something new surfaces.
 
 ## Key NPCs (active)
@@ -39,6 +41,7 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 | Merrick | **Captive at Urskelde, unaware** | Vale's groomed successor — must never reach Duskgate |
 | Malphestor, the Reckoner | Purposeless, fate unknown, not hostile | Recognized Darkhawk as Ashpit's "number 7" via the scrying mirror, surprised he defied its ledger's expectations; left alive at Duskgate after Darkhawk offered it a chance at redemption |
 | Yorik Stonebrand / Vessa & Kessa Alderhawk | Allies, grieving, Thundertree | Lost sons/husband at the mine entrance |
+| **Kethrun** | **Ally, ancient sentinel, under Urskelde's protection** | Goliath-kin-made stone guardian, older than Thundertree, sealed beneath the Standing Ring guarding an ancient extraplanar wound. Confirmed Urskelde's cairns are the same ancient ward-tradition. Needs a mason and a cleric sent to help him maintain the seal. |
 
 *(Resolved NPCs and enemies — mine garrison, Ravensmoor cast, freed captives, etc. — no open threads; full accounting in `session-log.md`.)*
 
@@ -55,10 +58,11 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 | Thundertree | Darkhawk's birth clan; family reunited, alliance secured with Vosk |
 | **Urskelde** (formerly Ashpit/the mine/"the Bear Cave") | **Home base, stable without the party present.** Fully cleared, held by Kaldur, Idra, and Torvin; Vale, Merrick, G3, and Vale's two guards in custody, both cells warded. Charter sealed, sky-iron confirmed and being worked into the party's gear, council chamber and Sael's grove under construction. |
 | **The cairns** (Urskelde's northern boundary) | Six goliath-worked "watch-cairns," rite performed by Vosk. No building permitted within a bowshot, ever. |
-| **The Standing Ring** (deep Greyhorn Range) | **Current location.** An ancient stone circle binding a single, settled elemental presence beneath a central slab. Party is positioned to open it by ritual (see Party notes). |
+| **The Standing Ring** (deep Greyhorn Range) | **Opened.** A hidden stair beneath the ring's central slab leads to Kethrun's sealed chamber, guarding an ancient extraplanar wound. Now under Urskelde's protection. |
 
 ## Active Quest Log
-- **The Standing Ring — immediate, in progress.** The party is positioned at the four channel-stones, about to walk the ring inward together per the bear-spirit's guidance. Outcome unresolved.
+- **Bring Kethrun's ask to a full council** before committing Urskelde's resources — a mason who understands old ward-work, and a cleric to renew the seal's blessing regularly.
+- **The seal is thinning** — whatever sits above Malphestor is very likely already searching for this exact foothold. Not an immediate crisis, but a live, active clock.
 - **The compensation call** at Urskelde's entrance is slowing naturally as word runs its course. (Figures tracked on Darkhawk's character sheet, not duplicated here.)
 - Urskelde's settlement charter is sealed; council chamber and Sael's grove under construction, no firm deadline.
 - The full regional council proposal has Kessick's Ford's formal written backing; Vosk is carrying it to the other clans.
@@ -71,4 +75,4 @@ A running pattern, not a fixed rule: Darkhawk has moved between ruthless (killin
 
 ## Loose Threads
 - **Who betrayed Darkhawk at Ashpit** — still unknown; even Vantor didn't know. A recovered memory got close to a face before it slipped away.
-- **The mountain wound — now the Standing Ring, actively being resolved.** See Active Quest Log above. Confirmed so far: a single, settled elemental presence, deliberately bound, still holding rather than failing. Whether it's connected to the Ashpit betrayal, to Darkhawk's own history, or to nothing beyond old Thundertree duty is still unknown.
+- **What's above Malphestor, confirmed to be actively searching for a new foothold** — Kethrun felt it testing the Standing Ring's seal since the night Duskgate's anchor broke. Not yet found, per Kethrun, but actively looking.
