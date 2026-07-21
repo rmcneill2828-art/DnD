@@ -87,11 +87,12 @@ What started as paid work became a real partnership, and — after Ravensmoor �
 
 ## Current Status
 - Conditions: none
-- HP: 69 / 69 (full — leveled up twice at the end of the mine assault)
-- Spell slots: full (4/4 1st, 3/3 2nd, 2/2 3rd) after the level-up
+- HP: 80 / 80 (full)
+- Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd)
 - Inspiration: no
 - **Milestone level-up (Session 14):** Ranger 8 → 10 (Gloom Stalker) — two milestones in one session: clearing the barracks/commander's post, and killing the Warden's man (a fiend) while breaking the front entrance's defense. Gained 3rd-level spell slots, learned Conjure Animals, and gained Hide in Plain Sight. Rolled +4 then +7 HP, now **69 max**.
 - **Milestone level-up (Session 15):** Ranger 10 → 11 (Gloom Stalker) — earned for solving the campaign's central mystery: Edmund Vale captured alive and Duskgate confirmed as the true target, alongside closing the Ashpit/identity arc. Gained Stalker's Flurry, 3rd-level spell slots increased to 3/3, and learned Protection from Energy. Rolled +7 HP, now **76 max**.
 - **Milestone level-up (Session 15, Duskgate):** Ranger 11 → 12 (Gloom Stalker), gaining an Ability Score Improvement (+2 WIS, 14→16) — earned for the campaign's true climax: breaking the anchor at Duskgate and ending the Warden's bargain for good. Rolled +4 HP, now **80 max**.
 - Notes: carries the copied town-hall deed entry showing Ravenshollow's ownership of the Ravensmoor fairground building.
-- **Engaged to Darkhawk/Rurik (Session 15)** — accepted on the mountain at Thundertree, the morning after the mine's fall. Welcomed by Sesha and Harek as their daughter-in-law. Terms of her own on the road ahead: everything up to the Warden is done together — Duskgate, the Circuit's fall, all of it — but the Warden himself is Darkhawk's fight alone. Her condition: she won't be shut out of the field when it happens, only out of the fight itself. To be married once the Warden is dealt with.
+- **Married to Darkhawk/Rurik (Session 16)** — engaged at Thundertree the morning after the mine's fall (Session 15); married there for real weeks later, in a surprise ceremony Darkhawk arranged behind her back the entire way from Kessick's Ford. Both a Thundertree rite (Vosk officiating) and Sister Ysolde's blessing of Thossia were given. Wears a carved bear-and-arrow pendant, split from Darkhawk's own lifelong trophy and reworked by Thundertree's carver — his family's history and hers, cut from the same piece.
+- **Equipment addition:** a carved bear-and-arrow pendant (wedding gift, Thundertree craftsmanship) — sentimental, not magical.
