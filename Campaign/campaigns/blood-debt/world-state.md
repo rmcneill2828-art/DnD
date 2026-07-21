@@ -3,7 +3,8 @@
 _Living tracker — active threads only. Full history lives in `session-log.md`; this file should always be quick to scan._
 
 ## Party
-- **Location:** Thundertree, having just been married there (Session 16). Home base is **Urskelde** ("the bear's shelter" in Giant — formerly Ashpit/the mine/"the Bear Cave," renamed by Darkhawk himself), fully cleared, safe, and battle-hardened. Kaldur confirms it's the best-prepared the base has ever been.
+- **Location:** Deep in the unmapped Greyhorn Range, at **the Standing Ring** — days past the last marker stone any Thundertree hunter has ever reached. Home base remains **Urskelde** ("the bear's shelter" in Giant — formerly Ashpit/the mine/"the Bear Cave"), now stable enough to run without the party (Kaldur, plus newly-trusted deputies Idra and Torvin, hold it).
+- **The Greyhorn expedition is underway.** Marching order: Sael and Mara lead, Ysolde center, Darkhawk rear. Mara's Primeval Awareness confirmed a single, unmoving elemental presence within range — "settled," not roaming. The party found **the Standing Ring**: an ancient circle of standing stones around a counterweighted central slab, four of the stones each head a carved channel running to the center. Investigation (Mara, Sael, Ysolde all rolled 21+) confirmed it's a deliberate binding, still holding, not failing — and that forcing it is dangerous; it must be opened by ritual, not force. Darkhawk reached out to the bear-spirit directly, which answered with an impression: **walk the ring, don't break it open — it takes four.** The party is now positioned at the four channel-stones, about to walk inward together. Outcome not yet resolved.
 - **Darkhawk and Mara are married**, not just engaged — a Thundertree rite plus Sister Ysolde's blessing, arranged in secret by Darkhawk as a surprise. (See character sheets for details.)
 - **Duskgate is fully and completely resolved.** The anchor is broken, the Warden's bargain permanently ended, every soul bound to the altar freed. Market cleared, captives freed, strongroom wealth recovered (see character sheets for gold/gear — authoritative, not duplicated here).
 - **Malphestor's fate is unknown** — stripped of purpose, not hostile, walked off to await judgment from its own superiors. Its parting words hinted at something further up the chain that felt every banked soul vanish when the anchor broke; nobody's confirmed what that is or whether it can reach this far.
@@ -14,7 +15,8 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 - **Thundertree losses at the entrance:** three warriors dead (Ren Alderhawk, Bram and Torin Stonebrand), 8-9 wounded but recovering. Told in person by Rurik and Kaldur. Yorik Stonebrand gave Rurik a mourning-stone to carry into battle; Ren's widow Vessa and daughter Kessa asked only that he be remembered as a friend.
 
 ## Active leads / evidence
-- **Ravenshollow's regional office** (the city Ysolde's order calls home) is being quietly wound down — found shuttered, evidence burned "with real discipline," not panic. A surviving half-burned ledger page lists property holdings in three towns (two known to Halvard, one unidentified), and an unsent letter bears an unfamiliar personal signature — someone besides Vale had signing authority there and fled the moment he was taken. Halvard is running it down through his contacts; expect word in 3-4 weeks.
+- **The Standing Ring** — see Party notes above. The immediate active thread.
+- **Ravenshollow's regional office lead — resolved, low priority.** Halvard traced the unfamiliar signature to Ostrin Vahl, Vale's ordinary bookkeeper, now vanished with no trail; the unidentified third town turned out to be a dead, undeveloped parcel. Halvard's read: someone covering their own tracks, not a hidden conspiracy. Not worth chasing further unless something new surfaces.
 
 ## Key NPCs (active)
 | Name | Status | One-line context |
@@ -22,15 +24,15 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 | Mara Fenn | Wife, full party member | Ranger 12 Gloom Stalker; married to Darkhawk (Session 16) |
 | Sael | Full party member | Druid 10, bear-kin; secretly saved Darkhawk at Ashpit years ago |
 | Sister Ysolde Marrow | Full party member | Cleric 11 (Grave Domain); translated the ledgers, wards the party against fiends |
-| Kaldur Stonewake | Ally, holding Urskelde; called "brother" by Darkhawk | Ninebells Goliath; runs the garrison, wards complete, council chamber and Sael's grove now staked out |
+| Kaldur Stonewake | Ally, holding Urskelde; called "brother" by Darkhawk | Ninebells Goliath; runs the garrison with new deputies Idra and Torvin trained to hold it without the party present |
 | Sesha & Harek | Darkhawk's parents, Thundertree | Welcomed Mara as family and daughter-in-law; helped arrange the wedding gift in secret |
 | Thyra | Darkhawk's sister, Thundertree | Now met — happy to see him, walked and talked, curious about his years as a gladiator |
-| Elder Vosk | Thundertree's speaker, ally | Officiated the wedding, personally led the cairns' rite ("watched, and remembered"), toured Urskelde and approved of it, gave three conditions for the mining/settlement charter (real share of the vein's wealth to Thundertree, first choice on plots for Thundertree families, the charter naming Thundertree's claim to the whole Greyhorn stretch alongside the settlement's — sent to Corwin, awaiting his finished draft for her seal). Committed to sharing what little lore Thundertree keeps and finding a guide once Darkhawk is ready for the Greyhorn expedition. |
-| Tomas & Halvard Reeve | Standing allies, House Reeve | Kessick's Ford has given full formal written backing to the regional council. Halvard drafted settler incentives (awaiting the finished charter and Vosk's seal) and is chasing the Ravenshollow office lead. |
-| Corwin Pell | Ally, Kessick's Ford | Decoded ledgers confirmed as the bargain's own contract; compiling the true account of how it ended; now also finalizing the mining/settlement charter with Vosk's three conditions folded in |
+| Elder Vosk | Thundertree's speaker, ally | Officiated the wedding, personally led the cairns' rite, sealed Urskelde's finished charter, gave one further fragment of old lore ("what sleeps beneath stone does not dream kindly — wake it gently, or not at all") ahead of the Greyhorn expedition. |
+| Tomas & Halvard Reeve | Standing allies, House Reeve | Kessick's Ford's formal backing for the regional council stands. Ravenshollow office lead run down and closed (see Active leads). |
+| Corwin Pell | Ally, Kessick's Ford | Finished Urskelde's charter with Vosk's three conditions folded in — now sealed and binding. |
 | Magistrate Aldric Kell | Official ally | Holding Vantor and the turned Circuit operative in custody; personally briefed on the full truth, backs the regional council |
-| Perrin Dask | Ally, smith, at Urskelde | Confirmed the main vein as a real, worthwhile iron source. Found a smaller seam that may be sky-iron-adjacent — excavating properly now (~2 weeks); Darkhawk, Mara, Sael, and Ysolde get first pick of anything it yields, ahead of trade or the garrison |
-| Greta Ostmark | Ally, at Urskelde (traveled from Ravensmoor) | Master smith, still holds Old Harlan's Forge too; assessing the possible sky-iron seam alongside Perrin, and commissioned to craft the council chamber's round table once the site's ready |
+| Perrin Dask | Ally, smith, at Urskelde | Confirmed the seam genuinely is sky-iron. Reworked Darkhawk's chainmail shirt and crafted him sky-iron bracers (+1 AC); reforging Mara's, Ysolde's, and Sael's gear next. |
+| Greta Ostmark | Ally, at Urskelde (traveled from Ravensmoor) | Master smith; helped confirm the sky-iron seam and is queued to craft the council chamber's round table |
 | Fenris Cray / Rennick | Allies, garrisoning the waystation and relay stops | Rennick turned rather than killed; now reports to Cray |
 | Ressa Dane / courier boy | Allies, Fallow Cross | Boy's origin traced via Duskgate's ledger; family dead, given a real task and documented history |
 | Edmund Vale | **Captive at Urskelde, cooperating** | Confirmed to be the Warden himself; revealed Merrick as his groomed successor as a final act of redemption |
@@ -51,24 +53,22 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 | The waystation / relay stops | Held, garrisoned under Fenris Cray |
 | Duskgate | **Fully resolved** — bargain broken, anchor destroyed, market cleared |
 | Thundertree | Darkhawk's birth clan; family reunited, alliance secured with Vosk |
-| **Urskelde** (formerly Ashpit/the mine/"the Bear Cave") | **Current base, now formally named.** Fully cleared, held by Kaldur and Thundertree warriors; Vale, Merrick, G3, and Vale's two guards in custody here, both cells now warded by Ysolde's order. Land survey complete; council chamber and Sael's grove staked out; sky-iron-adjacent seam under excavation. |
-| **The cairns** (Urskelde's northern boundary) | Six goliath-worked "watch-cairns," rite performed by Vosk. Old lore (thin, half-remembered) suggests they mark the living's charge to keep some old "wound" in the deep Greyhorn shut. No building permitted within a bowshot, ever. |
+| **Urskelde** (formerly Ashpit/the mine/"the Bear Cave") | **Home base, stable without the party present.** Fully cleared, held by Kaldur, Idra, and Torvin; Vale, Merrick, G3, and Vale's two guards in custody, both cells warded. Charter sealed, sky-iron confirmed and being worked into the party's gear, council chamber and Sael's grove under construction. |
+| **The cairns** (Urskelde's northern boundary) | Six goliath-worked "watch-cairns," rite performed by Vosk. No building permitted within a bowshot, ever. |
+| **The Standing Ring** (deep Greyhorn Range) | **Current location.** An ancient stone circle binding a single, settled elemental presence beneath a central slab. Party is positioned to open it by ritual (see Party notes). |
 
 ## Active Quest Log
-- **The compensation call is live and ongoing** at Urskelde's entrance, staffed by Darkhawk. (Figures tracked on his character sheet, not duplicated here.) Two false claims refused outright; still open to more claimants.
-- **Urskelde becomes a settlement — in progress:**
-  1. Charter (Vosk's three conditions + Halvard's settler incentives) with Corwin, awaiting his finished draft and Vosk's seal.
-  2. Sky-iron-adjacent seam under excavation, ~2 weeks out from confirmation.
-  3. Council chamber (a perfect round table set into a natural stone ring, open to the sky) and Sael's private grove both staked out; construction beginning, no firm deadline since the first council is still weeks off.
+- **The Standing Ring — immediate, in progress.** The party is positioned at the four channel-stones, about to walk the ring inward together per the bear-spirit's guidance. Outcome unresolved.
+- **The compensation call** at Urskelde's entrance is slowing naturally as word runs its course. (Figures tracked on Darkhawk's character sheet, not duplicated here.)
+- Urskelde's settlement charter is sealed; council chamber and Sael's grove under construction, no firm deadline.
 - The full regional council proposal has Kessick's Ford's formal written backing; Vosk is carrying it to the other clans.
 - Tell the wider coalition (beyond Kessick's Ford, now resolved) the full truth of how the bargain actually ended.
 - Decide what, if anything, can be done about Malphestor's unresolved fate.
 - What's above Malphestor — its parting words hinted at something further up the chain that felt every banked soul vanish when the anchor broke; still unconfirmed.
-- **The Greyhorn expedition (new goal):** the cairns' rite name — "watch-cairns" — and Vosk's own half-remembered lore suggest they mark a charge to keep some old "wound" shut, deep in the unmapped Greyhorn Range. Darkhawk intends to go find out what it actually is, with Vosk's blessing, once Urskelde is stable enough to stand without him and a real guide/provisions are arranged.
 
 ## Player Choices of Consequence
 A running pattern, not a fixed rule: Darkhawk has moved between ruthless (killing surrendering guards at the mine-road ambush, no-quarter at the fairground building) and merciful (turning the waystation and first relay stop rather than killing, freeing captives with a genuine choice to flee or fight, taking Vale alive) depending on the moment and who's in front of him — usually erring toward mercy when someone stops actively fighting, but not always. **The defining choice of the campaign so far, at Duskgate:** rather than kill Malphestor, Darkhawk engaged it honestly, learned the anchor (not the devil) was the real target, and risked his own soul to break it instead — leaving Malphestor alive and telling it "if anger can fall, maybe devils can rise." Full blow-by-blow of each encounter is in `session-log.md`.
 
 ## Loose Threads
 - **Who betrayed Darkhawk at Ashpit** — still unknown; even Vantor didn't know. A recovered memory got close to a face before it slipped away.
-- **The mountain wound** — thin, half-believed Thundertree lore holds that something old and dangerous sits deep in the Greyhorn Range, and that mountain-born folk are charged with keeping it shut rather than investigating it. The cairns on Urskelde's boundary may be part of that same watch. Completely unconfirmed; see the Greyhorn expedition above.
+- **The mountain wound — now the Standing Ring, actively being resolved.** See Active Quest Log above. Confirmed so far: a single, settled elemental presence, deliberately bound, still holding rather than failing. Whether it's connected to the Ashpit betrayal, to Darkhawk's own history, or to nothing beyond old Thundertree duty is still unknown.

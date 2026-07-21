@@ -12,7 +12,7 @@
 | 21 (+5) | 13 (+1) | 14 (+2) | 8 (−1) | 11 (+0) | 10 (+0) |
 
 ## Combat
-- **AC:** 16 (fitted breastplate: 14 + DEX = 15, +1 from Dual Wielder while wielding two melee weapons)
+- **AC:** 17 (fitted breastplate: 14 + DEX = 15, +1 from Dual Wielder while wielding two melee weapons, +1 from sky-iron bracers)
 - **HP:** 113 / 113
 - **Hit Dice:** 9d12 + 3d10
 - **Speed:** 40 ft (Fast Movement, Barbarian 5 — not wearing heavy armor)
@@ -91,7 +91,8 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 - **Family Restitution Fund: 788 gp** (1,240 gp − 452 gp paid to 11 verified claimants) — set aside separately from all other coin, sourced entirely from Duskgate's strongroom. **Policy set:** each verified claimant receives an individual payment now; whatever remains once all claims are in gets split evenly across every claimant. Two claims have been refused outright where the story didn't match the ledger; one claim was paid on judgment alone (Mara's and Darkhawk's read of the man, not the ledger, which had no record of him at all) — a reminder the ledger's silence isn't proof of anything. Still open-ended; more claimants may yet come.
 - A small collection of gemstones and mixed rings/bracelets from the strongroom, likewise earmarked for redistribution.
 - **A matched pair of silver-inlaid dueling daggers**, exceptional craftsmanship, no maker's mark, from Duskgate's strongroom.
-- **A fine chainmail shirt**, lightweight, well-made, stripped off a "graduate" before sale — from Duskgate's strongroom.
+- **A fine chainmail shirt**, lightweight, well-made, stripped off a "graduate" before sale — from Duskgate's strongroom. Reworked with sky-iron by Perrin and Greta: not magical, but counts as magical armor for overcoming resistance/immunity, same as his longswords. A backup/alternate set to the breastplate.
+- **Sky-iron bracers**, fitted by Perrin — reinforced for blocking and parrying rather than just decorative. **+1 AC** (reflected above).
 - **The engraved pendant, returned** — identified and given back to its owner's aunt at the restitution line; the initials were her late sister's, worn by her daughter Mira in memory. Thread closed.
 - **Edmund Vale's signet ring** — plain iron, fist-and-chain sigil, worn smooth from more than one owner's hand. Physical proof the "Warden" title is inherited rather than personal.
 - **Edmund Vale's document case** — personal correspondence confirming his name, and an unsent letter to "my successor" with instructions for the parcel "if the reckoning comes for me before the bargain does."
