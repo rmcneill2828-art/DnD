@@ -2,40 +2,40 @@
 
 **Birth name:** Rurik, son of Sesha and Harek, Thundertree clan (confirmed Session 12 — still goes by "Darkhawk Blondin" day to day)
 **Race:** Goliath
-**Class & Level:** Barbarian 9 (Path of the Totem Warrior — Bear) / Fighter 3 (Battle Master)
+**Class & Level:** Barbarian 9 (Path of the Totem Warrior — Bear) / Fighter 4 (Battle Master)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
-| 21 (+5) | 13 (+1) | 14 (+2) | 8 (−1) | 11 (+0) | 10 (+0) |
+| 21 (+5) | 13 (+1) | 14 (+2) | 8 (−1) | 12 (+1) | 10 (+0) |
 
 ## Combat
 - **AC:** 17 (fitted breastplate: 14 + DEX = 15, +1 from Dual Wielder while wielding two melee weapons, +1 from sky-iron bracers)
-- **HP:** 113 / 113
-- **Hit Dice:** 9d12 + 3d10
+- **HP:** 117 / 117
+- **Hit Dice:** 9d12 + 4d10
 - **Speed:** 40 ft (Fast Movement, Barbarian 5 — not wearing heavy armor)
 - **Initiative bonus:** +1, with **advantage** (Feral Instinct, Barbarian 7)
-- **Passive Perception:** 14
-- **Proficiency bonus:** +4 (character level 12)
+- **Passive Perception:** 15
+- **Proficiency bonus:** +5 (character level 13)
 
 ### Attacks
 Dual-wielding two longswords one-handed (DM house rule — narratively justified by Goliath Powerful Build; reforged by Perrin Dask into a true matched dual-wielding pair, then worked through with **sky-iron** — meteoric ore, not magic, but the blades now count as magical weapons for the purpose of overcoming resistance/immunity to nonmagical attacks). **Extra Attack (Barbarian 5):** the Attack action now grants two attacks; off-hand remains a bonus action, for three total attacks in a full turn.
 
 | | To Hit | Damage (not raging) | Damage (raging) |
 |---|---|---|---|
-| Main-hand longsword (x2, Extra Attack) | +8 | 1d8+5 slashing | 1d8+7 slashing |
-| Off-hand longsword (bonus action) | +8 | 1d8+5 slashing | 1d8+7 slashing |
-| Javelin (thrown, 30/120) | +8 | 1d6+5 piercing | 1d6+7 piercing |
+| Main-hand longsword (x2, Extra Attack) | +10 | 1d8+5 slashing | 1d8+7 slashing |
+| Off-hand longsword (bonus action) | +10 | 1d8+5 slashing | 1d8+7 slashing |
+| Javelin (thrown, 30/120) | +10 | 1d6+5 piercing | 1d6+7 piercing |
 
 *Reforge grants STR modifier to off-hand damage. Dual Wielder feat (taken at level 4) adds the +1 AC on top of that, reflected above.*
 
 **Consecrated against fiends (Sister Ysolde, Session 15):** both longswords and the +1 dagger now carry a lasting ward against fiends specifically — better odds landing a blow true, plus some resistance to the fear and corruption fiends favor using before a fight even starts.
 
 ## Proficiencies & Skills
-- **Saving throws:** Strength +9, Constitution +6
-- **Skills:** Athletics +9, Survival +4, Perception +4, Intimidation +4, Animal Handling +4
+- **Saving throws:** Strength +10, Constitution +7, Wisdom +6 (Resilient, lvl Fighter 4)
+- **Skills:** Athletics +10, Survival +6, Perception +6, Intimidation +5, Animal Handling +6
 - **Languages:** Common, Giant, +1 (Outlander choice — suggest Dwarvish or Orc, pick when it matters in-story)
 - **Tools:** one musical instrument (Outlander — suggest a tribal drum)
 - **Weapons:** simple and martial weapons
@@ -76,6 +76,7 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
   - *Disarming Attack*: on a hit, spend a superiority die to add the die to damage and force a Strength save or the target drops one item of your choice it's holding.
   - *Riposte*: reaction, when a creature misses you with a melee attack, spend a superiority die to make a melee attack against it, adding the die to damage on a hit.
   - **Student of War**: proficiency with smith's tools (fits the Ostmark & Daughter apprentice cover).
+- **Ability Score Improvement (Fighter 4) — Resilient (Wisdom)**: +1 WIS (11→12, reflected above) and full proficiency in Wisdom saving throws.
 
 **Outlander**
 - Wanderer: perfect recall of terrain you've traveled, can always find food/fresh water for yourself and up to 5 others in the wild, and find the way back to civilization
@@ -142,5 +143,6 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 - **Current plan:** Duskgate is resolved. Focus has shifted to securing the Bear Cave (holding Vale and Merrick, the only two people who could renew the Warden's bargain), the compensation call, and the settlement/regional council proposal. See `world-state.md` for active threads.
 - **The original Ashpit, found:** a sealed-off older section of the mine, deliberately closed (not just decayed) not long after Darkhawk's own disappearance from it. His fighting name there was never a name at all — cage "7," tallied wins, then nothing; the position was never given to anyone else. A vivid, unbidden memory surfaced touching the tally: the crowd, refusing to finish a beaten opponent, and the betrayal that followed — a face at the edge of it that slipped away before it resolved. Who betrayed him remains unknown.
 - **How he survived it:** a scar clean through the chest, front to back — a wound Mara confirms no one walks away from untreated. Someone saved him after the pit believed him dead. That night, a fitful dream at Thundertree pushed past the memory's usual wall for the first time: large, fur-covered hands, a low not-quite-growl, chanted words that wouldn't hold. Elder Vosk named old mountain-clan lore of a bear-spirit that marks those who show mercy where the pit or the raid demands blood — not strength, restraint, at the one moment restraint should be impossible. A Spirit Seeker ritual that night (guided by Vosk) drew a real bear to the edge of the firelight — it didn't speak, but the impression was unmistakable: recognition, an old debt remembered rather than explained. Unconfirmed whether it's connected to who saved him, but Darkhawk now believes the totem chose him before he ever chose it back.
+- **Milestone level-up (Session 18, the ancient village):** Fighter 3 → 4, taking **Resilient (Wisdom)** as his ASI — earned for finding and restoring an entire lost goliath-kin people, ending Kethrun's centuries of isolation for good. Proficiency bonus now **+5** (character level 13). Rolled +4 HP, now **117 max**.
 - **The Bear's Answer, sworn (Session 18):** at the Standing Ring, fully opened himself to the bear-spirit and offered it a mutual vow — partnership freely given, not just gratitude for being saved twice. It accepted. New standing ability: once per long rest, call on it directly in battle (see Features & Traits).
 - **Married to Mara Fenn (Session 16)** — engaged at Thundertree the morning after the mine's fall (Session 15), then wed at Thundertree itself in a surprise ceremony Darkhawk arranged in secret on the road back from Kessick's Ford (cover story: "the slow road" to scout the ridge line). Both a Thundertree rite (Vosk officiating, Sesha and Harek's blessing) and Sister Ysolde's blessing of Thossia were given, binding "two people and two tribes." Wears a carved bear-and-arrow pendant split from Darkhawk's own lifelong trophy, made by Thundertree's carver at Darkhawk's request.

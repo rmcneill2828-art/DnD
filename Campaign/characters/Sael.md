@@ -1,7 +1,7 @@
 # Sael
 
 **Race:** Wood Elf
-**Class & Level:** Druid 10 (Circle of the Moon)
+**Class & Level:** Druid 11 (Circle of the Moon)
 **Background:** Hermit
 **Alignment:** Neutral Good
 
@@ -12,8 +12,8 @@
 
 ## Combat
 - **AC:** 16 (studded leather, non-metal, + wooden shield)
-- **HP:** 66 / 66
-- **Hit Dice:** 10d8
+- **HP:** 73 / 73
+- **Hit Dice:** 11d8
 - **Speed:** 35 ft (Wood Elf)
 - **Passive Perception:** 17
 - **Proficiency bonus:** +4 (character level 10)
@@ -43,7 +43,7 @@
 
 **Druid**
 - **Druidic:** knows the secret druidic language.
-- **Spellcasting:** Wisdom-based. Spell save DC 16, spell attack +8. Prepares spells daily (WIS mod + druid level = 14 prepared) from the full druid list. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 2 (5th).
+- **Spellcasting:** Wisdom-based. Spell save DC 16, spell attack +8. Prepares spells daily (WIS mod + druid level = 15 prepared) from the full druid list. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 2 (5th), 1 (6th).
   - Commonly prepared: *Goodberry, Cure Wounds, Entangle, Pass without Trace, Barkskin, Speak with Animals, Conjure Animals, Spike Growth, Protection from Poison, Wind Wall, Locate Creature, Freedom of Movement, **Moonbeam** (2nd — ranged radiant damage in an area, fitting for a Circle of the Moon druid, can be cast and sustained while Wild Shaped), **Call Lightning** (3rd — ranged lightning damage, repeatable each turn while concentrating).*
 - **Wild Shape** (lvl 2): see Combat, above.
 
@@ -79,6 +79,7 @@ Rather than reveal herself, she chose to watch from a distance — telling herse
 - HP: 66 / 66 (full)
 - Wild Shape: 2/2 available
 - Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th)
+- **Milestone level-up (Session 18, the ancient village):** Druid 10 → 11 — earned for finding and restoring an entire lost goliath-kin people, ending Kethrun's centuries of isolation for good. Gained a 6th-level spell slot. Rolled +7 HP, now **73 max**.
 - **Joined the party (Session 15)** — revealed herself as Darkhawk's Ashpit rescuer and asked to stop watching from a distance, given the stakes of the Warden's infernal bargain and Duskgate ahead. Mara's condition: she fights where the party can see her, at least until more trust is built.
 - **Milestone level-up (Session 15, Duskgate):** Druid 9 → 10 — earned alongside the rest of the party for breaking the anchor and ending the Warden's bargain. Rolled +4 HP, now **66 max**.
 - Notes: still working out how to explain the difference between her own Wild Shape and the true bear-spirit that answered Darkhawk's ritual at Thundertree — she's certain they're related, not certain exactly how.

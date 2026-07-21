@@ -561,3 +561,19 @@ Each offered a true, personal reckoning rather than a performance: **Mara** offe
 All three succeeded. The vessels filled — dark still water, packed grey stone-dust, and a crack of clean storm-charge — and the whole hall (and reportedly the wider village) responded at once, a sound like the entire mountain finally exhaling.
 
 **Ends the session, mid-release:** the ancient village's ritual hall, all four vessels filled, something clearly beginning to happen to the frozen villagers throughout the site. Outcome not yet resolved — picks up here next time. Open threads: whether/how the villagers are actually released, what becomes of Kethrun's other sealed sites, who betrayed Darkhawk at Ashpit, and what's actually above Malphestor and how close it's gotten to finding a new foothold.
+
+**The village wakes:** the release completed fully — every frozen figure across the whole community returned to life, disoriented but alive, centuries having passed in what felt to them like a single held breath. Met **Threnn**, the village's leader, and told him the truth plainly ("too long") rather than softening it. He absorbed the shock of lost centuries with real grief and real resolve, asking only whether his village still had a future to answer for.
+
+Told him honestly: yes. Explained Urskelde, the settlement, the regional council built for children not yet born. Threnn recognized it immediately as a new attempt at the same alliance his own people once lost, and offered his people's service — old ward-craft, stonework, primal knowledge — in exchange for a real place in what's being built, not treated as a curiosity from a lost age.
+
+Spent four days helping the village prepare to travel before addressing anything deeper, at Darkhawk's insistence — practical care first. Walking the two days back toward the Standing Ring, Threnn told the fuller story: his people were farmers and smiths, not soldiers; something broke loose from the main fighting at the wound and came for the village directly; the elders made the choice to freeze the whole community as protection rather than face annihilation, meaning it to last days rather than centuries — and the elders themselves never returned to release them, fate unknown. Darkhawk offered a comforting, unconfirmed theory: perhaps the elders became something like Urskelde's own cairns, still watching in a different form. Threnn found real comfort in the possibility, whether or not it's ever proven.
+
+**Kethrun and Threnn, reunited:** the whole column of roughly three dozen goliath-kin descended into Kethrun's chamber. The sentinel was left nearly speechless — real kin of his own makers, not just descendants, standing in front of him after centuries of total isolation. Darkhawk gave them both space and time together, promising Kethrun plainly: "your watch will never be alone again."
+
+**Milestone level-up (the campaign's first full four-person level-up, earned for finding and restoring an entire lost goliath-kin people and ending Kethrun's isolation for good):**
+- Darkhawk to **Fighter 4**, taking **Resilient (Wisdom)** as his ASI. Proficiency bonus now **+5** (character level 13). Rolled +4 HP, now **117 max**.
+- Mara to **Ranger 13**, gaining a 4th-level spell slot. Proficiency bonus now **+5** (character level 13). Rolled +6 HP, now **86 max**.
+- Sael to **Druid 11**, gaining a 6th-level spell slot. Rolled +7 HP, now **73 max**.
+- Sister Ysolde to **Cleric 12**, taking **War Caster** as her ASI. Rolled +7 HP, now **86 max**.
+
+**Ends the session, for real:** the party heading back toward Urskelde to prepare for Threnn's entire community's arrival, Kethrun and Threnn left to their long-overdue reunion, and the whole party freshly leveled. Open threads carried forward: who betrayed Darkhawk at Ashpit, what's actually above Malphestor and how close it's gotten to finding a new foothold, the fate of Kethrun's other sealed sites, and the true fate of the village's lost elders.

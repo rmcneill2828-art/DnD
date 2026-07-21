@@ -1,7 +1,7 @@
 # Mara Fenn
 
 **Race:** Human
-**Class & Level:** Ranger 12 (Gloom Stalker)
+**Class & Level:** Ranger 13 (Gloom Stalker)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
@@ -12,20 +12,20 @@
 
 ## Combat
 - **AC:** 17 (studded leather: 12 + DEX)
-- **HP:** 80 / 80
-- **Hit Dice:** 12d10
+- **HP:** 86 / 86
+- **Hit Dice:** 13d10
 - **Speed:** 30 ft (+10 ft on the first turn of combat via Dread Ambusher)
 - **Initiative bonus:** +8 (DEX +5, plus WIS +3 from Dread Ambusher)
-- **Passive Perception:** 17
-- **Proficiency bonus:** +4 (character level 12)
+- **Passive Perception:** 18
+- **Proficiency bonus:** +5 (character level 13)
 
 ### Attacks
 Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into the numbers below).
 
 | | To Hit | Damage |
 |---|---|---|
-| Fletch's longbow (main, 150/600) | +11 | 1d8+5 piercing (+1d6 if Hunter's Mark active) |
-| Shortsword (backup melee, finesse) | +9 | 1d6+5 slashing |
+| Fletch's longbow (main, 150/600) | +12 | 1d8+5 piercing (+1d6 if Hunter's Mark active) |
+| Shortsword (backup melee, finesse) | +10 | 1d6+5 slashing |
 
 **Extra Attack:** two attacks with the Attack action.
 **Dread Ambusher:** if she acts in the surprise round or before every enemy in the first round of combat, she can make one additional weapon attack as part of that action, dealing an extra 1d8 damage on the first hit of the turn.
@@ -35,8 +35,8 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 > **DM quick-check per turn: 2 attacks baseline, 3 if this is a surprise round (+1d8 on her first hit that round). Verify before rolling, don't default to 1-2.**
 
 ## Proficiencies & Skills
-- **Saving throws:** Strength +4, Dexterity +9, Wisdom +7 (Iron Mind, lvl 7)
-- **Skills:** Athletics +4, Survival +7 (Outlander), Stealth +9, Perception +7, Investigation +5 (Ranger)
+- **Saving throws:** Strength +5, Dexterity +10, Wisdom +8 (Iron Mind, lvl 7)
+- **Skills:** Athletics +5, Survival +8 (Outlander), Stealth +10, Perception +8, Investigation +6 (Ranger)
 - **Languages:** Common, +1 (Favored Enemy — suggest whatever the Circuit's own thieves'-cant-equivalent turns out to be, or Giant to better keep pace with Darkhawk at Thundertree)
 - **Tools:** none (trapper's know-how handled narratively via Survival)
 - **Weapons:** simple and martial weapons
@@ -49,7 +49,7 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 - **Natural Explorer (Forest, Mountain):** second terrain gained at 6th level, chosen with the Greyhorn foothills ahead in mind. Home ground in either — never gets lost except by magic, can travel stealthily at normal pace, finds double food when foraging, and gets extra information/advantage on initiative and first-round surprise attempts.
 - **Primeval Awareness:** can expend a spell slot to sense whether aberrations, celestials, dragons, elementals, fey, fiends, or undead lurk within 1 mile (6 in favored terrain).
 - **Fighting Style — Archery:** +2 to attack rolls with ranged weapons.
-- **Spellcasting:** Wisdom-based. Spell save DC 15, spell attack +7. Known: **Hunter's Mark, Longstrider, Cure Wounds, Pass without Trace, Silence, Conjure Animals, Protection from Energy** (new at lvl 11). Slots: 4 (1st), 3 (2nd), 3 (3rd).
+- **Spellcasting:** Wisdom-based. Spell save DC 16, spell attack +8. Known: **Hunter's Mark, Longstrider, Cure Wounds, Pass without Trace, Silence, Conjure Animals, Protection from Energy** (new at lvl 11). Slots: 4 (1st), 3 (2nd), 3 (3rd), 1 (4th).
 - **Extra Attack** (5th level).
 - **Ability Score Improvement (lvl 8):** +2 DEX (18 → 20, reflected above).
 - **Ability Score Improvement (lvl 12):** +2 WIS (14 → 16, reflected above).
@@ -62,6 +62,7 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 - **Iron Mind (lvl 7):** proficiency in Wisdom saving throws (reflected above).
 - **Bonus spells (always prepared, don't count against spells known):** Disguise Self, Rope Trick.
 - **Stalker's Flurry (lvl 11):** once per turn, when she misses with a weapon attack, she can reroll it.
+- **Milestone level-up (Session 18, the ancient village):** Ranger 12 → 13 — earned for finding and restoring an entire lost goliath-kin people, ending Kethrun's centuries of isolation for good. Proficiency bonus now **+5** (character level 13); gained a 4th-level spell slot. Rolled +6 HP, now **86 max**.
 - **The Deep Water's Stillness (Session 18, the ancient village):** Mara offered the truth of her own patient watchfulness to a primal spirit of still water, and it answered. Once per long rest, as a reaction when she would be hit by an attack, she can go perfectly, deliberately still — the attack automatically misses, as if she'd simply yielded around it rather than been struck.
 
 **Outlander**
