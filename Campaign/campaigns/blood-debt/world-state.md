@@ -34,7 +34,7 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 | Mara Fenn | Wife, full party member | Ranger 13 Gloom Stalker; married to Darkhawk (Session 16) |
 | Sael | Full party member | Druid 11, bear-kin; secretly saved Darkhawk at Ashpit years ago |
 | Sister Ysolde Marrow | Full party member | Cleric 12 (Grave Domain); translated the ledgers, wards the party against fiends |
-| Kaldur Stonewake | Ally, holding Urskelde; called "brother" by Darkhawk | Ninebells Goliath; runs the garrison with new deputies Idra and Torvin trained to hold it without the party present |
+| Kaldur Stonewake | Ally, holding Urskelde; called "brother" by Darkhawk | Ninebells Goliath; runs the garrison with new deputies Idra and Torvin trained to hold it without the party present. Full stats: `npcs/Kaldur Stonewake.md`. |
 | Sesha & Harek | Darkhawk's parents, Thundertree | Welcomed Mara as family and daughter-in-law; helped arrange the wedding gift in secret |
 | Thyra | Darkhawk's sister, Thundertree | Now met — happy to see him, walked and talked, curious about his years as a gladiator |
 | Elder Vosk | Thundertree's speaker, ally | Officiated the wedding, personally led the cairns' rite, sealed Urskelde's finished charter, gave one further fragment of old lore ("what sleeps beneath stone does not dream kindly — wake it gently, or not at all") ahead of the Greyhorn expedition. |
@@ -45,9 +45,9 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 | Greta Ostmark | Ally, at Urskelde (traveled from Ravensmoor) | Master smith; helped confirm the sky-iron seam and is queued to craft the council chamber's round table |
 | Fenris Cray / Rennick | Allies, garrisoning the waystation and relay stops | Rennick turned rather than killed; now reports to Cray |
 | Ressa Dane / courier boy | Allies, Fallow Cross | Boy's origin traced via Duskgate's ledger; family dead, given a real task and documented history |
-| Edmund Vale | **Captive at Urskelde, cooperating** | Confirmed to be the Warden himself; revealed Merrick as his groomed successor as a final act of redemption |
-| Merrick | **Captive at Urskelde, unaware** | Vale's groomed successor — must never reach Duskgate |
-| Malphestor, the Reckoner | Purposeless, fate unknown, not hostile | Recognized Darkhawk as Ashpit's "number 7" via the scrying mirror, surprised he defied its ledger's expectations; left alive at Duskgate after Darkhawk offered it a chance at redemption |
+| Edmund Vale | **Captive at Urskelde, cooperating** | Confirmed to be the Warden himself; revealed Merrick as his groomed successor as a final act of redemption. Full stats: `npcs/Edmund Vale.md`. |
+| Merrick | **Captive at Urskelde, unaware** | Vale's groomed successor — must never reach Duskgate. Full stats: `npcs/Merrick.md`. |
+| Malphestor, the Reckoner | Purposeless, fate unknown, not hostile | Recognized Darkhawk as Ashpit's "number 7" via the scrying mirror, surprised he defied its ledger's expectations; left alive at Duskgate after Darkhawk offered it a chance at redemption. Full stats: `npcs/Malphestor.md`. |
 | Yorik Stonebrand / Vessa & Kessa Alderhawk | Allies, grieving, Thundertree | Lost sons/husband at the mine entrance |
 | **Kethrun** | **Ally, ancient sentinel, under Urskelde's protection** | Goliath-kin-made stone guardian, older than Thundertree, sealed beneath the Standing Ring guarding an ancient extraplanar wound. Confirmed Urskelde's cairns are the same ancient ward-tradition. Seal now freshly reinforced with Ysolde/Torvald's ritual; Torvald staying on to learn from him. |
 | **Torvald** | Ally, mason, at the Standing Ring | Deputy-family Goliath with old stonework training; stayed with Kethrun to learn proper ward-maintenance directly. |

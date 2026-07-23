@@ -9,8 +9,17 @@ Markdown-based DM tracker for tabletop campaigns. Structure:
 - `campaigns/<slug>/session-log.md` -- one file per campaign, all sessions appended as
   `## Session N -- date` sections in chronological order. Narrative prose in the campaign's
   established voice (character beats, thematic callbacks), not a mechanical log.
-- `characters/<name>.md` -- one sheet per PC/major NPC, mechanically precise (5e rules-accurate
-  ability scores, saves, features, current HP/conditions).
+- `characters/<name>.md` -- one sheet per PC, mechanically precise (5e rules-accurate ability
+  scores, saves, features, current HP/conditions).
+- `npcs/<name>.md` -- same format/rigor as `characters/`, for major NPCs who might plausibly end
+  up in a fight (an ally who could join combat, a recurring threat). Kept separate from
+  `characters/` specifically because Campaign-OS's importer treats the two folders differently:
+  an `npcs/` sheet imports as a "monster"-styled token (vs. "hero" for `characters/`), and if its
+  `### Attacks` table has more than one row, every row folds into a Multiattack the token fires
+  as one action -- `characters/` sheets keep the older "first row only" behavior since PCs use
+  that same table shape to list weapon *options* (main-hand/off-hand/javelin), not a Multiattack.
+  Minor one-off NPCs/mooks not worth a permanent file don't need a sheet -- just enter their
+  stats directly into Campaign-OS's manual "Add Token" form when a fight starts.
 - `campaigns/_template/` and `characters/_template.md` are blank templates, not real content.
 
 ## Paired tool: Campaign-OS
