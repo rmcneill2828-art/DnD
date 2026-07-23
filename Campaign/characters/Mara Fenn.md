@@ -89,7 +89,7 @@ What started as paid work became a real partnership, and — after Ravensmoor �
 
 ## Current Status
 - Conditions: none
-- HP: 80 / 80 (full)
+- HP: 86 / 86 (full)
 - Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd)
 - Inspiration: no
 - **Milestone level-up (Session 14):** Ranger 8 → 10 (Gloom Stalker) — two milestones in one session: clearing the barracks/commander's post, and killing the Warden's man (a fiend) while breaking the front entrance's defense. Gained 3rd-level spell slots, learned Conjure Animals, and gained Hide in Plain Sight. Rolled +4 then +7 HP, now **69 max**.

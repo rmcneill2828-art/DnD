@@ -125,8 +125,8 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 
 ## Current Status
 - Conditions: none (exhaustion cleared after a full long rest at the Bear Cave)
-- HP: 113 / 113 (full)
-- Hit Dice: 9d12 + 3d10 (full)
+- HP: 117 / 117 (full)
+- Hit Dice: 9d12 + 4d10 (full)
 - Rages used: 0 / 4 — full rest since Duskgate
 - Second Wind: available
 - Action Surge: available

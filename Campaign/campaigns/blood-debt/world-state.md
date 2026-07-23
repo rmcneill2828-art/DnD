@@ -31,9 +31,9 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 ## Key NPCs (active)
 | Name | Status | One-line context |
 |------|--------|-------------------|
-| Mara Fenn | Wife, full party member | Ranger 12 Gloom Stalker; married to Darkhawk (Session 16) |
-| Sael | Full party member | Druid 10, bear-kin; secretly saved Darkhawk at Ashpit years ago |
-| Sister Ysolde Marrow | Full party member | Cleric 11 (Grave Domain); translated the ledgers, wards the party against fiends |
+| Mara Fenn | Wife, full party member | Ranger 13 Gloom Stalker; married to Darkhawk (Session 16) |
+| Sael | Full party member | Druid 11, bear-kin; secretly saved Darkhawk at Ashpit years ago |
+| Sister Ysolde Marrow | Full party member | Cleric 12 (Grave Domain); translated the ledgers, wards the party against fiends |
 | Kaldur Stonewake | Ally, holding Urskelde; called "brother" by Darkhawk | Ninebells Goliath; runs the garrison with new deputies Idra and Torvin trained to hold it without the party present |
 | Sesha & Harek | Darkhawk's parents, Thundertree | Welcomed Mara as family and daughter-in-law; helped arrange the wedding gift in secret |
 | Thyra | Darkhawk's sister, Thundertree | Now met — happy to see him, walked and talked, curious about his years as a gladiator |

@@ -76,7 +76,7 @@ Rather than reveal herself, she chose to watch from a distance — telling herse
 
 ## Current Status
 - Conditions: none
-- HP: 66 / 66 (full)
+- HP: 73 / 73 (full)
 - Wild Shape: 2/2 available
 - Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th)
 - **Milestone level-up (Session 18, the ancient village):** Druid 10 → 11 — earned for finding and restoring an entire lost goliath-kin people, ending Kethrun's centuries of isolation for good. Gained a 6th-level spell slot. Rolled +7 HP, now **73 max**.

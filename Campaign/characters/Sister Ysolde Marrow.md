@@ -72,7 +72,7 @@ Magistrate Kell corresponded with her twice on unrelated legal-religious matters
 
 ## Current Status
 - Conditions: none
-- HP: 79 / 79 (full)
+- HP: 86 / 86 (full)
 - Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th)
 - **Milestone level-up (Session 18, the ancient village):** Cleric 11 → 12, taking **War Caster** as her ASI — earned for finding and restoring an entire lost goliath-kin people, ending Kethrun's centuries of isolation for good. Rolled +7 HP, now **86 max**.
 - **Joined the party (Session 15)** — translated the two coded ledgers (partial copy of the bargain's renewal rite), confirmed the Warden's bargain terms (accumulated soul-tribute banked across a tenure, offered at Duskgate alongside a living successor's acceptance; grants wealth, network control, and a ward against being truly seen/scried), and identified a fortnight grace period after which Malphestor can act directly to compel a new successor if none comes willingly.
