@@ -24,15 +24,24 @@ Markdown-based DM tracker for tabletop campaigns. Structure:
 
 ## Paired tool: Campaign-OS
 
-Tactical combat and live-session play for this campaign often run through **Campaign-OS**
-(https://github.com/rmcneill2828-art/Campaign-OS), a separate battle-map/VTT app. It imports
-from this repo read-only, except for one write path: its "End Session" feature can append a new
-`## Session N` entry to session-log.md and update world-state.md directly, using a real Claude
-Code call scoped to this repo (Read/Write/Edit only -- it never runs git, never commits).
+Tactical combat now runs through **Campaign-OS** (https://github.com/rmcneill2828-art/
+Campaign-OS), a separate battle-map/VTT app, as the standard workflow -- not just an occasional
+option. The DM (Claude, in this repo's chat) still narrates and decides everything; the user is
+the DM's hands on the app. See this repo's root `CLAUDE.md` ("Running the game" -> "Tactical
+combat runs in Campaign-OS") for the full turn-by-turn workflow.
 
-If a session-log.md entry or world-state.md update shows up that nobody manually wrote with
-Claude Code in this repo, that's expected -- it likely came from Campaign-OS's write-back, not
-an error or something to overwrite. Match its established style when adding to it by hand.
+Campaign-OS imports from this repo read-only, except for two write paths:
+- **"End Session"** appends a new `## Session N` entry to session-log.md and updates
+  world-state.md directly, using a real (separate, stateless) Claude Code call scoped to this
+  repo (Read/Write/Edit only -- it never runs git, never commits). **Not used under the current
+  chat-driven combat workflow** -- the DM (this chat) writes session-log.md/world-state.md
+  itself, informed by Campaign-OS's "Copy Session Report" (a plain-text, non-AI transcript +
+  final-token-state dump the user pastes into the chat as a factual check). End Session is for a
+  different mode (Campaign-OS running a session unsupervised, no chat DM involved) -- if either
+  file shows an update nobody manually wrote in this chat, that's what happened; match its
+  established style when adding to it by hand rather than treating it as an error.
+- **Create Character** writes a new `characters/<name>.md` file directly (deterministic, no
+  Claude call) when built from Campaign-OS's Character Creator panel.
 
 ## Conventions
 - Keep session-log.md narrative and specific -- named beats, real dialogue/decisions, not
