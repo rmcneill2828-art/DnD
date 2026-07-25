@@ -2,7 +2,7 @@
 
 **Birth name:** Rurik, son of Sesha and Harek, Thundertree clan (confirmed Session 12 — still goes by "Darkhawk Blondin" day to day)
 **Race:** Goliath
-**Class & Level:** Barbarian 9 (Path of the Totem Warrior — Bear) / Fighter 4 (Battle Master)
+**Class & Level:** Barbarian 10 (Path of the Totem Warrior — Bear) / Fighter 4 (Battle Master)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
@@ -13,8 +13,8 @@
 
 ## Combat
 - **AC:** 17 (fitted breastplate: 14 + DEX = 15, +1 from Dual Wielder while wielding two melee weapons, +1 from sky-iron bracers)
-- **HP:** 117 / 117
-- **Hit Dice:** 9d12 + 4d10
+- **HP:** 123 / 123
+- **Hit Dice:** 10d12 + 4d10
 - **Speed:** 40 ft (Fast Movement, Barbarian 5 — not wearing heavy armor)
 - **Initiative bonus:** +1, with **advantage** (Feral Instinct, Barbarian 7)
 - **Passive Perception:** 15
@@ -60,6 +60,7 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 - **Aspect of the Beast (Bear, lvl 6)**: advantage on Strength checks to push, pull, lift, or break objects; carrying capacity doubled (stacks with Powerful Build).
 - **Bear-Claimed (Session 15, Duskgate):** surviving the anchor's soul trial left a permanent claw-shaped scar over his heart and a standing bond with the bear-spirit, not just a one-time debt. Permanent **advantage on saving throws against being charmed, frightened, or possessed.**
 - **The Bear's Answer (Session 18, the Standing Ring):** Darkhawk offered the bear-spirit a mutual vow — freely given partnership, not just gratitude for being saved — and it accepted. Once per long rest, as a bonus action, he can call on it directly: for 1 minute, while raging, his melee weapon attacks deal an extra 1d6 damage and any creature that starts its turn within 10 ft of him and can see him must succeed on a Wisdom save (DC 14) or be frightened of him until the start of its next turn.
+- **Totemic Attunement — Bear (lvl 10, Session 24):** while raging, any hostile creature within 5 ft of him that can see him has disadvantage on attack rolls against any target other than him or another creature with this same feature.
 - **Ability Score Improvement (lvl 4) — Dual Wielder feat**: +1 AC while wielding two melee weapons (reflected above), can two-weapon fight with non-light weapons, can draw two weapons at once.
 - **Extra Attack (lvl 5)**: the Attack action now grants two attacks.
 - **Fast Movement (lvl 5)**: +10 ft speed while not wearing heavy armor (reflected above).
@@ -125,8 +126,8 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 
 ## Current Status
 - Conditions: none (exhaustion cleared after a full long rest at the Bear Cave)
-- HP: 117 / 117 (full)
-- Hit Dice: 9d12 + 4d10 (full)
+- HP: 123 / 123 (full)
+- Hit Dice: 10d12 + 4d10 (full)
 - Rages used: 0 / 4 — full rest since Duskgate
 - Second Wind: available
 - Action Surge: available
@@ -144,5 +145,6 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 - **The original Ashpit, found:** a sealed-off older section of the mine, deliberately closed (not just decayed) not long after Darkhawk's own disappearance from it. His fighting name there was never a name at all — cage "7," tallied wins, then nothing; the position was never given to anyone else. A vivid, unbidden memory surfaced touching the tally: the crowd, refusing to finish a beaten opponent, and the betrayal that followed — a face at the edge of it that slipped away before it resolved. Who betrayed him remains unknown.
 - **How he survived it:** a scar clean through the chest, front to back — a wound Mara confirms no one walks away from untreated. Someone saved him after the pit believed him dead. That night, a fitful dream at Thundertree pushed past the memory's usual wall for the first time: large, fur-covered hands, a low not-quite-growl, chanted words that wouldn't hold. Elder Vosk named old mountain-clan lore of a bear-spirit that marks those who show mercy where the pit or the raid demands blood — not strength, restraint, at the one moment restraint should be impossible. A Spirit Seeker ritual that night (guided by Vosk) drew a real bear to the edge of the firelight — it didn't speak, but the impression was unmistakable: recognition, an old debt remembered rather than explained. Unconfirmed whether it's connected to who saved him, but Darkhawk now believes the totem chose him before he ever chose it back.
 - **Milestone level-up (Session 18, the ancient village):** Fighter 3 → 4, taking **Resilient (Wisdom)** as his ASI — earned for finding and restoring an entire lost goliath-kin people, ending Kethrun's centuries of isolation for good. Proficiency bonus now **+5** (character level 13). Rolled +4 HP, now **117 max**.
+- **Milestone level-up (Session 24, the full regional council):** Barbarian 9 → 10, gaining **Totemic Attunement (Bear)** — earned for resolving the Ashpit betrayal that's haunted the campaign since its opening session and forging a real regional alliance against the threat above Malphestor. Character level 14; proficiency bonus stays **+5**. Rolled +6 HP (d12 roll of 4 + CON mod 2), now **123 max**.
 - **The Bear's Answer, sworn (Session 18):** at the Standing Ring, fully opened himself to the bear-spirit and offered it a mutual vow — partnership freely given, not just gratitude for being saved twice. It accepted. New standing ability: once per long rest, call on it directly in battle (see Features & Traits).
 - **Married to Mara Fenn (Session 16)** — engaged at Thundertree the morning after the mine's fall (Session 15), then wed at Thundertree itself in a surprise ceremony Darkhawk arranged in secret on the road back from Kessick's Ford (cover story: "the slow road" to scout the ridge line). Both a Thundertree rite (Vosk officiating, Sesha and Harek's blessing) and Sister Ysolde's blessing of Thossia were given, binding "two people and two tribes." Wears a carved bear-and-arrow pendant split from Darkhawk's own lifelong trophy, made by Thundertree's carver at Darkhawk's request.
