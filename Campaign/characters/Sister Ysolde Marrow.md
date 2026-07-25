@@ -1,7 +1,7 @@
 # Sister Ysolde Marrow
 
 **Race:** Human
-**Class & Level:** Cleric 12 (Grave Domain)
+**Class & Level:** Cleric 13 (Grave Domain)
 **Deity:** Thossia, the Arbiter — goddess of judgment and the settling of debts after death
 **Background:** Sage (Order Scholar)
 **Alignment:** Lawful Good
@@ -13,22 +13,22 @@
 
 ## Combat
 - **AC:** 17 (scale mail + shield)
-- **HP:** 86 / 86
-- **Hit Dice:** 12d8
+- **HP:** 91 / 91
+- **Hit Dice:** 13d8
 - **Speed:** 30 ft
 - **Passive Perception:** 14
-- **Proficiency bonus:** +4 (character level 11)
+- **Proficiency bonus:** +5 (character level 13)
 
 ### Attacks
 | | To Hit | Damage |
 |---|---|---|
-| Mace | +4 | 1d6 bludgeoning |
+| Mace | +5 | 1d6 bludgeoning |
 
 Not a frontline fighter by her own admission — her value is spellcasting, wards, and knowledge, not melee.
 
 ## Proficiencies & Skills
-- **Saving throws:** Wisdom +8, Charisma +5
-- **Skills:** Religion +6, Insight +8, Medicine +8, History +6, Arcana +6 (her order's particular focus: infernal contracts, pacts, and the settling of debts after death)
+- **Saving throws:** Wisdom +9, Charisma +6
+- **Skills:** Religion +7, Insight +9, Medicine +9, History +7, Arcana +7 (her order's particular focus: infernal contracts, pacts, and the settling of debts after death)
 - **Languages:** Common, Celestial, Infernal, two others from a lifetime of archival work
 - **Tools:** none beyond her calligrapher's kit (order record-keeping)
 - **Weapons:** simple weapons
@@ -37,7 +37,7 @@ Not a frontline fighter by her own admission — her value is spellcasting, ward
 ## Features & Traits
 
 **Cleric**
-- **Spellcasting:** Wisdom-based. Spell save DC 16, spell attack +8. Prepares WIS mod + level = 16 spells daily from the full cleric list, plus domain spells always prepared. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 3 (5th), 1 (6th).
+- **Spellcasting:** Wisdom-based. Spell save DC 17, spell attack +9. Prepares WIS mod + level = 17 spells daily from the full cleric list, plus domain spells always prepared. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 3 (5th), 1 (6th), 1 (7th).
 - **War Caster (Ability Score Improvement, Cleric lvl 12):** advantage on Constitution saves to maintain concentration; can perform somatic components with weapons/shield in hand; can cast a spell (1-action casting time) as a reaction in place of an opportunity attack.
   - Commonly prepared: *Bless, Command, Zone of Truth, Protection from Evil and Good, Dispel Magic, Remove Curse, Banishment, Dispel Evil and Good, **Guiding Bolt** (1st — ranged radiant spell attack, solid reliable damage at range), **Spiritual Weapon** (2nd — bonus action floating ranged weapon, good action economy), **Flame Strike** (5th — ranged column of fire and radiant damage, fits Thossia's judgment theme).*
 - **Channel Divinity (2/short or long rest):** Turn Undead, and Path to the Grave (curse a creature within 30 ft — the next attack against it before the start of her next turn has advantage and scores a critical hit on any hit).
@@ -72,9 +72,10 @@ Magistrate Kell corresponded with her twice on unrelated legal-religious matters
 
 ## Current Status
 - Conditions: none
-- HP: 86 / 86 (full)
-- Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th)
+- HP: 91 / 91 (full)
+- Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 3/3 5th, 1/1 6th, 1/1 7th)
 - **Milestone level-up (Session 18, the ancient village):** Cleric 11 → 12, taking **War Caster** as her ASI — earned for finding and restoring an entire lost goliath-kin people, ending Kethrun's centuries of isolation for good. Rolled +7 HP, now **86 max**.
+- **Milestone level-up (Session 24, the full regional council):** Cleric 12 → 13 — earned for resolving the Ashpit betrayal and forging the regional alliance. Proficiency bonus now **+5** (character level 13); gained a 7th-level spell slot. Rolled +5 HP, now **91 max**.
 - **Joined the party (Session 15)** — translated the two coded ledgers (partial copy of the bargain's renewal rite), confirmed the Warden's bargain terms (accumulated soul-tribute banked across a tenure, offered at Duskgate alongside a living successor's acceptance; grants wealth, network control, and a ward against being truly seen/scried), and identified a fortnight grace period after which Malphestor can act directly to compel a new successor if none comes willingly.
 - Performed a full day's consecration ritual on the party's weapons — lasting wards against fiends (better odds landing a blow, resistance to fear/corruption from fiends) on Darkhawk's longswords and dagger, Mara's bow and shortsword, and Sael's staff and sickle.
 - Cast Protection from Evil and Good on Darkhawk before he approached Duskgate's inner altar — the ward against charm/fear/possession by fiends that she'd been saving for exactly that moment.

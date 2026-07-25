@@ -1,22 +1,22 @@
 # Sael
 
 **Race:** Wood Elf
-**Class & Level:** Druid 11 (Circle of the Moon)
+**Class & Level:** Druid 12 (Circle of the Moon)
 **Background:** Hermit
 **Alignment:** Neutral Good
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
-| 12 (+1) | 16 (+3) | 14 (+2) | 10 (+0) | 18 (+4) | 11 (+0) |
+| 12 (+1) | 16 (+3) | 14 (+2) | 10 (+0) | 20 (+5) | 11 (+0) |
 
 ## Combat
 - **AC:** 16 (studded leather, non-metal, + wooden shield)
-- **HP:** 73 / 73
-- **Hit Dice:** 11d8
+- **HP:** 79 / 79
+- **Hit Dice:** 12d8
 - **Speed:** 35 ft (Wood Elf)
-- **Passive Perception:** 17
-- **Proficiency bonus:** +4 (character level 10)
+- **Passive Perception:** 19
+- **Proficiency bonus:** +4 (character level 12)
 
 ### Attacks
 | | To Hit | Damage |
@@ -27,8 +27,8 @@
 **Wild Shape (2/short or long rest):** as a Circle of the Moon druid, can transform as a bonus action, and can ignore the usual "seen it before, no swim/fly speed" restrictions — can take the form of any beast with CR up to 3 (druid level ÷ 3). Most often takes the form of a **large brown bear** (CR 1) — the same shape she used to pull Darkhawk from Ashpit, and the shape that answered the Spirit Seeker ritual isn't this one, but a distinct, older presence she and Darkhawk both now believe is a true bear-spirit rather than a druid's Wild Shape.
 
 ## Proficiencies & Skills
-- **Saving throws:** Intelligence +4, Wisdom +8
-- **Skills:** Survival +8, Stealth +7, Perception +8, Medicine +8, Animal Handling +8
+- **Saving throws:** Intelligence +4, Wisdom +9
+- **Skills:** Survival +9, Stealth +7, Perception +9, Medicine +9, Animal Handling +9
 - **Languages:** Common, Elvish, Druidic, Giant (picked up over years spent near the Greyhorn foothills)
 - **Tools:** Herbalism kit
 - **Weapons:** clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
@@ -43,7 +43,7 @@
 
 **Druid**
 - **Druidic:** knows the secret druidic language.
-- **Spellcasting:** Wisdom-based. Spell save DC 16, spell attack +8. Prepares spells daily (WIS mod + druid level = 15 prepared) from the full druid list. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 2 (5th), 1 (6th).
+- **Spellcasting:** Wisdom-based. Spell save DC 17, spell attack +9. Prepares spells daily (WIS mod + druid level = 17 prepared) from the full druid list. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 2 (5th), 1 (6th).
   - Commonly prepared: *Goodberry, Cure Wounds, Entangle, Pass without Trace, Barkskin, Speak with Animals, Conjure Animals, Spike Growth, Protection from Poison, Wind Wall, Locate Creature, Freedom of Movement, **Moonbeam** (2nd — ranged radiant damage in an area, fitting for a Circle of the Moon druid, can be cast and sustained while Wild Shaped), **Call Lightning** (3rd — ranged lightning damage, repeatable each turn while concentrating).*
 - **Wild Shape** (lvl 2): see Combat, above.
 
@@ -51,6 +51,7 @@
 - **Combat Wild Shape:** can Wild Shape as a bonus action, and can use a spell slot as a bonus action while shape-shifted to heal HP equal to twice the slot's level.
 - **Circle Forms:** can transform into beasts with a challenge rating as high as 1 at 2nd level, and higher as she gains levels (CR 3 at 9th).
 - **The Mountain's Patience (Session 18, the ancient village):** Sael offered the truth of her own ended solitude — choosing to stay and be seen rather than watch from a distance — to a primal spirit of stone, and it answered. Once per long rest, as a reaction when she takes damage, she can reduce it by 1d12 + her Constitution modifier, her skin going briefly hard and unyielding as old rock.
+- **Ability Score Improvement (lvl 12):** +2 WIS (18 → 20, reflected above).
 
 **Hermit**
 - **Discovery:** during her years alone in the wild, uncovered a genuine, profound truth — the existence of a real bear-spirit tied to acts of mercy in extremity, and her own part in one of its rare interventions.
@@ -76,10 +77,11 @@ Rather than reveal herself, she chose to watch from a distance — telling herse
 
 ## Current Status
 - Conditions: none
-- HP: 73 / 73 (full)
+- HP: 79 / 79 (full)
 - Wild Shape: 2/2 available
-- Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th)
+- Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th)
 - **Milestone level-up (Session 18, the ancient village):** Druid 10 → 11 — earned for finding and restoring an entire lost goliath-kin people, ending Kethrun's centuries of isolation for good. Gained a 6th-level spell slot. Rolled +7 HP, now **73 max**.
+- **Milestone level-up (Session 24, the full regional council):** Druid 11 → 12, taking **+2 WIS (18 → 20)** as her ASI — earned for resolving the Ashpit betrayal and forging the regional alliance. Rolled +6 HP, now **79 max**.
 - **Joined the party (Session 15)** — revealed herself as Darkhawk's Ashpit rescuer and asked to stop watching from a distance, given the stakes of the Warden's infernal bargain and Duskgate ahead. Mara's condition: she fights where the party can see her, at least until more trust is built.
 - **Milestone level-up (Session 15, Duskgate):** Druid 9 → 10 — earned alongside the rest of the party for breaking the anchor and ending the Warden's bargain. Rolled +4 HP, now **66 max**.
 - Notes: still working out how to explain the difference between her own Wild Shape and the true bear-spirit that answered Darkhawk's ritual at Thundertree — she's certain they're related, not certain exactly how.

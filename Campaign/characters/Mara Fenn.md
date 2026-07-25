@@ -1,7 +1,7 @@
 # Mara Fenn
 
 **Race:** Human
-**Class & Level:** Ranger 13 (Gloom Stalker)
+**Class & Level:** Ranger 14 (Gloom Stalker)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
@@ -12,12 +12,12 @@
 
 ## Combat
 - **AC:** 17 (studded leather: 12 + DEX)
-- **HP:** 86 / 86
-- **Hit Dice:** 13d10
+- **HP:** 91 / 91
+- **Hit Dice:** 14d10
 - **Speed:** 30 ft (+10 ft on the first turn of combat via Dread Ambusher)
 - **Initiative bonus:** +8 (DEX +5, plus WIS +3 from Dread Ambusher)
 - **Passive Perception:** 18
-- **Proficiency bonus:** +5 (character level 13)
+- **Proficiency bonus:** +5 (character level 14)
 
 ### Attacks
 Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into the numbers below).
@@ -55,6 +55,7 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 - **Ability Score Improvement (lvl 12):** +2 WIS (14 → 16, reflected above).
 - **Land's Stride (lvl 8):** moving through nonmagical difficult terrain costs no extra movement; ignores harmful effects of magical plants unless she chooses not to.
 - **3rd-level spell slots (lvl 9)** and **Hide in Plain Sight (lvl 10)**: with 1 minute undisturbed, can camouflage and become very hard to detect (+10 Stealth) while remaining perfectly still, breaking on movement or an attack.
+- **Vanish (lvl 14):** can take the Hide action as a bonus action. Can't be tracked by nonmagical means unless she chooses to leave a trail.
 
 **Gloom Stalker (Ranger Archetype)**
 - **Dread Ambusher:** see Attacks above; also grants +WIS to initiative and +10 ft speed on the first turn of combat.
@@ -63,6 +64,7 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 - **Bonus spells (always prepared, don't count against spells known):** Disguise Self, Rope Trick.
 - **Stalker's Flurry (lvl 11):** once per turn, when she misses with a weapon attack, she can reroll it.
 - **Milestone level-up (Session 18, the ancient village):** Ranger 12 → 13 — earned for finding and restoring an entire lost goliath-kin people, ending Kethrun's centuries of isolation for good. Proficiency bonus now **+5** (character level 13); gained a 4th-level spell slot. Rolled +6 HP, now **86 max**.
+- **Milestone level-up (Session 24, the full regional council):** Ranger 13 → 14, gaining **Vanish** — earned for resolving the Ashpit betrayal and forging the regional alliance. Rolled +5 HP, now **91 max**.
 - **The Deep Water's Stillness (Session 18, the ancient village):** Mara offered the truth of her own patient watchfulness to a primal spirit of still water, and it answered. Once per long rest, as a reaction when she would be hit by an attack, she can go perfectly, deliberately still — the attack automatically misses, as if she'd simply yielded around it rather than been struck.
 
 **Outlander**
@@ -89,7 +91,7 @@ What started as paid work became a real partnership, and — after Ravensmoor �
 
 ## Current Status
 - Conditions: none
-- HP: 86 / 86 (full)
+- HP: 91 / 91 (full)
 - Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd)
 - Inspiration: no
 - **Milestone level-up (Session 14):** Ranger 8 → 10 (Gloom Stalker) — two milestones in one session: clearing the barracks/commander's post, and killing the Warden's man (a fiend) while breaking the front entrance's defense. Gained 3rd-level spell slots, learned Conjure Animals, and gained Hide in Plain Sight. Rolled +4 then +7 HP, now **69 max**.
