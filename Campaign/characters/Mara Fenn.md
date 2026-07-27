@@ -1,7 +1,7 @@
 # Mara Fenn
 
 **Race:** Human
-**Class & Level:** Ranger 14 (Gloom Stalker)
+**Class & Level:** Ranger 15 (Gloom Stalker)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
@@ -12,8 +12,8 @@
 
 ## Combat
 - **AC:** 17 (studded leather: 12 + DEX)
-- **HP:** 91 / 91
-- **Hit Dice:** 14d10
+- **HP:** 102 / 102
+- **Hit Dice:** 15d10
 - **Speed:** 30 ft (+10 ft on the first turn of combat via Dread Ambusher)
 - **Initiative bonus:** +8 (DEX +5, plus WIS +3 from Dread Ambusher)
 - **Passive Perception:** 18
@@ -31,6 +31,8 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 **Dread Ambusher:** if she acts in the surprise round or before every enemy in the first round of combat, she can make one additional weapon attack as part of that action, dealing an extra 1d8 damage on the first hit of the turn.
 
 **Consecrated against fiends (Sister Ysolde, Session 15):** both Fletch's longbow and her shortsword now carry a lasting ward against fiends specifically — better odds landing a blow true, plus some resistance to the fear and corruption fiends favor using before a fight even starts.
+
+**Sky-iron reforged (Session 24, Perrin & Greta):** Fletch's longbow and her shortsword worked through with sky-iron, matching Darkhawk's blades and Ysolde's mace — not magical in the traditional sense, but count as magical weapons for the purpose of overcoming resistance/immunity to nonmagical attacks.
 
 > **DM quick-check per turn: 2 attacks baseline, 3 if this is a surprise round (+1d8 on her first hit that round). Verify before rolling, don't default to 1-2.**
 
@@ -56,6 +58,7 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 - **Land's Stride (lvl 8):** moving through nonmagical difficult terrain costs no extra movement; ignores harmful effects of magical plants unless she chooses not to.
 - **3rd-level spell slots (lvl 9)** and **Hide in Plain Sight (lvl 10)**: with 1 minute undisturbed, can camouflage and become very hard to detect (+10 Stealth) while remaining perfectly still, breaking on movement or an attack.
 - **Vanish (lvl 14):** can take the Hide action as a bonus action. Can't be tracked by nonmagical means unless she chooses to leave a trail.
+- **Shadowy Dodge (lvl 15, Gloom Stalker):** when a creature she can see attacks her, can use her reaction to impose disadvantage on that attack roll.
 
 **Gloom Stalker (Ranger Archetype)**
 - **Dread Ambusher:** see Attacks above; also grants +WIS to initiative and +10 ft speed on the first turn of combat.
@@ -76,6 +79,7 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 - Shortsword
 - Studded leather armor
 - Explorer's pack, trapping gear, hunting knife, rope, dark oiled cloak
+- **Sky-iron-lined waterskin and ration pouch** (Session 24, Perrin & Greta) — resist spoilage and stretch further than they should. Once per long rest, can requisition food and water for the whole group from her own kit even in genuinely barren terrain, no roll needed.
 - ~12 gp (spent down to near nothing on the bow trade, then earned back selling furs/game/herbs)
 
 ## Personality
@@ -91,9 +95,10 @@ What started as paid work became a real partnership, and — after Ravensmoor �
 
 ## Current Status
 - Conditions: none
-- HP: 91 / 91 (full)
+- HP: 102 / 102 (full)
 - Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd)
 - Inspiration: no
+- **Milestone level-up (the Drowned Hollow):** Ranger 14 → 15, gaining **Shadowy Dodge** — earned for finding Ilsevet, the guardian who held the second sealed site alone for centuries, and seeing the site properly drained, reinforced, and given sustainable tending. Rolled +11 HP (d10 + CON mod), now **102 max**.
 - **Milestone level-up (Session 14):** Ranger 8 → 10 (Gloom Stalker) — two milestones in one session: clearing the barracks/commander's post, and killing the Warden's man (a fiend) while breaking the front entrance's defense. Gained 3rd-level spell slots, learned Conjure Animals, and gained Hide in Plain Sight. Rolled +4 then +7 HP, now **69 max**.
 - **Milestone level-up (Session 15):** Ranger 10 → 11 (Gloom Stalker) — earned for solving the campaign's central mystery: Edmund Vale captured alive and Duskgate confirmed as the true target, alongside closing the Ashpit/identity arc. Gained Stalker's Flurry, 3rd-level spell slots increased to 3/3, and learned Protection from Energy. Rolled +7 HP, now **76 max**.
 - **Milestone level-up (Session 15, Duskgate):** Ranger 11 → 12 (Gloom Stalker), gaining an Ability Score Improvement (+2 WIS, 14→16) — earned for the campaign's true climax: breaking the anchor at Duskgate and ending the Warden's bargain for good. Rolled +4 HP, now **80 max**.

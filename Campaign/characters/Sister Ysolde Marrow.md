@@ -1,7 +1,7 @@
 # Sister Ysolde Marrow
 
 **Race:** Human
-**Class & Level:** Cleric 13 (Grave Domain)
+**Class & Level:** Cleric 14 (Grave Domain)
 **Deity:** Thossia, the Arbiter — goddess of judgment and the settling of debts after death
 **Background:** Sage (Order Scholar)
 **Alignment:** Lawful Good
@@ -13,11 +13,11 @@
 
 ## Combat
 - **AC:** 17 (scale mail + shield)
-- **HP:** 91 / 91
-- **Hit Dice:** 13d8
+- **HP:** 99 / 99
+- **Hit Dice:** 14d8
 - **Speed:** 30 ft
 - **Passive Perception:** 14
-- **Proficiency bonus:** +5 (character level 13)
+- **Proficiency bonus:** +5 (character level 14)
 
 ### Attacks
 | | To Hit | Damage |
@@ -41,6 +41,7 @@ Not a frontline fighter by her own admission — her value is spellcasting, ward
 - **War Caster (Ability Score Improvement, Cleric lvl 12):** advantage on Constitution saves to maintain concentration; can perform somatic components with weapons/shield in hand; can cast a spell (1-action casting time) as a reaction in place of an opportunity attack.
   - Commonly prepared: *Bless, Command, Zone of Truth, Protection from Evil and Good, Dispel Magic, Remove Curse, Banishment, Dispel Evil and Good, **Guiding Bolt** (1st — ranged radiant spell attack, solid reliable damage at range), **Spiritual Weapon** (2nd — bonus action floating ranged weapon, good action economy), **Flame Strike** (5th — ranged column of fire and radiant damage, fits Thossia's judgment theme).*
 - **Channel Divinity (2/short or long rest):** Turn Undead, and Path to the Grave (curse a creature within 30 ft — the next attack against it before the start of her next turn has advantage and scores a critical hit on any hit).
+- **Destroy Undead (lvl 14):** Turned undead of CR 3 or lower are instantly destroyed rather than merely turned.
 - **Divine Intervention** (lvl 10): can call on Thossia directly to intervene, once per long rest at this level (percentage chance based on cleric level).
 
 **Grave Domain**
@@ -72,8 +73,9 @@ Magistrate Kell corresponded with her twice on unrelated legal-religious matters
 
 ## Current Status
 - Conditions: none
-- HP: 91 / 91 (full)
+- HP: 99 / 99 (full)
 - Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 3/3 5th, 1/1 6th, 1/1 7th)
+- **Milestone level-up (the Drowned Hollow):** Cleric 13 → 14, gaining an improved **Destroy Undead** (CR 3) — earned for finding Ilsevet, the guardian who held the second sealed site alone for centuries, and seeing the site properly drained, reinforced, and given sustainable tending. Rolled +6 HP (d8) + CON mod, now **99 max**.
 - **Milestone level-up (Session 18, the ancient village):** Cleric 11 → 12, taking **War Caster** as her ASI — earned for finding and restoring an entire lost goliath-kin people, ending Kethrun's centuries of isolation for good. Rolled +7 HP, now **86 max**.
 - **Milestone level-up (Session 24, the full regional council):** Cleric 12 → 13 — earned for resolving the Ashpit betrayal and forging the regional alliance. Proficiency bonus now **+5** (character level 13); gained a 7th-level spell slot. Rolled +5 HP, now **91 max**.
 - **Joined the party (Session 15)** — translated the two coded ledgers (partial copy of the bargain's renewal rite), confirmed the Warden's bargain terms (accumulated soul-tribute banked across a tenure, offered at Duskgate alongside a living successor's acceptance; grants wealth, network control, and a ward against being truly seen/scried), and identified a fortnight grace period after which Malphestor can act directly to compel a new successor if none comes willingly.

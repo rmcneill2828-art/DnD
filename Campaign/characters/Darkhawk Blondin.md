@@ -2,7 +2,7 @@
 
 **Birth name:** Rurik, son of Sesha and Harek, Thundertree clan (confirmed Session 12 — still goes by "Darkhawk Blondin" day to day)
 **Race:** Goliath
-**Class & Level:** Barbarian 10 (Path of the Totem Warrior — Bear) / Fighter 4 (Battle Master)
+**Class & Level:** Barbarian 11 (Path of the Totem Warrior — Bear) / Fighter 4 (Battle Master)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
@@ -13,12 +13,12 @@
 
 ## Combat
 - **AC:** 17 (fitted breastplate: 14 + DEX = 15, +1 from Dual Wielder while wielding two melee weapons, +1 from sky-iron bracers)
-- **HP:** 123 / 123
-- **Hit Dice:** 10d12 + 4d10
+- **HP:** 132 / 132
+- **Hit Dice:** 11d12 + 4d10
 - **Speed:** 40 ft (Fast Movement, Barbarian 5 — not wearing heavy armor)
 - **Initiative bonus:** +1, with **advantage** (Feral Instinct, Barbarian 7)
 - **Passive Perception:** 15
-- **Proficiency bonus:** +5 (character level 13)
+- **Proficiency bonus:** +5 (character level 15)
 
 ### Attacks
 Dual-wielding two longswords one-handed (DM house rule — narratively justified by Goliath Powerful Build; reforged by Perrin Dask into a true matched dual-wielding pair, then worked through with **sky-iron** — meteoric ore, not magic, but the blades now count as magical weapons for the purpose of overcoming resistance/immunity to nonmagical attacks). **Extra Attack (Barbarian 5):** the Attack action now grants two attacks; off-hand remains a bonus action, for three total attacks in a full turn.
@@ -61,6 +61,7 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 - **Bear-Claimed (Session 15, Duskgate):** surviving the anchor's soul trial left a permanent claw-shaped scar over his heart and a standing bond with the bear-spirit, not just a one-time debt. Permanent **advantage on saving throws against being charmed, frightened, or possessed.**
 - **The Bear's Answer (Session 18, the Standing Ring):** Darkhawk offered the bear-spirit a mutual vow — freely given partnership, not just gratitude for being saved — and it accepted. Once per long rest, as a bonus action, he can call on it directly: for 1 minute, while raging, his melee weapon attacks deal an extra 1d6 damage and any creature that starts its turn within 10 ft of him and can see him must succeed on a Wisdom save (DC 14) or be frightened of him until the start of its next turn.
 - **Totemic Attunement — Bear (lvl 10, Session 24):** while raging, any hostile creature within 5 ft of him that can see him has disadvantage on attack rolls against any target other than him or another creature with this same feature.
+- **Relentless Rage (lvl 11):** if reduced to 0 HP while raging without being killed outright, can make a DC 10 Constitution save to drop to 1 HP instead. DC increases by 5 each time it's used again before a long rest.
 - **Ability Score Improvement (lvl 4) — Dual Wielder feat**: +1 AC while wielding two melee weapons (reflected above), can two-weapon fight with non-light weapons, can draw two weapons at once.
 - **Extra Attack (lvl 5)**: the Attack action now grants two attacks.
 - **Fast Movement (lvl 5)**: +10 ft speed while not wearing heavy armor (reflected above).
@@ -96,18 +97,17 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 - **A matched pair of silver-inlaid dueling daggers**, exceptional craftsmanship, no maker's mark, from Duskgate's strongroom.
 - **A fine chainmail shirt**, lightweight, well-made, stripped off a "graduate" before sale — from Duskgate's strongroom. Reworked with sky-iron by Perrin and Greta: not magical, but counts as magical armor for overcoming resistance/immunity, same as his longswords. A backup/alternate set to the breastplate.
 - **Sky-iron bracers**, fitted by Perrin — reinforced for blocking and parrying rather than just decorative. **+1 AC** (reflected above).
+- **Sky-iron open-faced helm** (Session 24, Perrin & Greta) — light, doesn't impede peripheral vision. Once per long rest, when struck by a critical hit, can treat it as a normal hit instead (no extra damage dice).
 - **The engraved pendant, returned** — identified and given back to its owner's aunt at the restitution line; the initials were her late sister's, worn by her daughter Mira in memory. Thread closed.
 - **Edmund Vale's signet ring** — plain iron, fist-and-chain sigil, worn smooth from more than one owner's hand. Physical proof the "Warden" title is inherited rather than personal.
 - **Edmund Vale's document case** — personal correspondence confirming his name, and an unsent letter to "my successor" with instructions for the parcel "if the reckoning comes for me before the bargain does."
 - **The foothill parcel's preliminary manifest** — unsigned, listing an expected first intake of 12-15 captives once the strongroom's operational, timed to after the mine's numbers would have closed. Confirms this site was built as the mine's replacement.
 - **Ashpit ledger fragment** — water-damaged but partially legible match/wager records from the original pit, recovered from a hidden alcove cache. Every surviving page header reads "By the Warden's word," never a name — strong evidence "the Warden" is an inherited title/office, not one person, and that this pit is where it began.
-- A rough charcoal sketch of the mine's interior tunnels, found on the lead response-team guard — shows a fork not far past the bend: one branch toward a marked holding area, the other toward what's likely the commander's post.
 - A knotted tally cord taken off one of the holding-area guards — rows of counted knots, the last several visibly fresher than the rest. Matches the Warden's own phrase, "the count," from his dead-drop letter. What it's actually counting is still unknown.
-- Off the mine commander's body: a half-written, unsent order addressed to "the Warden's man" (confirms this figure is stationed somewhere deeper in the mine, not the Warden himself), a rank clasp bearing the fist-and-chain sigil, and an unmarked heavy iron key that doesn't fit anything on the guards.
-- The processing area's shipment ledger — coded the same way as the second ledger already headed to Corwin Pell, destination marked only by the fist-and-chain sigil instead of a place name. Confirms decoding the existing ledger will reveal where "the count" was always meant to end up.
 - From the Warden's man's chamber: a leather-bound pact contract, countersigned "on behalf of Ravenshollow" rather than a name — direct written proof Ravenshollow is the Warden's own instrument, not just a front. A black scrying mirror, the fiend's means of reporting back (untested — could be a way to reach the Warden, or a very bad idea). A **+1 dagger**, black iron, etched with the fist-and-chain sigil — genuinely magical, and seems to resonate faintly near spoken lies.
-- No potions of healing remaining — both used (one on Kaldur Stonewake, the second on himself at the service cut)
-- Dark oiled cloak, hardtack, waterskins, and leather wrap for muffling weapons/metal — packed for the Vantor stakeout
+- **Two potions of healing** (Session 24, restocked via Joss — salvaged from Duskgate's market stores)
+- **Travel kit, restocked for an extended expedition** (Session 24, via Joss): weeks of dried rations, extra rope, oilcloth, a proper bedroll — replacing the lighter stakeout gear packed for Vantor.
+- *(Dropped off with Joss for safekeeping at Urskelde, no longer carried: the charcoal sketch of the mine's tunnels, the half-written order to "the Warden's man," the rank clasp, the unmarked iron key, and the processing area's shipment ledger — all resolved threads.)*
 
 ## Personality
 - **Traits:** Reads a room like an arena — instinctively clocks exits, weapons, and who's about to start something. Goes quiet and gentle around anyone weaker or more frightened than him.
@@ -125,10 +125,10 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 **Converging thread:** Independent investigation into the Circuit's hidden central hub (as opposed to its known satellite sites) points toward the foothills of the Greyhorn Range — the same mountains associated with Thundertree territory. Mountain clans have reportedly grown more closed-off over the same period suspicious land purchases began there. The Circuit's true heart and Darkhawk's own lost clan may be on a collision course.
 
 ## Current Status
-- Conditions: none (exhaustion cleared after a full long rest at the Bear Cave)
-- HP: 123 / 123 (full)
-- Hit Dice: 10d12 + 4d10 (full)
-- Rages used: 0 / 4 — full rest since Duskgate
+- Conditions: none
+- HP: 132 / 132 (full)
+- Hit Dice: 11d12 + 4d10 (full)
+- Rages used: 0 / 4 — full rest
 - Second Wind: available
 - Action Surge: available
 - Stone's Endurance: available
@@ -146,5 +146,6 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 - **How he survived it:** a scar clean through the chest, front to back — a wound Mara confirms no one walks away from untreated. Someone saved him after the pit believed him dead. That night, a fitful dream at Thundertree pushed past the memory's usual wall for the first time: large, fur-covered hands, a low not-quite-growl, chanted words that wouldn't hold. Elder Vosk named old mountain-clan lore of a bear-spirit that marks those who show mercy where the pit or the raid demands blood — not strength, restraint, at the one moment restraint should be impossible. A Spirit Seeker ritual that night (guided by Vosk) drew a real bear to the edge of the firelight — it didn't speak, but the impression was unmistakable: recognition, an old debt remembered rather than explained. Unconfirmed whether it's connected to who saved him, but Darkhawk now believes the totem chose him before he ever chose it back.
 - **Milestone level-up (Session 18, the ancient village):** Fighter 3 → 4, taking **Resilient (Wisdom)** as his ASI — earned for finding and restoring an entire lost goliath-kin people, ending Kethrun's centuries of isolation for good. Proficiency bonus now **+5** (character level 13). Rolled +4 HP, now **117 max**.
 - **Milestone level-up (Session 24, the full regional council):** Barbarian 9 → 10, gaining **Totemic Attunement (Bear)** — earned for resolving the Ashpit betrayal that's haunted the campaign since its opening session and forging a real regional alliance against the threat above Malphestor. Character level 14; proficiency bonus stays **+5**. Rolled +6 HP (d12 roll of 4 + CON mod 2), now **123 max**.
+- **Milestone level-up (the Drowned Hollow):** Barbarian 10 → 11, gaining **Relentless Rage** — earned for finding Ilsevet, the guardian who held the second sealed site alone for centuries, and seeing the site properly drained, reinforced, and given sustainable tending (a mason, Odra, staying on to learn from her directly). Character level 15; proficiency bonus stays **+5**. Rolled +7 HP (d12) + CON mod 2, now **132 max**.
 - **The Bear's Answer, sworn (Session 18):** at the Standing Ring, fully opened himself to the bear-spirit and offered it a mutual vow — partnership freely given, not just gratitude for being saved twice. It accepted. New standing ability: once per long rest, call on it directly in battle (see Features & Traits).
 - **Married to Mara Fenn (Session 16)** — engaged at Thundertree the morning after the mine's fall (Session 15), then wed at Thundertree itself in a surprise ceremony Darkhawk arranged in secret on the road back from Kessick's Ford (cover story: "the slow road" to scout the ridge line). Both a Thundertree rite (Vosk officiating, Sesha and Harek's blessing) and Sister Ysolde's blessing of Thossia were given, binding "two people and two tribes." Wears a carved bear-and-arrow pendant split from Darkhawk's own lifelong trophy, made by Thundertree's carver at Darkhawk's request.

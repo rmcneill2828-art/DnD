@@ -1,7 +1,7 @@
 # Sael
 
 **Race:** Wood Elf
-**Class & Level:** Druid 12 (Circle of the Moon)
+**Class & Level:** Druid 13 (Circle of the Moon)
 **Background:** Hermit
 **Alignment:** Neutral Good
 
@@ -12,23 +12,23 @@
 
 ## Combat
 - **AC:** 16 (studded leather, non-metal, + wooden shield)
-- **HP:** 79 / 79
-- **Hit Dice:** 12d8
+- **HP:** 88 / 88
+- **Hit Dice:** 13d8
 - **Speed:** 35 ft (Wood Elf)
 - **Passive Perception:** 19
-- **Proficiency bonus:** +4 (character level 12)
+- **Proficiency bonus:** +5 (character level 13)
 
 ### Attacks
 | | To Hit | Damage |
 |---|---|---|
-| Quarterstaff | +5 | 1d6+1 bludgeoning |
-| Sickle | +5 | 1d4+1 slashing |
+| Quarterstaff | +6 | 1d6+1 bludgeoning |
+| Sickle | +6 | 1d4+1 slashing |
 
 **Wild Shape (2/short or long rest):** as a Circle of the Moon druid, can transform as a bonus action, and can ignore the usual "seen it before, no swim/fly speed" restrictions — can take the form of any beast with CR up to 3 (druid level ÷ 3). Most often takes the form of a **large brown bear** (CR 1) — the same shape she used to pull Darkhawk from Ashpit, and the shape that answered the Spirit Seeker ritual isn't this one, but a distinct, older presence she and Darkhawk both now believe is a true bear-spirit rather than a druid's Wild Shape.
 
 ## Proficiencies & Skills
-- **Saving throws:** Intelligence +4, Wisdom +9
-- **Skills:** Survival +9, Stealth +7, Perception +9, Medicine +9, Animal Handling +9
+- **Saving throws:** Intelligence +5, Wisdom +10
+- **Skills:** Survival +10, Stealth +8, Perception +10, Medicine +10, Animal Handling +10
 - **Languages:** Common, Elvish, Druidic, Giant (picked up over years spent near the Greyhorn foothills)
 - **Tools:** Herbalism kit
 - **Weapons:** clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
@@ -43,7 +43,7 @@
 
 **Druid**
 - **Druidic:** knows the secret druidic language.
-- **Spellcasting:** Wisdom-based. Spell save DC 17, spell attack +9. Prepares spells daily (WIS mod + druid level = 17 prepared) from the full druid list. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 2 (5th), 1 (6th).
+- **Spellcasting:** Wisdom-based. Spell save DC 18, spell attack +10. Prepares spells daily (WIS mod + druid level = 18 prepared) from the full druid list. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 2 (5th), 1 (6th), 1 (7th).
   - Commonly prepared: *Goodberry, Cure Wounds, Entangle, Pass without Trace, Barkskin, Speak with Animals, Conjure Animals, Spike Growth, Protection from Poison, Wind Wall, Locate Creature, Freedom of Movement, **Moonbeam** (2nd — ranged radiant damage in an area, fitting for a Circle of the Moon druid, can be cast and sustained while Wild Shaped), **Call Lightning** (3rd — ranged lightning damage, repeatable each turn while concentrating).*
 - **Wild Shape** (lvl 2): see Combat, above.
 
@@ -77,9 +77,10 @@ Rather than reveal herself, she chose to watch from a distance — telling herse
 
 ## Current Status
 - Conditions: none
-- HP: 79 / 79 (full)
+- HP: 88 / 88 (full)
 - Wild Shape: 2/2 available
-- Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th)
+- Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th)
+- **Milestone level-up (the Drowned Hollow):** Druid 12 → 13 — earned for finding Ilsevet, the guardian who held the second sealed site alone for centuries, and seeing the site properly drained, reinforced, and given sustainable tending. Proficiency bonus now **+5** (character level 13); gained a 7th-level spell slot. Rolled +7 HP (d8) + CON mod, now **88 max**.
 - **Milestone level-up (Session 18, the ancient village):** Druid 10 → 11 — earned for finding and restoring an entire lost goliath-kin people, ending Kethrun's centuries of isolation for good. Gained a 6th-level spell slot. Rolled +7 HP, now **73 max**.
 - **Milestone level-up (Session 24, the full regional council):** Druid 11 → 12, taking **+2 WIS (18 → 20)** as her ASI — earned for resolving the Ashpit betrayal and forging the regional alliance. Rolled +6 HP, now **79 max**.
 - **Joined the party (Session 15)** — revealed herself as Darkhawk's Ashpit rescuer and asked to stop watching from a distance, given the stakes of the Warden's infernal bargain and Duskgate ahead. Mara's condition: she fights where the party can see her, at least until more trust is built.
