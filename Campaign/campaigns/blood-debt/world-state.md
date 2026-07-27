@@ -56,15 +56,15 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 | Thundertree | Darkhawk's birth clan; family reunited, alliance secured with Vosk |
 | **Urskelde** (formerly Ashpit/the mine/"the Bear Cave") | **Home base.** Held by Kaldur as formally named Commander, Threnn's political adviser, deputies Idra and Torvin. Vale and Merrick working under guard. Charter sealed. |
 | **The cairns** (Urskelde's northern boundary) | Six goliath-worked "watch-cairns." One found tampered with a dampening shard (Session 25) — removed, ward restored to full strength. |
-| **The Standing Ring** (deep Greyhorn Range) | **Sealed site 1 of 3 — secured.** Kethrun's chamber; Torvald staying on-site to tend it. |
+| **The Standing Ring** (deep Greyhorn Range) | **Sealed site 1 of 4 — secured.** Kethrun's chamber; Torvald staying on-site to tend it. Thread reconnected to the Drowned Hollow (Session 25). |
 | **The ancient goliath-kin village** (2 days NE of the Standing Ring) | Threnn's people (~3 dozen) fully relocated to Urskelde; village now empty. |
-| **The Drowned Hollow / "Widow's Still"** (west of Urskelde, past Corbin's holding) | **Sealed site 2 of 3 — secured (Session 25).** Drained, reinforced, sustainably tended by Odra alongside Ilsevet. Party currently here alongside Threnn's crew. |
+| **The Drowned Hollow / "Widow's Still"** (west of Urskelde, past Corbin's holding) | **Sealed site 2 of 4 — secured (Session 25).** Drained, reinforced, sustainably tended by Odra alongside Ilsevet. The old sensing-thread to Kethrun successfully reconnected. Party currently here alongside Threnn's crew. |
 | **Corbin's holding** (mountain trapper's homestead, west of Urskelde) | Ally family (Corbin, Merra, two sons, his mother); warded against the scout creature. |
-| **The Still Throat** (north, frozen glacial pass) | Sealed site 3 of 3 — **unvisited**, condition unknown. |
-| **The nameless valley** (southeast, near Threnn's village) | Sealed site 3 of 3 (alternate) — **unvisited**, condition unknown. Bettha may know more if pressed. |
+| **The Still Throat** (north, frozen glacial pass) | Sealed site 3 of 4 — **unvisited**, condition unknown. |
+| **The nameless valley** (southeast, near Threnn's village) | Sealed site 4 of 4 — **unvisited**, condition unknown. Bettha may know more if pressed. |
 
 ## Active Quest Log
-- **Two of Kethrun's three sealed sites now secured** (Standing Ring, Drowned Hollow). Remaining: the Still Throat (north) and a nameless valley (southeast) — only one is left to find and close, per Kethrun's count of three total.
+- **Two of Kethrun's four known sealed sites now secured** (the Standing Ring itself, and the Drowned Hollow). Two remain, both unvisited: the Still Throat (north, frozen pass) and a nameless valley (southeast, near Threnn's village).
 - **House Corvane's records on the Raven Queen faith** — offered freely by Lord Edrin Corvane after the council; not yet examined. Could clarify what "the one above" Malphestor actually is.
 - **The scout creature and what it reports to** — confirmed "built rather than born" and existing in more than one instance. Halvard's spy network is watching for related leads alongside the Greyfeather search.
 - **Thyra's training** — continuing under Idra and Kaldur at Urskelde; future role teaching at Thundertree once ready.
