@@ -25,14 +25,27 @@ Markdown-based DM tracker for tabletop campaigns. Structure:
 ## Paired tool: Campaign-OS
 
 **Campaign-OS** (https://github.com/rmcneill2828-art/Campaign-OS) is a separate battle-map/VTT
-app being actively built out alongside this campaign, but **not yet used for actual play** --
-its combat engine only handles flat weapon attacks (to-hit, damage, crit, advantage,
-Multiattack, movement). It has no concept of ability scores, saving throws, spell slots, or any
-class feature/resource (Rage, Reckless Attack's downside, spellcasting entirely) -- everything
-this party actually leans on beyond basic weapon swings. Decided together (2026-07-23) not to
-force it into live play until it can actually cover that; keep improving it in parallel, not as
-a blocker. Real combat stays running the normal way: DM narration in chat + PowerShell dice, per
-the root `CLAUDE.md`.
+app being actively built out alongside this campaign. As of 2026-08-02 its combat engine covers
+ability scores, saving throws, spellcasting (spell slots, save DC/attack bonus), named class
+resources (Rage, Wild Shape, Ki, Superiority Dice, Channel Divinity, etc.), concentration, death
+saves, rest automation, Hit Dice (including real multiclass pooling), exhaustion (0-6, with the
+RAW disadvantage/speed penalties that hook into it, plus disadvantage on ability checks at
+level 1), legendary/lair actions, conditions with real mechanical effects (Blinded, Prone,
+Restrained, Stunned, Paralyzed, Unconscious, Invisible, Poisoned all affect attack rolls/saves/
+speed, not just cosmetic tags), ability/skill checks (Perception, Stealth, Persuasion, etc.),
+area-of-effect spells (Fireball-style save-for-half resolved in one action against multiple
+targets), a 16-monster bestiary (up from 6), automatic start-of-turn regeneration/recharge
+abilities (Troll's Regeneration, Hell Hound's Fire Breath), and a basic action economy (one
+action + one bonus action per turn, Extra Attack aware) enforced once turn order is running --
+the gap that paused live play on 2026-07-23 (no ability scores/saves/spell slots/resources) is
+closed, and the deeper gaps identified in a 2026-08-02 follow-up review are closed too. Still a
+single-DM, single-browser tool by design -- no multiplayer, no player-facing client; that
+remains a deliberate, not-yet-decided scope question, not a bug. Check that repo's CLAUDE.md/
+README.md for the authoritative, current feature list and any known simplifications (damage
+types still aren't modeled, reactions/opportunity attacks aren't modeled, `castAreaSpell` isn't
+yet subject to the action economy) before deciding whether to move real combat over. Until then,
+real combat stays running the normal way: DM narration in chat + PowerShell dice, per the root
+`CLAUDE.md`.
 
 It imports from this repo read-only, except for two write paths (not used under the current
 workflow, since the DM writes session-log.md/world-state.md directly in chat): "End Session"
