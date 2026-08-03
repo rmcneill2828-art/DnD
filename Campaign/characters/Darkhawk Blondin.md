@@ -107,7 +107,7 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 - **Ashpit ledger fragment** — water-damaged but partially legible match/wager records from the original pit, recovered from a hidden alcove cache. Every surviving page header reads "By the Warden's word," never a name — strong evidence "the Warden" is an inherited title/office, not one person, and that this pit is where it began.
 - A knotted tally cord taken off one of the holding-area guards — rows of counted knots, the last several visibly fresher than the rest. Matches the Warden's own phrase, "the count," from his dead-drop letter. What it's actually counting is still unknown.
 - From the Warden's man's chamber: a leather-bound pact contract, countersigned "on behalf of Ravenshollow" rather than a name — direct written proof Ravenshollow is the Warden's own instrument, not just a front. A black scrying mirror, the fiend's means of reporting back (untested — could be a way to reach the Warden, or a very bad idea). A **+1 dagger**, black iron, etched with the fist-and-chain sigil — genuinely magical, and seems to resonate faintly near spoken lies.
-- **Two potions of healing** (Session 24, restocked via Joss — salvaged from Duskgate's market stores)
+- **One potion of healing remaining** (Session 24, restocked via Joss — salvaged from Duskgate's market stores; second used at the Still Throat)
 - **Travel kit, restocked for an extended expedition** (Session 24, via Joss): weeks of dried rations, extra rope, oilcloth, a proper bedroll — replacing the lighter stakeout gear packed for Vantor.
 - *(Dropped off with Joss for safekeeping at Urskelde, no longer carried: the charcoal sketch of the mine's tunnels, the half-written order to "the Warden's man," the rank clasp, the unmarked iron key, and the processing area's shipment ledger — all resolved threads.)*
 
@@ -135,6 +135,8 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 - Action Surge: available
 - Stone's Endurance: available
 - Inspiration: spent (burned on a disarm attempt against the shield-wall guards; DM owes a fresh one for good roleplay when it comes up)
+- Helm's crit-insurance: available (fresh since last long rest)
+- Notes: reached the sentinel thread directly and unassisted for the first time (Session 27) — Kethrun confirms he now functions as a living tending-hand for the network, not just a visitor who helps others reconnect.
 - **Milestone level-up (Session 14):** Barbarian 6 → 8 (Fighter 2 unchanged) — two milestones in one session: clearing the barracks/commander's post, and killing the Warden's man (a fiend) while breaking the front entrance's defense. Gained Feral Instinct, an ASI (+2 STR, 19→21), and rolled +12 then +8 HP, now **95 max**.
 - **Milestone level-up (Session 15):** Fighter 2 → 3, choosing **Battle Master** (Trip Attack, Disarming Attack, Riposte) — earned for solving the campaign's central mystery: Edmund Vale (the Warden's title-holder) captured alive and Duskgate confirmed as the true target, alongside closing the Ashpit/identity arc. Rolled +9 HP, now **104 max**.
 - **Milestone level-up (Session 15, Duskgate):** Barbarian 8 → 9, gaining **Brutal Critical** — earned for the campaign's true climax: breaking the anchor at Duskgate, ending the Warden's bargain permanently, and offering Malphestor itself genuine hope rather than simple vengeance. Rolled +9 HP, now **113 max**.
