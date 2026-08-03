@@ -2,23 +2,23 @@
 
 **Birth name:** Rurik, son of Sesha and Harek, Thundertree clan (confirmed Session 12 — still goes by "Darkhawk Blondin" day to day)
 **Race:** Goliath
-**Class & Level:** Barbarian 11 (Path of the Totem Warrior — Bear) / Fighter 4 (Battle Master)
+**Class & Level:** Barbarian 12 (Path of the Totem Warrior — Bear) / Fighter 4 (Battle Master)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
-| 21 (+5) | 13 (+1) | 14 (+2) | 8 (−1) | 12 (+1) | 10 (+0) |
+| 21 (+5) | 13 (+1) | 16 (+3) | 8 (−1) | 12 (+1) | 10 (+0) |
 
 ## Combat
 - **AC:** 17 (fitted breastplate: 14 + DEX = 15, +1 from Dual Wielder while wielding two melee weapons, +1 from sky-iron bracers)
-- **HP:** 132 / 132
-- **Hit Dice:** 11d12 + 4d10
+- **HP:** 161 / 161
+- **Hit Dice:** 12d12 + 4d10
 - **Speed:** 40 ft (Fast Movement, Barbarian 5 — not wearing heavy armor)
 - **Initiative bonus:** +1, with **advantage** (Feral Instinct, Barbarian 7)
 - **Passive Perception:** 15
-- **Proficiency bonus:** +5 (character level 15)
+- **Proficiency bonus:** +5 (character level 16)
 
 ### Attacks
 Dual-wielding two longswords one-handed (DM house rule — narratively justified by Goliath Powerful Build; reforged by Perrin Dask into a true matched dual-wielding pair, then worked through with **sky-iron** — meteoric ore, not magic, but the blades now count as magical weapons for the purpose of overcoming resistance/immunity to nonmagical attacks). **Extra Attack (Barbarian 5):** the Attack action now grants two attacks; off-hand remains a bonus action, for three total attacks in a full turn.
@@ -34,7 +34,7 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 **Consecrated against fiends (Sister Ysolde, Session 15):** both longswords and the +1 dagger now carry a lasting ward against fiends specifically — better odds landing a blow true, plus some resistance to the fear and corruption fiends favor using before a fight even starts.
 
 ## Proficiencies & Skills
-- **Saving throws:** Strength +10, Constitution +7, Wisdom +6 (Resilient, lvl Fighter 4)
+- **Saving throws:** Strength +10, Constitution +8, Wisdom +6 (Resilient, lvl Fighter 4)
 - **Skills:** Athletics +10, Survival +6, Perception +6, Intimidation +5, Animal Handling +6
 - **Languages:** Common, Giant, +1 (Outlander choice — suggest Dwarvish or Orc, pick when it matters in-story)
 - **Tools:** one musical instrument (Outlander — suggest a tribal drum)
@@ -45,7 +45,7 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 
 **Goliath**
 - Natural Athlete: proficiency in Athletics
-- Stone's Endurance: once per short/long rest, as a reaction, reduce damage from one attack by 1d12 + CON mod (2)
+- Stone's Endurance: once per short/long rest, as a reaction, reduce damage from one attack by 1d12 + CON mod (3)
 - Powerful Build: counts as one size larger for carrying capacity and push/drag/lift
 - Mountain Born: resistance to cold damage; acclimated to high altitude
 
@@ -62,6 +62,8 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 - **The Bear's Answer (Session 18, the Standing Ring):** Darkhawk offered the bear-spirit a mutual vow — freely given partnership, not just gratitude for being saved — and it accepted. Once per long rest, as a bonus action, he can call on it directly: for 1 minute, while raging, his melee weapon attacks deal an extra 1d6 damage and any creature that starts its turn within 10 ft of him and can see him must succeed on a Wisdom save (DC 14) or be frightened of him until the start of its next turn.
 - **Totemic Attunement — Bear (lvl 10, Session 24):** while raging, any hostile creature within 5 ft of him that can see him has disadvantage on attack rolls against any target other than him or another creature with this same feature.
 - **Relentless Rage (lvl 11):** if reduced to 0 HP while raging without being killed outright, can make a DC 10 Constitution save to drop to 1 HP instead. DC increases by 5 each time it's used again before a long rest.
+- **Ability Score Improvement (lvl 12):** +2 CON (14 → 16, reflected above).
+- **Vessyn's Gift (Sorrow's Hush):** after serving as a willing conduit — channeling the guardian's fear through a deliberately chosen rage rather than being broken by it — Vessyn marked him in kind. Once per long rest, as a reaction when a creature within 30 ft that can see him would be frightened, he can grant it advantage on that save instead.
 - **Ability Score Improvement (lvl 4) — Dual Wielder feat**: +1 AC while wielding two melee weapons (reflected above), can two-weapon fight with non-light weapons, can draw two weapons at once.
 - **Extra Attack (lvl 5)**: the Attack action now grants two attacks.
 - **Fast Movement (lvl 5)**: +10 ft speed while not wearing heavy armor (reflected above).
@@ -105,7 +107,7 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 - **Ashpit ledger fragment** — water-damaged but partially legible match/wager records from the original pit, recovered from a hidden alcove cache. Every surviving page header reads "By the Warden's word," never a name — strong evidence "the Warden" is an inherited title/office, not one person, and that this pit is where it began.
 - A knotted tally cord taken off one of the holding-area guards — rows of counted knots, the last several visibly fresher than the rest. Matches the Warden's own phrase, "the count," from his dead-drop letter. What it's actually counting is still unknown.
 - From the Warden's man's chamber: a leather-bound pact contract, countersigned "on behalf of Ravenshollow" rather than a name — direct written proof Ravenshollow is the Warden's own instrument, not just a front. A black scrying mirror, the fiend's means of reporting back (untested — could be a way to reach the Warden, or a very bad idea). A **+1 dagger**, black iron, etched with the fist-and-chain sigil — genuinely magical, and seems to resonate faintly near spoken lies.
-- **Two potions of healing** (Session 24, restocked via Joss — salvaged from Duskgate's market stores)
+- **One potion of healing remaining** (Session 24, restocked via Joss — salvaged from Duskgate's market stores; second used at the Still Throat)
 - **Travel kit, restocked for an extended expedition** (Session 24, via Joss): weeks of dried rations, extra rope, oilcloth, a proper bedroll — replacing the lighter stakeout gear packed for Vantor.
 - *(Dropped off with Joss for safekeeping at Urskelde, no longer carried: the charcoal sketch of the mine's tunnels, the half-written order to "the Warden's man," the rank clasp, the unmarked iron key, and the processing area's shipment ledger — all resolved threads.)*
 
@@ -126,13 +128,15 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 
 ## Current Status
 - Conditions: none
-- HP: 132 / 132 (full)
-- Hit Dice: 11d12 + 4d10 (full)
+- HP: 161 / 161 (full)
+- Hit Dice: 12d12 + 4d10 (full)
 - Rages used: 0 / 4 — full rest
 - Second Wind: available
 - Action Surge: available
 - Stone's Endurance: available
 - Inspiration: spent (burned on a disarm attempt against the shield-wall guards; DM owes a fresh one for good roleplay when it comes up)
+- Helm's crit-insurance: available (fresh since last long rest)
+- Notes: reached the sentinel thread directly and unassisted for the first time (Session 27) — Kethrun confirms he now functions as a living tending-hand for the network, not just a visitor who helps others reconnect.
 - **Milestone level-up (Session 14):** Barbarian 6 → 8 (Fighter 2 unchanged) — two milestones in one session: clearing the barracks/commander's post, and killing the Warden's man (a fiend) while breaking the front entrance's defense. Gained Feral Instinct, an ASI (+2 STR, 19→21), and rolled +12 then +8 HP, now **95 max**.
 - **Milestone level-up (Session 15):** Fighter 2 → 3, choosing **Battle Master** (Trip Attack, Disarming Attack, Riposte) — earned for solving the campaign's central mystery: Edmund Vale (the Warden's title-holder) captured alive and Duskgate confirmed as the true target, alongside closing the Ashpit/identity arc. Rolled +9 HP, now **104 max**.
 - **Milestone level-up (Session 15, Duskgate):** Barbarian 8 → 9, gaining **Brutal Critical** — earned for the campaign's true climax: breaking the anchor at Duskgate, ending the Warden's bargain permanently, and offering Malphestor itself genuine hope rather than simple vengeance. Rolled +9 HP, now **113 max**.
@@ -147,5 +151,6 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 - **Milestone level-up (Session 18, the ancient village):** Fighter 3 → 4, taking **Resilient (Wisdom)** as his ASI — earned for finding and restoring an entire lost goliath-kin people, ending Kethrun's centuries of isolation for good. Proficiency bonus now **+5** (character level 13). Rolled +4 HP, now **117 max**.
 - **Milestone level-up (Session 24, the full regional council):** Barbarian 9 → 10, gaining **Totemic Attunement (Bear)** — earned for resolving the Ashpit betrayal that's haunted the campaign since its opening session and forging a real regional alliance against the threat above Malphestor. Character level 14; proficiency bonus stays **+5**. Rolled +6 HP (d12 roll of 4 + CON mod 2), now **123 max**.
 - **Milestone level-up (the Drowned Hollow):** Barbarian 10 → 11, gaining **Relentless Rage** — earned for finding Ilsevet, the guardian who held the second sealed site alone for centuries, and seeing the site properly drained, reinforced, and given sustainable tending (a mason, Odra, staying on to learn from her directly). Character level 15; proficiency bonus stays **+5**. Rolled +7 HP (d12) + CON mod 2, now **132 max**.
+- **Milestone level-up (Sorrow's Hush):** Barbarian 11 → 12, taking **+2 CON (14 → 16)** as his ASI — earned for finding and reconnecting **Vessyn**, the third sealed site's guardian, to the sentinel network, after standing his ground against Vessyn's fear-test and volunteering to channel the reweaving's strain through a deliberately chosen rage rather than let Vessyn risk it. Character level 16; proficiency bonus stays **+5**. Gained **Vessyn's Gift**. Rolled +11 HP (d12) + CON mod 3, now **161 max**.
 - **The Bear's Answer, sworn (Session 18):** at the Standing Ring, fully opened himself to the bear-spirit and offered it a mutual vow — partnership freely given, not just gratitude for being saved twice. It accepted. New standing ability: once per long rest, call on it directly in battle (see Features & Traits).
 - **Married to Mara Fenn (Session 16)** — engaged at Thundertree the morning after the mine's fall (Session 15), then wed at Thundertree itself in a surprise ceremony Darkhawk arranged in secret on the road back from Kessick's Ford (cover story: "the slow road" to scout the ridge line). Both a Thundertree rite (Vosk officiating, Sesha and Harek's blessing) and Sister Ysolde's blessing of Thossia were given, binding "two people and two tribes." Wears a carved bear-and-arrow pendant split from Darkhawk's own lifelong trophy, made by Thundertree's carver at Darkhawk's request.

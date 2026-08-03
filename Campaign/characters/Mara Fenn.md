@@ -1,7 +1,7 @@
 # Mara Fenn
 
 **Race:** Human
-**Class & Level:** Ranger 15 (Gloom Stalker)
+**Class & Level:** Ranger 16 (Gloom Stalker)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
@@ -12,8 +12,8 @@
 
 ## Combat
 - **AC:** 17 (studded leather: 12 + DEX)
-- **HP:** 102 / 102
-- **Hit Dice:** 15d10
+- **HP:** 112 / 112
+- **Hit Dice:** 16d10
 - **Speed:** 30 ft (+10 ft on the first turn of combat via Dread Ambusher)
 - **Initiative bonus:** +8 (DEX +5, plus WIS +3 from Dread Ambusher)
 - **Passive Perception:** 18
@@ -51,7 +51,7 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 - **Natural Explorer (Forest, Mountain):** second terrain gained at 6th level, chosen with the Greyhorn foothills ahead in mind. Home ground in either — never gets lost except by magic, can travel stealthily at normal pace, finds double food when foraging, and gets extra information/advantage on initiative and first-round surprise attempts.
 - **Primeval Awareness:** can expend a spell slot to sense whether aberrations, celestials, dragons, elementals, fey, fiends, or undead lurk within 1 mile (6 in favored terrain).
 - **Fighting Style — Archery:** +2 to attack rolls with ranged weapons.
-- **Spellcasting:** Wisdom-based. Spell save DC 16, spell attack +8. Known: **Hunter's Mark, Longstrider, Cure Wounds, Pass without Trace, Silence, Conjure Animals, Protection from Energy** (new at lvl 11). Slots: 4 (1st), 3 (2nd), 3 (3rd), 1 (4th).
+- **Spellcasting:** Wisdom-based. Spell save DC 16, spell attack +8. Known: **Hunter's Mark, Longstrider, Cure Wounds, Pass without Trace, Silence, Conjure Animals, Protection from Energy** (new at lvl 11). Slots: 4 (1st), 3 (2nd), 3 (3rd), 2 (4th).
 - **Extra Attack** (5th level).
 - **Ability Score Improvement (lvl 8):** +2 DEX (18 → 20, reflected above).
 - **Ability Score Improvement (lvl 12):** +2 WIS (14 → 16, reflected above).
@@ -95,9 +95,10 @@ What started as paid work became a real partnership, and — after Ravensmoor �
 
 ## Current Status
 - Conditions: none
-- HP: 102 / 102 (full)
-- Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd)
+- HP: 112 / 112 (full)
+- Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 2/2 4th)
 - Inspiration: no
+- **Milestone level-up (Sorrow's Hush):** Ranger 15 → 16 — earned for finding and reconnecting Vessyn, the third sealed site's guardian, to the sentinel network. Gained a second 4th-level spell slot. Rolled +10 HP (d10 + CON mod), now **112 max**.
 - **Milestone level-up (the Drowned Hollow):** Ranger 14 → 15, gaining **Shadowy Dodge** — earned for finding Ilsevet, the guardian who held the second sealed site alone for centuries, and seeing the site properly drained, reinforced, and given sustainable tending. Rolled +11 HP (d10 + CON mod), now **102 max**.
 - **Milestone level-up (Session 14):** Ranger 8 → 10 (Gloom Stalker) — two milestones in one session: clearing the barracks/commander's post, and killing the Warden's man (a fiend) while breaking the front entrance's defense. Gained 3rd-level spell slots, learned Conjure Animals, and gained Hide in Plain Sight. Rolled +4 then +7 HP, now **69 max**.
 - **Milestone level-up (Session 15):** Ranger 10 → 11 (Gloom Stalker) — earned for solving the campaign's central mystery: Edmund Vale captured alive and Duskgate confirmed as the true target, alongside closing the Ashpit/identity arc. Gained Stalker's Flurry, 3rd-level spell slots increased to 3/3, and learned Protection from Energy. Rolled +7 HP, now **76 max**.
