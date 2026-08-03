@@ -1,7 +1,7 @@
 # Sael
 
 **Race:** Wood Elf
-**Class & Level:** Druid 13 (Circle of the Moon)
+**Class & Level:** Druid 14 (Circle of the Moon)
 **Background:** Hermit
 **Alignment:** Neutral Good
 
@@ -12,8 +12,8 @@
 
 ## Combat
 - **AC:** 16 (studded leather, non-metal, + wooden shield)
-- **HP:** 88 / 88
-- **Hit Dice:** 13d8
+- **HP:** 91 / 91
+- **Hit Dice:** 14d8
 - **Speed:** 35 ft (Wood Elf)
 - **Passive Perception:** 19
 - **Proficiency bonus:** +5 (character level 13)
@@ -77,9 +77,10 @@ Rather than reveal herself, she chose to watch from a distance — telling herse
 
 ## Current Status
 - Conditions: none
-- HP: 88 / 88 (full)
+- HP: 91 / 91 (full)
 - Wild Shape: 2/2 available
 - Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th)
+- **Milestone level-up (Sorrow's Hush):** Druid 13 → 14 — earned for finding and reconnecting Vessyn, the third sealed site's guardian, to the sentinel network. No new class feature this level; spell slots unchanged. Rolled +3 HP (d8) + CON mod, now **91 max**.
 - **Milestone level-up (the Drowned Hollow):** Druid 12 → 13 — earned for finding Ilsevet, the guardian who held the second sealed site alone for centuries, and seeing the site properly drained, reinforced, and given sustainable tending. Proficiency bonus now **+5** (character level 13); gained a 7th-level spell slot. Rolled +7 HP (d8) + CON mod, now **88 max**.
 - **Milestone level-up (Session 18, the ancient village):** Druid 10 → 11 — earned for finding and restoring an entire lost goliath-kin people, ending Kethrun's centuries of isolation for good. Gained a 6th-level spell slot. Rolled +7 HP, now **73 max**.
 - **Milestone level-up (Session 24, the full regional council):** Druid 11 → 12, taking **+2 WIS (18 → 20)** as her ASI — earned for resolving the Ashpit betrayal and forging the regional alliance. Rolled +6 HP, now **79 max**.
