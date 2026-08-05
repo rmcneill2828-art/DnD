@@ -1,7 +1,7 @@
 # Sael
 
 **Race:** Wood Elf
-**Class & Level:** Druid 14 (Circle of the Moon)
+**Class & Level:** Druid 15 (Circle of the Moon)
 **Background:** Hermit
 **Alignment:** Neutral Good
 
@@ -12,11 +12,11 @@
 
 ## Combat
 - **AC:** 16 (studded leather, non-metal, + wooden shield)
-- **HP:** 91 / 91
-- **Hit Dice:** 14d8
+- **HP:** 101 / 101
+- **Hit Dice:** 15d8
 - **Speed:** 35 ft (Wood Elf)
 - **Passive Perception:** 19
-- **Proficiency bonus:** +5 (character level 13)
+- **Proficiency bonus:** +5 (character level 15)
 
 ### Attacks
 | | To Hit | Damage |
@@ -24,7 +24,7 @@
 | Quarterstaff | +6 | 1d6+1 bludgeoning |
 | Sickle | +6 | 1d4+1 slashing |
 
-**Wild Shape (2/short or long rest):** as a Circle of the Moon druid, can transform as a bonus action, and can ignore the usual "seen it before, no swim/fly speed" restrictions — can take the form of any beast with CR up to 3 (druid level ÷ 3). Most often takes the form of a **large brown bear** (CR 1) — the same shape she used to pull Darkhawk from Ashpit, and the shape that answered the Spirit Seeker ritual isn't this one, but a distinct, older presence she and Darkhawk both now believe is a true bear-spirit rather than a druid's Wild Shape.
+**Wild Shape (2/short or long rest):** as a Circle of the Moon druid, can transform as a bonus action, and can ignore the usual "seen it before, no swim/fly speed" restrictions — can take the form of any beast with CR up to 5 (druid level ÷ 3, rounded down). Most often takes the form of a **large brown bear** (CR 1) — the same shape she used to pull Darkhawk from Ashpit, and the shape that answered the Spirit Seeker ritual isn't this one, but a distinct, older presence she and Darkhawk both now believe is a true bear-spirit rather than a druid's Wild Shape.
 
 ## Proficiencies & Skills
 - **Saving throws:** Intelligence +5, Wisdom +10
@@ -43,7 +43,7 @@
 
 **Druid**
 - **Druidic:** knows the secret druidic language.
-- **Spellcasting:** Wisdom-based. Spell save DC 18, spell attack +10. Prepares spells daily (WIS mod + druid level = 18 prepared) from the full druid list. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 2 (5th), 1 (6th), 1 (7th).
+- **Spellcasting:** Wisdom-based. Spell save DC 18, spell attack +10. Prepares spells daily (WIS mod + druid level = 20 prepared) from the full druid list. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 2 (5th), 1 (6th), 1 (7th), 1 (8th).
   - Commonly prepared: *Goodberry, Cure Wounds, Entangle, Pass without Trace, Barkskin, Speak with Animals, Conjure Animals, Spike Growth, Protection from Poison, Wind Wall, Locate Creature, Freedom of Movement, **Moonbeam** (2nd — ranged radiant damage in an area, fitting for a Circle of the Moon druid, can be cast and sustained while Wild Shaped), **Call Lightning** (3rd — ranged lightning damage, repeatable each turn while concentrating).*
 - **Wild Shape** (lvl 2): see Combat, above.
 
@@ -77,9 +77,10 @@ Rather than reveal herself, she chose to watch from a distance — telling herse
 
 ## Current Status
 - Conditions: none
-- HP: 91 / 91 (full)
+- HP: 101 / 101 (full)
 - Wild Shape: 2/2 available
-- Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th)
+- Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th, 1/1 8th)
+- **Milestone level-up (Session 32, the full council):** Druid 14 → 15 — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt, forging Corvane's alliance by free will, reaching all three sealed-site guardians at once, and setting a real plan in motion against Greywatch Keep. No new class or Circle feature this level; gained an 8th-level spell slot, and Wild Shape's CR ceiling rose to 5. Rolled +8 (d8) + CON mod 2, now **101 max**.
 - **Milestone level-up (Sorrow's Hush):** Druid 13 → 14 — earned for finding and reconnecting Vessyn, the third sealed site's guardian, to the sentinel network. No new class feature this level; spell slots unchanged. Rolled +3 HP (d8) + CON mod, now **91 max**.
 - **Milestone level-up (the Drowned Hollow):** Druid 12 → 13 — earned for finding Ilsevet, the guardian who held the second sealed site alone for centuries, and seeing the site properly drained, reinforced, and given sustainable tending. Proficiency bonus now **+5** (character level 13); gained a 7th-level spell slot. Rolled +7 HP (d8) + CON mod, now **88 max**.
 - **Milestone level-up (Session 18, the ancient village):** Druid 10 → 11 — earned for finding and restoring an entire lost goliath-kin people, ending Kethrun's centuries of isolation for good. Gained a 6th-level spell slot. Rolled +7 HP, now **73 max**.

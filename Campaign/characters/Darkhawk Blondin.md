@@ -2,7 +2,7 @@
 
 **Birth name:** Rurik, son of Sesha and Harek, Thundertree clan (confirmed Session 12 — still goes by "Darkhawk Blondin" day to day)
 **Race:** Goliath
-**Class & Level:** Barbarian 12 (Path of the Totem Warrior — Bear) / Fighter 4 (Battle Master)
+**Class & Level:** Barbarian 13 (Path of the Totem Warrior — Bear) / Fighter 4 (Battle Master)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
@@ -13,29 +13,29 @@
 
 ## Combat
 - **AC:** 17 (fitted breastplate: 14 + DEX = 15, +1 from Dual Wielder while wielding two melee weapons, +1 from sky-iron bracers)
-- **HP:** 161 / 161
-- **Hit Dice:** 12d12 + 4d10
+- **HP:** 172 / 172
+- **Hit Dice:** 13d12 + 4d10
 - **Speed:** 40 ft (Fast Movement, Barbarian 5 — not wearing heavy armor)
 - **Initiative bonus:** +1, with **advantage** (Feral Instinct, Barbarian 7)
-- **Passive Perception:** 15
-- **Proficiency bonus:** +5 (character level 16)
+- **Passive Perception:** 16
+- **Proficiency bonus:** +6 (character level 17)
 
 ### Attacks
 Dual-wielding two longswords one-handed (DM house rule — narratively justified by Goliath Powerful Build; reforged by Perrin Dask into a true matched dual-wielding pair, then worked through with **sky-iron** — meteoric ore, not magic, but the blades now count as magical weapons for the purpose of overcoming resistance/immunity to nonmagical attacks). **Extra Attack (Barbarian 5):** the Attack action now grants two attacks; off-hand remains a bonus action, for three total attacks in a full turn.
 
 | | To Hit | Damage (not raging) | Damage (raging) |
 |---|---|---|---|
-| Main-hand longsword (x2, Extra Attack) | +10 | 1d8+5 slashing | 1d8+7 slashing |
-| Off-hand longsword (bonus action) | +10 | 1d8+5 slashing | 1d8+7 slashing |
-| Javelin (thrown, 30/120) | +10 | 1d6+5 piercing | 1d6+7 piercing |
+| Main-hand longsword (x2, Extra Attack) | +11 | 1d8+5 slashing | 1d8+7 slashing |
+| Off-hand longsword (bonus action) | +11 | 1d8+5 slashing | 1d8+7 slashing |
+| Javelin (thrown, 30/120) | +11 | 1d6+5 piercing | 1d6+7 piercing |
 
 *Reforge grants STR modifier to off-hand damage. Dual Wielder feat (taken at level 4) adds the +1 AC on top of that, reflected above.*
 
 **Consecrated against fiends (Sister Ysolde, Session 15):** both longswords and the +1 dagger now carry a lasting ward against fiends specifically — better odds landing a blow true, plus some resistance to the fear and corruption fiends favor using before a fight even starts.
 
 ## Proficiencies & Skills
-- **Saving throws:** Strength +10, Constitution +8, Wisdom +6 (Resilient, lvl Fighter 4)
-- **Skills:** Athletics +10, Survival +6, Perception +6, Intimidation +5, Animal Handling +6
+- **Saving throws:** Strength +11, Constitution +9, Wisdom +7 (Resilient, lvl Fighter 4)
+- **Skills:** Athletics +11, Survival +7, Perception +7, Intimidation +6, Animal Handling +7
 - **Languages:** Common, Giant, +1 (Outlander choice — suggest Dwarvish or Orc, pick when it matters in-story)
 - **Tools:** one musical instrument (Outlander — suggest a tribal drum)
 - **Weapons:** simple and martial weapons
@@ -130,8 +130,8 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 
 ## Current Status
 - Conditions: none
-- HP: 161 / 161 (full)
-- Hit Dice: 12d12 + 4d10 (full)
+- HP: 172 / 172 (full)
+- Hit Dice: 13d12 + 4d10 (full)
 - Rages used: 0 / 4 — full rest
 - Second Wind: available
 - Action Surge: available
@@ -157,3 +157,4 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 - **The Bear's Answer, sworn (Session 18):** at the Standing Ring, fully opened himself to the bear-spirit and offered it a mutual vow — partnership freely given, not just gratitude for being saved twice. It accepted. New standing ability: once per long rest, call on it directly in battle (see Features & Traits).
 - **Married to Mara Fenn (Session 16)** — engaged at Thundertree the morning after the mine's fall (Session 15), then wed at Thundertree itself in a surprise ceremony Darkhawk arranged in secret on the road back from Kessick's Ford (cover story: "the slow road" to scout the ridge line). Both a Thundertree rite (Vosk officiating, Sesha and Harek's blessing) and Sister Ysolde's blessing of Thossia were given, binding "two people and two tribes." Wears a carved bear-and-arrow pendant split from Darkhawk's own lifelong trophy, made by Thundertree's carver at Darkhawk's request.
 - **Audience with the Raven Queen (Session 32, House Corvane's chantry, Ravenshollow):** sought her attention deliberately and named "the count" as theft from her own domain of honestly-settled debts. She confirmed it, gave him **The Honest Ledger** (see Features & Traits), and briefly addressed the rest of the party. Lord Edrin Corvane, present and moved by the audience, was released from any remaining sense of owed debt and chose to stand with the party freely — sealed with a goliath forearm-grip, kin rather than partner from here on.
+- **Milestone level-up (Session 32, the full council):** Barbarian 12 → 13 (Fighter 4 unchanged) — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt via House Corvane's own archive, forging Corvane's alliance by free will rather than debt, reaching all three sealed-site guardians (Kethrun, Ilsevet, Vessyn) at once for the first time, and setting a real, coordinated plan in motion against Greywatch Keep. Character level 17; **proficiency bonus now +6.** No new Barbarian feature at this level, but every proficient roll (attacks, saves, skills) rose accordingly (reflected above). Rolled +8 (d12) + CON mod 3, now **172 max**.

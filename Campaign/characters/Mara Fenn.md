@@ -1,7 +1,7 @@
 # Mara Fenn
 
 **Race:** Human
-**Class & Level:** Ranger 16 (Gloom Stalker)
+**Class & Level:** Ranger 17 (Gloom Stalker)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
@@ -12,20 +12,20 @@
 
 ## Combat
 - **AC:** 17 (studded leather: 12 + DEX)
-- **HP:** 112 / 112
-- **Hit Dice:** 16d10
+- **HP:** 116 / 116
+- **Hit Dice:** 17d10
 - **Speed:** 30 ft (+10 ft on the first turn of combat via Dread Ambusher)
 - **Initiative bonus:** +8 (DEX +5, plus WIS +3 from Dread Ambusher)
-- **Passive Perception:** 18
-- **Proficiency bonus:** +5 (character level 14)
+- **Passive Perception:** 19
+- **Proficiency bonus:** +6 (character level 17)
 
 ### Attacks
 Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into the numbers below).
 
 | | To Hit | Damage |
 |---|---|---|
-| Fletch's longbow (main, 150/600) | +12 | 1d8+5 piercing (+1d6 if Hunter's Mark active) |
-| Shortsword (backup melee, finesse) | +10 | 1d6+5 slashing |
+| Fletch's longbow (main, 150/600) | +13 | 1d8+5 piercing (+1d6 if Hunter's Mark active) |
+| Shortsword (backup melee, finesse) | +11 | 1d6+5 slashing |
 
 **Extra Attack:** two attacks with the Attack action.
 **Dread Ambusher:** if she acts in the surprise round or before every enemy in the first round of combat, she can make one additional weapon attack as part of that action, dealing an extra 1d8 damage on the first hit of the turn.
@@ -37,8 +37,8 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 > **DM quick-check per turn: 2 attacks baseline, 3 if this is a surprise round (+1d8 on her first hit that round). Verify before rolling, don't default to 1-2.**
 
 ## Proficiencies & Skills
-- **Saving throws:** Strength +5, Dexterity +10, Wisdom +8 (Iron Mind, lvl 7)
-- **Skills:** Athletics +5, Survival +8 (Outlander), Stealth +10, Perception +8, Investigation +6 (Ranger)
+- **Saving throws:** Strength +6, Dexterity +11, Wisdom +9 (Iron Mind, lvl 7)
+- **Skills:** Athletics +6, Survival +9 (Outlander), Stealth +11, Perception +9, Investigation +7 (Ranger)
 - **Languages:** Common, +1 (Favored Enemy — suggest whatever the Circuit's own thieves'-cant-equivalent turns out to be, or Giant to better keep pace with Darkhawk at Thundertree)
 - **Tools:** none (trapper's know-how handled narratively via Survival)
 - **Weapons:** simple and martial weapons
@@ -51,7 +51,7 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 - **Natural Explorer (Forest, Mountain):** second terrain gained at 6th level, chosen with the Greyhorn foothills ahead in mind. Home ground in either — never gets lost except by magic, can travel stealthily at normal pace, finds double food when foraging, and gets extra information/advantage on initiative and first-round surprise attempts.
 - **Primeval Awareness:** can expend a spell slot to sense whether aberrations, celestials, dragons, elementals, fey, fiends, or undead lurk within 1 mile (6 in favored terrain).
 - **Fighting Style — Archery:** +2 to attack rolls with ranged weapons.
-- **Spellcasting:** Wisdom-based. Spell save DC 16, spell attack +8. Known: **Hunter's Mark, Longstrider, Cure Wounds, Pass without Trace, Silence, Conjure Animals, Protection from Energy** (new at lvl 11). Slots: 4 (1st), 3 (2nd), 3 (3rd), 2 (4th).
+- **Spellcasting:** Wisdom-based. Spell save DC 17, spell attack +9. Known: **Hunter's Mark, Longstrider, Cure Wounds, Pass without Trace, Silence, Conjure Animals, Protection from Energy** (new at lvl 11), plus a new 5th-level spell to select (lvl 17 — suggest **Commune with Nature** or **Tree Stride**, fits the Greywatch Keep terrain work). Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 1 (5th).
 - **Extra Attack** (5th level).
 - **Ability Score Improvement (lvl 8):** +2 DEX (18 → 20, reflected above).
 - **Ability Score Improvement (lvl 12):** +2 WIS (14 → 16, reflected above).
@@ -95,9 +95,10 @@ What started as paid work became a real partnership, and — after Ravensmoor �
 
 ## Current Status
 - Conditions: none
-- HP: 112 / 112 (full)
-- Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 2/2 4th)
+- HP: 116 / 116 (full)
+- Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 1/1 5th)
 - Inspiration: no
+- **Milestone level-up (Session 32, the full council):** Ranger 16 → 17 — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt, forging Corvane's alliance by free will, reaching all three sealed-site guardians at once, and setting a real plan in motion against Greywatch Keep. **Proficiency bonus now +6** (character level 17); gained a 4th-level spell slot and her first 5th-level slot. Rolled +3 (d10) + CON mod 1, now **116 max**.
 - **Milestone level-up (Sorrow's Hush):** Ranger 15 → 16 — earned for finding and reconnecting Vessyn, the third sealed site's guardian, to the sentinel network. Gained a second 4th-level spell slot. Rolled +10 HP (d10 + CON mod), now **112 max**.
 - **Milestone level-up (the Drowned Hollow):** Ranger 14 → 15, gaining **Shadowy Dodge** — earned for finding Ilsevet, the guardian who held the second sealed site alone for centuries, and seeing the site properly drained, reinforced, and given sustainable tending. Rolled +11 HP (d10 + CON mod), now **102 max**.
 - **Milestone level-up (Session 14):** Ranger 8 → 10 (Gloom Stalker) — two milestones in one session: clearing the barracks/commander's post, and killing the Warden's man (a fiend) while breaking the front entrance's defense. Gained 3rd-level spell slots, learned Conjure Animals, and gained Hide in Plain Sight. Rolled +4 then +7 HP, now **69 max**.
