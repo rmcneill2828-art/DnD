@@ -26,9 +26,9 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 ## Key NPCs (active)
 | Name | Status | One-line context |
 |------|--------|-------------------|
-| Mara Fenn | Wife, full party member | Ranger 15 Gloom Stalker; married to Darkhawk (Session 16) |
-| Sael | Full party member | Druid 13, bear-kin; secretly saved Darkhawk at Ashpit years ago |
-| Sister Ysolde Marrow | Full party member | Cleric 14 (Grave Domain); translated the ledgers, wards the party against fiends |
+| Mara Fenn | Wife, full party member | Ranger 16 Gloom Stalker; married to Darkhawk (Session 16) |
+| Sael | Full party member | Druid 14, bear-kin; secretly saved Darkhawk at Ashpit years ago |
+| Sister Ysolde Marrow | Full party member | Cleric 15 (Grave Domain); translated the ledgers, wards the party against fiends |
 | Kaldur Stonewake | **Traveling to the Standing Ring with the party (Session 30)** | Ninebells Goliath; asked personally by Rurik to hear "the count" theory firsthand rather than be briefed secondhand. Handed real acting command of Urskelde to Thyra for the duration. Full stats: `npcs/Kaldur Stonewake.md`. |
 | Sesha & Harek | Darkhawk's parents, **at Urskelde, staying on past the council** | Harek still learning sky-iron craft from Threnn's smiths; Sesha waiting to travel home with Vosk. |
 | Thyra | Darkhawk's sister, **acting commander of Urskelde (Session 30)** while Kaldur travels with the party | Publicly tested and proven by Darkhawk (Session 28); now holding real command, backed by Idra, Bettha, and the section heads. Future role: teach the next generation at Thundertree. |
