@@ -59,6 +59,8 @@ Not a frontline fighter by her own admission — her value is spellcasting, ward
 - Holy symbol of Thossia (a small iron scale)
 - Calligrapher's kit, ritual components for consecration and warding rites
 - A satchel of temple archival notes on infernal contracts, pacts, and devils
+- **The Ledger's Eye (Session 34, Greywatch Keep's central keep):** a plain iron ring, once tied to the ledger practice, now inert and free to wear after the account it served was closed. **Once per long rest, can sense with certainty whether a choice being pressed on someone nearby is being coerced or manipulated rather than freely made** — a cruder echo of Darkhawk's own gift from the Raven Queen.
+- A partial map marking at least three other "ledger" sites across distant regions (unlocated, recovered from Greywatch Keep) and a cache of decades of ledger records from the same source — both pending Halvard's and Ysolde's own order's review.
 
 ## Personality
 - **Traits:** Careful, precise, treats a good question as a genuine gift rather than an interruption. Has spent more years presiding over dry oath disputes than she'd like, and clearly relishes finally being useful for something that matters.
