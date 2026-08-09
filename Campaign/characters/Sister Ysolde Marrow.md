@@ -74,9 +74,10 @@ A scholar-cleric of Thossia's order at the regional seat — the same city Raven
 Magistrate Kell corresponded with her twice on unrelated legal-religious matters and remembered her as someone who takes "infernal contract" as a literal category of scholarship. When his careful, detail-free letter arrived followed by Corwin Pell and two ledgers written in Infernal rather than cipher, she recognized immediately that this was the first real chance in her career to matter beyond the temple's walls — and took it without hesitation.
 
 ## Current Status
-- Conditions: none
+- Conditions: concentrating on Bless — mid-session, Halloway's Reach
 - HP: 111 / 111 (full)
-- Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 3/3 5th, 1/1 6th, 1/1 7th, 1/1 8th)
+- Spell slots: 2/4 1st (Bless, Guiding Bolt), 3/3 2nd, 3/3 3rd, 3/3 4th, 1/3 5th (Cure Wounds, Flame Strike), 1/1 6th, 1/1 7th, 1/1 8th
+- Channel Divinity: 2/2 available
 - **Milestone level-up (Session 32, the full council):** Cleric 15 → 16 — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt, forging Corvane's alliance by free will, reaching all three sealed-site guardians at once, and setting a real plan in motion against Greywatch Keep. No new spell slots or Grave Domain feature this level — proficiency bonus holds at +5. Rolled +7 (d8) + CON mod 2, now **111 max**.
 - **Milestone level-up (Sorrow's Hush):** Cleric 14 → 15 — earned for finding and reconnecting Vessyn, the third sealed site's guardian, to the sentinel network. Gained an 8th-level spell slot. Rolled +3 HP (d8) + CON mod, now **102 max**.
 - **Milestone level-up (the Drowned Hollow):** Cleric 13 → 14, gaining an improved **Destroy Undead** (CR 3) — earned for finding Ilsevet, the guardian who held the second sealed site alone for centuries, and seeing the site properly drained, reinforced, and given sustainable tending. Rolled +6 HP (d8) + CON mod, now **99 max**.

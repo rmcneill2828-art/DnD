@@ -83,9 +83,11 @@ Nobody in Ravensmoor's fairground district knew her by anything but "the Spark" 
 Sael found her in an alley near the fairground's edge, approached with the same patient stillness she'd once wished someone had shown her, and told her the truth about her own years of isolation before asking anything in return. That honesty — and later, a direct, unflinching conversation with Rurik about the difference between raw ability and actual power (choice, freedom) — was enough to bring her in. A brief connection to all four sentinel guardians, arranged so she could feel firsthand that others had survived exactly this kind of fear, sealed it. She joined the party at Ravensmoor, chosen freely rather than recruited, on the promise that Urskelde deals in chaos and unpredictability rather than trying to file her power down into something safer and smaller.
 
 ## Current Status
-- Conditions: none
+- Conditions: flagged for a forced Wild Magic Surge on her next sorcerer spell cast (Tides of Chaos spent) — mid-session, Halloway's Reach
 - HP: 77 / 77 (full)
-- Sorcery points: 15/15 available
-- Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th)
+- Sorcery points: 13/15 available (2 spent, Quickened Spell)
+- Spell slots: 3/4 1st (Chaos Bolt), 3/3 2nd, 2/3 3rd (Haste), 3/3 4th, 2/2 5th, 0/1 6th (Chain Lightning), 1/1 7th
+- Tides of Chaos: spent
+- **First real fight fully let loose (Session 42):** at Rurik's urging, dropped all restraint at the Cellarworks door — a thunderclap surge deafened the block on top of a full Fireball, exactly the chaos the plan called for. No harmful surge yet; Controlled Chaos banked for whenever Tides of Chaos collects its debt.
 - Tides of Chaos: available
 - **Joined the party (Session 35, Ravensmoor)** — recruited specifically for the gap in the party's arcane magic, ahead of an approach to the unscouted Tallow House. Connected briefly to Kethrun, Ilsevet, Vessyn, and Skarn as part of Rurik's welcome — the first time she's felt understood rather than feared.

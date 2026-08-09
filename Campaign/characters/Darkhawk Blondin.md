@@ -129,15 +129,16 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 **Converging thread:** Independent investigation into the Circuit's hidden central hub (as opposed to its known satellite sites) points toward the foothills of the Greyhorn Range — the same mountains associated with Thundertree territory. Mountain clans have reportedly grown more closed-off over the same period suspicious land purchases began there. The Circuit's true heart and Darkhawk's own lost clan may be on a collision course.
 
 ## Current Status
-- Conditions: none
-- HP: 172 / 172 (full)
+- Conditions: raging, Hasted (Wren), Blessed (Ysolde) — mid-session, Halloway's Reach
+- HP: 168 / 172
 - Hit Dice: 13d12 + 4d10 (full)
-- Rages used: 0 / 4 — full rest
+- Rages used: 1 / 4
 - Second Wind: available
 - Action Surge: available
 - Stone's Endurance: available
 - Inspiration: spent (burned on a disarm attempt against the shield-wall guards; DM owes a fresh one for good roleplay when it comes up)
-- Helm's crit-insurance: available (fresh since last long rest)
+- Helm's crit-insurance: **spent this long rest** (downgraded a Cellarwork Sentinel's crit at the Cellarworks door)
+- **The count, newly felt (Session 42):** since reaching into the destroyed construct's thread (Session 41), a passive sense of Kathrivex's ledger moving — not numbers, a feeling, answerable only when he concentrates on it. Protected by the bear-spirit's standing ward against hostile scrying/tracking. Confirmed by Ysolde's Ledger's Eye as real and (so far) undetected. Sharpens with proximity — nearly overwhelming at Halloway's Reach's central conduit.
 - Notes: reached the sentinel thread directly and unassisted for the first time (Session 27) — Kethrun confirms he now functions as a living tending-hand for the network, not just a visitor who helps others reconnect.
 - **Milestone level-up (Session 14):** Barbarian 6 → 8 (Fighter 2 unchanged) — two milestones in one session: clearing the barracks/commander's post, and killing the Warden's man (a fiend) while breaking the front entrance's defense. Gained Feral Instinct, an ASI (+2 STR, 19→21), and rolled +12 then +8 HP, now **95 max**.
 - **Milestone level-up (Session 15):** Fighter 2 → 3, choosing **Battle Master** (Trip Attack, Disarming Attack, Riposte) — earned for solving the campaign's central mystery: Edmund Vale (the Warden's title-holder) captured alive and Duskgate confirmed as the true target, alongside closing the Ashpit/identity arc. Rolled +9 HP, now **104 max**.
