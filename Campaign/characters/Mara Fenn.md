@@ -94,9 +94,9 @@ A trapper and local guide who's worked the country around Kessick's Ford for yea
 What started as paid work became a real partnership, and — after Ravensmoor — something more. She's committed to standing with him at Thundertree when the time comes, whatever that costs either of them.
 
 ## Current Status
-- Conditions: Blessed (Ysolde) — mid-session, Halloway's Reach
+- Conditions: none — resting overnight at Halloway's Reach, Cellarworks secured
 - HP: 116 / 116 (full)
-- Spell slots: 3/4 1st (Hunter's Mark active, retargeted twice at no extra cost), 3/3 2nd, 3/3 3rd, 3/3 4th, 1/1 5th
+- Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 1/1 5th) — reset on rest
 - Inspiration: no
 - **Milestone level-up (Session 32, the full council):** Ranger 16 → 17 — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt, forging Corvane's alliance by free will, reaching all three sealed-site guardians at once, and setting a real plan in motion against Greywatch Keep. **Proficiency bonus now +6** (character level 17); gained a 4th-level spell slot and her first 5th-level slot. Rolled +3 (d10) + CON mod 1, now **116 max**.
 - **Milestone level-up (Sorrow's Hush):** Ranger 15 → 16 — earned for finding and reconnecting Vessyn, the third sealed site's guardian, to the sentinel network. Gained a second 4th-level spell slot. Rolled +10 HP (d10 + CON mod), now **112 max**.
