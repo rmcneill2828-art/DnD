@@ -1,19 +1,19 @@
 # Wren
 
 **Race:** Human
-**Class & Level:** Sorcerer 15 (Wild Magic)
+**Class & Level:** Sorcerer 16 (Wild Magic)
 **Background:** Criminal (self-taught survivor, Ravensmoor's fairground district)
 **Alignment:** Chaotic Good
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
-| 8 (−1) | 14 (+2) | 14 (+2) | 10 (+0) | 12 (+1) | 20 (+5) |
+| 8 (−1) | 14 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 20 (+5) |
 
 ## Combat
 - **AC:** 15 (Mage Armor: 13 + DEX)
-- **HP:** 77 / 77
-- **Hit Dice:** 15d6
+- **HP:** 82 / 82
+- **Hit Dice:** 16d6
 - **Speed:** 30 ft
 - **Passive Perception:** 11
 - **Proficiency bonus:** +5 (character level 15)
@@ -30,7 +30,7 @@ Not a melee fighter — relies entirely on spellcasting and Wild Magic. Carries 
 **Spell save DC 18, spell attack +10.**
 
 ## Proficiencies & Skills
-- **Saving throws:** Constitution +7, Charisma +10
+- **Saving throws:** Constitution +8, Charisma +10
 - **Skills:** Insight +6, Persuasion +10, Deception +10, Stealth +7
 - **Languages:** Common, Infernal (picked up on the street, never formally taught)
 - **Tools:** none
@@ -84,10 +84,11 @@ Sael found her in an alley near the fairground's edge, approached with the same 
 
 ## Current Status
 - Conditions: still flagged for a forced Wild Magic Surge on her next sorcerer spell cast (debt from Tides of Chaos, not yet paid) — resting overnight at Halloway's Reach, Cellarworks secured
-- HP: 77 / 77 (full)
+- HP: 82 / 82 (full)
 - Sorcery points: full (15/15) — reset on rest
 - Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th) — reset on rest
 - Tides of Chaos: available again (reset on rest)
 - **First real fight fully let loose (Session 42):** at Rurik's urging, dropped all restraint at the Cellarworks door — a thunderclap surge deafened the block on top of a full Fireball, exactly the chaos the plan called for. Rurik told her plainly afterward it was mastery, not luck — the first time anyone's framed her power that way. No harmful surge yet; Controlled Chaos banked for whenever the debt comes due.
 - Tides of Chaos: available
 - **Joined the party (Session 35, Ravensmoor)** — recruited specifically for the gap in the party's arcane magic, ahead of an approach to the unscouted Tallow House. Connected briefly to Kethrun, Ilsevet, Vessyn, and Skarn as part of Rurik's welcome — the first time she's felt understood rather than feared.
+- **Milestone level-up (Session 42, Halloway's Reach):** Sorcerer 15 → 16 — her first milestone since joining, earned alongside the rest of the party for securing Halloway's Reach and closing a third account (the freed courier) in front of witnesses. **Ability Score Improvement: +2 CON (14 → 16, reflected above)** — better concentration saves and survivability for a caster who leans hard into Wild Magic's unpredictability. No new Wild Magic feature at this level. Rolled +2 (d6) + CON mod 3, now **82 max**.

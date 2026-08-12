@@ -1,7 +1,7 @@
 # Sael
 
 **Race:** Wood Elf
-**Class & Level:** Druid 15 (Circle of the Moon)
+**Class & Level:** Druid 16 (Circle of the Moon)
 **Background:** Hermit
 **Alignment:** Neutral Good
 
@@ -12,8 +12,8 @@
 
 ## Combat
 - **AC:** 16 (studded leather, non-metal, + wooden shield)
-- **HP:** 101 / 101
-- **Hit Dice:** 15d8
+- **HP:** 110 / 110
+- **Hit Dice:** 16d8
 - **Speed:** 35 ft (Wood Elf)
 - **Passive Perception:** 19
 - **Proficiency bonus:** +5 (character level 15)
@@ -52,6 +52,7 @@
 - **Circle Forms:** can transform into beasts with a challenge rating as high as 1 at 2nd level, and higher as she gains levels (CR 3 at 9th).
 - **The Mountain's Patience (Session 18, the ancient village):** Sael offered the truth of her own ended solitude — choosing to stay and be seen rather than watch from a distance — to a primal spirit of stone, and it answered. Once per long rest, as a reaction when she takes damage, she can reduce it by 1d12 + her Constitution modifier, her skin going briefly hard and unyielding as old rock.
 - **Ability Score Improvement (lvl 12):** +2 WIS (18 → 20, reflected above).
+- **War Caster (feat, lvl 16, Session 42):** advantage on Constitution saving throws to maintain concentration; can perform somatic spell components with her hands full (weapon/shield); can cast a spell as a reaction in place of an opportunity attack. Taken in place of an ASI since WIS was already at the 20 cap.
 
 **Hermit**
 - **Discovery:** during her years alone in the wild, uncovered a genuine, profound truth — the existence of a real bear-spirit tied to acts of mercy in extremity, and her own part in one of its rare interventions.
@@ -77,10 +78,11 @@ Rather than reveal herself, she chose to watch from a distance — telling herse
 
 ## Current Status
 - Conditions: none — resting overnight at Halloway's Reach, Cellarworks secured
-- HP: 101 / 101 (full)
+- HP: 110 / 110 (full)
 - Wild Shape: 2/2 available — reset on rest
 - Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th, 1/1 8th) — reset on rest
 - **Milestone level-up (Session 32, the full council):** Druid 14 → 15 — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt, forging Corvane's alliance by free will, reaching all three sealed-site guardians at once, and setting a real plan in motion against Greywatch Keep. No new class or Circle feature this level; gained an 8th-level spell slot, and Wild Shape's CR ceiling rose to 5. Rolled +8 (d8) + CON mod 2, now **101 max**.
+- **Milestone level-up (Session 42, Halloway's Reach):** Druid 15 → 16 — earned alongside the rest of the party for securing Halloway's Reach and closing a third account (the freed courier) in front of witnesses. Ability Score Improvement slot taken as **War Caster** instead (WIS already at the 20 cap). No new Circle of the Moon feature or spell slot change at this level. Rolled +7 (d8) + CON mod 2, now **110 max**.
 - **Milestone level-up (Sorrow's Hush):** Druid 13 → 14 — earned for finding and reconnecting Vessyn, the third sealed site's guardian, to the sentinel network. No new class feature this level; spell slots unchanged. Rolled +3 HP (d8) + CON mod, now **91 max**.
 - **Milestone level-up (the Drowned Hollow):** Druid 12 → 13 — earned for finding Ilsevet, the guardian who held the second sealed site alone for centuries, and seeing the site properly drained, reinforced, and given sustainable tending. Proficiency bonus now **+5** (character level 13); gained a 7th-level spell slot. Rolled +7 HP (d8) + CON mod, now **88 max**.
 - **Milestone level-up (Session 18, the ancient village):** Druid 10 → 11 — earned for finding and restoring an entire lost goliath-kin people, ending Kethrun's centuries of isolation for good. Gained a 6th-level spell slot. Rolled +7 HP, now **73 max**.

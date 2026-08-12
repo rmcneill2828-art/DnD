@@ -1,7 +1,7 @@
 # Mara Fenn
 
 **Race:** Human
-**Class & Level:** Ranger 17 (Gloom Stalker)
+**Class & Level:** Ranger 18 (Gloom Stalker)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
@@ -12,8 +12,8 @@
 
 ## Combat
 - **AC:** 17 (studded leather: 12 + DEX)
-- **HP:** 116 / 116
-- **Hit Dice:** 17d10
+- **HP:** 121 / 121
+- **Hit Dice:** 18d10
 - **Speed:** 30 ft (+10 ft on the first turn of combat via Dread Ambusher)
 - **Initiative bonus:** +8 (DEX +5, plus WIS +3 from Dread Ambusher)
 - **Passive Perception:** 19
@@ -95,10 +95,11 @@ What started as paid work became a real partnership, and — after Ravensmoor �
 
 ## Current Status
 - Conditions: none — resting overnight at Halloway's Reach, Cellarworks secured
-- HP: 116 / 116 (full)
+- HP: 121 / 121 (full)
 - Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 1/1 5th) — reset on rest
 - Inspiration: no
 - **Milestone level-up (Session 32, the full council):** Ranger 16 → 17 — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt, forging Corvane's alliance by free will, reaching all three sealed-site guardians at once, and setting a real plan in motion against Greywatch Keep. **Proficiency bonus now +6** (character level 17); gained a 4th-level spell slot and her first 5th-level slot. Rolled +3 (d10) + CON mod 1, now **116 max**.
+- **Milestone level-up (Session 42, Halloway's Reach):** Ranger 17 → 18 — earned alongside the rest of the party for securing Halloway's Reach, ending its sixty-year corruption, and closing a third account (the freed courier) in front of witnesses. No new class feature or spell slot at this level (Ranger's table holds steady between 17 and 18). Rolled +4 (d10) + CON mod 1, now **121 max**.
 - **Milestone level-up (Sorrow's Hush):** Ranger 15 → 16 — earned for finding and reconnecting Vessyn, the third sealed site's guardian, to the sentinel network. Gained a second 4th-level spell slot. Rolled +10 HP (d10 + CON mod), now **112 max**.
 - **Milestone level-up (the Drowned Hollow):** Ranger 14 → 15, gaining **Shadowy Dodge** — earned for finding Ilsevet, the guardian who held the second sealed site alone for centuries, and seeing the site properly drained, reinforced, and given sustainable tending. Rolled +11 HP (d10 + CON mod), now **102 max**.
 - **Milestone level-up (Session 14):** Ranger 8 → 10 (Gloom Stalker) — two milestones in one session: clearing the barracks/commander's post, and killing the Warden's man (a fiend) while breaking the front entrance's defense. Gained 3rd-level spell slots, learned Conjure Animals, and gained Hide in Plain Sight. Rolled +4 then +7 HP, now **69 max**.

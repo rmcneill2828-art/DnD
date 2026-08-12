@@ -1,7 +1,7 @@
 # Sister Ysolde Marrow
 
 **Race:** Human
-**Class & Level:** Cleric 16 (Grave Domain)
+**Class & Level:** Cleric 17 (Grave Domain)
 **Deity:** Thossia, the Arbiter — goddess of judgment and the settling of debts after death
 **Background:** Sage (Order Scholar)
 **Alignment:** Lawful Good
@@ -13,8 +13,8 @@
 
 ## Combat
 - **AC:** 17 (scale mail + shield)
-- **HP:** 111 / 111
-- **Hit Dice:** 16d8
+- **HP:** 118 / 118
+- **Hit Dice:** 17d8
 - **Speed:** 30 ft
 - **Passive Perception:** 14
 - **Proficiency bonus:** +5 (character level 16)
@@ -37,7 +37,7 @@ Not a frontline fighter by her own admission — her value is spellcasting, ward
 ## Features & Traits
 
 **Cleric**
-- **Spellcasting:** Wisdom-based. Spell save DC 17, spell attack +9. Prepares WIS mod + level = 19 spells daily from the full cleric list, plus domain spells always prepared. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 3 (5th), 1 (6th), 1 (7th), 1 (8th).
+- **Spellcasting:** Wisdom-based. Spell save DC 17, spell attack +9. Prepares WIS mod + level = 21 spells daily from the full cleric list, plus domain spells always prepared. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 3 (5th), 1 (6th), 1 (7th), 1 (8th), 1 (9th, new at Cleric 17).
 - **War Caster (Ability Score Improvement, Cleric lvl 12):** advantage on Constitution saves to maintain concentration; can perform somatic components with weapons/shield in hand; can cast a spell (1-action casting time) as a reaction in place of an opportunity attack.
   - Commonly prepared: *Bless, Command, Zone of Truth, Protection from Evil and Good, Dispel Magic, Remove Curse, Banishment, Dispel Evil and Good, **Guiding Bolt** (1st — ranged radiant spell attack, solid reliable damage at range), **Spiritual Weapon** (2nd — bonus action floating ranged weapon, good action economy), **Flame Strike** (5th — ranged column of fire and radiant damage, fits Thossia's judgment theme).*
 - **Channel Divinity (2/short or long rest):** Turn Undead, and Path to the Grave (curse a creature within 30 ft — the next attack against it before the start of her next turn has advantage and scores a critical hit on any hit).
@@ -49,6 +49,7 @@ Not a frontline fighter by her own admission — her value is spellcasting, ward
 - **Circle of Mortality:** when healing a creature at 0 HP, healing dice are treated as rolling their maximum.
 - **Eyes of the Grave:** can sense undead within 60 ft as an action, a limited number of times per day.
 - **Sentinel at Death's Door** (lvl 8): a limited number of times per day, can turn a critical hit against a creature within 30 ft into a normal hit.
+- **Possible capstone at Cleric 17 — needs verification:** Grave Domain's 17th-level feature is, best recollection, *Keeper of Souls* (regain HP equal to a slain hostile creature's Hit Dice when it dies within 60 ft, once per short/long rest) — not applied to the sheet yet since it couldn't be confirmed against the actual rulebook text in this session. Flag for confirmation next time the PHB/SCAG is available.
 - **The Storm's Judgment (Session 18, the ancient village):** Ysolde offered the truth of stepping out from thirty years of careful scholarship into real action to a primal spirit of storm, and it answered. Once per long rest, as a bonus action, she can call its charge into her next spell: the first creature it damages before the end of her next turn must also succeed on a Wisdom save (her spell save DC) or have disadvantage on its next saving throw.
 
 **Sage (Order Scholar) background**
@@ -75,11 +76,12 @@ Magistrate Kell corresponded with her twice on unrelated legal-religious matters
 
 ## Current Status
 - Conditions: none — resting overnight at Halloway's Reach, Cellarworks secured
-- HP: 111 / 111 (full)
+- HP: 118 / 118 (full)
 - Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 3/3 5th, 1/1 6th, 1/1 7th, 1/1 8th) — reset on rest
 - Channel Divinity: 2/2 available
 - **The Ledger's Eye, first tested on a living connection (Session 42):** confirmed Rurik's new count-sense as real and, so far, undetected — a working nobody had tried on something still alive before.
 - **Milestone level-up (Session 32, the full council):** Cleric 15 → 16 — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt, forging Corvane's alliance by free will, reaching all three sealed-site guardians at once, and setting a real plan in motion against Greywatch Keep. No new spell slots or Grave Domain feature this level — proficiency bonus holds at +5. Rolled +7 (d8) + CON mod 2, now **111 max**.
+- **Milestone level-up (Session 42, Halloway's Reach):** Cleric 16 → 17 — earned alongside the rest of the party for securing Halloway's Reach and closing a third account (the freed courier) in front of witnesses. Gained a 9th-level spell slot. Possible Grave Domain capstone at this level not yet confirmed against rulebook text (see Features). No ASI at 17 (Cleric's ASI levels are 4/8/12/16/19). Rolled +5 (d8) + CON mod 2, now **118 max**.
 - **Milestone level-up (Sorrow's Hush):** Cleric 14 → 15 — earned for finding and reconnecting Vessyn, the third sealed site's guardian, to the sentinel network. Gained an 8th-level spell slot. Rolled +3 HP (d8) + CON mod, now **102 max**.
 - **Milestone level-up (the Drowned Hollow):** Cleric 13 → 14, gaining an improved **Destroy Undead** (CR 3) — earned for finding Ilsevet, the guardian who held the second sealed site alone for centuries, and seeing the site properly drained, reinforced, and given sustainable tending. Rolled +6 HP (d8) + CON mod, now **99 max**.
 - **Milestone level-up (Session 18, the ancient village):** Cleric 11 → 12, taking **War Caster** as her ASI — earned for finding and restoring an entire lost goliath-kin people, ending Kethrun's centuries of isolation for good. Rolled +7 HP, now **86 max**.
