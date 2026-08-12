@@ -26,6 +26,8 @@
 
 **Wild Shape (2/short or long rest):** as a Circle of the Moon druid, can transform as a bonus action, and can ignore the usual "seen it before, no swim/fly speed" restrictions — can take the form of any beast with CR up to 5 (druid level ÷ 3, rounded down). Most often takes the form of a **large brown bear** (CR 1) — the same shape she used to pull Darkhawk from Ashpit, and the shape that answered the Spirit Seeker ritual isn't this one, but a distinct, older presence she and Darkhawk both now believe is a true bear-spirit rather than a druid's Wild Shape.
 
+> **DM quick-check per turn: War Caster (lvl 16) grants advantage on CON saves to maintain concentration — apply automatically, don't roll flat. She can also cast a spell as her reaction in place of an opportunity attack, and can perform somatic components with hands full. Combat Wild Shape lets her shift as a bonus action, or burn a spell slot as a bonus action while shifted to heal 2× the slot's level. If two or more party members are searching/investigating together, that's the Help action — advantage, not a flat bonus.**
+
 ## Proficiencies & Skills
 - **Saving throws:** Intelligence +5, Wisdom +10
 - **Skills:** Survival +10, Stealth +8, Perception +10, Medicine +10, Animal Handling +10

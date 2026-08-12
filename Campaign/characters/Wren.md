@@ -50,6 +50,8 @@ Not a melee fighter — relies entirely on spellcasting and Wild Magic. Carries 
 - **Bend Luck** (6th level): reaction, spend 2 sorcery points to roll 1d4 and apply it as a bonus or penalty to another creature's attack roll, ability check, or saving throw.
 - **Controlled Chaos** (14th level): when rolling on the Wild Magic Surge table, can roll twice and choose which result occurs.
 
+> **DM quick-check per sorcerer spell cast (1st level+): roll for a Wild Magic Surge, 1-in-20, unless she's flagged for a forced surge (Tides of Chaos debt not yet paid) — a forced surge always uses Controlled Chaos (roll twice, pick the better) if she's 14th level or higher, which she is. Track the Tides-of-Chaos debt explicitly: it doesn't clear on its own, only by actually landing the next forced surge. Chaos Bolt chains to a new target if both d8s roll the same number — check every cast, not just on request. Misty Step moves only Wren herself; Dimension Door can bring one willing creature within 5 ft along with her.**
+
 **Known Spells**
 - **Cantrips (6):** Fire Bolt, Ray of Frost, Minor Illusion, Prestidigitation, Mage Hand, Light
 - **1st (3):** Chaos Bolt, Shield, Mage Armor

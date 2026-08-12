@@ -50,6 +50,8 @@ Not a frontline fighter by her own admission — her value is spellcasting, ward
 - **Eyes of the Grave:** can sense undead within 60 ft as an action, a limited number of times per day.
 - **Sentinel at Death's Door** (lvl 8): a limited number of times per day, can turn a critical hit against a creature within 30 ft into a normal hit.
 - **Keeper of Souls (lvl 17, Session 42, confirmed):** when an enemy she can see dies within 60 ft of her, she or one creature of her choice within 60 ft regains HP equal to that enemy's number of Hit Dice (not its full HP total). No action required; usable only if she isn't incapacitated; recharges at the start of her next turn (not tied to a rest).
+
+> **DM quick-check on every enemy death within 60 ft of Ysolde: trigger Keeper of Souls automatically (free, no action) unless already used this turn — don't wait to be asked. Also check Circle of Mortality (max healing dice) whenever she heals a creature at exactly 0 HP, and remember War Caster's concentration-save advantage applies to every CON save she rolls, not just some.**
 - **The Storm's Judgment (Session 18, the ancient village):** Ysolde offered the truth of stepping out from thirty years of careful scholarship into real action to a primal spirit of storm, and it answered. Once per long rest, as a bonus action, she can call its charge into her next spell: the first creature it damages before the end of her next turn must also succeed on a Wisdom save (her spell save DC) or have disadvantage on its next saving throw.
 
 **Sage (Order Scholar) background**
