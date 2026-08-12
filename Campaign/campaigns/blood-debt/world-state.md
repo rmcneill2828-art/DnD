@@ -33,7 +33,7 @@ _Living tracker — active threads only. Full history lives in `session-log.md`;
 ## Active leads / evidence
 - **Halloway's Reach** — see Party notes above. Confirmed as the network's likely center; reconnaissance not yet begun. The alliance's top priority.
 - **Kathrivex, the First Ledger** — the name behind "the count" and every ledger site. Network confirmed far larger than previously scoped (hundreds of threads sensed directly, Session 41); nature/location of the true source still unknown.
-- **The map of other ledger sites** — recovered from Greywatch Keep, at least three more locations implied beyond Halloway's Reach, none yet identifiable.
+- **The map of other ledger sites — three now roughly placed (Session 42).** The freed courier's fragmented travel memory, cross-referenced against the Greywatch Keep partial map and House Corvane's archive: a cold mountain keep northwest (uncomfortably close to the Standing Ring), a poor coastal town south of Halloway's Reach where something is *held* rather than grown, and "the burned court" inland — matching legend in Corvane's own family records. None yet visited or confirmed; the mountain keep's proximity to a sealed site is a standing concern.
 - **The corrupted crystal — Weave-grown, not enchanted (Session 41).** Wren, Ysolde, and Alara's combined study: the material is crystallized directly out of raw magic rather than mineral with magic applied. Implies a trained, methodical hand behind the network's construction — a craft, not just brute divine will. Source material (captured vs. manufactured Weave-energy) still unresolved.
 
 ## Key NPCs (active)

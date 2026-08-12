@@ -2,7 +2,7 @@
 
 **Birth name:** Rurik, son of Sesha and Harek, Thundertree clan (confirmed Session 12 — still goes by "Darkhawk Blondin" day to day)
 **Race:** Goliath
-**Class & Level:** Barbarian 13 (Path of the Totem Warrior — Bear) / Fighter 4 (Battle Master)
+**Class & Level:** Barbarian 14 (Path of the Totem Warrior — Bear) / Fighter 4 (Battle Master)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
@@ -13,15 +13,15 @@
 
 ## Combat
 - **AC:** 17 (fitted breastplate: 14 + DEX = 15, +1 from Dual Wielder while wielding two melee weapons, +1 from sky-iron bracers)
-- **HP:** 172 / 172
-- **Hit Dice:** 13d12 + 4d10
+- **HP:** 176 / 176
+- **Hit Dice:** 14d12 + 4d10
 - **Speed:** 40 ft (Fast Movement, Barbarian 5 — not wearing heavy armor)
 - **Initiative bonus:** +1, with **advantage** (Feral Instinct, Barbarian 7)
 - **Passive Perception:** 16
-- **Proficiency bonus:** +6 (character level 17)
+- **Proficiency bonus:** +6 (character level 18)
 
 ### Attacks
-Dual-wielding two longswords one-handed (DM house rule — narratively justified by Goliath Powerful Build; reforged by Perrin Dask into a true matched dual-wielding pair, then worked through with **sky-iron** — meteoric ore, not magic, but the blades now count as magical weapons for the purpose of overcoming resistance/immunity to nonmagical attacks). **Extra Attack (Barbarian 5):** the Attack action now grants two attacks; off-hand remains a bonus action, for three total attacks in a full turn.
+Dual-wielding two longswords one-handed (DM house rule — narratively justified by Goliath Powerful Build; reforged by Perrin Dask into a true matched dual-wielding pair, then worked through with **sky-iron** — meteoric ore, not magic, but the blades now count as magical weapons for the purpose of overcoming resistance/immunity to nonmagical attacks). **Extra Attack (Barbarian 5):** the Attack action grants two attacks; off-hand remains a bonus action, for three total attacks in a full turn.
 
 | | To Hit | Damage (not raging) | Damage (raging) |
 |---|---|---|---|
@@ -83,6 +83,7 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
   - *Riposte*: reaction, when a creature misses you with a melee attack, spend a superiority die to make a melee attack against it, adding the die to damage on a hit.
   - **Student of War**: proficiency with smith's tools (fits the Ostmark & Daughter apprentice cover).
 - **Ability Score Improvement (Fighter 4) — Resilient (Wisdom)**: +1 WIS (11→12, reflected above) and full proficiency in Wisdom saving throws.
+- **Barbarian 14 (Session 42)**: no new subclass feature — Totemic Attunement (normally 14th-level Totem Warrior) already landed early at 10th (Session 24). This level's benefit is HP alone (bigger d12 hit die banked for the future).
 
 **Outlander**
 - Wanderer: perfect recall of terrain you've traveled, can always find food/fresh water for yourself and up to 5 others in the wild, and find the way back to civilization
@@ -130,7 +131,7 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 
 ## Current Status
 - Conditions: none — resting overnight at Halloway's Reach, Cellarworks secured
-- HP: 172 / 172 (full, after rest)
+- HP: 176 / 176 (full)
 - Hit Dice: 13d12 + 4d10 (full)
 - Rages used: 0 / 4 — reset on rest
 - Second Wind: available
@@ -161,3 +162,4 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 - **Married to Mara Fenn (Session 16)** — engaged at Thundertree the morning after the mine's fall (Session 15), then wed at Thundertree itself in a surprise ceremony Darkhawk arranged in secret on the road back from Kessick's Ford (cover story: "the slow road" to scout the ridge line). Both a Thundertree rite (Vosk officiating, Sesha and Harek's blessing) and Sister Ysolde's blessing of Thossia were given, binding "two people and two tribes." Wears a carved bear-and-arrow pendant split from Darkhawk's own lifelong trophy, made by Thundertree's carver at Darkhawk's request.
 - **Audience with the Raven Queen (Session 32, House Corvane's chantry, Ravenshollow):** sought her attention deliberately and named "the count" as theft from her own domain of honestly-settled debts. She confirmed it, gave him **The Honest Ledger** (see Features & Traits), and briefly addressed the rest of the party. Lord Edrin Corvane, present and moved by the audience, was released from any remaining sense of owed debt and chose to stand with the party freely — sealed with a goliath forearm-grip, kin rather than partner from here on.
 - **Milestone level-up (Session 32, the full council):** Barbarian 12 → 13 (Fighter 4 unchanged) — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt via House Corvane's own archive, forging Corvane's alliance by free will rather than debt, reaching all three sealed-site guardians (Kethrun, Ilsevet, Vessyn) at once for the first time, and setting a real, coordinated plan in motion against Greywatch Keep. Character level 17; **proficiency bonus now +6.** No new Barbarian feature at this level, but every proficient roll (attacks, saves, skills) rose accordingly (reflected above). Rolled +8 (d12) + CON mod 3, now **172 max**.
+- **Milestone level-up (Session 42, Halloway's Reach):** Barbarian 13 → 14 (Fighter 4 unchanged) — earned for securing Halloway's Reach, ending its sixty-year corruption publicly, and closing a third account outright: freeing one of Kathrivex's own couriers by choice, in front of witnesses, then making direct contact with Kathrivex itself and walking away unmarked. Character level 18; proficiency bonus stays +6. No new subclass feature (Totemic Attunement already held since Session 24). Rolled +1 (d12) + CON mod 3, now **176 max**.
