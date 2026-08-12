@@ -77,10 +77,10 @@ A solitary bear-kin druid, part of an old, informal tradition rather than any or
 Rather than reveal herself, she chose to watch from a distance — telling herself it was to protect what the spirit had marked without her own shadow over his path, though she now admits some of it was simply not knowing how to explain any of it without sounding mad. She surfaced briefly and anonymously behind Old Harlan's Forge in Ravensmoor, and again at the Bear Cave — both times vanishing before she could be caught, until Darkhawk and Mara finally closed the distance on her in the Greyhorn foothills.
 
 ## Current Status
-- Conditions: none — resting overnight at Halloway's Reach, Cellarworks secured
+- Conditions: none, untouched in both fights — the Auditor destroyed, Corlan's ship taken (Session 42)
 - HP: 110 / 110 (full)
-- Wild Shape: 2/2 available — reset on rest
-- Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th, 1/1 8th) — reset on rest
+- Wild Shape: 1/2 available (gull, scouting the anchored ship)
+- Spell slots: 4/4 1st, 3/3 2nd, 3/3 3rd, 2/3 4th (Cure Wounds), 2/2 5th, 0/1 6th (Moonbeam), 1/1 7th, 0/1 8th (Call Lightning)
 - **Milestone level-up (Session 32, the full council):** Druid 14 → 15 — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt, forging Corvane's alliance by free will, reaching all three sealed-site guardians at once, and setting a real plan in motion against Greywatch Keep. No new class or Circle feature this level; gained an 8th-level spell slot, and Wild Shape's CR ceiling rose to 5. Rolled +8 (d8) + CON mod 2, now **101 max**.
 - **Milestone level-up (Session 42, Halloway's Reach):** Druid 15 → 16 — earned alongside the rest of the party for securing Halloway's Reach and closing a third account (the freed courier) in front of witnesses. Ability Score Improvement slot taken as **War Caster** instead (WIS already at the 20 cap). No new Circle of the Moon feature or spell slot change at this level. Rolled +7 (d8) + CON mod 2, now **110 max**.
 - **Milestone level-up (Sorrow's Hush):** Druid 13 → 14 — earned for finding and reconnecting Vessyn, the third sealed site's guardian, to the sentinel network. No new class feature this level; spell slots unchanged. Rolled +3 HP (d8) + CON mod, now **91 max**.

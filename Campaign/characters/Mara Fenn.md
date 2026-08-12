@@ -94,9 +94,9 @@ A trapper and local guide who's worked the country around Kessick's Ford for yea
 What started as paid work became a real partnership, and — after Ravensmoor — something more. She's committed to standing with him at Thundertree when the time comes, whatever that costs either of them.
 
 ## Current Status
-- Conditions: none — resting overnight at Halloway's Reach, Cellarworks secured
+- Conditions: none, untouched in both fights — the Auditor destroyed, Corlan's ship taken (Session 42)
 - HP: 121 / 121 (full)
-- Spell slots: full (4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 1/1 5th) — reset on rest
+- Spell slots: 3/4 1st (Hunter's Mark, active on Corlan's crew), 3/3 2nd, 3/3 3rd, 3/3 4th, 1/1 5th
 - Inspiration: no
 - **Milestone level-up (Session 32, the full council):** Ranger 16 → 17 — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt, forging Corvane's alliance by free will, reaching all three sealed-site guardians at once, and setting a real plan in motion against Greywatch Keep. **Proficiency bonus now +6** (character level 17); gained a 4th-level spell slot and her first 5th-level slot. Rolled +3 (d10) + CON mod 1, now **116 max**.
 - **Milestone level-up (Session 42, Halloway's Reach):** Ranger 17 → 18 — earned alongside the rest of the party for securing Halloway's Reach, ending its sixty-year corruption, and closing a third account (the freed courier) in front of witnesses. No new class feature or spell slot at this level (Ranger's table holds steady between 17 and 18). Rolled +4 (d10) + CON mod 1, now **121 max**.
