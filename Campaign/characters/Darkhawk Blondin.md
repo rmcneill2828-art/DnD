@@ -12,7 +12,7 @@
 | 21 (+5) | 13 (+1) | 16 (+3) | 8 (−1) | 12 (+1) | 10 (+0) |
 
 ## Combat
-- **AC:** 17 (fitted breastplate: 14 + DEX = 15, +1 from Dual Wielder while wielding two melee weapons, +1 from sky-iron bracers)
+- **AC:** 18 (fitted breastplate: 14 + DEX = 15, +2 from the new sky-iron shield, +1 from sky-iron bracers — **switched from dual-wielding to sword-and-shield, Session 44**, Dual Wielder's +1 no longer applies since it requires two melee weapons)
 - **HP:** 176 / 176
 - **Hit Dice:** 14d12 + 4d10
 - **Speed:** 40 ft (Fast Movement, Barbarian 5 — not wearing heavy armor)
@@ -21,15 +21,14 @@
 - **Proficiency bonus:** +6 (character level 18)
 
 ### Attacks
-Dual-wielding two longswords one-handed (DM house rule — narratively justified by Goliath Powerful Build; reforged by Perrin Dask into a true matched dual-wielding pair, then worked through with **sky-iron** — meteoric ore, not magic, but the blades now count as magical weapons for the purpose of overcoming resistance/immunity to nonmagical attacks). **Extra Attack (Barbarian 5):** the Attack action grants two attacks; off-hand remains a bonus action, for three total attacks in a full turn.
+**Sword-and-shield loadout (Session 44, ahead of the mountain keep expedition)** — traded the off-hand longsword for a sky-iron shield, restoring the Protection fighting style for a fight expected to mean protecting allies against constructs rather than pure offense. **Extra Attack (Barbarian 5):** the Attack action grants two attacks, both main-hand.
 
 | | To Hit | Damage (not raging) | Damage (raging) |
 |---|---|---|---|
 | Main-hand longsword (x2, Extra Attack) | +11 | 1d8+5 slashing | 1d8+7 slashing |
-| Off-hand longsword (bonus action) | +11 | 1d8+5 slashing | 1d8+7 slashing |
 | Javelin (thrown, 30/120) | +11 | 1d6+5 piercing | 1d6+7 piercing |
 
-*Reforge grants STR modifier to off-hand damage. Dual Wielder feat (taken at level 4) adds the +1 AC on top of that, reflected above.*
+*The second longsword isn't gone — just sheathed, in case the loadout needs to flip back for a fight that calls for raw offense over protection.*
 
 **Consecrated against fiends (Sister Ysolde, Session 15):** both longswords and the +1 dagger now carry a lasting ward against fiends specifically — better odds landing a blow true, plus some resistance to the fear and corruption fiends favor using before a fight even starts.
 
@@ -39,7 +38,7 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 - **Languages:** Common, Giant, +1 (Outlander choice — suggest Dwarvish or Orc, pick when it matters in-story)
 - **Tools:** one musical instrument (Outlander — suggest a tribal drum)
 - **Weapons:** simple and martial weapons
-- **Armor:** light, medium, shields (currently unarmored by choice — no free hand for a shield while dual-wielding)
+- **Armor:** light, medium, shields (now carrying a shield again as of Session 44 — see Combat)
 
 ## Features & Traits
 
@@ -75,7 +74,7 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 
 **Fighter (multiclass, 3 levels — Battle Master)**
 - **Second Wind**: bonus action, regain 1d10+2 HP. Once per short/long rest.
-- **Fighting Style: Protection** — reaction, when a creature you can see attacks a target other than you that's within 5 ft of you, impose disadvantage on that attack roll. Requires wielding a shield — **currently unusable; shield traded away at Ostmark & Daughter (Ravensmoor)**, would need a new shield to use this again.
+- **Fighting Style: Protection** — reaction, when a creature you can see attacks a target other than you that's within 5 ft of you, impose disadvantage on that attack roll. **Usable again as of Session 44** — Perrin and Greta built a new sky-iron shield ahead of the mountain keep expedition.
 - **Action Surge** (lvl 2): once per short/long rest, take one additional action on your turn. With dual-wielding, effectively doubles a turn's attacks (main-hand, off-hand, main-hand, off-hand).
 - **Martial Archetype: Battle Master (lvl 3)** — **Combat Superiority**: 4 superiority dice (d8), regained on a short/long rest. Three maneuvers known:
   - *Trip Attack*: on a hit, spend a superiority die to add the die to damage and force a Strength save or the target falls prone.
@@ -103,6 +102,7 @@ Dual-wielding two longswords one-handed (DM house rule — narratively justified
 - **A fine chainmail shirt**, lightweight, well-made, stripped off a "graduate" before sale — from Duskgate's strongroom. Reworked with sky-iron by Perrin and Greta: not magical, but counts as magical armor for overcoming resistance/immunity, same as his longswords. A backup/alternate set to the breastplate.
 - **Sky-iron bracers**, fitted by Perrin — reinforced for blocking and parrying rather than just decorative. **+1 AC** (reflected above).
 - **Sky-iron open-faced helm** (Session 24, Perrin & Greta) — light, doesn't impede peripheral vision. Once per long rest, when struck by a critical hit, can treat it as a normal hit instead (no extra damage dice).
+- **A new sky-iron shield** (Session 44, Perrin & Greta) — built in two days ahead of the mountain keep expedition, matched to his reach and grip, same magical-overcome property as his blades and bracers. Restores the Protection fighting style; +2 AC. Commissioned and collected in secret, without telling the rest of the party.
 - **The engraved pendant, returned** — identified and given back to its owner's aunt at the restitution line; the initials were her late sister's, worn by her daughter Mira in memory. Thread closed.
 - **Edmund Vale's signet ring** — plain iron, fist-and-chain sigil, worn smooth from more than one owner's hand. Physical proof the "Warden" title is inherited rather than personal.
 - **Edmund Vale's document case** — personal correspondence confirming his name, and an unsent letter to "my successor" with instructions for the parcel "if the reckoning comes for me before the bargain does."
