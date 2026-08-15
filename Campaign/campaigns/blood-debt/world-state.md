@@ -10,6 +10,14 @@ Roll 1d20 per travel leg; a result at or under the tier's threshold triggers an 
 | **2 — Frontier** | Known but unpatrolled (past sealed sites, approach roads) | 1–5 | Real mix — nothing, or a genuine fight |
 | **3 — Unknown/dangerous** | Unmapped, active-threat ground (toward the mountain keep) | 1–8 | Weighted toward real threats matching whatever's actually out there |
 
+## DM tool: Camp Risk Tiers (adopted Session 44)
+Same three tiers as travel, applied to overnight camps, with the trigger shifted by how well the camp was actually set:
+| Prep level | Modifier |
+|---|---|
+| Well-prepared (watch rotation set, defensible site, wards/detection active) | **−2** to the tier's trigger |
+| Adequate (basic watch, reasonable site, nothing special) | none |
+| Poor (rushed, exposed, no real watch) | **+2** to the tier's trigger |
+
 ## Party
 - **At Urskelde, resting before the keep expedition (Session 44).** Full operational plan set with Vosk and Halvard — see below and `session-log.md` for the complete breakdown. **Departure: two days out, first light.**
 - **The mountain keep may be a construct foundry, not just a prison (Session 44) — the single biggest tactical revelation since Greywatch Keep.** Halvard's archive work plus the courier's account (captives/constructs described as "stored... like furniture," not moving, not dead) plus Rurik's own deduction connecting the corrupted den (a delivery point) and Greywatch Keep's garrison (a destination) point to one conclusion: this may be the actual manufacturing source behind every construct-based threat the alliance has fought. Not confirmed — a theory, but a strong one, and it's reshaped the whole approach.
