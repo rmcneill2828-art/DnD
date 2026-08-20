@@ -1,7 +1,7 @@
 # Wren
 
 **Race:** Human
-**Class & Level:** Sorcerer 16 (Wild Magic)
+**Class & Level:** Sorcerer 17 (Wild Magic)
 **Background:** Criminal (self-taught survivor, Ravensmoor's fairground district)
 **Alignment:** Chaotic Good
 
@@ -16,7 +16,7 @@
 - **Hit Dice:** 16d6
 - **Speed:** 30 ft
 - **Passive Perception:** 11
-- **Proficiency bonus:** +5 (character level 15)
+- **Proficiency bonus:** +6 (character level 17)
 
 ### Attacks
 Not a melee fighter — relies entirely on spellcasting and Wild Magic. Carries a dagger for emergencies only.
@@ -24,14 +24,14 @@ Not a melee fighter — relies entirely on spellcasting and Wild Magic. Carries 
 | | To Hit | Damage |
 |---|---|---|
 | Dagger (finesse) | +1 | 1d4−1 piercing |
-| Fire Bolt (cantrip) | +10 | 4d10 fire |
-| Chaos Bolt (1st, upcasts) | +10 spell attack | 2d8+1d6 damage (see Features) |
+| Fire Bolt (cantrip) | +11 | 4d10 fire |
+| Chaos Bolt (1st, upcasts) | +11 spell attack | 2d8+1d6 damage (see Features) |
 
-**Spell save DC 18, spell attack +10.**
+**Spell save DC 19, spell attack +11.**
 
 ## Proficiencies & Skills
-- **Saving throws:** Constitution +8, Charisma +10
-- **Skills:** Insight +6, Persuasion +10, Deception +10, Stealth +7
+- **Saving throws:** Constitution +9, Charisma +11
+- **Skills:** Insight +7, Persuasion +11, Deception +11, Stealth +8
 - **Languages:** Common, Infernal (picked up on the street, never formally taught)
 - **Tools:** none
 - **Weapons:** daggers, darts, slings, quarterstaffs, light crossbows
@@ -40,7 +40,7 @@ Not a melee fighter — relies entirely on spellcasting and Wild Magic. Carries 
 ## Features & Traits
 
 **Sorcerer**
-- **Spellcasting:** Charisma-based. Spell save DC 18, spell attack +10. Knows spells (doesn't prepare) — 6 cantrips, 15 spells known. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 2 (5th), 1 (6th), 1 (7th).
+- **Spellcasting:** Charisma-based. Spell save DC 19, spell attack +11. Knows spells (doesn't prepare) — 6 cantrips, 16 spells known. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 2 (5th), 1 (6th), 1 (7th), 1 (8th, previously missing from this sheet — corrected Session 45), 1 (9th, new).
 - **Font of Magic:** 15 sorcery points. Can convert sorcery points to spell slots and vice versa (Flexible Casting).
 - **Metamagic (3 known):** *Quickened Spell* (2 pts — cast a normal-action spell as a bonus action), *Twinned Spell* (varies — target a second creature with a single-target spell), *Careful Spell* (1 pt — chosen creatures automatically succeed on the spell's save).
 
@@ -61,6 +61,7 @@ Not a melee fighter — relies entirely on spellcasting and Wild Magic. Carries 
 - **5th (2):** Cone of Cold, Wall of Force
 - **6th (1):** Chain Lightning
 - **7th (1):** Prismatic Spray
+- **9th (1):** Meteor Swarm (Session 45 — four 40-ft-radius fireballs anywhere within a mile, 20d6 fire + 20d6 bludgeoning each, DEX save for half; the biggest single-cast damage in the game)
 
 *Chaos Bolt (1st level): ranged spell attack, 2d8+1d6 damage of a randomly determined type; on a hit, if the two d8s roll the same number, the spell leaps to a new target and can keep chaining — the single most "Wren" spell in her whole list.*
 
@@ -86,11 +87,12 @@ Sael found her in an alley near the fairground's edge, approached with the same 
 
 ## Current Status
 - Conditions: none — full long rest at the mountain keep, final night before departure, all resources refreshed (Session 44 close)
-- HP: 82 / 82 (full)
+- HP: 91 / 91 (full)
 - **Wild Magic Surge counter (Session 43 house rule): 0 consecutive non-surge casts** — reset by the long rest. Next natural roll surges only on a 1.
 - Sorcery points: 15/15
-- Spell slots: 4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th
+- Spell slots: 4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th, 1/1 8th, 1/1 9th
 - Tides of Chaos: available
+- **Milestone level-up (Session 45, the full regional council):** Sorcerer 16 → 17 — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Proficiency bonus now **+6** (character level 17); gained a 9th-level spell slot (and an 8th-level slot corrected onto this sheet, previously missing) and a new spell known: **Meteor Swarm**. Rolled +6 (d6) + CON mod 3, now **91 max**.
 - **First real fight fully let loose (Session 42):** at Rurik's urging, dropped all restraint at the Cellarworks door — a thunderclap surge deafened the block on top of a full Fireball, exactly the chaos the plan called for. Rurik told her plainly afterward it was mastery, not luck — the first time anyone's framed her power that way. Days later, in the fight against the Auditor and the boarding action, no harmful surge landed either — three real fights running clean.
 - **Joined the party (Session 35, Ravensmoor)** — recruited specifically for the gap in the party's arcane magic, ahead of an approach to the unscouted Tallow House. Connected briefly to Kethrun, Ilsevet, Vessyn, and Skarn as part of Rurik's welcome — the first time she's felt understood rather than feared.
 - **Milestone level-up (Session 42, Halloway's Reach):** Sorcerer 15 → 16 — her first milestone since joining, earned alongside the rest of the party for securing Halloway's Reach and closing a third account (the freed courier) in front of witnesses. **Ability Score Improvement: +2 CON (14 → 16, reflected above)** — better concentration saves and survivability for a caster who leans hard into Wild Magic's unpredictability. No new Wild Magic feature at this level. Rolled +2 (d6) + CON mod 3, now **82 max**.

@@ -1,7 +1,7 @@
 # Sister Ysolde Marrow
 
 **Race:** Human
-**Class & Level:** Cleric 17 (Grave Domain)
+**Class & Level:** Cleric 18 (Grave Domain)
 **Deity:** Thossia, the Arbiter — goddess of judgment and the settling of debts after death
 **Background:** Sage (Order Scholar)
 **Alignment:** Lawful Good
@@ -17,18 +17,18 @@
 - **Hit Dice:** 17d8
 - **Speed:** 30 ft
 - **Passive Perception:** 14
-- **Proficiency bonus:** +5 (character level 16)
+- **Proficiency bonus:** +6 (character level 18)
 
 ### Attacks
 | | To Hit | Damage |
 |---|---|---|
-| Mace | +5 | 1d6 bludgeoning |
+| Mace | +6 | 1d6 bludgeoning |
 
 Not a frontline fighter by her own admission — her value is spellcasting, wards, and knowledge, not melee.
 
 ## Proficiencies & Skills
-- **Saving throws:** Wisdom +9, Charisma +6
-- **Skills:** Religion +7, Insight +9, Medicine +9, History +7, Arcana +7 (her order's particular focus: infernal contracts, pacts, and the settling of debts after death)
+- **Saving throws:** Wisdom +10, Charisma +7
+- **Skills:** Religion +8, Insight +10, Medicine +10, History +8, Arcana +8 (her order's particular focus: infernal contracts, pacts, and the settling of debts after death)
 - **Languages:** Common, Celestial, Infernal, two others from a lifetime of archival work
 - **Tools:** none beyond her calligrapher's kit (order record-keeping)
 - **Weapons:** simple weapons
@@ -37,10 +37,10 @@ Not a frontline fighter by her own admission — her value is spellcasting, ward
 ## Features & Traits
 
 **Cleric**
-- **Spellcasting:** Wisdom-based. Spell save DC 17, spell attack +9. Prepares WIS mod + level = 21 spells daily from the full cleric list, plus domain spells always prepared. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 3 (5th), 1 (6th), 1 (7th), 1 (8th), 1 (9th, new at Cleric 17).
+- **Spellcasting:** Wisdom-based. Spell save DC 18, spell attack +10. Prepares WIS mod + level = 22 spells daily from the full cleric list, plus domain spells always prepared. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 3 (5th), 1 (6th), 1 (7th), 1 (8th), 1 (9th).
 - **War Caster (Ability Score Improvement, Cleric lvl 12):** advantage on Constitution saves to maintain concentration; can perform somatic components with weapons/shield in hand; can cast a spell (1-action casting time) as a reaction in place of an opportunity attack.
   - Commonly prepared: *Bless, Command, Zone of Truth, Protection from Evil and Good, Dispel Magic, Remove Curse, Banishment, Dispel Evil and Good, **Guiding Bolt** (1st — ranged radiant spell attack, solid reliable damage at range), **Spiritual Weapon** (2nd — bonus action floating ranged weapon, good action economy), **Hold Person** (2nd — added Session 44, paralyzes a humanoid on a failed WIS save, repeat save each turn; good control against a single dangerous target), **Flame Strike** (5th — ranged column of fire and radiant damage, fits Thossia's judgment theme).*
-- **Channel Divinity (2/short or long rest):** Turn Undead, and Path to the Grave (curse a creature within 30 ft — the next attack against it before the start of her next turn has advantage and scores a critical hit on any hit).
+- **Channel Divinity (3/short or long rest, as of lvl 18):** Turn Undead, and Path to the Grave (curse a creature within 30 ft — the next attack against it before the start of her next turn has advantage and scores a critical hit on any hit).
 - **Destroy Undead (lvl 14):** Turned undead of CR 3 or lower are instantly destroyed rather than merely turned.
 - **Divine Intervention** (lvl 10): can call on Thossia directly to intervene, once per long rest at this level (percentage chance based on cleric level).
 
@@ -78,10 +78,11 @@ Magistrate Kell corresponded with her twice on unrelated legal-religious matters
 
 ## Current Status
 - Conditions: none — full long rest at the mountain keep, final night before departure, all resources refreshed (Session 44 close)
-- HP: 118 / 118 (full)
+- HP: 121 / 121 (full)
 - Spell slots: 4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 3/3 5th, 1/1 6th, 1/1 7th, 1/1 8th, 1/1 9th
 - Keeper of Souls: available (recharges each turn)
-- Channel Divinity: 2/2 available
+- Channel Divinity: 3/3 available
+- **Milestone level-up (Session 45, the full regional council):** Cleric 17 → 18 — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Gained a third **Channel Divinity** use. Rolled +1 (d8) + CON mod 2, now **121 max**.
 - **The Ledger's Eye, first tested on a living connection (Session 42):** confirmed Rurik's new count-sense as real and, so far, undetected — a working nobody had tried on something still alive before.
 - **Milestone level-up (Session 32, the full council):** Cleric 15 → 16 — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt, forging Corvane's alliance by free will, reaching all three sealed-site guardians at once, and setting a real plan in motion against Greywatch Keep. No new spell slots or Grave Domain feature this level — proficiency bonus holds at +5. Rolled +7 (d8) + CON mod 2, now **111 max**.
 - **Milestone level-up (Session 42, Halloway's Reach):** Cleric 16 → 17 — earned alongside the rest of the party for securing Halloway's Reach and closing a third account (the freed courier) in front of witnesses. Gained a 9th-level spell slot and **Keeper of Souls** (see Features). No ASI at 17 (Cleric's ASI levels are 4/8/12/16/19). Rolled +5 (d8) + CON mod 2, now **118 max**.

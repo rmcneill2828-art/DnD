@@ -1,7 +1,7 @@
 # Sael
 
 **Race:** Wood Elf
-**Class & Level:** Druid 16 (Circle of the Moon)
+**Class & Level:** Druid 17 (Circle of the Moon)
 **Background:** Hermit
 **Alignment:** Neutral Good
 
@@ -15,22 +15,22 @@
 - **HP:** 110 / 110
 - **Hit Dice:** 16d8
 - **Speed:** 35 ft (Wood Elf)
-- **Passive Perception:** 19
-- **Proficiency bonus:** +5 (character level 15)
+- **Passive Perception:** 21
+- **Proficiency bonus:** +6 (character level 17)
 
 ### Attacks
 | | To Hit | Damage |
 |---|---|---|
-| Quarterstaff | +6 | 1d6+1 bludgeoning |
-| Sickle | +6 | 1d4+1 slashing |
+| Quarterstaff | +7 | 1d6+1 bludgeoning |
+| Sickle | +7 | 1d4+1 slashing |
 
 **Wild Shape (2/short or long rest):** as a Circle of the Moon druid, can transform as a bonus action, and can ignore the usual "seen it before, no swim/fly speed" restrictions — can take the form of any beast with CR up to 5 (druid level ÷ 3, rounded down). Most often takes the form of a **large brown bear** (CR 1) — the same shape she used to pull Darkhawk from Ashpit, and the shape that answered the Spirit Seeker ritual isn't this one, but a distinct, older presence she and Darkhawk both now believe is a true bear-spirit rather than a druid's Wild Shape.
 
-> **DM quick-check per turn: War Caster (lvl 16) grants advantage on CON saves to maintain concentration — apply automatically, don't roll flat. She can also cast a spell as her reaction in place of an opportunity attack, and can perform somatic components with hands full. Combat Wild Shape lets her shift as a bonus action, or burn a spell slot as a bonus action while shifted to heal 2× the slot's level. If two or more party members are searching/investigating together, that's the Help action — advantage, not a flat bonus.**
+> **DM quick-check per turn: spell save DC 19, spell attack +11 (prof +6 as of Session 45). War Caster (lvl 16) grants advantage on CON saves to maintain concentration — apply automatically, don't roll flat. She can also cast a spell as her reaction in place of an opportunity attack, and can perform somatic components with hands full. Combat Wild Shape lets her shift as a bonus action, or burn a spell slot as a bonus action while shifted to heal 2× the slot's level. If two or more party members are searching/investigating together, that's the Help action — advantage, not a flat bonus.**
 
 ## Proficiencies & Skills
-- **Saving throws:** Intelligence +5, Wisdom +10
-- **Skills:** Survival +10, Stealth +8, Perception +10, Medicine +10, Animal Handling +10
+- **Saving throws:** Intelligence +6, Wisdom +11
+- **Skills:** Survival +11, Stealth +9, Perception +11, Medicine +11, Animal Handling +11
 - **Languages:** Common, Elvish, Druidic, Giant (picked up over years spent near the Greyhorn foothills)
 - **Tools:** Herbalism kit
 - **Weapons:** clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
@@ -45,7 +45,7 @@
 
 **Druid**
 - **Druidic:** knows the secret druidic language.
-- **Spellcasting:** Wisdom-based. Spell save DC 18, spell attack +10. Prepares spells daily (WIS mod + druid level = 20 prepared) from the full druid list. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 2 (5th), 1 (6th), 1 (7th), 1 (8th).
+- **Spellcasting:** Wisdom-based. Spell save DC 19, spell attack +11. Prepares spells daily (WIS mod + druid level = 22 prepared) from the full druid list. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 2 (5th), 1 (6th), 1 (7th), 1 (8th), 1 (9th).
   - Commonly prepared: *Goodberry, Cure Wounds, Entangle, Pass without Trace, Barkskin, Speak with Animals, Conjure Animals, Spike Growth, Protection from Poison, Wind Wall, Locate Creature, Freedom of Movement, **Thunderwave** (1st — added Session 44, close-range thunder damage and a forced shove, good crowd control), **Moonbeam** (2nd — ranged radiant damage in an area, fitting for a Circle of the Moon druid, can be cast and sustained while Wild Shaped), **Call Lightning** (3rd — ranged lightning damage, repeatable each turn while concentrating).*
 - **Wild Shape** (lvl 2): see Combat, above.
 
@@ -80,9 +80,10 @@ Rather than reveal herself, she chose to watch from a distance — telling herse
 
 ## Current Status
 - Conditions: none — full long rest at the mountain keep, final night before departure, all resources refreshed (Session 44 close)
-- HP: 110 / 110 (full)
+- HP: 113 / 113 (full)
 - Wild Shape: 2/2 available
-- Spell slots: 4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th, 1/1 8th
+- Spell slots: 4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th, 1/1 8th, 1/1 9th
+- **Milestone level-up (Session 45, the full regional council):** Druid 16 → 17 — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Proficiency bonus now **+6** (character level 17); gained a 9th-level spell slot. Rolled +1 (d8) + CON mod 2, now **113 max**.
 - **Milestone level-up (Session 32, the full council):** Druid 14 → 15 — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt, forging Corvane's alliance by free will, reaching all three sealed-site guardians at once, and setting a real plan in motion against Greywatch Keep. No new class or Circle feature this level; gained an 8th-level spell slot, and Wild Shape's CR ceiling rose to 5. Rolled +8 (d8) + CON mod 2, now **101 max**.
 - **Milestone level-up (Session 42, Halloway's Reach):** Druid 15 → 16 — earned alongside the rest of the party for securing Halloway's Reach and closing a third account (the freed courier) in front of witnesses. Ability Score Improvement slot taken as **War Caster** instead (WIS already at the 20 cap). No new Circle of the Moon feature or spell slot change at this level. Rolled +7 (d8) + CON mod 2, now **110 max**.
 - **Milestone level-up (Sorrow's Hush):** Druid 13 → 14 — earned for finding and reconnecting Vessyn, the third sealed site's guardian, to the sentinel network. No new class feature this level; spell slots unchanged. Rolled +3 HP (d8) + CON mod, now **91 max**.

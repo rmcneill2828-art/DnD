@@ -2,7 +2,7 @@
 
 **Birth name:** Rurik, son of Sesha and Harek, Thundertree clan (confirmed Session 12 — still goes by "Darkhawk Blondin" day to day)
 **Race:** Goliath
-**Class & Level:** Barbarian 14 (Path of the Totem Warrior — Bear) / Fighter 4 (Battle Master)
+**Class & Level:** Barbarian 15 (Path of the Totem Warrior — Bear) / Fighter 4 (Battle Master)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
@@ -13,7 +13,7 @@
 
 ## Combat
 - **AC:** 18 (fitted breastplate: 14 + DEX = 15, +2 from the new sky-iron shield, +1 from sky-iron bracers — **switched from dual-wielding to sword-and-shield, Session 44**, Dual Wielder's +1 no longer applies since it requires two melee weapons)
-- **HP:** 176 / 176
+- **HP:** 182 / 182
 - **Hit Dice:** 14d12 + 4d10
 - **Speed:** 40 ft (Fast Movement, Barbarian 5 — not wearing heavy armor)
 - **Initiative bonus:** +1, with **advantage** (Feral Instinct, Barbarian 7)
@@ -49,7 +49,8 @@
 - Mountain Born: resistance to cold damage; acclimated to high altitude
 
 **Barbarian**
-- Rage (4/day): bonus action to enter; +2 damage on Strength-based melee attacks, resistance to bludgeoning/piercing/slashing damage, advantage on Strength checks and saves; lasts 1 minute, ends early if you go a turn without attacking or taking damage. Can't wear heavy armor.
+- Rage (4/day): bonus action to enter; +2 damage on Strength-based melee attacks, resistance to bludgeoning/piercing/slashing damage, advantage on Strength checks and saves; lasts 1 minute. Can't wear heavy armor.
+- **Persistent Rage (lvl 15):** rage no longer ends early from going a turn without attacking or taking damage — only from being knocked unconscious or choosing to end it.
 - Unarmored Defense: AC = 10 + DEX + CON when not wearing armor
 - **Reckless Attack** (lvl 2): on your first attack each turn, choose to attack recklessly — advantage on Strength-based melee attack rolls this turn, but attacks against you have advantage until your next turn.
 - **Danger Sense** (lvl 2): advantage on Dexterity saves against effects you can see, unless blinded, deafened, or incapacitated.
@@ -165,4 +166,5 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 - **Married to Mara Fenn (Session 16)** — engaged at Thundertree the morning after the mine's fall (Session 15), then wed at Thundertree itself in a surprise ceremony Darkhawk arranged in secret on the road back from Kessick's Ford (cover story: "the slow road" to scout the ridge line). Both a Thundertree rite (Vosk officiating, Sesha and Harek's blessing) and Sister Ysolde's blessing of Thossia were given, binding "two people and two tribes." Wears a carved bear-and-arrow pendant split from Darkhawk's own lifelong trophy, made by Thundertree's carver at Darkhawk's request.
 - **Audience with the Raven Queen (Session 32, House Corvane's chantry, Ravenshollow):** sought her attention deliberately and named "the count" as theft from her own domain of honestly-settled debts. She confirmed it, gave him **The Honest Ledger** (see Features & Traits), and briefly addressed the rest of the party. Lord Edrin Corvane, present and moved by the audience, was released from any remaining sense of owed debt and chose to stand with the party freely — sealed with a goliath forearm-grip, kin rather than partner from here on.
 - **Milestone level-up (Session 32, the full council):** Barbarian 12 → 13 (Fighter 4 unchanged) — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt via House Corvane's own archive, forging Corvane's alliance by free will rather than debt, reaching all three sealed-site guardians (Kethrun, Ilsevet, Vessyn) at once for the first time, and setting a real, coordinated plan in motion against Greywatch Keep. Character level 17; **proficiency bonus now +6.** No new Barbarian feature at this level, but every proficient roll (attacks, saves, skills) rose accordingly (reflected above). Rolled +8 (d12) + CON mod 3, now **172 max**.
+- **Milestone level-up (Session 45, the full regional council):** Barbarian 14 → 15, gaining **Persistent Rage** — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor genuinely redeemed and recruited, a second Raven Queen audience won, and the full regional council unanimously committing to the next real step against Kathrivex. Character level 19; proficiency bonus stays +6. Rolled +3 (d12) + CON mod 3, now **182 max**.
 - **Milestone level-up (Session 42, Halloway's Reach):** Barbarian 13 → 14 (Fighter 4 unchanged) — earned for securing Halloway's Reach, ending its sixty-year corruption publicly, and closing a third account outright: freeing one of Kathrivex's own couriers by choice, in front of witnesses, then making direct contact with Kathrivex itself and walking away unmarked. Character level 18; proficiency bonus stays +6. No new subclass feature (Totemic Attunement already held since Session 24). Rolled +1 (d12) + CON mod 3, now **176 max**.

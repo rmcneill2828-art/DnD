@@ -1,23 +1,23 @@
 # Mara Fenn
 
 **Race:** Human
-**Class & Level:** Ranger 18 (Gloom Stalker)
+**Class & Level:** Ranger 19 (Gloom Stalker)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
-| 10 (+0) | 20 (+5) | 13 (+1) | 12 (+1) | 16 (+3) | 11 (+0) |
+| 10 (+0) | 20 (+5) | 13 (+1) | 12 (+1) | 18 (+4) | 11 (+0) |
 
 ## Combat
 - **AC:** 17 (studded leather: 12 + DEX)
 - **HP:** 121 / 121
 - **Hit Dice:** 18d10
 - **Speed:** 30 ft (+10 ft on the first turn of combat via Dread Ambusher)
-- **Initiative bonus:** +8 (DEX +5, plus WIS +3 from Dread Ambusher)
-- **Passive Perception:** 19
-- **Proficiency bonus:** +6 (character level 17)
+- **Initiative bonus:** +9 (DEX +5, plus WIS +4 from Dread Ambusher)
+- **Passive Perception:** 20
+- **Proficiency bonus:** +6 (character level 19)
 
 ### Attacks
 Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into the numbers below).
@@ -37,8 +37,8 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 > **DM quick-check per turn: 2 attacks baseline, 3 if this is a surprise round (+1d8 on her first hit that round). Verify before rolling, don't default to 1-2.**
 
 ## Proficiencies & Skills
-- **Saving throws:** Strength +6, Dexterity +11, Wisdom +9 (Iron Mind, lvl 7)
-- **Skills:** Athletics +6, Survival +9 (Outlander), Stealth +11, Perception +9, Investigation +7 (Ranger)
+- **Saving throws:** Strength +6, Dexterity +11, Wisdom +10 (Iron Mind, lvl 7)
+- **Skills:** Athletics +6, Survival +10 (Outlander), Stealth +11, Perception +10, Investigation +7 (Ranger)
 - **Languages:** Common, +1 (Favored Enemy — suggest whatever the Circuit's own thieves'-cant-equivalent turns out to be, or Giant to better keep pace with Darkhawk at Thundertree)
 - **Tools:** none (trapper's know-how handled narratively via Survival)
 - **Weapons:** simple and martial weapons
@@ -51,7 +51,7 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 - **Natural Explorer (Forest, Mountain):** second terrain gained at 6th level, chosen with the Greyhorn foothills ahead in mind. Home ground in either — never gets lost except by magic, can travel stealthily at normal pace, finds double food when foraging, and gets extra information/advantage on initiative and first-round surprise attempts.
 - **Primeval Awareness:** can expend a spell slot to sense whether aberrations, celestials, dragons, elementals, fey, fiends, or undead lurk within 1 mile (6 in favored terrain).
 - **Fighting Style — Archery:** +2 to attack rolls with ranged weapons.
-- **Spellcasting:** Wisdom-based. Spell save DC 17, spell attack +9. Known: **Hunter's Mark, Longstrider, Cure Wounds, Pass without Trace, Silence, Conjure Animals, Protection from Energy** (new at lvl 11), plus a new 5th-level spell to select (lvl 17 — suggest **Commune with Nature** or **Tree Stride**, fits the Greywatch Keep terrain work). Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 1 (5th).
+- **Spellcasting:** Wisdom-based. Spell save DC 18, spell attack +10. Known: **Hunter's Mark, Longstrider, Cure Wounds, Pass without Trace, Silence, Conjure Animals, Protection from Energy** (new at lvl 11), plus a new 5th-level spell to select (lvl 17 — suggest **Commune with Nature** or **Tree Stride**, fits the Greywatch Keep terrain work). Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 1 (5th).
 - **Extra Attack** (5th level).
 - **Ability Score Improvement (lvl 8):** +2 DEX (18 → 20, reflected above).
 - **Ability Score Improvement (lvl 12):** +2 WIS (14 → 16, reflected above).
@@ -95,9 +95,10 @@ What started as paid work became a real partnership, and — after Ravensmoor �
 
 ## Current Status
 - Conditions: none — full long rest at the mountain keep, final night before departure, all resources refreshed (Session 44 close)
-- HP: 121 / 121 (full)
+- HP: 129 / 129 (full)
 - Spell slots: 4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 1/1 5th
 - Inspiration: no
+- **Milestone level-up (Session 45, the full regional council):** Ranger 18 → 19, taking an **Ability Score Improvement (+2 WIS, 16 → 18)** — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Rolled +7 (d10) + CON mod 1, now **129 max**.
 - **Milestone level-up (Session 32, the full council):** Ranger 16 → 17 — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt, forging Corvane's alliance by free will, reaching all three sealed-site guardians at once, and setting a real plan in motion against Greywatch Keep. **Proficiency bonus now +6** (character level 17); gained a 4th-level spell slot and her first 5th-level slot. Rolled +3 (d10) + CON mod 1, now **116 max**.
 - **Milestone level-up (Session 42, Halloway's Reach):** Ranger 17 → 18 — earned alongside the rest of the party for securing Halloway's Reach, ending its sixty-year corruption, and closing a third account (the freed courier) in front of witnesses. No new class feature or spell slot at this level (Ranger's table holds steady between 17 and 18). Rolled +4 (d10) + CON mod 1, now **121 max**.
 - **Milestone level-up (Sorrow's Hush):** Ranger 15 → 16 — earned for finding and reconnecting Vessyn, the third sealed site's guardian, to the sentinel network. Gained a second 4th-level spell slot. Rolled +10 HP (d10 + CON mod), now **112 max**.
