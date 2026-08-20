@@ -96,7 +96,8 @@
 - Hunting trap
 - An animal trophy from the mountains (flavor: a carved tusk or claw, last physical tie to a tribe he barely remembers)
 - Traveler's clothes
-- 620 gp (480 gp + 140 gp off the four Greyfeather bodies, road to Ravensmoor, Session 43). Farmer's fire-tool commission still in progress, unpaid.
+- 1,000 gp (620 gp carried in + 40 gp from a forced strongbox + 340 gp from the road-battle shipment, Session 44, the mountain keep). Farmer's fire-tool commission still in progress, unpaid.
+- **A black-iron goliath spear** (Session 44, the mountain keep shipment) — exceptional craft, matches the broken spear head Sarna and Kell recovered near Urskelde. Thread unresolved.
 - **Family Restitution Fund: 788 gp** (1,240 gp − 452 gp paid to 11 verified claimants) — set aside separately from all other coin, sourced entirely from Duskgate's strongroom. **Policy set:** each verified claimant receives an individual payment now; whatever remains once all claims are in gets split evenly across every claimant. Two claims have been refused outright where the story didn't match the ledger; one claim was paid on judgment alone (Mara's and Darkhawk's read of the man, not the ledger, which had no record of him at all) — a reminder the ledger's silence isn't proof of anything. Still open-ended; more claimants may yet come.
 - A small collection of gemstones and mixed rings/bracelets from the strongroom, likewise earmarked for redistribution.
 - **A matched pair of silver-inlaid dueling daggers**, exceptional craftsmanship, no maker's mark, from Duskgate's strongroom.
