@@ -39,7 +39,7 @@ Not a frontline fighter by her own admission — her value is spellcasting, ward
 **Cleric**
 - **Spellcasting:** Wisdom-based. Spell save DC 17, spell attack +9. Prepares WIS mod + level = 21 spells daily from the full cleric list, plus domain spells always prepared. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 3 (5th), 1 (6th), 1 (7th), 1 (8th), 1 (9th, new at Cleric 17).
 - **War Caster (Ability Score Improvement, Cleric lvl 12):** advantage on Constitution saves to maintain concentration; can perform somatic components with weapons/shield in hand; can cast a spell (1-action casting time) as a reaction in place of an opportunity attack.
-  - Commonly prepared: *Bless, Command, Zone of Truth, Protection from Evil and Good, Dispel Magic, Remove Curse, Banishment, Dispel Evil and Good, **Guiding Bolt** (1st — ranged radiant spell attack, solid reliable damage at range), **Spiritual Weapon** (2nd — bonus action floating ranged weapon, good action economy), **Flame Strike** (5th — ranged column of fire and radiant damage, fits Thossia's judgment theme).*
+  - Commonly prepared: *Bless, Command, Zone of Truth, Protection from Evil and Good, Dispel Magic, Remove Curse, Banishment, Dispel Evil and Good, **Guiding Bolt** (1st — ranged radiant spell attack, solid reliable damage at range), **Spiritual Weapon** (2nd — bonus action floating ranged weapon, good action economy), **Hold Person** (2nd — added Session 44, paralyzes a humanoid on a failed WIS save, repeat save each turn; good control against a single dangerous target), **Flame Strike** (5th — ranged column of fire and radiant damage, fits Thossia's judgment theme).*
 - **Channel Divinity (2/short or long rest):** Turn Undead, and Path to the Grave (curse a creature within 30 ft — the next attack against it before the start of her next turn has advantage and scores a critical hit on any hit).
 - **Destroy Undead (lvl 14):** Turned undead of CR 3 or lower are instantly destroyed rather than merely turned.
 - **Divine Intervention** (lvl 10): can call on Thossia directly to intervene, once per long rest at this level (percentage chance based on cleric level).
@@ -77,10 +77,10 @@ A scholar-cleric of Thossia's order at the regional seat — the same city Raven
 Magistrate Kell corresponded with her twice on unrelated legal-religious matters and remembered her as someone who takes "infernal contract" as a literal category of scholarship. When his careful, detail-free letter arrived followed by Corwin Pell and two ledgers written in Infernal rather than cipher, she recognized immediately that this was the first real chance in her career to matter beyond the temple's walls — and took it without hesitation.
 
 ## Current Status
-- Conditions: none, untouched in both fights — the Auditor destroyed, Corlan's ship taken (Session 42)
+- Conditions: none — full long rest at the mountain keep, final night before departure, all resources refreshed (Session 44 close)
 - HP: 118 / 118 (full)
-- Spell slots: 3/4 1st (Bless), 3/3 2nd, 3/3 3rd, 3/3 4th, 3/3 5th, 1/1 6th, 1/1 7th, 1/1 8th, 0/1 9th (max-level Cure Wounds on Rurik)
-- Keeper of Souls: available (recharges each turn; not yet triggered again since the Auditor fell)
+- Spell slots: 4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 3/3 5th, 1/1 6th, 1/1 7th, 1/1 8th, 1/1 9th
+- Keeper of Souls: available (recharges each turn)
 - Channel Divinity: 2/2 available
 - **The Ledger's Eye, first tested on a living connection (Session 42):** confirmed Rurik's new count-sense as real and, so far, undetected — a working nobody had tried on something still alive before.
 - **Milestone level-up (Session 32, the full council):** Cleric 15 → 16 — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt, forging Corvane's alliance by free will, reaching all three sealed-site guardians at once, and setting a real plan in motion against Greywatch Keep. No new spell slots or Grave Domain feature this level — proficiency bonus holds at +5. Rolled +7 (d8) + CON mod 2, now **111 max**.

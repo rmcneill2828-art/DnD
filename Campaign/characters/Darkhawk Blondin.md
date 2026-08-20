@@ -132,10 +132,10 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 **Converging thread:** Independent investigation into the Circuit's hidden central hub (as opposed to its known satellite sites) points toward the foothills of the Greyhorn Range — the same mountains associated with Thundertree territory. Mountain clans have reportedly grown more closed-off over the same period suspicious land purchases began there. The Circuit's true heart and Darkhawk's own lost clan may be on a collision course.
 
 ## Current Status
-- Conditions: none — full party rest since Halloway's Reach, all resources refreshed for the day (Session 43)
-- HP: 176 / 176 (full — untouched in the Greyfeather ambush, road to Ravensmoor)
+- Conditions: none — full long rest at the mountain keep, final night before departure, all resources refreshed (Session 44 close)
+- HP: 176 / 176 (full)
 - Hit Dice: 14d12 + 4d10 (full)
-- Rages used: 1 / 4 today (Greyfeather ambush, road to Ravensmoor — Session 43)
+- Rages: 4 / 4 available
 - Second Wind: available
 - Action Surge: available
 - Stone's Endurance: available
