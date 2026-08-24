@@ -86,11 +86,11 @@ Nobody in Ravensmoor's fairground district knew her by anything but "the Spark" 
 Sael found her in an alley near the fairground's edge, approached with the same patient stillness she'd once wished someone had shown her, and told her the truth about her own years of isolation before asking anything in return. That honesty — and later, a direct, unflinching conversation with Rurik about the difference between raw ability and actual power (choice, freedom) — was enough to bring her in. A brief connection to all four sentinel guardians, arranged so she could feel firsthand that others had survived exactly this kind of fear, sealed it. She joined the party at Ravensmoor, chosen freely rather than recruited, on the promise that Urskelde deals in chaos and unpredictability rather than trying to file her power down into something safer and smaller.
 
 ## Current Status
-- Conditions: none — full long rest at the mountain keep, final night before departure, all resources refreshed (Session 44 close)
+- Conditions: none — mid-Session 48, after clearing the stone house's door detail
 - HP: 91 / 91 (full)
-- **Wild Magic Surge counter (Session 43 house rule): 0 consecutive non-surge casts** — reset by the long rest. Next natural roll surges only on a 1.
-- Sorcery points: 15/15
-- Spell slots: 4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th, 1/1 8th, 1/1 9th
+- **Wild Magic Surge counter: 0 consecutive non-surge casts** — surged mid-fight (Session 48, Chaos Bolt) and reset. Next natural roll surges only on a 1.
+- Sorcery points: 11/15 (2x Quickened Spell, stone house assault)
+- Spell slots: 2/4 1st (Chaos Bolt x2), 3/3 2nd, 2/3 3rd (Haste), 3/3 4th, 2/2 5th, 0/1 6th (Chain Lightning), 1/1 7th, 1/1 8th, 1/1 9th
 - Tides of Chaos: available
 - **Milestone level-up (Session 45, the full regional council):** Sorcerer 16 → 17 — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Proficiency bonus now **+6** (character level 17); gained a 9th-level spell slot (and an 8th-level slot corrected onto this sheet, previously missing) and a new spell known: **Meteor Swarm**. Rolled +6 (d6) + CON mod 3, now **91 max**.
 - **First real fight fully let loose (Session 42):** at Rurik's urging, dropped all restraint at the Cellarworks door — a thunderclap surge deafened the block on top of a full Fireball, exactly the chaos the plan called for. Rurik told her plainly afterward it was mastery, not luck — the first time anyone's framed her power that way. Days later, in the fight against the Auditor and the boarding action, no harmful surge landed either — three real fights running clean.

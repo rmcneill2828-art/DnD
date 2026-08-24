@@ -12,7 +12,7 @@
 
 ## Combat
 - **AC:** 17 (studded leather: 12 + DEX)
-- **HP:** 121 / 121
+- **HP:** 129 / 129
 - **Hit Dice:** 18d10
 - **Speed:** 30 ft (+10 ft on the first turn of combat via Dread Ambusher)
 - **Initiative bonus:** +9 (DEX +5, plus WIS +4 from Dread Ambusher)
@@ -94,9 +94,9 @@ A trapper and local guide who's worked the country around Kessick's Ford for yea
 What started as paid work became a real partnership, and — after Ravensmoor — something more. She's committed to standing with him at Thundertree when the time comes, whatever that costs either of them.
 
 ## Current Status
-- Conditions: none — full long rest at the mountain keep, final night before departure, all resources refreshed (Session 44 close)
+- Conditions: Blessed (Ysolde) — mid-Session 48, after clearing the stone house's door detail
 - HP: 129 / 129 (full)
-- Spell slots: 4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 1/1 5th
+- Spell slots: 3/4 1st (Hunter's Mark), 3/3 2nd, 3/3 3rd, 3/3 4th, 1/1 5th
 - Inspiration: no
 - **Milestone level-up (Session 45, the full regional council):** Ranger 18 → 19, taking an **Ability Score Improvement (+2 WIS, 16 → 18)** — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Rolled +7 (d10) + CON mod 1, now **129 max**.
 - **Milestone level-up (Session 32, the full council):** Ranger 16 → 17 — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt, forging Corvane's alliance by free will, reaching all three sealed-site guardians at once, and setting a real plan in motion against Greywatch Keep. **Proficiency bonus now +6** (character level 17); gained a 4th-level spell slot and her first 5th-level slot. Rolled +3 (d10) + CON mod 1, now **116 max**.

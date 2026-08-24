@@ -97,7 +97,7 @@
 - Hunting trap
 - An animal trophy from the mountains (flavor: a carved tusk or claw, last physical tie to a tribe he barely remembers)
 - Traveler's clothes
-- 1,000 gp (620 gp carried in + 40 gp from a forced strongbox + 340 gp from the road-battle shipment, Session 44, the mountain keep). Farmer's fire-tool commission still in progress, unpaid.
+- 1,062 gp (620 gp carried in + 40 gp from a forced strongbox + 340 gp from the road-battle shipment, Session 44, the mountain keep + 62 gp from the stone house's fallen guards, Session 48). Farmer's fire-tool commission still in progress, unpaid.
 - **A black-iron goliath spear** (Session 44, the mountain keep shipment) — exceptional craft, matches the broken spear head Sarna and Kell recovered near Urskelde. Thread unresolved.
 - **Family Restitution Fund: 788 gp** (1,240 gp − 452 gp paid to 11 verified claimants) — set aside separately from all other coin, sourced entirely from Duskgate's strongroom. **Policy set:** each verified claimant receives an individual payment now; whatever remains once all claims are in gets split evenly across every claimant. Two claims have been refused outright where the story didn't match the ledger; one claim was paid on judgment alone (Mara's and Darkhawk's read of the man, not the ledger, which had no record of him at all) — a reminder the ledger's silence isn't proof of anything. Still open-ended; more claimants may yet come.
 - A small collection of gemstones and mixed rings/bracelets from the strongroom, likewise earmarked for redistribution.
@@ -134,8 +134,11 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 **Converging thread:** Independent investigation into the Circuit's hidden central hub (as opposed to its known satellite sites) points toward the foothills of the Greyhorn Range — the same mountains associated with Thundertree territory. Mountain clans have reportedly grown more closed-off over the same period suspicious land purchases began there. The Circuit's true heart and Darkhawk's own lost clan may be on a collision course.
 
 ## Current Status
-- Conditions: none — full long rest at the mountain keep, final night before departure, all resources refreshed (Session 44 close)
-- HP: 176 / 176 (full)
+- Conditions: raging, still Hasted (Wren, fading soon) and Blessed (Ysolde) — mid-Session 48, after clearing the stone house's door detail
+- HP: 182 / 182 (full — Ysolde's Keeper of Souls topped him back up twice mid-fight)
+- Rages: 3 / 4 available (1 used, stone house assault)
+- Second Wind, Action Surge, Stone's Endurance, Superiority dice: all available, unused this fight
+- Notes: gold updated to 1,062 gp (see Equipment) after searching the stone house's fallen guards
 - Hit Dice: 14d12 + 4d10 (full)
 - Rages: 4 / 4 available
 - Second Wind: available

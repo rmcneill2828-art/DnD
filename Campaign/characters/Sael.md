@@ -46,7 +46,7 @@
 **Druid**
 - **Druidic:** knows the secret druidic language.
 - **Spellcasting:** Wisdom-based. Spell save DC 19, spell attack +11. Prepares spells daily (WIS mod + druid level = 22 prepared) from the full druid list. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 2 (5th), 1 (6th), 1 (7th), 1 (8th), 1 (9th).
-  - Commonly prepared: *Goodberry, Cure Wounds, Entangle, Pass without Trace, Barkskin, Speak with Animals, Conjure Animals, Spike Growth, Protection from Poison, Wind Wall, Locate Creature, Freedom of Movement, **Thunderwave** (1st — added Session 44, close-range thunder damage and a forced shove, good crowd control), **Moonbeam** (2nd — ranged radiant damage in an area, fitting for a Circle of the Moon druid, can be cast and sustained while Wild Shaped), **Call Lightning** (3rd — ranged lightning damage, repeatable each turn while concentrating).*
+  - Commonly prepared: *Goodberry, Cure Wounds, Entangle, Pass without Trace, Barkskin, Speak with Animals, Conjure Animals, Spike Growth, Protection from Poison, Wind Wall, Locate Creature, Freedom of Movement, **Thunderwave** (1st — added Session 44, close-range thunder damage and a forced shove, good crowd control), **Moonbeam** (2nd — ranged radiant damage in an area, fitting for a Circle of the Moon druid; RAW note, Session 48 — can be *sustained* while Wild Shaped via its bonus-action move, but casting it in the first place requires her own form, since Beast Spells doesn't unlock until Druid 18), **Call Lightning** (3rd — ranged lightning damage, repeatable each turn while concentrating).*
 - **Wild Shape** (lvl 2): see Combat, above.
 
 **Circle of the Moon**
@@ -79,10 +79,10 @@ A solitary bear-kin druid, part of an old, informal tradition rather than any or
 Rather than reveal herself, she chose to watch from a distance — telling herself it was to protect what the spirit had marked without her own shadow over his path, though she now admits some of it was simply not knowing how to explain any of it without sounding mad. She surfaced briefly and anonymously behind Old Harlan's Forge in Ravensmoor, and again at the Bear Cave — both times vanishing before she could be caught, until Darkhawk and Mara finally closed the distance on her in the Greyhorn foothills.
 
 ## Current Status
-- Conditions: none — full long rest at the mountain keep, final night before departure, all resources refreshed (Session 44 close)
+- Conditions: none, reverted to elf form — mid-Session 48, after clearing the stone house's door detail
 - HP: 113 / 113 (full)
-- Wild Shape: 2/2 available
-- Spell slots: 4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th, 1/1 8th, 1/1 9th
+- Wild Shape: 1/2 available (bear form, stone house assault)
+- Spell slots: 4/4 1st, 2/3 2nd (Moonbeam), 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th, 0/1 8th (Thunderwave, upcast), 1/1 9th
 - **Milestone level-up (Session 45, the full regional council):** Druid 16 → 17 — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Proficiency bonus now **+6** (character level 17); gained a 9th-level spell slot. Rolled +1 (d8) + CON mod 2, now **113 max**.
 - **Milestone level-up (Session 32, the full council):** Druid 14 → 15 — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt, forging Corvane's alliance by free will, reaching all three sealed-site guardians at once, and setting a real plan in motion against Greywatch Keep. No new class or Circle feature this level; gained an 8th-level spell slot, and Wild Shape's CR ceiling rose to 5. Rolled +8 (d8) + CON mod 2, now **101 max**.
 - **Milestone level-up (Session 42, Halloway's Reach):** Druid 15 → 16 — earned alongside the rest of the party for securing Halloway's Reach and closing a third account (the freed courier) in front of witnesses. Ability Score Improvement slot taken as **War Caster** instead (WIS already at the 20 cap). No new Circle of the Moon feature or spell slot change at this level. Rolled +7 (d8) + CON mod 2, now **110 max**.

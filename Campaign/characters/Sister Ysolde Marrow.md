@@ -77,9 +77,9 @@ A scholar-cleric of Thossia's order at the regional seat — the same city Raven
 Magistrate Kell corresponded with her twice on unrelated legal-religious matters and remembered her as someone who takes "infernal contract" as a literal category of scholarship. When his careful, detail-free letter arrived followed by Corwin Pell and two ledgers written in Infernal rather than cipher, she recognized immediately that this was the first real chance in her career to matter beyond the temple's walls — and took it without hesitation.
 
 ## Current Status
-- Conditions: none — full long rest at the mountain keep, final night before departure, all resources refreshed (Session 44 close)
+- Conditions: none — mid-Session 48, after clearing the stone house's door detail
 - HP: 121 / 121 (full)
-- Spell slots: 4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 3/3 5th, 1/1 6th, 1/1 7th, 1/1 8th, 1/1 9th
+- Spell slots: 1/4 1st (Bless, Guiding Bolt x2), 3/3 2nd, 3/3 3rd, 3/3 4th, 2/3 5th (Flame Strike), 1/1 6th, 1/1 7th, 1/1 8th, 1/1 9th
 - Keeper of Souls: available (recharges each turn)
 - Channel Divinity: 3/3 available
 - **Milestone level-up (Session 45, the full regional council):** Cleric 17 → 18 — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Gained a third **Channel Divinity** use. Rolled +1 (d8) + CON mod 2, now **121 max**.
