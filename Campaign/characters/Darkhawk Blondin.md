@@ -77,7 +77,7 @@
 **Fighter (multiclass, 3 levels — Battle Master)**
 - **Second Wind**: bonus action, regain 1d10+2 HP. Once per short/long rest.
 - **Fighting Style: Protection** — reaction, when a creature you can see attacks a target other than you that's within 5 ft of you, impose disadvantage on that attack roll. **Usable again as of Session 44** — Perrin and Greta built a new sky-iron shield ahead of the mountain keep expedition.
-- **Action Surge** (lvl 2): once per short/long rest, take one additional action on your turn. With dual-wielding, effectively doubles a turn's attacks (main-hand, off-hand, main-hand, off-hand).
+- **Action Surge** (lvl 2): once per short/long rest, take one additional action on your turn — effectively another full Attack action's worth of swings. (Note, Session 48: with the current sword-and-shield loadout that's two more main-hand hits, not the old dual-wield main/off-hand doubling; flip back to two longswords and the doubling returns.)
 - **Martial Archetype: Battle Master (lvl 3)** — **Combat Superiority**: 4 superiority dice (d8), regained on a short/long rest. Three maneuvers known:
   - *Trip Attack*: on a hit, spend a superiority die to add the die to damage and force a Strength save or the target falls prone.
   - *Disarming Attack*: on a hit, spend a superiority die to add the die to damage and force a Strength save or the target drops one item of your choice it's holding.

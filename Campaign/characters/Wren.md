@@ -41,8 +41,8 @@ Not a melee fighter — relies entirely on spellcasting and Wild Magic. Carries 
 
 **Sorcerer**
 - **Spellcasting:** Charisma-based. Spell save DC 19, spell attack +11. Knows spells (doesn't prepare) — 6 cantrips, 16 spells known. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 2 (5th), 1 (6th), 1 (7th), 1 (8th, previously missing from this sheet — corrected Session 45), 1 (9th, new).
-- **Font of Magic:** 15 sorcery points. Can convert sorcery points to spell slots and vice versa (Flexible Casting).
-- **Metamagic (3 known):** *Quickened Spell* (2 pts — cast a normal-action spell as a bonus action), *Twinned Spell* (varies — target a second creature with a single-target spell), *Careful Spell* (1 pt — chosen creatures automatically succeed on the spell's save).
+- **Font of Magic:** 17 sorcery points (RAW fix, Session 48 — equals sorcerer level; sheet had been stuck at 15 since before her Session 45 level-up to 17th). Can convert sorcery points to spell slots and vice versa (Flexible Casting).
+- **Metamagic (4 known):** *Quickened Spell* (2 pts — cast a normal-action spell as a bonus action), *Twinned Spell* (varies — target a second creature with a single-target spell), *Careful Spell* (1 pt — chosen creatures automatically succeed on the spell's save), **Sculpt Spell** (1 pt — added Session 48, RAW fix for the 4th option owed at 17th level; when casting a spell that affects other creatures in an area, up to 3 creatures of her choice automatically succeed on the save and take no damage if they would've taken half on a success — built for exactly the friendly-fire problem the party kept navigating around at the stone house).
 
 **Wild Magic (Sorcerous Origin)**
 - **Wild Magic Surge:** after casting a sorcerer spell of 1st level or higher, the DM can have Wren roll on the Wild Magic Surge table (1-in-20 chance per cast). Effects are random, often chaotic, occasionally spectacular — this is the whole point of her.
@@ -89,7 +89,7 @@ Sael found her in an alley near the fairground's edge, approached with the same 
 - Conditions: none — mid-Session 48, after clearing the stone house's door detail
 - HP: 91 / 91 (full)
 - **Wild Magic Surge counter: 0 consecutive non-surge casts** — surged mid-fight (Session 48, Chaos Bolt) and reset. Next natural roll surges only on a 1.
-- Sorcery points: 11/15 (2x Quickened Spell, stone house assault)
+- Sorcery points: 13/17 (2x Quickened Spell, stone house assault)
 - Spell slots: 2/4 1st (Chaos Bolt x2), 3/3 2nd, 2/3 3rd (Haste), 3/3 4th, 2/2 5th, 0/1 6th (Chain Lightning), 1/1 7th, 1/1 8th, 1/1 9th
 - Tides of Chaos: available
 - **Milestone level-up (Session 45, the full regional council):** Sorcerer 16 → 17 — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Proficiency bonus now **+6** (character level 17); gained a 9th-level spell slot (and an 8th-level slot corrected onto this sheet, previously missing) and a new spell known: **Meteor Swarm**. Rolled +6 (d6) + CON mod 3, now **91 max**.

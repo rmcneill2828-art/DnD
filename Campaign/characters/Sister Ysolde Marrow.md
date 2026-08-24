@@ -48,7 +48,8 @@ Not a frontline fighter by her own admission — her value is spellcasting, ward
 - **Domain spells (always prepared):** *Bane, False Life, Gentle Repose, Ray of Enfeeblement, Revivify, Vampiric Touch, Death Ward, Blight, Antilife Shell, Raise Dead.*
 - **Circle of Mortality:** when healing a creature at 0 HP, healing dice are treated as rolling their maximum.
 - **Eyes of the Grave:** can sense undead within 60 ft as an action, a limited number of times per day.
-- **Sentinel at Death's Door** (lvl 8): a limited number of times per day, can turn a critical hit against a creature within 30 ft into a normal hit.
+- **Sentinel at Death's Door** (lvl 6): a limited number of times per day, can turn a critical hit against a creature within 30 ft into a normal hit.
+- **Divine Strike** (lvl 8, RAW fix — Session 48, missing from the sheet entirely): once on each of her turns when she hits a creature with a weapon attack, deals an extra **2d8 necrotic damage** to the target (1d8 before 14th level; she's past that threshold, so the higher die applies).
 - **Keeper of Souls (lvl 17, Session 42, confirmed):** when an enemy she can see dies within 60 ft of her, she or one creature of her choice within 60 ft regains HP equal to that enemy's number of Hit Dice (not its full HP total). No action required; usable only if she isn't incapacitated; recharges at the start of her next turn (not tied to a rest).
 
 > **DM quick-check on every enemy death within 60 ft of Ysolde: trigger Keeper of Souls automatically (free, no action) unless already used this turn — don't wait to be asked. Also check Circle of Mortality (max healing dice) whenever she heals a creature at exactly 0 HP, and remember War Caster's concentration-save advantage applies to every CON save she rolls, not just some.**
