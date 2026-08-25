@@ -87,11 +87,11 @@ Nobody in Ravensmoor's fairground district knew her by anything but "the Spark" 
 Sael found her in an alley near the fairground's edge, approached with the same patient stillness she'd once wished someone had shown her, and told her the truth about her own years of isolation before asking anything in return. That honesty — and later, a direct, unflinching conversation with Rurik about the difference between raw ability and actual power (choice, freedom) — was enough to bring her in. A brief connection to all four sentinel guardians, arranged so she could feel firsthand that others had survived exactly this kind of fear, sealed it. She joined the party at Ravensmoor, chosen freely rather than recruited, on the promise that Urskelde deals in chaos and unpredictability rather than trying to file her power down into something safer and smaller.
 
 ## Current Status
-- Conditions: none — mid-Session 49, scouting the Ember Court's upper terrace from cover
-- HP: 95 / 95 (full)
-- **Wild Magic Surge counter: 1 consecutive non-surge cast** (Chaos Bolt vs the Bone Devil, no surge). Next natural roll surges only on a 1.
-- Sorcery points: 17/17 (full — sorcery points don't recover on a short rest, but the long rest since restored them)
-- Spell slots: 4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th, 1/1 8th, 1/1 9th (all restored)
+- Conditions: none — mid-Session 49, deep in the Ember Court's inner chambers after the Warden's defeat
+- HP: 95 / 95 (full — no damage taken in the Warden fight)
+- **Wild Magic Surge counter: 6 consecutive non-surge casts** (Haste x2, Prismatic Spray, Chain Lightning, Chaos Bolt, all checked individually this fight — no surge). Next natural roll surges only on a 1.
+- Sorcery points: 12/17
+- Spell slots: 3/4 1st (Chaos Bolt), 3/3 2nd, 1/3 3rd (Haste x2), 3/3 4th, 2/2 5th, 0/1 6th (Chain Lightning), 0/1 7th (Prismatic Spray), 1/1 8th, 1/1 9th
 - Tides of Chaos: available
 - **Milestone level-up (Session 48, the coastal town's stone house):** Sorcerer 17 → 18 — earned alongside the rest of the party for the Keeper's destruction, the stone house's captives freed, and Malphestor's redemption breakthrough. Proficiency bonus stays **+6** (character level 18). Gained **Spell Bombardment**. Rolled +1 (d6) + CON mod 3, now **95 max**.
 - **Milestone level-up (Session 45, the full regional council):** Sorcerer 16 → 17 — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Proficiency bonus now **+6** (character level 17); gained a 9th-level spell slot (and an 8th-level slot corrected onto this sheet, previously missing) and a new spell known: **Meteor Swarm**. Rolled +6 (d6) + CON mod 3, now **91 max**.

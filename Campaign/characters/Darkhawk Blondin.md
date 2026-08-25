@@ -98,11 +98,14 @@
 - Hunting trap
 - An animal trophy from the mountains (flavor: a carved tusk or claw, last physical tie to a tribe he barely remembers)
 - Traveler's clothes
-- 1,356 gp (620 gp carried in + 40 gp from a forced strongbox + 340 gp from the road-battle shipment, Session 44, the mountain keep + 62 gp from the stone house's fallen guards + 84 gp from the Keeper's dais wreckage + 210 gp from its private study's strongbox, Session 48). Farmer's fire-tool commission still in progress, unpaid.
+- 1,696 gp (620 gp carried in + 40 gp from a forced strongbox + 340 gp from the road-battle shipment, Session 44, the mountain keep + 62 gp from the stone house's fallen guards + 84 gp from the Keeper's dais wreckage + 210 gp from its private study's strongbox, Session 48 + 340 gp from the Warden's dais strongbox, Session 49). Farmer's fire-tool commission still in progress, unpaid.
+- **A case of uncut rubies** (Session 49, the Warden's dais) — unappraised.
 - **A pouch of uncut gemstones** (Session 48, the Keeper's private study) — unappraised, from the same strongbox as the 210 gp.
 - **A dozen-odd crystallized soul-shard fragments** (Session 48, the Keeper's dais) — the same tribute-currency the party's seen before, cold and faintly humming.
 - **Osgood Farrow's ledger** (Session 48, the Keeper's private study) — the Keeper's own diary, written before whatever Kathrivex did to him: an honest factor's clerk, decades ago, kept rather than paid after "one reckoning too many." Same shape as Edmund Vale's inherited Warden title — the role consumes whoever holds it, not a person choosing evil.
 - **A hand-drawn route chart to the Ember Court** (Session 48, the Keeper's private study) — sea-stained but intact, marked at its end with a burned-orange wax seal shaped like a court in flame. The first real, physical route the party's had to the devil holding the tribute debt Vessa referenced.
+- **The Warden's quill-blade** (Session 49, the Ember Court) — dark iron, untested, recovered intact from the Warden's own ashes after its death. Clearly not an ordinary tool given what it did in a fight; needs proper identification.
+- **The Warden's own chained ledger** (Session 49) — secured by Ysolde, not carried by Rurik. Corroborates Malphestor's theft claim independently and names a new, unplaced authority above the Warden's own chain of command: "the Court Above."
 - **A black-iron goliath spear** (Session 44, the mountain keep shipment) — exceptional craft, matches the broken spear head Sarna and Kell recovered near Urskelde. Thread unresolved.
 - **Family Restitution Fund: 788 gp** (1,240 gp − 452 gp paid to 11 verified claimants) — set aside separately from all other coin, sourced entirely from Duskgate's strongroom. **Policy set:** each verified claimant receives an individual payment now; whatever remains once all claims are in gets split evenly across every claimant. Two claims have been refused outright where the story didn't match the ledger; one claim was paid on judgment alone (Mara's and Darkhawk's read of the man, not the ledger, which had no record of him at all) — a reminder the ledger's silence isn't proof of anything. Still open-ended; more claimants may yet come.
 - A small collection of gemstones and mixed rings/bracelets from the strongroom, likewise earmarked for redistribution.
@@ -139,9 +142,9 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 **Converging thread:** Independent investigation into the Circuit's hidden central hub (as opposed to its known satellite sites) points toward the foothills of the Greyhorn Range — the same mountains associated with Thundertree territory. Mountain clans have reportedly grown more closed-off over the same period suspicious land purchases began there. The Circuit's true heart and Darkhawk's own lost clan may be on a collision course.
 
 ## Current Status
-- Conditions: none active — mid-Session 49, scouting the Ember Court's upper terrace from cover, Pass without Trace still up
-- HP: 189 / 189 (full)
-- Rages: 4/4, Second Wind, Action Surge, Stone's Endurance, Superiority dice, Helm's crit-insurance — all available
+- Conditions: raging (Persistent Rage, hasn't dropped), Hasted (Wren), Blessed (Ysolde, though she's since left the group) — mid-Session 49, deep in the Ember Court's inner chambers with Mara, Sael, and Wren after the Warden's defeat and Voss's rescue, Pass without Trace up again
+- HP: 183 / 189
+- Rages: 3/4 available (1 used, this fight). Action Surge: used (needs a rest). Second Wind, Stone's Endurance, Superiority dice, Helm's crit-insurance: all still available.
 - Inspiration: spent (burned on a disarm attempt against the shield-wall guards; DM owes a fresh one for good roleplay when it comes up)
 - **The count, newly felt (Session 42):** since reaching into the destroyed construct's thread (Session 41), a passive sense of Kathrivex's ledger moving — not numbers, a feeling, answerable only when he concentrates on it. Protected by the bear-spirit's standing ward against hostile scrying/tracking. Confirmed by Ysolde's Ledger's Eye as real and (so far) undetected. Sharpens with proximity — nearly overwhelming at Halloway's Reach's central conduit.
 - **Kethrun's tuning — a local wrongness-sense (Session 42):** at Rurik's request, Kethrun reshaped the count-sense into a "lantern in fog" tuned specifically to Halloway's Reach — weaker than the network's true sealed-site sensing, but able to flag anything in the town carrying Kathrivex's particular wrongness, fixed or moving, without needing to reach for the ledger itself. First use caught the courier's presence directly. Kethrun's caution: it shows shapes, not always true detail — a warning, not certainty.

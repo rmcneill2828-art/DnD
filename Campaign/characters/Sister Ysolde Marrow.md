@@ -79,10 +79,10 @@ A scholar-cleric of Thossia's order at the regional seat — the same city Raven
 Magistrate Kell corresponded with her twice on unrelated legal-religious matters and remembered her as someone who takes "infernal contract" as a literal category of scholarship. When his careful, detail-free letter arrived followed by Corwin Pell and two ledgers written in Infernal rather than cipher, she recognized immediately that this was the first real chance in her career to matter beyond the temple's walls — and took it without hesitation.
 
 ## Current Status
-- Conditions: none — mid-Session 49, scouting the Ember Court's upper terrace from cover
+- Conditions: none — mid-Session 49, separated from the rest of the party, escorting a freed Aldren Voss back to Corren's Landing
 - HP: 129 / 129 (full)
-- Spell slots: 4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 3/3 5th, 1/1 6th, 1/1 7th, 1/1 8th, 1/1 9th (all restored)
-- Keeper of Souls: available (recharges each turn)
+- Spell slots: 3/4 1st (Bless), 2/3 2nd (Cure Wounds on Voss), 2/3 3rd (Banishment), 2/3 4th (Cure Wounds on Sael), 3/3 5th, 0/1 6th (Heal), 1/1 7th, 1/1 8th, 1/1 9th
+- Keeper of Souls: available (recharges each turn) — triggered three times this fight (Bearded Devil E, Bearded Devil D, the Warden itself)
 - Channel Divinity: 3/3 available
 - **Milestone level-up (Session 48, the coastal town's stone house):** Cleric 18 → 19, taking **Resilient (Constitution)** as her ASI — earned alongside the rest of the party for the Keeper's destruction, the stone house's captives freed, and Malphestor's redemption breakthrough. Proficiency bonus stays **+6** (character level 19). Rolled +6 (d8) + CON mod 2, now **129 max**.
 - **Milestone level-up (Session 45, the full regional council):** Cleric 17 → 18 — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Gained a third **Channel Divinity** use. Rolled +1 (d8) + CON mod 2, now **121 max**.
