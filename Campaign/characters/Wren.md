@@ -87,7 +87,7 @@ Nobody in Ravensmoor's fairground district knew her by anything but "the Spark" 
 Sael found her in an alley near the fairground's edge, approached with the same patient stillness she'd once wished someone had shown her, and told her the truth about her own years of isolation before asking anything in return. That honesty — and later, a direct, unflinching conversation with Rurik about the difference between raw ability and actual power (choice, freedom) — was enough to bring her in. A brief connection to all four sentinel guardians, arranged so she could feel firsthand that others had survived exactly this kind of fear, sealed it. She joined the party at Ravensmoor, chosen freely rather than recruited, on the promise that Urskelde deals in chaos and unpredictability rather than trying to file her power down into something safer and smaller.
 
 ## Current Status
-- Conditions: none — mid-Session 49, deep in the Ember Court's inner chambers after the Warden's defeat
+- Conditions: none — end of Session 49, back at Corren's Landing, fully regrouped
 - HP: 95 / 95 (full — no damage taken in the Warden fight)
 - **Wild Magic Surge counter: 6 consecutive non-surge casts** (Haste x2, Prismatic Spray, Chain Lightning, Chaos Bolt, all checked individually this fight — no surge). Next natural roll surges only on a 1.
 - Sorcery points: 12/17

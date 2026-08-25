@@ -79,7 +79,7 @@ A scholar-cleric of Thossia's order at the regional seat — the same city Raven
 Magistrate Kell corresponded with her twice on unrelated legal-religious matters and remembered her as someone who takes "infernal contract" as a literal category of scholarship. When his careful, detail-free letter arrived followed by Corwin Pell and two ledgers written in Infernal rather than cipher, she recognized immediately that this was the first real chance in her career to matter beyond the temple's walls — and took it without hesitation.
 
 ## Current Status
-- Conditions: none — mid-Session 49, separated from the rest of the party, escorting a freed Aldren Voss back to Corren's Landing
+- Conditions: none — end of Session 49, back at Corren's Landing, fully regrouped with the rest of the party
 - HP: 129 / 129 (full)
 - Spell slots: 3/4 1st (Bless), 2/3 2nd (Cure Wounds on Voss), 2/3 3rd (Banishment), 2/3 4th (Cure Wounds on Sael), 3/3 5th, 0/1 6th (Heal), 1/1 7th, 1/1 8th, 1/1 9th
 - Keeper of Souls: available (recharges each turn) — triggered three times this fight (Bearded Devil E, Bearded Devil D, the Warden itself)

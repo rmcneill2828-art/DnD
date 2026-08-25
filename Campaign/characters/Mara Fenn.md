@@ -95,7 +95,7 @@ A trapper and local guide who's worked the country around Kessick's Ford for yea
 What started as paid work became a real partnership, and — after Ravensmoor — something more. She's committed to standing with him at Thundertree when the time comes, whatever that costs either of them.
 
 ## Current Status
-- Conditions: none active — mid-Session 49, deep in the Ember Court's inner chambers after the Warden's defeat, Pass without Trace up again (recast — the conjured wolves dispersed when concentration shifted, their job already done)
+- Conditions: none active — end of Session 49, back at Corren's Landing, fully regrouped
 - HP: 71 / 140
 - Spell slots: 1/4 1st (Hunter's Mark, Primeval Awareness, Hunter's Mark again), 0/3 2nd (Pass without Trace x2), 3/3 3rd, 3/3 4th, 0/1 5th (Conjure Animals)
 - Deep Water's Stillness: spent (once per long rest)

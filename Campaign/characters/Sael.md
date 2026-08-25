@@ -80,7 +80,7 @@ A solitary bear-kin druid, part of an old, informal tradition rather than any or
 Rather than reveal herself, she chose to watch from a distance — telling herself it was to protect what the spirit had marked without her own shadow over his path, though she now admits some of it was simply not knowing how to explain any of it without sounding mad. She surfaced briefly and anonymously behind Old Harlan's Forge in Ravensmoor, and again at the Bear Cave — both times vanishing before she could be caught, until Darkhawk and Mara finally closed the distance on her in the Greyhorn foothills.
 
 ## Current Status
-- Conditions: elf form (reverted mid-fight when the triceratops pool was overwhelmed), poisoned — mid-Session 49, deep in the Ember Court's inner chambers after the Warden's defeat
+- Conditions: elf form, no longer poisoned — end of Session 49, back at Corren's Landing, fully regrouped
 - HP: 105 / 122
 - Wild Shape: 0/2 available (needs a rest)
 - Spell slots: 4/4 1st, 2/3 2nd (Moonbeam), 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th, 1/1 8th, 1/1 9th

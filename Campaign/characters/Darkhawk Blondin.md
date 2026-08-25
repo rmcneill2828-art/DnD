@@ -98,8 +98,12 @@
 - Hunting trap
 - An animal trophy from the mountains (flavor: a carved tusk or claw, last physical tie to a tribe he barely remembers)
 - Traveler's clothes
-- 1,696 gp (620 gp carried in + 40 gp from a forced strongbox + 340 gp from the road-battle shipment, Session 44, the mountain keep + 62 gp from the stone house's fallen guards + 84 gp from the Keeper's dais wreckage + 210 gp from its private study's strongbox, Session 48 + 340 gp from the Warden's dais strongbox, Session 49). Farmer's fire-tool commission still in progress, unpaid.
+- 2,176 gp (620 gp carried in + 40 gp from a forced strongbox + 340 gp from the road-battle shipment, Session 44, the mountain keep + 62 gp from the stone house's fallen guards + 84 gp from the Keeper's dais wreckage + 210 gp from its private study's strongbox, Session 48 + 340 gp from the Warden's dais strongbox + 480 gp from Ashworn's office coffer, Session 49). Farmer's fire-tool commission still in progress, unpaid.
 - **A case of uncut rubies** (Session 49, the Warden's dais) — unappraised.
+- **Fire-touched black opals** (Session 49, Ashworn's office) — unappraised.
+- **A regional accounting of the Court Above's tribute network** (Session 49) — lists active sites the party never knew existed, alongside the mountain keep (marked "lapsed, unrecovered") and Corren's Landing (marked "lapsed, contested").
+- **A terrain sketch of the burned court** (Session 49, Ashworn's office) — rough, marked "don't go alone" in a second hand. The first real lead on the burned court's location: inland, east of the Ember Court.
+- **A Sending Stone** (Session 49, Ashworn's office) — one of a matched pair, likely left deliberately as a direct channel to Ashworn. Once per day, speak a short message to whoever holds the other stone.
 - **A pouch of uncut gemstones** (Session 48, the Keeper's private study) — unappraised, from the same strongbox as the 210 gp.
 - **A dozen-odd crystallized soul-shard fragments** (Session 48, the Keeper's dais) — the same tribute-currency the party's seen before, cold and faintly humming.
 - **Osgood Farrow's ledger** (Session 48, the Keeper's private study) — the Keeper's own diary, written before whatever Kathrivex did to him: an honest factor's clerk, decades ago, kept rather than paid after "one reckoning too many." Same shape as Edmund Vale's inherited Warden title — the role consumes whoever holds it, not a person choosing evil.
@@ -142,9 +146,9 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 **Converging thread:** Independent investigation into the Circuit's hidden central hub (as opposed to its known satellite sites) points toward the foothills of the Greyhorn Range — the same mountains associated with Thundertree territory. Mountain clans have reportedly grown more closed-off over the same period suspicious land purchases began there. The Circuit's true heart and Darkhawk's own lost clan may be on a collision course.
 
 ## Current Status
-- Conditions: raging (Persistent Rage, hasn't dropped), Hasted (Wren), Blessed (Ysolde, though she's since left the group) — mid-Session 49, deep in the Ember Court's inner chambers with Mara, Sael, and Wren after the Warden's defeat and Voss's rescue, Pass without Trace up again
+- Conditions: none active — end of Session 49, back at Corren's Landing, fully regrouped with Ysolde and Voss, rage let go
 - HP: 183 / 189
-- Rages: 3/4 available (1 used, this fight). Action Surge: used (needs a rest). Second Wind, Stone's Endurance, Superiority dice, Helm's crit-insurance: all still available.
+- Rages: 3/4 available. Action Surge: used (needs a rest). Second Wind, Stone's Endurance, Superiority dice, Helm's crit-insurance: all still available.
 - Inspiration: spent (burned on a disarm attempt against the shield-wall guards; DM owes a fresh one for good roleplay when it comes up)
 - **The count, newly felt (Session 42):** since reaching into the destroyed construct's thread (Session 41), a passive sense of Kathrivex's ledger moving — not numbers, a feeling, answerable only when he concentrates on it. Protected by the bear-spirit's standing ward against hostile scrying/tracking. Confirmed by Ysolde's Ledger's Eye as real and (so far) undetected. Sharpens with proximity — nearly overwhelming at Halloway's Reach's central conduit.
 - **Kethrun's tuning — a local wrongness-sense (Session 42):** at Rurik's request, Kethrun reshaped the count-sense into a "lantern in fog" tuned specifically to Halloway's Reach — weaker than the network's true sealed-site sensing, but able to flag anything in the town carrying Kathrivex's particular wrongness, fixed or moving, without needing to reach for the ledger itself. First use caught the courier's presence directly. Kethrun's caution: it shows shapes, not always true detail — a warning, not certainty.
