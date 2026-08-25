@@ -79,9 +79,9 @@ A scholar-cleric of Thossia's order at the regional seat — the same city Raven
 Magistrate Kell corresponded with her twice on unrelated legal-religious matters and remembered her as someone who takes "infernal contract" as a literal category of scholarship. When his careful, detail-free letter arrived followed by Corwin Pell and two ledgers written in Infernal rather than cipher, she recognized immediately that this was the first real chance in her career to matter beyond the temple's walls — and took it without hesitation.
 
 ## Current Status
-- Conditions: none — mid-Session 48, after the Keeper's death and Malphestor's redemption breakthrough
-- HP: 129 / 129 (full — 30 HP from her own Keeper of Souls trigger on the Keeper's death)
-- Spell slots: 0/4 1st (Bless, Guiding Bolt x2, Command), 3/3 2nd, 3/3 3rd, 3/3 4th, 2/3 5th, 1/1 6th, 1/1 7th, 1/1 8th, 1/1 9th
+- Conditions: none — end of Session 48/49, camped just out of range of the Ember Court after a full long rest
+- HP: 129 / 129 (full)
+- Spell slots: 4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 3/3 5th, 1/1 6th, 1/1 7th, 1/1 8th, 1/1 9th (all restored)
 - Keeper of Souls: available (recharges each turn)
 - Channel Divinity: 3/3 available
 - **Milestone level-up (Session 48, the coastal town's stone house):** Cleric 18 → 19, taking **Resilient (Constitution)** as her ASI — earned alongside the rest of the party for the Keeper's destruction, the stone house's captives freed, and Malphestor's redemption breakthrough. Proficiency bonus stays **+6** (character level 19). Rolled +6 (d8) + CON mod 2, now **129 max**.

@@ -95,9 +95,9 @@ A trapper and local guide who's worked the country around Kessick's Ford for yea
 What started as paid work became a real partnership, and — after Ravensmoor — something more. She's committed to standing with him at Thundertree when the time comes, whatever that costs either of them.
 
 ## Current Status
-- Conditions: none active — Bless long since lapsed, Hunter's Mark ended with the Keeper's death, mid-Session 48, after the coastal town's stone house resolved into Malphestor's redemption breakthrough
-- HP: 140 / 140 (full — no damage taken in the Keeper fight)
-- Spell slots: 2/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 1/1 5th
+- Conditions: none active — end of Session 48/49, camped just out of range of the Ember Court after a full long rest
+- HP: 140 / 140 (full)
+- Spell slots: 4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 1/1 5th (all restored)
 - Inspiration: no
 - **Milestone level-up (Session 48, the coastal town's stone house):** Ranger 19 → 20 — earned alongside the rest of the party for the Keeper's destruction, the stone house's captives freed, and Malphestor's redemption breakthrough. Character level 20 — **max** for her class; proficiency bonus stays +6. Gained **Foe Slayer**. Rolled +10 (d10) + CON mod 1, now **140 max**.
 - **Milestone level-up (Session 45, the full regional council):** Ranger 18 → 19, taking an **Ability Score Improvement (+2 WIS, 16 → 18)** — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Rolled +7 (d10) + CON mod 1, now **129 max**.

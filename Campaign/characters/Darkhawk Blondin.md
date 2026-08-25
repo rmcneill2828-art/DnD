@@ -139,14 +139,9 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 **Converging thread:** Independent investigation into the Circuit's hidden central hub (as opposed to its known satellite sites) points toward the foothills of the Greyhorn Range — the same mountains associated with Thundertree territory. Mountain clans have reportedly grown more closed-off over the same period suspicious land purchases began there. The Circuit's true heart and Darkhawk's own lost clan may be on a collision course.
 
 ## Current Status
-- Conditions: none active — rage let go, Haste and Bless both long since lapsed, mid-Session 48, after the Keeper's death and the coastal town's stone house resolving into Malphestor's redemption breakthrough
-- HP: 155 / 189 (no rest taken yet since the Keeper fight)
-- Rages: 3 / 4 available (1 used, stone house door assault; never dropped and re-entered during the Keeper fight thanks to Persistent Rage)
-- Second Wind: available (unused)
-- Action Surge: used (needs a rest)
-- Stone's Endurance: used (needs a rest)
-- Superiority dice: 4/4, untouched
-- Helm's crit-insurance: available
+- Conditions: none active — end of Session 48/49, camped just out of range of the Ember Court after a full long rest, order set for the vent approach (Rurik first, then Ysolde, Sael, Wren, Mara)
+- HP: 189 / 189 (full)
+- Rages: 4/4, Second Wind, Action Surge, Stone's Endurance, Superiority dice, Helm's crit-insurance — all available
 - Inspiration: spent (burned on a disarm attempt against the shield-wall guards; DM owes a fresh one for good roleplay when it comes up)
 - **The count, newly felt (Session 42):** since reaching into the destroyed construct's thread (Session 41), a passive sense of Kathrivex's ledger moving — not numbers, a feeling, answerable only when he concentrates on it. Protected by the bear-spirit's standing ward against hostile scrying/tracking. Confirmed by Ysolde's Ledger's Eye as real and (so far) undetected. Sharpens with proximity — nearly overwhelming at Halloway's Reach's central conduit.
 - **Kethrun's tuning — a local wrongness-sense (Session 42):** at Rurik's request, Kethrun reshaped the count-sense into a "lantern in fog" tuned specifically to Halloway's Reach — weaker than the network's true sealed-site sensing, but able to flag anything in the town carrying Kathrivex's particular wrongness, fixed or moving, without needing to reach for the ledger itself. First use caught the courier's presence directly. Kethrun's caution: it shows shapes, not always true detail — a warning, not certainty.
