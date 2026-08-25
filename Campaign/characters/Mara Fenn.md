@@ -1,7 +1,7 @@
 # Mara Fenn
 
 **Race:** Human
-**Class & Level:** Ranger 19 (Gloom Stalker)
+**Class & Level:** Ranger 20 (Gloom Stalker)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
@@ -12,12 +12,12 @@
 
 ## Combat
 - **AC:** 17 (studded leather: 12 + DEX)
-- **HP:** 129 / 129
-- **Hit Dice:** 18d10
+- **HP:** 140 / 140
+- **Hit Dice:** 20d10
 - **Speed:** 30 ft (+10 ft on the first turn of combat via Dread Ambusher)
 - **Initiative bonus:** +9 (DEX +5, plus WIS +4 from Dread Ambusher)
 - **Passive Perception:** 20
-- **Proficiency bonus:** +6 (character level 19)
+- **Proficiency bonus:** +6 (character level 20 — max)
 
 ### Attacks
 Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into the numbers below).
@@ -58,6 +58,7 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 - **Land's Stride (lvl 8):** moving through nonmagical difficult terrain costs no extra movement; ignores harmful effects of magical plants unless she chooses not to.
 - **3rd-level spell slots (lvl 9)** and **Hide in Plain Sight (lvl 10)**: with 1 minute undisturbed, can camouflage and become very hard to detect (+10 Stealth) while remaining perfectly still, breaking on movement or an attack.
 - **Vanish (lvl 14):** can take the Hide action as a bonus action. Can't be tracked by nonmagical means unless she chooses to leave a trail.
+- **Foe Slayer (lvl 20, Session 48/49):** once per turn, add her Wisdom modifier (+4) to the attack roll or the damage roll of an attack against a favored enemy — choosable before or after the roll, but before its effects apply.
 - **Shadowy Dodge (lvl 15, Gloom Stalker):** when a creature she can see attacks her, can use her reaction to impose disadvantage on that attack roll.
 
 **Gloom Stalker (Ranger Archetype)**
@@ -94,10 +95,11 @@ A trapper and local guide who's worked the country around Kessick's Ford for yea
 What started as paid work became a real partnership, and — after Ravensmoor — something more. She's committed to standing with him at Thundertree when the time comes, whatever that costs either of them.
 
 ## Current Status
-- Conditions: Blessed (Ysolde) — mid-Session 48, after clearing the stone house's door detail
-- HP: 129 / 129 (full)
-- Spell slots: 3/4 1st (Hunter's Mark), 3/3 2nd, 3/3 3rd, 3/3 4th, 1/1 5th
+- Conditions: none active — Bless long since lapsed, Hunter's Mark ended with the Keeper's death, mid-Session 48, after the coastal town's stone house resolved into Malphestor's redemption breakthrough
+- HP: 140 / 140 (full — no damage taken in the Keeper fight)
+- Spell slots: 2/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 1/1 5th
 - Inspiration: no
+- **Milestone level-up (Session 48, the coastal town's stone house):** Ranger 19 → 20 — earned alongside the rest of the party for the Keeper's destruction, the stone house's captives freed, and Malphestor's redemption breakthrough. Character level 20 — **max** for her class; proficiency bonus stays +6. Gained **Foe Slayer**. Rolled +10 (d10) + CON mod 1, now **140 max**.
 - **Milestone level-up (Session 45, the full regional council):** Ranger 18 → 19, taking an **Ability Score Improvement (+2 WIS, 16 → 18)** — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Rolled +7 (d10) + CON mod 1, now **129 max**.
 - **Milestone level-up (Session 32, the full council):** Ranger 16 → 17 — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt, forging Corvane's alliance by free will, reaching all three sealed-site guardians at once, and setting a real plan in motion against Greywatch Keep. **Proficiency bonus now +6** (character level 17); gained a 4th-level spell slot and her first 5th-level slot. Rolled +3 (d10) + CON mod 1, now **116 max**.
 - **Milestone level-up (Session 42, Halloway's Reach):** Ranger 17 → 18 — earned alongside the rest of the party for securing Halloway's Reach, ending its sixty-year corruption, and closing a third account (the freed courier) in front of witnesses. No new class feature or spell slot at this level (Ranger's table holds steady between 17 and 18). Rolled +4 (d10) + CON mod 1, now **121 max**.

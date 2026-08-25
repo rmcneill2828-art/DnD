@@ -1,7 +1,7 @@
 # Wren
 
 **Race:** Human
-**Class & Level:** Sorcerer 17 (Wild Magic)
+**Class & Level:** Sorcerer 18 (Wild Magic)
 **Background:** Criminal (self-taught survivor, Ravensmoor's fairground district)
 **Alignment:** Chaotic Good
 
@@ -12,11 +12,11 @@
 
 ## Combat
 - **AC:** 15 (Mage Armor: 13 + DEX)
-- **HP:** 82 / 82
-- **Hit Dice:** 16d6
+- **HP:** 95 / 95
+- **Hit Dice:** 18d6
 - **Speed:** 30 ft
 - **Passive Perception:** 11
-- **Proficiency bonus:** +6 (character level 17)
+- **Proficiency bonus:** +6 (character level 18)
 
 ### Attacks
 Not a melee fighter — relies entirely on spellcasting and Wild Magic. Carries a dagger for emergencies only.
@@ -49,6 +49,7 @@ Not a melee fighter — relies entirely on spellcasting and Wild Magic. Carries 
 - **Tides of Chaos:** once per long rest (until triggered again), gain advantage on one attack roll, ability check, or saving throw. Using this gives the DM license to force a Wild Magic Surge the next time she casts a sorcerer spell.
 - **Bend Luck** (6th level): reaction, spend 2 sorcery points to roll 1d4 and apply it as a bonus or penalty to another creature's attack roll, ability check, or saving throw.
 - **Controlled Chaos** (14th level): when rolling on the Wild Magic Surge table, can roll twice and choose which result occurs.
+- **Spell Bombardment** (18th level, Session 48/49): when a damage die rolls its highest possible number on a spell, reroll that die and add the new result to the damage too.
 
 > **DM quick-check per sorcerer spell cast (1st level+): Wild Magic Surge uses a running counter, not flat 1-in-20 (house rule, Session 43 — fits her arc better). Surge threshold = 1 + consecutive non-surge casts since her last surge (0 misses = surge on a 1, 3 misses = surge on 1-4, etc.). Resets to 0 whenever a surge triggers, and also on a long rest. Track the live miss-count in Current Status below, update it every cast. A forced surge (Tides of Chaos debt unpaid) always triggers regardless of the counter, uses Controlled Chaos (roll twice, pick the better) since she's 14th+ level, and resets the counter same as any surge. Chaos Bolt chains to a new target if both d8s roll the same number — check every cast, not just on request. Misty Step moves only Wren herself; Dimension Door can bring one willing creature within 5 ft along with her.**
 
@@ -86,12 +87,13 @@ Nobody in Ravensmoor's fairground district knew her by anything but "the Spark" 
 Sael found her in an alley near the fairground's edge, approached with the same patient stillness she'd once wished someone had shown her, and told her the truth about her own years of isolation before asking anything in return. That honesty — and later, a direct, unflinching conversation with Rurik about the difference between raw ability and actual power (choice, freedom) — was enough to bring her in. A brief connection to all four sentinel guardians, arranged so she could feel firsthand that others had survived exactly this kind of fear, sealed it. She joined the party at Ravensmoor, chosen freely rather than recruited, on the promise that Urskelde deals in chaos and unpredictability rather than trying to file her power down into something safer and smaller.
 
 ## Current Status
-- Conditions: none — mid-Session 48, after clearing the stone house's door detail
-- HP: 91 / 91 (full)
+- Conditions: none — mid-Session 48, after the Keeper's death and Malphestor's redemption breakthrough
+- HP: 95 / 95 (full — no damage taken in the Keeper fight)
 - **Wild Magic Surge counter: 0 consecutive non-surge casts** — surged mid-fight (Session 48, Chaos Bolt) and reset. Next natural roll surges only on a 1.
-- Sorcery points: 13/17 (2x Quickened Spell, stone house assault)
-- Spell slots: 2/4 1st (Chaos Bolt x2), 3/3 2nd, 2/3 3rd (Haste), 3/3 4th, 2/2 5th, 0/1 6th (Chain Lightning), 1/1 7th, 1/1 8th, 1/1 9th
+- Sorcery points: 10/17 (Quickened Fire Bolt, Sculpt Spell on Fireball, Keeper fight)
+- Spell slots: 2/4 1st (Chaos Bolt x2), 3/3 2nd, 0/3 3rd (Haste x2, Fireball), 3/3 4th, 2/2 5th, 0/1 6th (Chain Lightning), 1/1 7th, 1/1 8th, 1/1 9th
 - Tides of Chaos: available
+- **Milestone level-up (Session 48, the coastal town's stone house):** Sorcerer 17 → 18 — earned alongside the rest of the party for the Keeper's destruction, the stone house's captives freed, and Malphestor's redemption breakthrough. Proficiency bonus stays **+6** (character level 18). Gained **Spell Bombardment**. Rolled +1 (d6) + CON mod 3, now **95 max**.
 - **Milestone level-up (Session 45, the full regional council):** Sorcerer 16 → 17 — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Proficiency bonus now **+6** (character level 17); gained a 9th-level spell slot (and an 8th-level slot corrected onto this sheet, previously missing) and a new spell known: **Meteor Swarm**. Rolled +6 (d6) + CON mod 3, now **91 max**.
 - **First real fight fully let loose (Session 42):** at Rurik's urging, dropped all restraint at the Cellarworks door — a thunderclap surge deafened the block on top of a full Fireball, exactly the chaos the plan called for. Rurik told her plainly afterward it was mastery, not luck — the first time anyone's framed her power that way. Days later, in the fight against the Auditor and the boarding action, no harmful surge landed either — three real fights running clean.
 - **Joined the party (Session 35, Ravensmoor)** — recruited specifically for the gap in the party's arcane magic, ahead of an approach to the unscouted Tallow House. Connected briefly to Kethrun, Ilsevet, Vessyn, and Skarn as part of Rurik's welcome — the first time she's felt understood rather than feared.

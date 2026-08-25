@@ -2,7 +2,7 @@
 
 **Birth name:** Rurik, son of Sesha and Harek, Thundertree clan (confirmed Session 12 — still goes by "Darkhawk Blondin" day to day)
 **Race:** Goliath
-**Class & Level:** Barbarian 15 (Path of the Totem Warrior — Bear) / Fighter 4 (Battle Master)
+**Class & Level:** Barbarian 16 (Path of the Totem Warrior — Bear) / Fighter 4 (Battle Master)
 **Background:** Outlander
 **Alignment:** Chaotic Good
 
@@ -13,12 +13,12 @@
 
 ## Combat
 - **AC:** 18 (fitted breastplate: 14 + DEX = 15, +2 from the new sky-iron shield, +1 from sky-iron bracers — **switched from dual-wielding to sword-and-shield, Session 44**, Dual Wielder's +1 no longer applies since it requires two melee weapons)
-- **HP:** 182 / 182
-- **Hit Dice:** 14d12 + 4d10
+- **HP:** 155 / 189
+- **Hit Dice:** 16d12 + 4d10
 - **Speed:** 40 ft (Fast Movement, Barbarian 5 — not wearing heavy armor)
 - **Initiative bonus:** +1, with **advantage** (Feral Instinct, Barbarian 7)
 - **Passive Perception:** 16
-- **Proficiency bonus:** +6 (character level 18)
+- **Proficiency bonus:** +6 (character level 20 — max)
 
 ### Attacks
 **Sword-and-shield loadout (Session 44, ahead of the mountain keep expedition)** — traded the off-hand longsword for a sky-iron shield, restoring the Protection fighting style for a fight expected to mean protecting allies against constructs rather than pure offense. **Extra Attack (Barbarian 5):** the Attack action grants two attacks, both main-hand.
@@ -73,6 +73,7 @@
 - **Feral Instinct (lvl 7)**: advantage on initiative rolls (reflected above). If surprised at the start of combat and not incapacitated, can still act normally on the first turn, provided rage is entered before doing anything else that turn.
 - **Ability Score Improvement (lvl 8)**: +2 STR (19 → 21, reflected above).
 - **Brutal Critical (lvl 9)**: roll one extra weapon damage die when he scores a critical hit.
+- **Ability Score Improvement (Barbarian 16) — Sentinel feat (Session 48/49, the coastal town):** when he hits a creature with an opportunity attack, that creature's speed drops to 0 for the rest of the turn; creatures provoke an opportunity attack from him even when they take the Disengage action; and when a creature within 5 ft of him attacks a target other than him, he can use his reaction to make a melee weapon attack against the attacker — no roll or trigger condition needed beyond the proximity. Direct synergy with Protection fighting style; both punish anything that tries to get past him at an ally.
 
 **Fighter (multiclass, 3 levels — Battle Master)**
 - **Second Wind**: bonus action, regain 1d10+2 HP. Once per short/long rest.
@@ -97,7 +98,11 @@
 - Hunting trap
 - An animal trophy from the mountains (flavor: a carved tusk or claw, last physical tie to a tribe he barely remembers)
 - Traveler's clothes
-- 1,062 gp (620 gp carried in + 40 gp from a forced strongbox + 340 gp from the road-battle shipment, Session 44, the mountain keep + 62 gp from the stone house's fallen guards, Session 48). Farmer's fire-tool commission still in progress, unpaid.
+- 1,356 gp (620 gp carried in + 40 gp from a forced strongbox + 340 gp from the road-battle shipment, Session 44, the mountain keep + 62 gp from the stone house's fallen guards + 84 gp from the Keeper's dais wreckage + 210 gp from its private study's strongbox, Session 48). Farmer's fire-tool commission still in progress, unpaid.
+- **A pouch of uncut gemstones** (Session 48, the Keeper's private study) — unappraised, from the same strongbox as the 210 gp.
+- **A dozen-odd crystallized soul-shard fragments** (Session 48, the Keeper's dais) — the same tribute-currency the party's seen before, cold and faintly humming.
+- **Osgood Farrow's ledger** (Session 48, the Keeper's private study) — the Keeper's own diary, written before whatever Kathrivex did to him: an honest factor's clerk, decades ago, kept rather than paid after "one reckoning too many." Same shape as Edmund Vale's inherited Warden title — the role consumes whoever holds it, not a person choosing evil.
+- **A hand-drawn route chart to the Ember Court** (Session 48, the Keeper's private study) — sea-stained but intact, marked at its end with a burned-orange wax seal shaped like a court in flame. The first real, physical route the party's had to the devil holding the tribute debt Vessa referenced.
 - **A black-iron goliath spear** (Session 44, the mountain keep shipment) — exceptional craft, matches the broken spear head Sarna and Kell recovered near Urskelde. Thread unresolved.
 - **Family Restitution Fund: 788 gp** (1,240 gp − 452 gp paid to 11 verified claimants) — set aside separately from all other coin, sourced entirely from Duskgate's strongroom. **Policy set:** each verified claimant receives an individual payment now; whatever remains once all claims are in gets split evenly across every claimant. Two claims have been refused outright where the story didn't match the ledger; one claim was paid on judgment alone (Mara's and Darkhawk's read of the man, not the ledger, which had no record of him at all) — a reminder the ledger's silence isn't proof of anything. Still open-ended; more claimants may yet come.
 - A small collection of gemstones and mixed rings/bracelets from the strongroom, likewise earmarked for redistribution.
@@ -134,19 +139,15 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 **Converging thread:** Independent investigation into the Circuit's hidden central hub (as opposed to its known satellite sites) points toward the foothills of the Greyhorn Range — the same mountains associated with Thundertree territory. Mountain clans have reportedly grown more closed-off over the same period suspicious land purchases began there. The Circuit's true heart and Darkhawk's own lost clan may be on a collision course.
 
 ## Current Status
-- Conditions: raging, still Hasted (Wren, fading soon) and Blessed (Ysolde) — mid-Session 48, after clearing the stone house's door detail
-- HP: 182 / 182 (full — Ysolde's Keeper of Souls topped him back up twice mid-fight)
-- Rages: 3 / 4 available (1 used, stone house assault)
-- Second Wind, Action Surge, Stone's Endurance, Superiority dice: all available, unused this fight
-- Notes: gold updated to 1,062 gp (see Equipment) after searching the stone house's fallen guards
-- Hit Dice: 14d12 + 4d10 (full)
-- Rages: 4 / 4 available
-- Second Wind: available
-- Action Surge: available
-- Stone's Endurance: available
-- Inspiration: spent (burned on a disarm attempt against the shield-wall guards; DM owes a fresh one for good roleplay when it comes up)
-- Helm's crit-insurance: available
+- Conditions: none active — rage let go, Haste and Bless both long since lapsed, mid-Session 48, after the Keeper's death and the coastal town's stone house resolving into Malphestor's redemption breakthrough
+- HP: 155 / 189 (no rest taken yet since the Keeper fight)
+- Rages: 3 / 4 available (1 used, stone house door assault; never dropped and re-entered during the Keeper fight thanks to Persistent Rage)
+- Second Wind: available (unused)
+- Action Surge: used (needs a rest)
+- Stone's Endurance: used (needs a rest)
 - Superiority dice: 4/4, untouched
+- Helm's crit-insurance: available
+- Inspiration: spent (burned on a disarm attempt against the shield-wall guards; DM owes a fresh one for good roleplay when it comes up)
 - **The count, newly felt (Session 42):** since reaching into the destroyed construct's thread (Session 41), a passive sense of Kathrivex's ledger moving — not numbers, a feeling, answerable only when he concentrates on it. Protected by the bear-spirit's standing ward against hostile scrying/tracking. Confirmed by Ysolde's Ledger's Eye as real and (so far) undetected. Sharpens with proximity — nearly overwhelming at Halloway's Reach's central conduit.
 - **Kethrun's tuning — a local wrongness-sense (Session 42):** at Rurik's request, Kethrun reshaped the count-sense into a "lantern in fog" tuned specifically to Halloway's Reach — weaker than the network's true sealed-site sensing, but able to flag anything in the town carrying Kathrivex's particular wrongness, fixed or moving, without needing to reach for the ledger itself. First use caught the courier's presence directly. Kethrun's caution: it shows shapes, not always true detail — a warning, not certainty.
 - **A third account closed, deliberately (Session 42):** severed the binding thread of one of Kathrivex's couriers by hand, in front of the full party, after it asked plainly to be freed — protected by the bear-spirit's ward, no ritual invocation needed this time. The severing wasn't clean silence; real surprise rippled back along the thread before it finished. Consequences unknown.
@@ -172,3 +173,4 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 - **Milestone level-up (Session 32, the full council):** Barbarian 12 → 13 (Fighter 4 unchanged) — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt via House Corvane's own archive, forging Corvane's alliance by free will rather than debt, reaching all three sealed-site guardians (Kethrun, Ilsevet, Vessyn) at once for the first time, and setting a real, coordinated plan in motion against Greywatch Keep. Character level 17; **proficiency bonus now +6.** No new Barbarian feature at this level, but every proficient roll (attacks, saves, skills) rose accordingly (reflected above). Rolled +8 (d12) + CON mod 3, now **172 max**.
 - **Milestone level-up (Session 45, the full regional council):** Barbarian 14 → 15, gaining **Persistent Rage** — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor genuinely redeemed and recruited, a second Raven Queen audience won, and the full regional council unanimously committing to the next real step against Kathrivex. Character level 19; proficiency bonus stays +6. Rolled +3 (d12) + CON mod 3, now **182 max**.
 - **Milestone level-up (Session 42, Halloway's Reach):** Barbarian 13 → 14 (Fighter 4 unchanged) — earned for securing Halloway's Reach, ending its sixty-year corruption publicly, and closing a third account outright: freeing one of Kathrivex's own couriers by choice, in front of witnesses, then making direct contact with Kathrivex itself and walking away unmarked. Character level 18; proficiency bonus stays +6. No new subclass feature (Totemic Attunement already held since Session 24). Rolled +1 (d12) + CON mod 3, now **176 max**.
+- **Milestone level-up (Session 48, the coastal town's stone house):** Barbarian 15 → 16, taking **Sentinel** as his ASI — earned for destroying the Keeper, freeing the stone house's captives, discovering a safe thread-transfer method in place of blind severing, and Malphestor proving his own answer to "can a devil rise" by reclaiming his honest craft in front of a town that had every reason to refuse him. Character level 20 — **max**; proficiency bonus stays +6. Rolled +4 (d12) + CON mod 3, now **189 max**.

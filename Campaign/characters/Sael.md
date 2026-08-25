@@ -1,7 +1,7 @@
 # Sael
 
 **Race:** Wood Elf
-**Class & Level:** Druid 17 (Circle of the Moon)
+**Class & Level:** Druid 18 (Circle of the Moon)
 **Background:** Hermit
 **Alignment:** Neutral Good
 
@@ -12,11 +12,11 @@
 
 ## Combat
 - **AC:** 16 (studded leather, non-metal, + wooden shield)
-- **HP:** 110 / 110
-- **Hit Dice:** 16d8
+- **HP:** 122 / 122
+- **Hit Dice:** 18d8
 - **Speed:** 35 ft (Wood Elf)
 - **Passive Perception:** 21
-- **Proficiency bonus:** +6 (character level 17)
+- **Proficiency bonus:** +6 (character level 18)
 
 ### Attacks
 | | To Hit | Damage |
@@ -55,6 +55,7 @@
 - **The Mountain's Patience (Session 18, the ancient village):** Sael offered the truth of her own ended solitude — choosing to stay and be seen rather than watch from a distance — to a primal spirit of stone, and it answered. Once per long rest, as a reaction when she takes damage, she can reduce it by 1d12 + her Constitution modifier, her skin going briefly hard and unyielding as old rock.
 - **Ability Score Improvement (lvl 12):** +2 WIS (18 → 20, reflected above).
 - **War Caster (feat, lvl 16, Session 42):** advantage on Constitution saving throws to maintain concentration; can perform somatic spell components with her hands full (weapon/shield); can cast a spell as a reaction in place of an opportunity attack. Taken in place of an ASI since WIS was already at the 20 cap.
+- **Beast Spells (lvl 18, Session 48/49):** can perform the verbal and somatic components of a druid spell while in beast shape — no longer locked out of spellcasting just for being wildshaped (material components still out of reach without hands).
 
 **Hermit**
 - **Discovery:** during her years alone in the wild, uncovered a genuine, profound truth — the existence of a real bear-spirit tied to acts of mercy in extremity, and her own part in one of its rare interventions.
@@ -79,10 +80,11 @@ A solitary bear-kin druid, part of an old, informal tradition rather than any or
 Rather than reveal herself, she chose to watch from a distance — telling herself it was to protect what the spirit had marked without her own shadow over his path, though she now admits some of it was simply not knowing how to explain any of it without sounding mad. She surfaced briefly and anonymously behind Old Harlan's Forge in Ravensmoor, and again at the Bear Cave — both times vanishing before she could be caught, until Darkhawk and Mara finally closed the distance on her in the Greyhorn foothills.
 
 ## Current Status
-- Conditions: none, reverted to elf form — mid-Session 48, after clearing the stone house's door detail
-- HP: 113 / 113 (full)
-- Wild Shape: 1/2 available (bear form, stone house assault)
-- Spell slots: 4/4 1st, 2/3 2nd (Moonbeam), 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th, 0/1 8th (Thunderwave, upcast), 1/1 9th
+- Conditions: none, reverted to elf form — mid-Session 48, after the Keeper's death and Malphestor's redemption breakthrough
+- HP: 122 / 122 (full)
+- Wild Shape: 0/2 available (bear form vs the door detail, triceratops vs the Keeper — both spent, needs a rest)
+- Spell slots: 4/4 1st, 1/3 2nd (Moonbeam ended early — failed concentration save), 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th, 0/1 8th (Thunderwave, upcast), 1/1 9th
+- **Milestone level-up (Session 48, the coastal town's stone house):** Druid 17 → 18 — earned alongside the rest of the party for the Keeper's destruction, the stone house's captives freed, and Malphestor's redemption breakthrough. Proficiency bonus stays **+6** (character level 18). Gained **Beast Spells**. Rolled +7 (d8) + CON mod 2, now **122 max**.
 - **Milestone level-up (Session 45, the full regional council):** Druid 16 → 17 — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Proficiency bonus now **+6** (character level 17); gained a 9th-level spell slot. Rolled +1 (d8) + CON mod 2, now **113 max**.
 - **Milestone level-up (Session 32, the full council):** Druid 14 → 15 — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt, forging Corvane's alliance by free will, reaching all three sealed-site guardians at once, and setting a real plan in motion against Greywatch Keep. No new class or Circle feature this level; gained an 8th-level spell slot, and Wild Shape's CR ceiling rose to 5. Rolled +8 (d8) + CON mod 2, now **101 max**.
 - **Milestone level-up (Session 42, Halloway's Reach):** Druid 15 → 16 — earned alongside the rest of the party for securing Halloway's Reach and closing a third account (the freed courier) in front of witnesses. Ability Score Improvement slot taken as **War Caster** instead (WIS already at the 20 cap). No new Circle of the Moon feature or spell slot change at this level. Rolled +7 (d8) + CON mod 2, now **110 max**.
