@@ -80,10 +80,10 @@ A solitary bear-kin druid, part of an old, informal tradition rather than any or
 Rather than reveal herself, she chose to watch from a distance — telling herself it was to protect what the spirit had marked without her own shadow over his path, though she now admits some of it was simply not knowing how to explain any of it without sounding mad. She surfaced briefly and anonymously behind Old Harlan's Forge in Ravensmoor, and again at the Bear Cave — both times vanishing before she could be caught, until Darkhawk and Mara finally closed the distance on her in the Greyhorn foothills.
 
 ## Current Status
-- Conditions: none, elf form — end of Session 48/49, camped just out of range of the Ember Court after a full long rest
+- Conditions: rat form — mid-Session 49, scouting the Ember Court's upper terrace from cover
 - HP: 122 / 122 (full)
-- Wild Shape: 2/2 available (fully restored)
-- Spell slots: 4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th, 1/1 8th, 1/1 9th (all restored)
+- Wild Shape: 0/2 available (triceratops vs the guard post, rat form for the terrace scout — both spent)
+- Spell slots: 4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th, 1/1 8th, 1/1 9th (untouched otherwise)
 - **Milestone level-up (Session 48, the coastal town's stone house):** Druid 17 → 18 — earned alongside the rest of the party for the Keeper's destruction, the stone house's captives freed, and Malphestor's redemption breakthrough. Proficiency bonus stays **+6** (character level 18). Gained **Beast Spells**. Rolled +7 (d8) + CON mod 2, now **122 max**.
 - **Milestone level-up (Session 45, the full regional council):** Druid 16 → 17 — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Proficiency bonus now **+6** (character level 17); gained a 9th-level spell slot. Rolled +1 (d8) + CON mod 2, now **113 max**.
 - **Milestone level-up (Session 32, the full council):** Druid 14 → 15 — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt, forging Corvane's alliance by free will, reaching all three sealed-site guardians at once, and setting a real plan in motion against Greywatch Keep. No new class or Circle feature this level; gained an 8th-level spell slot, and Wild Shape's CR ceiling rose to 5. Rolled +8 (d8) + CON mod 2, now **101 max**.

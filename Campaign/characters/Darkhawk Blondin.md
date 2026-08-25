@@ -139,7 +139,7 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 **Converging thread:** Independent investigation into the Circuit's hidden central hub (as opposed to its known satellite sites) points toward the foothills of the Greyhorn Range — the same mountains associated with Thundertree territory. Mountain clans have reportedly grown more closed-off over the same period suspicious land purchases began there. The Circuit's true heart and Darkhawk's own lost clan may be on a collision course.
 
 ## Current Status
-- Conditions: none active — end of Session 48/49, camped just out of range of the Ember Court after a full long rest, order set for the vent approach (Rurik first, then Ysolde, Sael, Wren, Mara)
+- Conditions: none active — mid-Session 49, scouting the Ember Court's upper terrace from cover, Pass without Trace still up
 - HP: 189 / 189 (full)
 - Rages: 4/4, Second Wind, Action Surge, Stone's Endurance, Superiority dice, Helm's crit-insurance — all available
 - Inspiration: spent (burned on a disarm attempt against the shield-wall guards; DM owes a fresh one for good roleplay when it comes up)

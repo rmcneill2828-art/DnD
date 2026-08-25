@@ -87,7 +87,7 @@ Nobody in Ravensmoor's fairground district knew her by anything but "the Spark" 
 Sael found her in an alley near the fairground's edge, approached with the same patient stillness she'd once wished someone had shown her, and told her the truth about her own years of isolation before asking anything in return. That honesty — and later, a direct, unflinching conversation with Rurik about the difference between raw ability and actual power (choice, freedom) — was enough to bring her in. A brief connection to all four sentinel guardians, arranged so she could feel firsthand that others had survived exactly this kind of fear, sealed it. She joined the party at Ravensmoor, chosen freely rather than recruited, on the promise that Urskelde deals in chaos and unpredictability rather than trying to file her power down into something safer and smaller.
 
 ## Current Status
-- Conditions: none — end of Session 48/49, camped just out of range of the Ember Court after a full long rest
+- Conditions: none — mid-Session 49, scouting the Ember Court's upper terrace from cover
 - HP: 95 / 95 (full)
 - **Wild Magic Surge counter: 1 consecutive non-surge cast** (Chaos Bolt vs the Bone Devil, no surge). Next natural roll surges only on a 1.
 - Sorcery points: 17/17 (full — sorcery points don't recover on a short rest, but the long rest since restored them)

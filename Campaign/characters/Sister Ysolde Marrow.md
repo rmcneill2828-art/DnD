@@ -79,7 +79,7 @@ A scholar-cleric of Thossia's order at the regional seat — the same city Raven
 Magistrate Kell corresponded with her twice on unrelated legal-religious matters and remembered her as someone who takes "infernal contract" as a literal category of scholarship. When his careful, detail-free letter arrived followed by Corwin Pell and two ledgers written in Infernal rather than cipher, she recognized immediately that this was the first real chance in her career to matter beyond the temple's walls — and took it without hesitation.
 
 ## Current Status
-- Conditions: none — end of Session 48/49, camped just out of range of the Ember Court after a full long rest
+- Conditions: none — mid-Session 49, scouting the Ember Court's upper terrace from cover
 - HP: 129 / 129 (full)
 - Spell slots: 4/4 1st, 3/3 2nd, 3/3 3rd, 3/3 4th, 3/3 5th, 1/1 6th, 1/1 7th, 1/1 8th, 1/1 9th (all restored)
 - Keeper of Souls: available (recharges each turn)
