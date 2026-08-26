@@ -146,9 +146,9 @@ He didn't die. Now he works as a bounty hunter and mercenary, rootless, taking j
 **Converging thread:** Independent investigation into the Circuit's hidden central hub (as opposed to its known satellite sites) points toward the foothills of the Greyhorn Range — the same mountains associated with Thundertree territory. Mountain clans have reportedly grown more closed-off over the same period suspicious land purchases began there. The Circuit's true heart and Darkhawk's own lost clan may be on a collision course.
 
 ## Current Status
-- Conditions: none active — end of Session 49, back at Corren's Landing, fully regrouped with Ysolde and Voss, rage let go
-- HP: 183 / 189
-- Rages: 3/4 available. Action Surge: used (needs a rest). Second Wind, Stone's Endurance, Superiority dice, Helm's crit-insurance: all still available.
+- Conditions: none active — end of Session 50, back at Urskelde, full council briefed and unanimous, two days of real rest ordered before departure for the burned court
+- HP: 189 / 189 (full, after the return trip and rest ordered)
+- Rages: 4/4 available. Action Surge: available. Second Wind, Stone's Endurance, Superiority dice, Helm's crit-insurance: all available.
 - Inspiration: spent (burned on a disarm attempt against the shield-wall guards; DM owes a fresh one for good roleplay when it comes up)
 - **The count, newly felt (Session 42):** since reaching into the destroyed construct's thread (Session 41), a passive sense of Kathrivex's ledger moving — not numbers, a feeling, answerable only when he concentrates on it. Protected by the bear-spirit's standing ward against hostile scrying/tracking. Confirmed by Ysolde's Ledger's Eye as real and (so far) undetected. Sharpens with proximity — nearly overwhelming at Halloway's Reach's central conduit.
 - **Kethrun's tuning — a local wrongness-sense (Session 42):** at Rurik's request, Kethrun reshaped the count-sense into a "lantern in fog" tuned specifically to Halloway's Reach — weaker than the network's true sealed-site sensing, but able to flag anything in the town carrying Kathrivex's particular wrongness, fixed or moving, without needing to reach for the ledger itself. First use caught the courier's presence directly. Kethrun's caution: it shows shapes, not always true detail — a warning, not certainty.
