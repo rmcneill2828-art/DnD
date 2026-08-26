@@ -95,11 +95,12 @@ A trapper and local guide who's worked the country around Kessick's Ford for yea
 What started as paid work became a real partnership, and — after Ravensmoor — something more. She's committed to standing with him at Thundertree when the time comes, whatever that costs either of them.
 
 ## Current Status
-- Conditions: none active — end of Session 49, back at Corren's Landing, fully regrouped
-- HP: 71 / 140
-- Spell slots: 1/4 1st (Hunter's Mark, Primeval Awareness, Hunter's Mark again), 0/3 2nd (Pass without Trace x2), 3/3 3rd, 3/3 4th, 0/1 5th (Conjure Animals)
-- Deep Water's Stillness: spent (once per long rest)
+- Conditions: none active — end of Session 51, back at the ward-ruin camp, fully rested
+- HP: 140 / 140 (full)
+- Spell slots: all full after a long rest
+- Deep Water's Stillness: available
 - Inspiration: no
+- **The Bone Devil ambush (Session 51):** opened with a Dread Ambusher volley (crit plus two more hits, 60 damage) that nearly dropped Bone Devil B before it could act; finished it two rounds later. Barred from aiding Rurik during the Voreth duel by its own terms — stood by, unable to help, until Voreth himself called it decided.
 - **Milestone level-up (Session 48, the coastal town's stone house):** Ranger 19 → 20 — earned alongside the rest of the party for the Keeper's destruction, the stone house's captives freed, and Malphestor's redemption breakthrough. Character level 20 — **max** for her class; proficiency bonus stays +6. Gained **Foe Slayer**. Rolled +10 (d10) + CON mod 1, now **140 max**.
 - **Milestone level-up (Session 45, the full regional council):** Ranger 18 → 19, taking an **Ability Score Improvement (+2 WIS, 16 → 18)** — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Rolled +7 (d10) + CON mod 1, now **129 max**.
 - **Milestone level-up (Session 32, the full council):** Ranger 16 → 17 — earned for winning a genuine audience with the Raven Queen, confirming "the count" beyond any remaining doubt, forging Corvane's alliance by free will, reaching all three sealed-site guardians at once, and setting a real plan in motion against Greywatch Keep. **Proficiency bonus now +6** (character level 17); gained a 4th-level spell slot and her first 5th-level slot. Rolled +3 (d10) + CON mod 1, now **116 max**.

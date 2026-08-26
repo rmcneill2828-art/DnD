@@ -79,11 +79,12 @@ A scholar-cleric of Thossia's order at the regional seat — the same city Raven
 Magistrate Kell corresponded with her twice on unrelated legal-religious matters and remembered her as someone who takes "infernal contract" as a literal category of scholarship. When his careful, detail-free letter arrived followed by Corwin Pell and two ledgers written in Infernal rather than cipher, she recognized immediately that this was the first real chance in her career to matter beyond the temple's walls — and took it without hesitation.
 
 ## Current Status
-- Conditions: none — end of Session 49, back at Corren's Landing, fully regrouped with the rest of the party
+- Conditions: none — end of Session 51, back at the ward-ruin camp, fully rested
 - HP: 129 / 129 (full)
-- Spell slots: 3/4 1st (Bless), 2/3 2nd (Cure Wounds on Voss), 2/3 3rd (Banishment), 2/3 4th (Cure Wounds on Sael), 3/3 5th, 0/1 6th (Heal), 1/1 7th, 1/1 8th, 1/1 9th
-- Keeper of Souls: available (recharges each turn) — triggered three times this fight (Bearded Devil E, Bearded Devil D, the Warden itself)
+- Spell slots: all full after a long rest (Mass Cure Wounds re-prepared ahead of the Voreth walk, alongside Death Ward and Bless)
+- Keeper of Souls: available (recharges each turn) — triggered twice in the Bone Devil ambush (Mara and Rurik each healed 15)
 - Channel Divinity: 3/3 available
+- **Death Ward, spent to real effect (Session 51):** cast on Rurik before the walk to the burned court's gate; absorbed what should have been a killing blow from Voreth in round 3 of the duel, dropping him to 1 HP instead of 0. Barred from further aiding him once the duel began, by its own terms.
 - **Milestone level-up (Session 48, the coastal town's stone house):** Cleric 18 → 19, taking **Resilient (Constitution)** as her ASI — earned alongside the rest of the party for the Keeper's destruction, the stone house's captives freed, and Malphestor's redemption breakthrough. Proficiency bonus stays **+6** (character level 19). Rolled +6 (d8) + CON mod 2, now **129 max**.
 - **Milestone level-up (Session 45, the full regional council):** Cleric 17 → 18 — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Gained a third **Channel Divinity** use. Rolled +1 (d8) + CON mod 2, now **121 max**.
 - **The Ledger's Eye, first tested on a living connection (Session 42):** confirmed Rurik's new count-sense as real and, so far, undetected — a working nobody had tried on something still alive before.

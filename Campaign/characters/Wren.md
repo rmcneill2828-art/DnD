@@ -87,12 +87,13 @@ Nobody in Ravensmoor's fairground district knew her by anything but "the Spark" 
 Sael found her in an alley near the fairground's edge, approached with the same patient stillness she'd once wished someone had shown her, and told her the truth about her own years of isolation before asking anything in return. That honesty — and later, a direct, unflinching conversation with Rurik about the difference between raw ability and actual power (choice, freedom) — was enough to bring her in. A brief connection to all four sentinel guardians, arranged so she could feel firsthand that others had survived exactly this kind of fear, sealed it. She joined the party at Ravensmoor, chosen freely rather than recruited, on the promise that Urskelde deals in chaos and unpredictability rather than trying to file her power down into something safer and smaller.
 
 ## Current Status
-- Conditions: none — end of Session 49, back at Corren's Landing, fully regrouped
-- HP: 95 / 95 (full — no damage taken in the Warden fight)
-- **Wild Magic Surge counter: 6 consecutive non-surge casts** (Haste x2, Prismatic Spray, Chain Lightning, Chaos Bolt, all checked individually this fight — no surge). Next natural roll surges only on a 1.
-- Sorcery points: 12/17
-- Spell slots: 3/4 1st (Chaos Bolt), 3/3 2nd, 1/3 3rd (Haste x2), 3/3 4th, 2/2 5th, 0/1 6th (Chain Lightning), 0/1 7th (Prismatic Spray), 1/1 8th, 1/1 9th
+- Conditions: none — end of Session 51, back at the ward-ruin camp, fully rested
+- HP: 95 / 95 (full — untouched in both the Bone Devil ambush and the Voreth duel)
+- **Wild Magic Surge counter: 0** (reset on long rest). Next natural roll surges only on a 1.
+- Sorcery points: 17/17 (full)
+- Spell slots: all full after a long rest
 - Tides of Chaos: available
+- **Bend Luck, decisive (Session 51):** thrown as a reaction on Rurik's last, desperate Constitution save to rise from unconsciousness during the Voreth duel — the 1d4 bonus pushed a one-point miss into a success. Directly responsible for Rurik waking up at all.
 - **Milestone level-up (Session 48, the coastal town's stone house):** Sorcerer 17 → 18 — earned alongside the rest of the party for the Keeper's destruction, the stone house's captives freed, and Malphestor's redemption breakthrough. Proficiency bonus stays **+6** (character level 18). Gained **Spell Bombardment**. Rolled +1 (d6) + CON mod 3, now **95 max**.
 - **Milestone level-up (Session 45, the full regional council):** Sorcerer 16 → 17 — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Proficiency bonus now **+6** (character level 17); gained a 9th-level spell slot (and an 8th-level slot corrected onto this sheet, previously missing) and a new spell known: **Meteor Swarm**. Rolled +6 (d6) + CON mod 3, now **91 max**.
 - **First real fight fully let loose (Session 42):** at Rurik's urging, dropped all restraint at the Cellarworks door — a thunderclap surge deafened the block on top of a full Fireball, exactly the chaos the plan called for. Rurik told her plainly afterward it was mastery, not luck — the first time anyone's framed her power that way. Days later, in the fight against the Auditor and the boarding action, no harmful surge landed either — three real fights running clean.

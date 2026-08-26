@@ -81,7 +81,8 @@ Rather than reveal herself, she chose to watch from a distance — telling herse
 
 ## Current Status
 - Conditions: elf form, no longer poisoned — end of Session 49, back at Corren's Landing, fully regrouped
-- HP: 105 / 122
+- HP: 122 / 122 (full — end of Session 51, ward-ruin camp, fully rested)
+- **Triceratops charges, decisive (Session 51):** Wild Shaped twice against Bone Devil A in the ambush; the second Trampling Charge dropped it prone for a bonus stomp. Barred from aiding Rurik during the Voreth duel by its own terms.
 - Wild Shape: 0/2 available (needs a rest)
 - Spell slots: 4/4 1st, 2/3 2nd (Moonbeam), 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th, 1/1 8th, 1/1 9th
 - **Milestone level-up (Session 48, the coastal town's stone house):** Druid 17 → 18 — earned alongside the rest of the party for the Keeper's destruction, the stone house's captives freed, and Malphestor's redemption breakthrough. Proficiency bonus stays **+6** (character level 18). Gained **Beast Spells**. Rolled +7 (d8) + CON mod 2, now **122 max**.
