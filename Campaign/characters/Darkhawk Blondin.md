@@ -100,12 +100,12 @@
 - An animal trophy from the mountains (flavor: a carved tusk or claw, last physical tie to a tribe he barely remembers)
 - Traveler's clothes
 - 2,176 gp (620 gp carried in + 40 gp from a forced strongbox + 340 gp from the road-battle shipment, Session 44, the mountain keep + 62 gp from the stone house's fallen guards + 84 gp from the Keeper's dais wreckage + 210 gp from its private study's strongbox, Session 48 + 340 gp from the Warden's dais strongbox + 480 gp from Ashworn's office coffer, Session 49). Farmer's fire-tool commission still in progress, unpaid.
-- **A case of uncut rubies** (Session 49, the Warden's dais) — unappraised.
-- **Fire-touched black opals** (Session 49, Ashworn's office) — unappraised.
+- ~~A case of uncut rubies~~ — given to Alara (Session 51) to accelerate the enchanter search.
+- ~~Fire-touched black opals~~ — given to Alara (Session 51) to accelerate the enchanter search.
 - **A regional accounting of the Court Above's tribute network** (Session 49) — lists active sites the party never knew existed, alongside the mountain keep (marked "lapsed, unrecovered") and Corren's Landing (marked "lapsed, contested").
 - **A terrain sketch of the burned court** (Session 49, Ashworn's office) — rough, marked "don't go alone" in a second hand. The first real lead on the burned court's location: inland, east of the Ember Court.
 - **A Sending Stone** (Session 49, Ashworn's office) — one of a matched pair, likely left deliberately as a direct channel to Ashworn. Once per day, speak a short message to whoever holds the other stone.
-- **A pouch of uncut gemstones** (Session 48, the Keeper's private study) — unappraised, from the same strongbox as the 210 gp.
+- ~~A pouch of uncut gemstones~~ (Session 48, the Keeper's private study) — given to Alara (Session 51) to accelerate the enchanter search.
 - **A dozen-odd crystallized soul-shard fragments** (Session 48, the Keeper's dais) — the same tribute-currency the party's seen before, cold and faintly humming.
 - **Osgood Farrow's ledger** (Session 48, the Keeper's private study) — the Keeper's own diary, written before whatever Kathrivex did to him: an honest factor's clerk, decades ago, kept rather than paid after "one reckoning too many." Same shape as Edmund Vale's inherited Warden title — the role consumes whoever holds it, not a person choosing evil.
 - **A hand-drawn route chart to the Ember Court** (Session 48, the Keeper's private study) — sea-stained but intact, marked at its end with a burned-orange wax seal shaped like a court in flame. The first real, physical route the party's had to the devil holding the tribute debt Vessa referenced.
