@@ -1,22 +1,22 @@
 # Wren
 
 **Race:** Human
-**Class & Level:** Sorcerer 18 (Wild Magic)
+**Class & Level:** Sorcerer 19 (Wild Magic)
 **Background:** Criminal (self-taught survivor, Ravensmoor's fairground district)
 **Alignment:** Chaotic Good
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
-| 8 (−1) | 14 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 20 (+5) |
+| 8 (−1) | 14 (+2) | 18 (+4) | 10 (+0) | 12 (+1) | 20 (+5) |
 
 ## Combat
 - **AC:** 15 (Mage Armor: 13 + DEX)
-- **HP:** 95 / 95
-- **Hit Dice:** 18d6
+- **HP:** 100 / 100
+- **Hit Dice:** 19d6
 - **Speed:** 30 ft
 - **Passive Perception:** 11
-- **Proficiency bonus:** +6 (character level 18)
+- **Proficiency bonus:** +6 (character level 19)
 
 ### Attacks
 Not a melee fighter — relies entirely on spellcasting and Wild Magic. Carries a dagger for emergencies only.
@@ -30,7 +30,7 @@ Not a melee fighter — relies entirely on spellcasting and Wild Magic. Carries 
 **Spell save DC 19, spell attack +11.**
 
 ## Proficiencies & Skills
-- **Saving throws:** Constitution +9, Charisma +11
+- **Saving throws:** Constitution +10, Charisma +11
 - **Skills:** Insight +7, Persuasion +11, Deception +11, Stealth +8
 - **Languages:** Common, Infernal (picked up on the street, never formally taught)
 - **Tools:** none
@@ -41,7 +41,7 @@ Not a melee fighter — relies entirely on spellcasting and Wild Magic. Carries 
 
 **Sorcerer**
 - **Spellcasting:** Charisma-based. Spell save DC 19, spell attack +11. Knows spells (doesn't prepare) — 6 cantrips, 16 spells known. Slots: 4 (1st), 3 (2nd), 3 (3rd), 3 (4th), 2 (5th), 1 (6th), 1 (7th), 1 (8th, previously missing from this sheet — corrected Session 45), 1 (9th, new).
-- **Font of Magic:** 17 sorcery points (RAW fix, Session 48 — equals sorcerer level; sheet had been stuck at 15 since before her Session 45 level-up to 17th). Can convert sorcery points to spell slots and vice versa (Flexible Casting).
+- **Font of Magic:** 19 sorcery points (equals sorcerer level, updated Session 51). Can convert sorcery points to spell slots and vice versa (Flexible Casting).
 - **Metamagic (4 known):** *Quickened Spell* (2 pts — cast a normal-action spell as a bonus action), *Twinned Spell* (varies — target a second creature with a single-target spell), *Careful Spell* (1 pt — chosen creatures automatically succeed on the spell's save), **Sculpt Spell** (1 pt — added Session 48, RAW fix for the 4th option owed at 17th level; when casting a spell that affects other creatures in an area, up to 3 creatures of her choice automatically succeed on the save and take no damage if they would've taken half on a success — built for exactly the friendly-fire problem the party kept navigating around at the stone house).
 
 **Wild Magic (Sorcerous Origin)**
@@ -90,9 +90,10 @@ Sael found her in an alley near the fairground's edge, approached with the same 
 - Conditions: none — end of Session 51, back at the ward-ruin camp, fully rested
 - HP: 95 / 95 (full — untouched in both the Bone Devil ambush and the Voreth duel)
 - **Wild Magic Surge counter: 0** (reset on long rest). Next natural roll surges only on a 1.
-- Sorcery points: 17/17 (full)
+- Sorcery points: 19/19 (full)
 - Spell slots: all full after a long rest
 - Tides of Chaos: available
+- **Milestone level-up (Session 51, the ward-ruin camp):** Sorcerer 18 → 19, taking **+2 CON (16 → 18)** as her ASI (Sorcerer ASI levels: 4/8/12/16/19) — earned alongside the rest of the party for the Ashpit mystery's resolution and Rurik's survival of the Voreth duel. Font of Magic now 19 sorcery points. Rolled +1 (d6) + new CON mod 4, now **100 max**.
 - **Bend Luck, decisive (Session 51):** thrown as a reaction on Rurik's last, desperate Constitution save to rise from unconsciousness during the Voreth duel — the 1d4 bonus pushed a one-point miss into a success. Directly responsible for Rurik waking up at all.
 - **Milestone level-up (Session 48, the coastal town's stone house):** Sorcerer 17 → 18 — earned alongside the rest of the party for the Keeper's destruction, the stone house's captives freed, and Malphestor's redemption breakthrough. Proficiency bonus stays **+6** (character level 18). Gained **Spell Bombardment**. Rolled +1 (d6) + CON mod 3, now **95 max**.
 - **Milestone level-up (Session 45, the full regional council):** Sorcerer 16 → 17 — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Proficiency bonus now **+6** (character level 17); gained a 9th-level spell slot (and an 8th-level slot corrected onto this sheet, previously missing) and a new spell known: **Meteor Swarm**. Rolled +6 (d6) + CON mod 3, now **91 max**.

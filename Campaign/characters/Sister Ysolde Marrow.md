@@ -1,7 +1,7 @@
 # Sister Ysolde Marrow
 
 **Race:** Human
-**Class & Level:** Cleric 19 (Grave Domain)
+**Class & Level:** Cleric 20 (Grave Domain)
 **Deity:** Thossia, the Arbiter — goddess of judgment and the settling of debts after death
 **Background:** Sage (Order Scholar)
 **Alignment:** Lawful Good
@@ -13,11 +13,11 @@
 
 ## Combat
 - **AC:** 17 (scale mail + shield)
-- **HP:** 129 / 129
-- **Hit Dice:** 19d8
+- **HP:** 136 / 136
+- **Hit Dice:** 20d8
 - **Speed:** 30 ft
 - **Passive Perception:** 14
-- **Proficiency bonus:** +6 (character level 19)
+- **Proficiency bonus:** +6 (character level 20 — max)
 
 ### Attacks
 | | To Hit | Damage |
@@ -43,7 +43,7 @@ Not a frontline fighter by her own admission — her value is spellcasting, ward
   - Commonly prepared: *Bless, Command, Zone of Truth, Protection from Evil and Good, Dispel Magic, Remove Curse, Banishment, Dispel Evil and Good, **Guiding Bolt** (1st — ranged radiant spell attack, solid reliable damage at range), **Spiritual Weapon** (2nd — bonus action floating ranged weapon, good action economy), **Hold Person** (2nd — added Session 44, paralyzes a humanoid on a failed WIS save, repeat save each turn; good control against a single dangerous target), **Flame Strike** (5th — ranged column of fire and radiant damage, fits Thossia's judgment theme).*
 - **Channel Divinity (3/short or long rest, as of lvl 18):** Turn Undead, and Path to the Grave (curse a creature within 30 ft — the next attack against it before the start of her next turn has advantage and scores a critical hit on any hit).
 - **Destroy Undead (lvl 14):** Turned undead of CR 3 or lower are instantly destroyed rather than merely turned.
-- **Divine Intervention** (lvl 10): can call on Thossia directly to intervene, once per long rest at this level (percentage chance based on cleric level).
+- **Divine Intervention** (lvl 10, auto-success at lvl 20 — Session 51): can call on Thossia directly to intervene. **As of 20th level, the call succeeds automatically — no percentile roll needed.** If used, can't be used again for 7 days.
 
 **Grave Domain**
 - **Domain spells (always prepared):** *Bane, False Life, Gentle Repose, Ray of Enfeeblement, Revivify, Vampiric Touch, Death Ward, Blight, Antilife Shell, Raise Dead.*
@@ -84,6 +84,7 @@ Magistrate Kell corresponded with her twice on unrelated legal-religious matters
 - Spell slots: all full after a long rest (Mass Cure Wounds re-prepared ahead of the Voreth walk, alongside Death Ward and Bless)
 - Keeper of Souls: available (recharges each turn) — triggered twice in the Bone Devil ambush (Mara and Rurik each healed 15)
 - Channel Divinity: 3/3 available
+- **Milestone level-up (Session 51, the ward-ruin camp):** Cleric 19 → 20 — **max**, character level 20 — earned alongside the rest of the party for the Ashpit mystery's resolution and Rurik's survival of the Voreth duel. Proficiency bonus stays +6. Divine Intervention now succeeds automatically. No ASI at this level (Cleric ASI levels are 4/8/12/16/19, already taken). Rolled +5 (d8) + CON mod 2, now **136 max**.
 - **Death Ward, spent to real effect (Session 51):** cast on Rurik before the walk to the burned court's gate; absorbed what should have been a killing blow from Voreth in round 3 of the duel, dropping him to 1 HP instead of 0. Barred from further aiding him once the duel began, by its own terms.
 - **Milestone level-up (Session 48, the coastal town's stone house):** Cleric 18 → 19, taking **Resilient (Constitution)** as her ASI — earned alongside the rest of the party for the Keeper's destruction, the stone house's captives freed, and Malphestor's redemption breakthrough. Proficiency bonus stays **+6** (character level 19). Rolled +6 (d8) + CON mod 2, now **129 max**.
 - **Milestone level-up (Session 45, the full regional council):** Cleric 17 → 18 — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Gained a third **Channel Divinity** use. Rolled +1 (d8) + CON mod 2, now **121 max**.

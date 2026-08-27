@@ -59,6 +59,7 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 - **3rd-level spell slots (lvl 9)** and **Hide in Plain Sight (lvl 10)**: with 1 minute undisturbed, can camouflage and become very hard to detect (+10 Stealth) while remaining perfectly still, breaking on movement or an attack.
 - **Vanish (lvl 14):** can take the Hide action as a bonus action. Can't be tracked by nonmagical means unless she chooses to leave a trail.
 - **Foe Slayer (lvl 20, Session 48/49):** once per turn, add her Wisdom modifier (+4) to the attack roll or the damage roll of an attack against a favored enemy — choosable before or after the roll, but before its effects apply.
+- **Epic Boon — Boon of Peerless Aim (Session 51, the ward-ruin camp):** earned alongside the rest of the party for the Ashpit mystery's resolution and Rurik's survival of the Voreth duel — already at her own class cap (Ranger 20), so the milestone grants an Epic Boon instead of a new level, same as Rurik. Her ranged attacks now ignore three-quarters and half cover, and she no longer suffers disadvantage on attack rolls at long range.
 - **Shadowy Dodge (lvl 15, Gloom Stalker):** when a creature she can see attacks her, can use her reaction to impose disadvantage on that attack roll.
 
 **Gloom Stalker (Ranger Archetype)**

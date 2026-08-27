@@ -1,22 +1,22 @@
 # Sael
 
 **Race:** Wood Elf
-**Class & Level:** Druid 18 (Circle of the Moon)
+**Class & Level:** Druid 19 (Circle of the Moon)
 **Background:** Hermit
 **Alignment:** Neutral Good
 
 ## Ability Scores
 | STR | DEX | CON | INT | WIS | CHA |
 |-----|-----|-----|-----|-----|-----|
-| 12 (+1) | 16 (+3) | 14 (+2) | 10 (+0) | 20 (+5) | 11 (+0) |
+| 12 (+1) | 16 (+3) | 16 (+3) | 10 (+0) | 20 (+5) | 11 (+0) |
 
 ## Combat
 - **AC:** 16 (studded leather, non-metal, + wooden shield)
-- **HP:** 122 / 122
-- **Hit Dice:** 18d8
+- **HP:** 133 / 133
+- **Hit Dice:** 19d8
 - **Speed:** 35 ft (Wood Elf)
 - **Passive Perception:** 21
-- **Proficiency bonus:** +6 (character level 18)
+- **Proficiency bonus:** +6 (character level 19)
 
 ### Attacks
 | | To Hit | Damage |
@@ -81,8 +81,9 @@ Rather than reveal herself, she chose to watch from a distance — telling herse
 
 ## Current Status
 - Conditions: elf form, no longer poisoned — end of Session 49, back at Corren's Landing, fully regrouped
-- HP: 122 / 122 (full — end of Session 51, ward-ruin camp, fully rested)
+- HP: 133 / 133 (full — end of Session 51, ward-ruin camp, fully rested)
 - **Triceratops charges, decisive (Session 51):** Wild Shaped twice against Bone Devil A in the ambush; the second Trampling Charge dropped it prone for a bonus stomp. Barred from aiding Rurik during the Voreth duel by its own terms.
+- **Milestone level-up (Session 51, the ward-ruin camp):** Druid 18 → 19, taking **+2 CON (14 → 16)** as her ASI (Druid ASI levels: 4/8/12/16/19) — earned alongside the rest of the party for the Ashpit mystery's resolution and Rurik's survival of the Voreth duel. No new Circle of the Moon feature at this level. Rolled +8 (d8) + new CON mod 3, now **133 max**.
 - Wild Shape: 0/2 available (needs a rest)
 - Spell slots: 4/4 1st, 2/3 2nd (Moonbeam), 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th, 1/1 8th, 1/1 9th
 - **Milestone level-up (Session 48, the coastal town's stone house):** Druid 17 → 18 — earned alongside the rest of the party for the Keeper's destruction, the stone house's captives freed, and Malphestor's redemption breakthrough. Proficiency bonus stays **+6** (character level 18). Gained **Beast Spells**. Rolled +7 (d8) + CON mod 2, now **122 max**.
