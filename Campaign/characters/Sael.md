@@ -82,6 +82,7 @@ Rather than reveal herself, she chose to watch from a distance — telling herse
 ## Current Status
 - Conditions: elf form, no longer poisoned — end of Session 49, back at Corren's Landing, fully regrouped
 - HP: 133 / 133 (full — end of Session 51, ward-ruin camp, fully rested)
+- **A readied Thunderwave, decisive (Session 51):** held her action against a second devil ambush (Horned Devil + 2 Bearded Devils) until they closed range, then released her 9th-level slot as a maxed 10d8 Thunderwave — 50 damage to the Horned Devil alone, plus a 10-ft shove that broke Rurik's own readied attack window. Fully rested since; slot restored.
 - **Triceratops charges, decisive (Session 51):** Wild Shaped twice against Bone Devil A in the ambush; the second Trampling Charge dropped it prone for a bonus stomp. Barred from aiding Rurik during the Voreth duel by its own terms.
 - **Milestone level-up (Session 51, the ward-ruin camp):** Druid 18 → 19, taking **+2 CON (14 → 16)** as her ASI (Druid ASI levels: 4/8/12/16/19) — earned alongside the rest of the party for the Ashpit mystery's resolution and Rurik's survival of the Voreth duel. No new Circle of the Moon feature at this level. Rolled +8 (d8) + new CON mod 3, now **133 max**.
 - Wild Shape: 0/2 available (needs a rest)
