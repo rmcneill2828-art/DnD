@@ -1,7 +1,7 @@
 # Wren
 
 **Race:** Human
-**Class & Level:** Sorcerer 19 (Wild Magic)
+**Class & Level:** Sorcerer 20 (Wild Magic) — max
 **Background:** Criminal (self-taught survivor, Ravensmoor's fairground district)
 **Alignment:** Chaotic Good
 
@@ -51,6 +51,9 @@ Not a melee fighter — relies entirely on spellcasting and Wild Magic. Carries 
 - **Controlled Chaos** (14th level): when rolling on the Wild Magic Surge table, can roll twice and choose which result occurs.
 - **Spell Bombardment** (18th level, Session 48/49): when a damage die rolls its highest possible number on a spell, reroll that die and add the new result to the damage too.
 
+**Sorcerer capstone**
+- **Sorcerous Restoration (20th level, Session 53):** regain 4 sorcery points whenever she finishes a short rest — Font of Magic no longer waits on a long rest to refill.
+
 > **DM quick-check per sorcerer spell cast (1st level+): Wild Magic Surge uses a running counter, not flat 1-in-20 (house rule, Session 43 — fits her arc better). Surge threshold = 1 + consecutive non-surge casts since her last surge (0 misses = surge on a 1, 3 misses = surge on 1-4, etc.). Resets to 0 whenever a surge triggers, and also on a long rest. Track the live miss-count in Current Status below, update it every cast. A forced surge (Tides of Chaos debt unpaid) always triggers regardless of the counter, uses Controlled Chaos (roll twice, pick the better) since she's 14th+ level, and resets the counter same as any surge. Chaos Bolt chains to a new target if both d8s roll the same number — check every cast, not just on request. Misty Step moves only Wren herself; Dimension Door can bring one willing creature within 5 ft along with her.**
 
 **Known Spells**
@@ -87,12 +90,14 @@ Nobody in Ravensmoor's fairground district knew her by anything but "the Spark" 
 Sael found her in an alley near the fairground's edge, approached with the same patient stillness she'd once wished someone had shown her, and told her the truth about her own years of isolation before asking anything in return. That honesty — and later, a direct, unflinching conversation with Rurik about the difference between raw ability and actual power (choice, freedom) — was enough to bring her in. A brief connection to all four sentinel guardians, arranged so she could feel firsthand that others had survived exactly this kind of fear, sealed it. She joined the party at Ravensmoor, chosen freely rather than recruited, on the promise that Urskelde deals in chaos and unpredictability rather than trying to file her power down into something safer and smaller.
 
 ## Current Status
-- Conditions: none — end of Session 51, back at the ward-ruin camp, fully rested
-- HP: 95 / 95 (full — untouched in both the Bone Devil ambush and the Voreth duel)
-- **Wild Magic Surge counter: 0** (reset on long rest). Next natural roll surges only on a 1.
-- Sorcery points: 19/19 (full)
-- Spell slots: all full after a long rest
+- Conditions: none — end of Session 53, the Reckoning House's anchor chamber
+- HP: 89 / 108 (took a hit from Kathrivex's Audit Lash, psychic resistance potion softened it)
+- **Wild Magic Surge counter: reset to 0 after Session 53's fight** (no surges triggered — Meteor Swarm, Quickened Firebolt, and Fireball all cast clean).
+- Sorcery points: 15/19 (2 spent on Quickened Firebolt, 1 on Sculpt Spell x2 for Meteor Swarm and Fireball — recheck exact spend if it matters later)
+- Spell slots: 9th (Meteor Swarm) and 7th (Fireball) both spent; rest untouched
 - Tides of Chaos: available
+- **Milestone level-up (Session 53, the Reckoning House):** Sorcerer 19 → 20 — max — earned for the destruction of Kathrivex's avatar and the count's final, safe closure. Gained **Sorcerous Restoration**. Rolled +4 (d6) + CON mod 4, now **108 max**.
+- **Meteor Swarm, finally used (Session 53):** the campaign's biggest single spell, held in reserve since Session 45, dropped directly on Kathrivex mid-fight with Sculpt Spell protecting Darkhawk and Ysolde — forced a Legendary Resistance out of it even at half damage. First real payoff for a spell she's carried unused for eight sessions.
 - **Milestone level-up (Session 51, the ward-ruin camp):** Sorcerer 18 → 19, taking **+2 CON (16 → 18)** as her ASI (Sorcerer ASI levels: 4/8/12/16/19) — earned alongside the rest of the party for the Ashpit mystery's resolution and Rurik's survival of the Voreth duel. Font of Magic now 19 sorcery points. Rolled +1 (d6) + new CON mod 4, now **100 max**.
 - **Chain Lightning, devastating (Session 51):** in the second devil ambush, hit the Horned Devil and both Bearded Devils at once — all three failed their saves, 10d8 each, killing Bearded Devil B outright and leaving the other two nearly dead. Clean cast, no surge. Fully rested since; slot restored.
 - **Bend Luck, decisive (Session 51):** thrown as a reaction on Rurik's last, desperate Constitution save to rise from unconsciousness during the Voreth duel — the 1d4 bonus pushed a one-point miss into a success. Directly responsible for Rurik waking up at all.

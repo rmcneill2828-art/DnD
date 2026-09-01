@@ -44,6 +44,7 @@ Not a frontline fighter by her own admission — her value is spellcasting, ward
 - **Channel Divinity (3/short or long rest, as of lvl 18):** Turn Undead, and Path to the Grave (curse a creature within 30 ft — the next attack against it before the start of her next turn has advantage and scores a critical hit on any hit).
 - **Destroy Undead (lvl 14):** Turned undead of CR 3 or lower are instantly destroyed rather than merely turned.
 - **Divine Intervention** (lvl 10, auto-success at lvl 20 — Session 51): can call on Thossia directly to intervene. **As of 20th level, the call succeeds automatically — no percentile roll needed.** If used, can't be used again for 7 days.
+- **Epic Boon — Boon of Recovery (Session 53, the Reckoning House):** earned alongside the rest of the strike team for destroying Kathrivex's avatar and safely closing out the count — already at class cap (Cleric 20), so the milestone grants an Epic Boon instead of a new level. **Once per long rest, as an action, can restore 4d10 + 20 hit points, divided as she chooses among any number of creatures she can see within 60 feet.**
 
 **Grave Domain**
 - **Domain spells (always prepared):** *Bane, False Life, Gentle Repose, Ray of Enfeeblement, Revivify, Vampiric Touch, Death Ward, Blight, Antilife Shell, Raise Dead.*
@@ -79,11 +80,13 @@ A scholar-cleric of Thossia's order at the regional seat — the same city Raven
 Magistrate Kell corresponded with her twice on unrelated legal-religious matters and remembered her as someone who takes "infernal contract" as a literal category of scholarship. When his careful, detail-free letter arrived followed by Corwin Pell and two ledgers written in Infernal rather than cipher, she recognized immediately that this was the first real chance in her career to matter beyond the temple's walls — and took it without hesitation.
 
 ## Current Status
-- Conditions: none — end of Session 51, back at the ward-ruin camp, fully rested
-- HP: 129 / 129 (full)
-- Spell slots: all full after a long rest (Mass Cure Wounds re-prepared ahead of the Voreth walk, alongside Death Ward and Bless)
-- Keeper of Souls: available (recharges each turn) — triggered twice in the Bone Devil ambush (Mara and Rurik each healed 15)
-- Channel Divinity: 3/3 available
+- Conditions: none — end of Session 53, the Reckoning House's anchor chamber
+- HP: 100 / 136 (took a full hit from Kathrivex's Debt Collapse, no resistance to soften it)
+- Spell slots: 5th-level Flame Strike x2 spent; Detect Magic cast as a ritual (no slot); rest untouched
+- Keeper of Souls: available (recharges each turn) — not triggered this fight
+- Channel Divinity: 3/3 available — Path to the Grave never actually used (Flame Strike chosen instead both times)
+- Boon of Recovery: available (fresh, never used)
+- **Milestone (Session 53, the Reckoning House):** earned the **Boon of Recovery** (see Features) for the destruction of Kathrivex's avatar and the count's final, safe closure — already at class cap, so an Epic Boon rather than a new level.
 - **Milestone level-up (Session 51, the ward-ruin camp):** Cleric 19 → 20 — **max**, character level 20 — earned alongside the rest of the party for the Ashpit mystery's resolution and Rurik's survival of the Voreth duel. Proficiency bonus stays +6. Divine Intervention now succeeds automatically. No ASI at this level (Cleric ASI levels are 4/8/12/16/19, already taken). Rolled +5 (d8) + CON mod 2, now **136 max**.
 - **Divine Intervention, used (Session 51):** freshly 20th level, called on Thossia to answer a direct question — whether something in false judgment over mortals still owes a debt. Succeeded automatically (no roll needed at 20th level). Thossia confirmed Kathrivex's authority is structurally illegitimate and named the target without a place: "the seat where every debt not yet an anomaly still resolves." Can't be used again for 7 days.
 - **Death Ward, spent to real effect (Session 51):** cast on Rurik before the walk to the burned court's gate; absorbed what should have been a killing blow from Voreth in round 3 of the duel, dropping him to 1 HP instead of 0. Barred from further aiding him once the duel began, by its own terms.

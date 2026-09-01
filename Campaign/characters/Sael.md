@@ -1,7 +1,7 @@
 # Sael
 
 **Race:** Wood Elf
-**Class & Level:** Druid 19 (Circle of the Moon)
+**Class & Level:** Druid 20 (Circle of the Moon) — max
 **Background:** Hermit
 **Alignment:** Neutral Good
 
@@ -12,7 +12,7 @@
 
 ## Combat
 - **AC:** 16 (studded leather, non-metal, + wooden shield)
-- **HP:** 133 / 133
+- **HP:** 143 / 143
 - **Hit Dice:** 19d8
 - **Speed:** 35 ft (Wood Elf)
 - **Passive Perception:** 21
@@ -56,6 +56,7 @@
 - **Ability Score Improvement (lvl 12):** +2 WIS (18 → 20, reflected above).
 - **War Caster (feat, lvl 16, Session 42):** advantage on Constitution saving throws to maintain concentration; can perform somatic spell components with her hands full (weapon/shield); can cast a spell as a reaction in place of an opportunity attack. Taken in place of an ASI since WIS was already at the 20 cap.
 - **Beast Spells (lvl 18, Session 48/49):** can perform the verbal and somatic components of a druid spell while in beast shape — no longer locked out of spellcasting just for being wildshaped (material components still out of reach without hands).
+- **Archdruid (lvl 20, Session 53):** class capstone — can use Wild Shape an unlimited number of times, and can ignore the verbal and somatic components of her spells, along with any material component that lacks a cost and isn't consumed by the spell. Effectively never runs dry on shapeshifting again.
 
 **Hermit**
 - **Discovery:** during her years alone in the wild, uncovered a genuine, profound truth — the existence of a real bear-spirit tied to acts of mercy in extremity, and her own part in one of its rare interventions.
@@ -80,12 +81,13 @@ A solitary bear-kin druid, part of an old, informal tradition rather than any or
 Rather than reveal herself, she chose to watch from a distance — telling herself it was to protect what the spirit had marked without her own shadow over his path, though she now admits some of it was simply not knowing how to explain any of it without sounding mad. She surfaced briefly and anonymously behind Old Harlan's Forge in Ravensmoor, and again at the Bear Cave — both times vanishing before she could be caught, until Darkhawk and Mara finally closed the distance on her in the Greyhorn foothills.
 
 ## Current Status
-- Conditions: elf form, no longer poisoned — end of Session 49, back at Corren's Landing, fully regrouped
-- HP: 133 / 133 (full — end of Session 51, ward-ruin camp, fully rested)
+- Conditions: elf form — end of Session 53, the Reckoning House's anchor chamber, untouched by Kathrivex directly (Sculpted Spell/positioning kept her clear of the worst of it)
+- HP: 143 / 143 (full)
+- **Milestone level-up (Session 53, the Reckoning House):** Druid 19 → 20 — max — earned for the destruction of Kathrivex's avatar and the count's final, safe closure. Gained **Archdruid**. Rolled +7 (d8) + CON mod 3, now **143 max**.
 - **A readied Thunderwave, decisive (Session 51):** held her action against a second devil ambush (Horned Devil + 2 Bearded Devils) until they closed range, then released her 9th-level slot as a maxed 10d8 Thunderwave — 50 damage to the Horned Devil alone, plus a 10-ft shove that broke Rurik's own readied attack window. Fully rested since; slot restored.
 - **Triceratops charges, decisive (Session 51):** Wild Shaped twice against Bone Devil A in the ambush; the second Trampling Charge dropped it prone for a bonus stomp. Barred from aiding Rurik during the Voreth duel by its own terms.
 - **Milestone level-up (Session 51, the ward-ruin camp):** Druid 18 → 19, taking **+2 CON (14 → 16)** as her ASI (Druid ASI levels: 4/8/12/16/19) — earned alongside the rest of the party for the Ashpit mystery's resolution and Rurik's survival of the Voreth duel. No new Circle of the Moon feature at this level. Rolled +8 (d8) + new CON mod 3, now **133 max**.
-- Wild Shape: 0/2 available (needs a rest)
+- Wild Shape: unlimited now (Archdruid, Session 53) — the old 2/rest tracking no longer applies
 - Spell slots: 4/4 1st, 2/3 2nd (Moonbeam), 3/3 3rd, 3/3 4th, 2/2 5th, 1/1 6th, 1/1 7th, 1/1 8th, 1/1 9th
 - **Milestone level-up (Session 48, the coastal town's stone house):** Druid 17 → 18 — earned alongside the rest of the party for the Keeper's destruction, the stone house's captives freed, and Malphestor's redemption breakthrough. Proficiency bonus stays **+6** (character level 18). Gained **Beast Spells**. Rolled +7 (d8) + CON mod 2, now **122 max**.
 - **Milestone level-up (Session 45, the full regional council):** Druid 16 → 17 — earned for the mountain keep's full resolution, Kathrivex's true origin uncovered, Malphestor recruited, a second Raven Queen audience won, and the full council's unanimous commitment against Kathrivex. Proficiency bonus now **+6** (character level 17); gained a 9th-level spell slot. Rolled +1 (d8) + CON mod 2, now **113 max**.

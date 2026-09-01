@@ -60,6 +60,7 @@ Fighting Style: **Archery** (+2 to attack rolls with ranged weapons, baked into 
 - **Vanish (lvl 14):** can take the Hide action as a bonus action. Can't be tracked by nonmagical means unless she chooses to leave a trail.
 - **Foe Slayer (lvl 20, Session 48/49):** once per turn, add her Wisdom modifier (+4) to the attack roll or the damage roll of an attack against a favored enemy — choosable before or after the roll, but before its effects apply.
 - **Epic Boon — Boon of Peerless Aim (Session 51, the ward-ruin camp):** earned alongside the rest of the party for the Ashpit mystery's resolution and Rurik's survival of the Voreth duel — already at her own class cap (Ranger 20), so the milestone grants an Epic Boon instead of a new level, same as Rurik. Her ranged attacks now ignore three-quarters and half cover, and she no longer suffers disadvantage on attack rolls at long range.
+- **Epic Boon — Boon of Combat Prowess (Session 53, the Reckoning House):** earned alongside the rest of the strike team for destroying Kathrivex's avatar and safely closing out the count. **When she takes the Attack action, she can make one additional attack as part of it** — stacks with Extra Attack and Dread Ambusher's bonus attack.
 - **Shadowy Dodge (lvl 15, Gloom Stalker):** when a creature she can see attacks her, can use her reaction to impose disadvantage on that attack roll.
 
 **Gloom Stalker (Ranger Archetype)**
@@ -96,10 +97,10 @@ A trapper and local guide who's worked the country around Kessick's Ford for yea
 What started as paid work became a real partnership, and — after Ravensmoor — something more. She's committed to standing with him at Thundertree when the time comes, whatever that costs either of them.
 
 ## Current Status
-- Conditions: none active — end of Session 51, back at the ward-ruin camp, fully rested
+- Conditions: none active — end of Session 53, the Reckoning House's anchor chamber. Untouched all fight; never took a single hit from Kathrivex.
 - HP: 140 / 140 (full)
-- Spell slots: all full after a long rest
-- Deep Water's Stillness: available
+- Spell slots: one 3rd-level spent (Conjure Animals, four wolves), one 1st-level spent (Hunter's Mark). Rest untouched.
+- Deep Water's Stillness: available (never needed)
 - Inspiration: no
 - **The Bone Devil ambush (Session 51):** opened with a Dread Ambusher volley (crit plus two more hits, 60 damage) that nearly dropped Bone Devil B before it could act; finished it two rounds later. Barred from aiding Rurik during the Voreth duel by its own terms — stood by, unable to help, until Voreth himself called it decided.
 - **Milestone level-up (Session 48, the coastal town's stone house):** Ranger 19 → 20 — earned alongside the rest of the party for the Keeper's destruction, the stone house's captives freed, and Malphestor's redemption breakthrough. Character level 20 — **max** for her class; proficiency bonus stays +6. Gained **Foe Slayer**. Rolled +10 (d10) + CON mod 1, now **140 max**.
