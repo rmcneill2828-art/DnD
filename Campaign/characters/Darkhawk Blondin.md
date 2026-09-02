@@ -99,7 +99,9 @@
 - Hunting trap
 - An animal trophy from the mountains (flavor: a carved tusk or claw, last physical tie to a tribe he barely remembers)
 - Traveler's clothes
-- 2,176 gp (620 gp carried in + 40 gp from a forced strongbox + 340 gp from the road-battle shipment, Session 44, the mountain keep + 62 gp from the stone house's fallen guards + 84 gp from the Keeper's dais wreckage + 210 gp from its private study's strongbox, Session 48 + 340 gp from the Warden's dais strongbox + 480 gp from Ashworn's office coffer, Session 49). Farmer's fire-tool commission still in progress, unpaid.
+- 3,576 gp (620 gp carried in + 40 gp from a forced strongbox + 340 gp from the road-battle shipment, Session 44, the mountain keep + 62 gp from the stone house's fallen guards + 84 gp from the Keeper's dais wreckage + 210 gp from its private study's strongbox, Session 48 + 340 gp from the Warden's dais strongbox + 480 gp from Ashworn's office coffer, Session 49 + 1,400 gp from Kathrivex's own private strongbox, Session 53, the Reckoning House). Farmer's fire-tool commission still in progress, unpaid.
+- **Kathrivex's private ledgers** (Session 53, the Reckoning House) — recovered from a hidden compartment beneath the anchor's dais. Two entries of real note: **Ravask's actual seat of operation**, named directly rather than guessed at; and a short, uncertain notation on **Kellidra** — *"compliance uncertain. Monitor, do not escalate without cause"* — suggesting even Kathrivex was never fully sure of her loyalty.
+- **A small carved wooden bird** (Session 53, the Reckoning House) — crude, handmade, decades old, no magic detected. Found oddly out of place among Kathrivex's cold administrative records. Origin and significance unknown.
 - ~~A case of uncut rubies~~ — given to Alara (Session 51) to accelerate the enchanter search.
 - ~~Fire-touched black opals~~ — given to Alara (Session 51) to accelerate the enchanter search.
 - **A regional accounting of the Court Above's tribute network** (Session 49) — lists active sites the party never knew existed, alongside the mountain keep (marked "lapsed, unrecovered") and Corren's Landing (marked "lapsed, contested").
