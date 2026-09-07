@@ -90,8 +90,9 @@ Nobody in Ravensmoor's fairground district knew her by anything but "the Spark" 
 Sael found her in an alley near the fairground's edge, approached with the same patient stillness she'd once wished someone had shown her, and told her the truth about her own years of isolation before asking anything in return. That honesty — and later, a direct, unflinching conversation with Rurik about the difference between raw ability and actual power (choice, freedom) — was enough to bring her in. A brief connection to all four sentinel guardians, arranged so she could feel firsthand that others had survived exactly this kind of fear, sealed it. She joined the party at Ravensmoor, chosen freely rather than recruited, on the promise that Urskelde deals in chaos and unpredictability rather than trying to file her power down into something safer and smaller.
 
 ## Current Status
-- Conditions: none — end of Session 53, the Reckoning House's anchor chamber
-- HP: 89 / 108 (took a hit from Kathrivex's Audit Lash, psychic resistance potion softened it)
+- Conditions: none — end of Session 55, holding the cover story at Urskelde. Fully rested; wasn't present for the First Auditor confrontation itself.
+- HP: 108 / 108 (full — long rest since Session 53's fighting)
+- **Epic Boon — Boon of Fate (Session 55, the First Auditor's seat):** first Epic Boon — already at class cap (Sorcerer 20), so this milestone grants a boon rather than a new level. Earned holding Urskelde's cover story alone while the rest of the party found and reformed the First Auditor's whole broken office, with no idea how far the real plan had already moved past what she'd been told. **Once per day, when you or a creature you can see within 60 ft makes an attack roll, ability check, or saving throw, you can roll a d10 after seeing the result and add or subtract it — potentially turning success into failure or failure into success.**
 - **Wild Magic Surge counter: reset to 0 after Session 53's fight** (no surges triggered — Meteor Swarm, Quickened Firebolt, and Fireball all cast clean).
 - Sorcery points: 15/19 (2 spent on Quickened Firebolt, 1 on Sculpt Spell x2 for Meteor Swarm and Fireball — recheck exact spend if it matters later)
 - Spell slots: 9th (Meteor Swarm) and 7th (Fireball) both spent; rest untouched

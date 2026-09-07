@@ -45,6 +45,7 @@ Not a frontline fighter by her own admission — her value is spellcasting, ward
 - **Destroy Undead (lvl 14):** Turned undead of CR 3 or lower are instantly destroyed rather than merely turned.
 - **Divine Intervention** (lvl 10, auto-success at lvl 20 — Session 51): can call on Thossia directly to intervene. **As of 20th level, the call succeeds automatically — no percentile roll needed.** If used, can't be used again for 7 days.
 - **Epic Boon — Boon of Recovery (Session 53, the Reckoning House):** earned alongside the rest of the strike team for destroying Kathrivex's avatar and safely closing out the count — already at class cap (Cleric 20), so the milestone grants an Epic Boon instead of a new level. **Once per long rest, as an action, can restore 4d10 + 20 hit points, divided as she chooses among any number of creatures she can see within 60 feet.**
+- **Epic Boon — Boon of Spell Recall (Session 55, the First Auditor's seat):** earned holding Rurik and the Raven Queen and Thossia in one working at once, at the First Auditor's chair, so the debt of an entire office could be handed to both goddesses together rather than left with him alone. **Once per day, can regain one expended spell slot of 5th level or lower by finishing a short rest.**
 
 **Grave Domain**
 - **Domain spells (always prepared):** *Bane, False Life, Gentle Repose, Ray of Enfeeblement, Revivify, Vampiric Touch, Death Ward, Blight, Antilife Shell, Raise Dead.*
