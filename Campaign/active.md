@@ -1,10 +1,10 @@
 # Active Campaign
 
 **Campaign:** Lost Mine of Phandelver (`Campaign/campaigns/lost-mine-of-phandelver/`)
-**Character (player):** -- not yet created (make them in Campaign OS 3D's Characters window, level 1; the sheet lands in `Campaign/characters/`)
-**Party (DM-run companions):** -- none yet (optional: the adventure expects four or five characters -- see `campaigns/lost-mine-of-phandelver/dm-notes.md`)
+**Character (player):** Roathwar Glavin (`characters/Roathwar Glavin.md`) -- Goliath Barbarian 1, dual handaxes
+**Party (DM-run companions):** Tamsin Vael (Half-Elf Wild Magic Sorcerer 1), Brenna Hearthshield (Hill Dwarf Life Cleric 1), Corin Thistlewick (Lightfoot Halfling Rogue 1) -- sheets in `characters/`
 
-**Previously:** -- (no sessions yet; the story starts on the Triboar Trail with Gundren Rockseeker's supply wagon)
+**Previously:** Session 1 (2026-10-11) -- goblin ambush at two dead horses on the Triboar Trail; three goblins killed, one fled north. Stopped right after the fight: horses and bodies unsearched, no rest yet. See `campaigns/lost-mine-of-phandelver/session-log.md`.
 
 **Last session:** --
 
