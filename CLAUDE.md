@@ -12,6 +12,17 @@ Full rulebooks and adventure modules live alongside this folder — consult them
 
 Default ruleset: D&D 5th Edition (2014 rules, matching the PHB/DMG/MM in this library) unless the user asks to use 5.5e/2024 rules for a specific campaign.
 
+## Maps and tokens layout (outside the repo)
+
+Map and token art is not stored in this repo (`Maps/`, `Maps-DM/` and `Tokens/` are git-ignored). On disk it lives under `OneDrive\DND\`, and Campaign-OS connects to two of the three folders:
+
+- `Maps\` -- player-safe maps only; this is the folder Campaign-OS's Maps Folder connection reads, so anything here can reach the player window.
+  - `Campaigns\<Campaign>\Battle Maps\` and `Handouts\` -- play maps for each campaign (the Grid version where a map has variants, because the 2D to 3D import builds the floor from the printed grid). Alternate versions of a play map go in `_Alternates\` beside it.
+  - `_Library\Sets\<Map name>\` -- one map in its plain, Grid, HD and R20 versions, or a multi-level map with all its floors, kept together with the original filenames.
+  - `_Library\<Theme>\` -- Dungeon, Wilderness, Settlement, Ship-Water, Lair, Planar.
+- `Maps-DM\<Campaign>\` -- DM-only material: keyed maps (traps, enemy placement, triggers) using the same filenames as the play maps, key files and prep documents. It sits beside `Maps\`, never inside it, and is never connected to Campaign-OS or shared with players.
+- `Tokens\` -- `Heroes\Core\<Class>`, `Monsters\<Type>`, `NPCs\<Species>`, `Mounts`, and `_Unsorted`. Filenames are unchanged; the Tokens Folder connection indexes subfolders.
+
 ## Campaign structure
 
 Active play state lives in `Campaign/`:
