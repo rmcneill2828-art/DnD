@@ -78,7 +78,10 @@ of them, which is exactly the thing he can't say out loud.
 ## Current Status
 - Conditions: none
 - Inspiration: no
-- HP: 1 / 10 (end of Session 1)
+- HP: 10 / 10 (long rest; end of Session 2)
 - Notes: Session 1 (2026-10-14). Dropped to 0 by a crab critical and brought back by Kairon's patron.
   A memory is missing (not yet identified). Tastes salt. Carries Tam Harrow's brass key. Belt pouch:
-  about 34 gp. Holds the Wharf Row ledger and a chart marked "the Founders' lock".
+  about 34 gp. Holds a chart marked "the Founders' lock".
+  Session 2 (2026-10-14): Told his parents about the warehouse and the lost memory; was given
+  Augustin Marlowe's salvage log. Told Helja and Kairon who he really is (House Marlowe). Wears the
+  Marlowe signet ring (key to the stone at Berth 14). Quill took the ledger.

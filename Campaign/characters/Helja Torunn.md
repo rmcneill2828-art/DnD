@@ -73,3 +73,6 @@ gang as a girl because they fed her. She keeps the gang's code -- only take from
 - Inspiration: no
 - Notes: Session 1 (2026-10-14). Took Tam Harrow to the hospice and helped bring the Hollowed in. Her
   hymn failed in the street (a bad roll), which stung her pride. Named "obstruction" in the ledger.
+  Session 2 (2026-10-14): Healed Lucan (Cure Wounds). Woke Isaura with the hymn (this time it held).
+  Tied her red cord across the Marlowe cellar door with a line of salt. Knows Lucan is a Marlowe.
+  Full slots after the long rest.

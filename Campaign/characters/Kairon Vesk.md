@@ -72,3 +72,6 @@ gang's "robbing those who deserve it" code allows.
 - Inspiration: no
 - Notes: Session 1 (2026-10-14). Pact slot spent (Hex). Begged his patron for Lucan's life and was answered;
   owes "a fair price". Heard the voice speak through Quill and call out "the one with the ring".
+  Session 2 (2026-10-14): Confessed the call to Helja and Lucan. Learned Lucan is a Marlowe; was angry,
+  then understood. Full slots after a long rest. Has a string under his collar he touches when "pearl"
+  is mentioned.

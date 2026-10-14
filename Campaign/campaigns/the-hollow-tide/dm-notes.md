@@ -155,6 +155,22 @@ Heist-and-battle on the drained harbour floor; Ulthuun's lair; the Last Con.
 - Brannick (Aldersey's friend) is a loose thread; use him as a recurring watcher or rival.
 - Process lesson: do not batch several combat rounds of rolls for the party's side; run one roll at a time.
 
+## 9c. Session 2 deviations (what actually happened)
+- **Lucan's secret is out with Helja and Kairon** (earlier than planned), at the Marlowe kitchen, voluntarily.
+  Kairon's anger resolved quickly through the "what would you want?" scene. Keep the reconciliation, but
+  let the sting stay: he now knows Lucan could have helped the crew with money.
+- **Gerard told Lucan the whole levy**: blood and a memory each spring for 60 years. He stopped in Ches.
+  The Mother said it would need "the next of my blood". Isaura sleepwalks. Use as stage-1 pressure.
+- **Quill took the ledger** back (he keeps the names). Quill and the ledger are headed for the harbour;
+  decide where he ends up (House of Salt, Gullet Lane cellar) and when the party next sees him.
+- **Vossen** is afraid (of Ulthuun, and of the party). He wears a black pearl. His men watch the Marlowe
+  house and Lucan's garret. His noon meeting at Berth 14 on 4 Kythorn is a trap *and* an opening: he can't
+  open the stone without a Marlowe. He will bargain.
+- **The Mother's lines**: "Marlowe, come down" (the chorus); "I have heard that cadence before, in the
+  water." The aboleth knows the family. The stone is the lock at Berth 14, not the Drowned Vault itself.
+- The Marlowe cellar connects to the old salvage tunnel under the harbour (not yet explored).
+- Brannick (Aldersey's friend) is still a loose thread.
+
 ## 10. Hooks per character
 - **Lucan's secret (set by the player, 2026-10-14):** he's a scion of **House Marlowe**, a wealthy
   Upper City trading family; the crew doesn't know. His parents keep summoning him. **Tie-in:**
