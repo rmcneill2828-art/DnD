@@ -1,7 +1,7 @@
 # Kairon Vesk
 
 **Race:** Tiefling (Asmodeus bloodline)
-**Class & Level:** Warlock 1 -- Great Old One (planned: Sorcerer multiclass, Wild Magic or Shadow)
+**Class & Level:** Warlock 1 / Sorcerer 1 (character level 2) -- Great Old One; Wild Magic sorcery (innate, since the pearl went quiet)
 **Background:** Criminal (Spy)
 **Alignment:** Chaotic Neutral
 **DM-run companion**
@@ -15,8 +15,8 @@
 
 ## Combat
 - **AC:** 12 (leather armor 11 + DEX 1)
-- **HP:** 10 / 10
-- **Hit Dice:** 1d8
+- **HP:** 15 / 15 (rolled d6: 3 + 2 CON)
+- **Hit Dice:** 1d8 (Warlock) + 1d6 (Sorcerer)
 - **Speed:** 30 ft.
 - **Initiative bonus:** +1
 - **Passive Perception:** 11
@@ -42,13 +42,19 @@
 - **Awakened Mind (Great Old One).** Telepathy within 30 ft., one-way; the target need not share a language.
 - **Pact Magic.** One 1st-level slot, regained on a short or long rest.
 - **Criminal Contact (Criminal).** A reliable contact who passes messages and information through the underworld.
+- **Spellcasting (Sorcerer).** Charisma. Two 1st-level slots, separate from his Pact slot.
+- **Wild Magic Surge (Sorcerer).** After casting a leveled sorcerer spell, the DM may call for a d20; on a 1, roll on the Wild Magic table.
+- **Tides of Chaos (Sorcerer).** Once per long rest, advantage on one attack, check or save; the DM may then trigger a surge to regain it.
 
 ## Spellcasting (if applicable)
 - Spellcasting ability: Charisma
 - Spell save DC / attack bonus: DC 13 / +5
 - Pact slots: 1 (1st level)
 - Cantrips: Eldritch Blast, Minor Illusion, Thaumaturgy (racial)
-- Spells known: Hex, Charm Person
+- Warlock (Pact): Hex, Charm Person
+- Sorcerer cantrips: Fire Bolt, Mage Hand, Prestidigitation, Ray of Frost
+- Sorcerer spells known: Shield, Magic Missile
+- Sorcerer save DC / attack bonus: DC 13 / +5
 
 ## Equipment
 - Light crossbow and 20 bolts, 2 daggers, leather armor

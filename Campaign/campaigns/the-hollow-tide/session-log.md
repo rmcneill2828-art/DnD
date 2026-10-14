@@ -70,3 +70,33 @@ Hex slot spent. Helja at the hospice with Tam, Quill and eleven sleeping dockhan
 **End state:** All three at full HP and slots. The party is in the Marlowe kitchen, a little past midnight on
 the night of 2-3 Kythorn. Lucan's cover is gone with Helja and Kairon. Isaura is asleep upstairs; Gerard
 and Barrow know everything. Vossen expects Lucan at Berth 14 at noon on 4 Kythorn.
+
+## Session 3 -- 2026-10-14 (3 Kythorn, 1492 DR)
+
+**Party:** Lucan Marlowe, Helja Torunn, Kairon Vesk. Now **level 2** (Rogue 1/Bard 1, Cleric 1/Paladin 1, Warlock 1/Sorcerer 1).
+
+- **The watcher.** Before dawn Lucan lost sight of the man in the grey coat, heard the scullery window, and
+  caught him picking at Helja's red cord on the cellar door. Intimidation failed; the man tore the cord and
+  burned his palm doing it ("better your steel than her silence"). Lucan retied it. Kairon charmed him.
+- **Orrin Tace**, Vossen's hired watcher. He wore a **black pearl** from "the Singers" and said Vossen sent him
+  to open the cellar so Isaura would walk down and Lucan follow. Lucan talked him out of the pearl. Vossen is
+  terrified: he owes the Mother a Marlowe's blood by the Dry Night or she'll **keep** him. Orrin also confirmed
+  a salvage tunnel from the Marlowe cellar to Berth 14.
+- **Kairon gave up his own pearl** (a tiny one, worn since age 12). The voice in his head went silent for the
+  first time in fourteen years. Gerard produced Augustin's lead-lined dispatch case; both pearls were sealed
+  with salt, and the "listening" stopped. Lucan carries the case in a satchel.
+- **Gerard** told them what Augustin said: the Mother **plants** pearls in the lonely young and listens through
+  them. Lead and salt silence them. A third pearl (Augustin's) sits sealed in the study safe.
+- **Breakfast** in the Marlowe kitchen. Lucan said "Vossen has to pay"; even Helja agreed. Orrin described
+  Vossen's counting-house on Quay Row (ten private guards, a strongroom, the **master ledger** on a chain).
+- **The salvage log.** The earlier pages use a tide cipher (shift back by the margin number). Lucan worked out
+  the last six pages' cipher from the anchor sketched in the corner: key **ANCHOR**, a repeating shift. It is a
+  letter from Augustin to Lucan: she believes what she keeps, so give her a false memory sweet enough to hold;
+  the **Remembrance** under the Seatower holds every stolen name (carry it up and they remember); the ring is
+  key and leash; "do not go down when it is low."
+- **Gerard recalled** Augustin taking seven-year-old Lucan to the quay at the lowest tide and telling him a
+  word. That is the memory the Mother took. Lucan's own memory-search recovered its shape, not the word.
+- **Level up.** Rogue 1/Bard 1 (his instrument is his voice; he speaks and sings in rhyme).
+
+**End state:** All three at full HP and slots (maxes: Lucan 13, Helja 14, Kairon 15). Morning of 3 Kythorn in the
+Marlowe kitchen. Vossen expects Lucan at Berth 14 at noon on 4 Kythorn.

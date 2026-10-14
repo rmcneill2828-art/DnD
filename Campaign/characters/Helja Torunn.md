@@ -1,7 +1,7 @@
 # Helja Torunn
 
 **Race:** Mountain Dwarf
-**Class & Level:** Cleric 1 -- Life Domain, devoted to Ilmater (planned: Paladin multiclass, probably Oath of Redemption or Devotion)
+**Class & Level:** Cleric 1 / Paladin 1 (character level 2) -- Life Domain, devoted to Ilmater (Paladin oath at Paladin 3: Redemption or Devotion)
 **Background:** Acolyte
 **Alignment:** Lawful Good
 **DM-run companion**
@@ -15,8 +15,8 @@
 
 ## Combat
 - **AC:** 18 (chain mail 16 + shield 2)
-- **HP:** 10 / 10
-- **Hit Dice:** 1d8
+- **HP:** 14 / 14 (rolled d10: 2 + 2 CON)
+- **Hit Dice:** 1d8 (Cleric) + 1d10 (Paladin)
 - **Speed:** 25 ft. (not reduced by armor)
 - **Initiative bonus:** +0
 - **Passive Perception:** 12
@@ -44,6 +44,8 @@
 - **Heavy armor proficiency (Life Domain).**
 - **Shelter of the Faithful (Acolyte).** Free care at temples of her faith; supporters in the faithful.
 - **Spellcasting.**
+- **Divine Sense (Paladin 1, 3 uses per long rest).** Action: until the end of next turn, sense celestials, fiends and undead within 60 ft.
+- **Lay on Hands (Paladin 1).** Pool of 5 HP of healing per long rest, by touch, or cure a disease or poison for 5 points.
 
 ## Spellcasting (if applicable)
 - Spellcasting ability: Wisdom

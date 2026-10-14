@@ -1,7 +1,7 @@
 # Lucan Marlowe
 
 **Race:** Half-Elf
-**Class & Level:** Rogue 1 (planned: Swashbuckler Rogue / College of Swords or Lore Bard multiclass)
+**Class & Level:** Rogue 1 / Bard 1 (character level 2; Swashbuckler at Rogue 3, College of Swords or Lore at Bard 3)
 **Background:** Charlatan
 **Alignment:** Chaotic Good
 **Player character** (played by the user)
@@ -15,8 +15,8 @@
 
 ## Combat
 - **AC:** 15 (leather armor 11 + DEX 4)
-- **HP:** 10 / 10
-- **Hit Dice:** 1d8
+- **HP:** 13 / 13 (rolled d8: 1 + 2 CON)
+- **Hit Dice:** 1d8 (Rogue) + 1d8 (Bard)
 - **Speed:** 30 ft.
 - **Initiative bonus:** +4
 - **Passive Perception:** 12
@@ -33,7 +33,7 @@
 
 ## Proficiencies & Skills
 - **Saving throws:** Dexterity +6, Intelligence +2
-- **Skills:** Acrobatics +8 (expertise), Deception +7 (expertise), Insight +2, Investigation +2, Perception +2, Persuasion +5, Sleight of Hand +6, Stealth +6
+- **Skills:** Acrobatics +8 (expertise), Deception +7 (expertise), Insight +2, Investigation +2, Perception +2, Performance +5 (Bard multiclass skill), Persuasion +5, Sleight of Hand +6, Stealth +6
 - **Languages:** Common, Elvish, Halfling, Thieves' Cant
 - **Tools/weapons/armor:** Light armor; simple weapons, hand crossbows, longswords, rapiers, shortswords; thieves' tools, disguise kit, forgery kit
 
@@ -44,10 +44,17 @@
 - **Expertise.** Proficiency bonus doubled for Acrobatics and Deception.
 - **Sneak Attack (1d6).**
 - **Thieves' Cant.**
+- **Bardic Inspiration (d6, 3 uses per long rest).** Bonus action: give a creature within 60 ft. a d6 to add to one check, attack or save in the next 10 minutes.
+- **Spellcasting (Bard).** Charisma. His instrument is his voice; he sings and speaks in rhyme, and the voice is his spellcasting focus.
+- **Multiclass proficiencies gained:** light armor (already had), one skill (Performance), one instrument (his voice).
 - **False Identity (Charlatan).** A second, documented identity; contacts able to forge papers and letters.
 
 ## Spellcasting (if applicable)
-- None yet (Bard levels later).
+- Spellcasting ability: Charisma
+- Spell save DC / attack bonus: DC 13 / +5
+- Spell slots: 1st level x2
+- Cantrips: Vicious Mockery, Prestidigitation
+- Spells known: Disguise Self, Healing Word, Silent Image, Dissonant Whispers
 
 ## Equipment
 - Rapier, shortbow and 20 arrows, 2 daggers
