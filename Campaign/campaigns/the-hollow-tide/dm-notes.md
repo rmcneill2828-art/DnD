@@ -156,6 +156,11 @@ Heist-and-battle on the drained harbour floor; Ulthuun's lair; the Last Con.
   - Ensure the Last Con needs *Lucan's name and access* (the Marlowe seal, the family's harbour
     berth) -- the thing he tried to leave behind is the key to the heist.
   - Kairon reads "risk low" as caution; truth is Lucan is protecting the secret and the crew.
+  - **Grandfather's past (player-set):** the Marlowes are respectable now, but the grandfather broke
+    laws to build the house. Make it the *same* kind of crime the Hollowing feeds on: his first
+    fortune came from salvage rights on a wreck he shouldn't have touched near the Seatower, and
+    the family's old harbour berth has a Balduran-era seal mark that matches the vault's. The
+    "debt" the Marlowes owe is the thing that makes Lucan's name a key (see the Last Con).
 - **Lucan:** the Silver Gull's duel; a reputation he's proud of that could make him a target.
 - **Helja:** her Ilmater hospice fills with the Hollowed; a chance to save them or be broken by them.
 - **Kairon:** the bigger scores; the voice; the sorcerer's choice.

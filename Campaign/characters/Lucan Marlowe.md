@@ -64,7 +64,8 @@
 ## Backstory
 **The secret (the gang doesn't know):** Lucan is a child of **House Marlowe**, an old, wealthy
 trading family of the Upper City. He walked out of that life as a young man and made himself a
-Lower City nobody. He still has the money and the name if he wants them. His parents keep drawing
+Lower City nobody. The family is respectable now, but his grandfather broke a few laws and rules to get them there --
+a past the Marlowes don't discuss. He still has the money and the name if he wants them. His parents keep drawing
 him back in -- dinners, favours, summons -- and he keeps going, and keeps lying to the crew about
 where he's been. He's cocky because he's never actually been poor, and a part of him knows it.
 
