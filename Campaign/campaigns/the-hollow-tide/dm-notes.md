@@ -144,6 +144,17 @@ Heist-and-battle on the drained harbour floor; Ulthuun's lair; the Last Con.
 4. **Kairon's patron:** (a) the telepathy "echoes" at low tide; (b) Helja's dream-warning;
    (c) a matching mark in the vault.
 
+## 9b. Session 1 deviations (what actually happened)
+- Ulthuun spoke through Quill (earlier than planned) and referred to Lucan's "cadence" and "the one with
+  the ring". It knows the Marlowe cadence from Lucan's grandfather. Kairon heard.
+- Giant crabs ambushed Lucan; a critical dropped him to 0. Kairon called his patron. **Ulthuun saved Lucan:**
+  the crabs withdrew at its word and Lucan woke at 1 HP. **Price taken:** a memory, unnamed. Decide what it
+  is (suggest: the memory of *why* he left House Marlowe, or his grandfather's face) and reveal it when it
+  hurts. **Kairon owes "a fair price"** (see section 4). Use this as the first lever on Kairon.
+- The ledger lists Helja as "obstruction" and Kairon as "the Mother's own". Helja is a priority target.
+- Brannick (Aldersey's friend) is a loose thread; use him as a recurring watcher or rival.
+- Process lesson: do not batch several combat rounds of rolls for the party's side; run one roll at a time.
+
 ## 10. Hooks per character
 - **Lucan's secret (set by the player, 2026-10-14):** he's a scion of **House Marlowe**, a wealthy
   Upper City trading family; the crew doesn't know. His parents keep summoning him. **Tie-in:**

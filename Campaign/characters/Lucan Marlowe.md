@@ -78,4 +78,7 @@ of them, which is exactly the thing he can't say out loud.
 ## Current Status
 - Conditions: none
 - Inspiration: no
-- Notes: Session 0 build (2026-10-14).
+- HP: 1 / 10 (end of Session 1)
+- Notes: Session 1 (2026-10-14). Dropped to 0 by a crab critical and brought back by Kairon's patron.
+  A memory is missing (not yet identified). Tastes salt. Carries Tam Harrow's brass key. Belt pouch:
+  about 34 gp. Holds the Wharf Row ledger and a chart marked "the Founders' lock".

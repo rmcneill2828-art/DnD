@@ -70,4 +70,5 @@ gang's "robbing those who deserve it" code allows.
 ## Current Status
 - Conditions: none
 - Inspiration: no
-- Notes: Session 0 build (2026-10-14).
+- Notes: Session 1 (2026-10-14). Pact slot spent (Hex). Begged his patron for Lucan's life and was answered;
+  owes "a fair price". Heard the voice speak through Quill and call out "the one with the ring".
