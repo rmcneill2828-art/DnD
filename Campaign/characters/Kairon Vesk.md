@@ -55,11 +55,11 @@
 - Arcane focus (crystal), dungeoneer's pack, crowbar, dark common clothes with hood
 - Belt pouch: 15 gp
 
-## Personality (PROVISIONAL -- to be refined with the player)
-- Traits: Charming, quick, always working an angle. Dislikes being told the limit.
+## Personality
+- Traits: Craves power and money; as a sorcerer and a warlock, borrowed and innate power both call to him. Always working an angle, always at Lucan's ear with the next, bigger plan.
 - Ideals: Ambition. Nobody was ever pulled out of the gutter by playing small.
-- Bonds: The gang; Lucan is the brother he chose, and Helja the conscience he can't quite ignore.
-- Flaws: Greed for the next, bigger score; dismissive of risks he thinks others are exaggerating.
+- Bonds: Lucan is the brother he chose and the one he most wants to impress; Helja is the conscience he can't quite ignore. He's sure Lucan could be a real power in the city and doesn't see why he won't be.
+- Flaws: Greed for the next score; dismissive of risks he thinks others exaggerate -- and when Lucan holds him back, he resents it.
 
 ## Backstory
 A Lower City tiefling kid who learned early that people look at his horns before his face. The

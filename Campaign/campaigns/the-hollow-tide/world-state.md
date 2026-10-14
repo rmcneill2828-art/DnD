@@ -18,6 +18,7 @@ _Living tracker -- active threads only. Full history lives in session-log.md._
 ## Locations Discovered
 | Name | Notes |
 |------|-------|
+| The Leaky Lantern | Lower City inn; the crew's regular table. Cards, gambling cons, gossip. |
 
 ## Quest Log
 | Quest | Status | Notes |

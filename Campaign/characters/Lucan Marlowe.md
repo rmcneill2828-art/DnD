@@ -52,19 +52,27 @@
 ## Equipment
 - Rapier, shortbow and 20 arrows, 2 daggers
 - Leather armor, burglar's pack, thieves' tools
-- Fine clothes, disguise kit, tools of the con (weighted dice, marked cards)
+- Fine clothes, disguise kit, tools of the con (weighted dice, marked cards, and a signet ring he tells everyone is a forgery of an imaginary duke's -- it isn't)
 - Belt pouch: 15 gp
 
-## Personality (PROVISIONAL -- to be refined with the player)
-- Traits: Never walks into a room; makes an entrance. Always has a quip loaded.
-- Ideals: Freedom. Nobody should be owned, least of all by debt or by a lord.
-- Bonds: The gang -- Helja and Kairon are the only family he'd bleed for, and he'd never say so.
-- Flaws: Overconfident. Would rather win beautifully than win safely.
+## Personality
+- Traits: Charming first, rogue second. Never walks into a room, makes an entrance. Always has a quip loaded.
+- Ideals: Proving he's different. Nobody should suffer because someone richer didn't care -- and he knows exactly how that sounds, coming from him.
+- Bonds: Helja and Kairon are the family he chose. He keeps the peace between them and would never admit how much it matters.
+- Flaws: Overconfident; would rather win beautifully than win safely. Keeps a secret from the people he trusts most.
 
 ## Backstory
-Grew up in the Lower City of Baldur's Gate with Helja Torunn and Kairon Vesk. The three worked small
-cons and thefts -- never murder, rarely hurt anyone -- enough to eat and to hand something back to
-those who had nothing. More detail to be filled with the player.
+**The secret (the gang doesn't know):** Lucan is a child of **House Marlowe**, an old, wealthy
+trading family of the Upper City. He walked out of that life as a young man and made himself a
+Lower City nobody. He still has the money and the name if he wants them. His parents keep drawing
+him back in -- dinners, favours, summons -- and he keeps going, and keeps lying to the crew about
+where he's been. He's cocky because he's never actually been poor, and a part of him knows it.
+
+He met Helja and Kairon in the Lower City and found something that felt more real than his family
+ever had. The crew's table at the Leaky Lantern is the only place he feels like himself.
+
+The crew steals from the rich and the cruel and hands it down. Lucan does it to prove he isn't one
+of them, which is exactly the thing he can't say out loud.
 
 ## Current Status
 - Conditions: none

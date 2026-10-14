@@ -8,10 +8,12 @@ Fights are frequent and have teeth; not everyone can be talked down. Wit, nerve 
 matter as much as steel.
 
 ## Premise
-Lucan Marlowe, Helja Torunn and Kairon Vesk grew up together in the Lower City of Baldur's Gate and
-run a small crew: clever cons and quiet thefts that never really hurt anyone -- just enough to
-survive, and a little extra for those who have less. Kairon always wants the bigger score; Helja
-wants the gang to take only from those who've earned it. Lucan keeps the peace with a grin.
+Lucan Marlowe, Helja Torunn and Kairon Vesk run a small crew out of the Lower City of Baldur's
+Gate: clever cons and quiet thefts that never really hurt anyone -- just enough to survive, and a
+little extra for those who have less. They have a table at the Leaky Lantern, where they play
+cards, fleece tourists with gambling games and listen for the rich and powerful whose cruelty
+makes the poor suffer. Kairon always wants the bigger score; Helja wants the gang to take only
+from those who've earned it. Lucan keeps the peace with a grin, and keeps a secret of his own.
 
 Something is wrong in the Lower City. A pattern of low tides, sleepless nights and people who
 aren't quite themselves. Whatever it is, it's bigger than anything the crew has ever cheated.

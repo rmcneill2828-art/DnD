@@ -145,6 +145,17 @@ Heist-and-battle on the drained harbour floor; Ulthuun's lair; the Last Con.
    (c) a matching mark in the vault.
 
 ## 10. Hooks per character
+- **Lucan's secret (set by the player, 2026-10-14):** he's a scion of **House Marlowe**, a wealthy
+  Upper City trading family; the crew doesn't know. His parents keep summoning him. **Tie-in:**
+  House Marlowe holds harbour contracts and salvage shares through Vossen's licences, so his family
+  is entangled in the Hollowing -- knowingly or not. Use it for:
+  - A dinner scene where a parent is quietly Hollowed (Stage 2-3) or already complicit.
+  - A mid-campaign exposure: Kairon realises Lucan has money and power he never used, and wants
+    it used; Helja is hurt by the lie. This is the crew's real fracture, and the place their
+    reconciliation is earned.
+  - Ensure the Last Con needs *Lucan's name and access* (the Marlowe seal, the family's harbour
+    berth) -- the thing he tried to leave behind is the key to the heist.
+  - Kairon reads "risk low" as caution; truth is Lucan is protecting the secret and the crew.
 - **Lucan:** the Silver Gull's duel; a reputation he's proud of that could make him a target.
 - **Helja:** her Ilmater hospice fills with the Hollowed; a chance to save them or be broken by them.
 - **Kairon:** the bigger scores; the voice; the sorcerer's choice.

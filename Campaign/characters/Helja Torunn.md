@@ -57,11 +57,11 @@
 - Priest's pack, holy symbol of Ilmater, prayer book, vestments, incense
 - Belt pouch: 15 gp
 
-## Personality (PROVISIONAL -- to be refined with the player)
-- Traits: Gentle with the hurting, immovable with the cruel. Keeps a tally of who they've wronged and how to put it right.
-- Ideals: Justice for those the law ignores. Take only from those who earned it, and then give it away.
-- Bonds: Lucan and Kairon are her congregation; she believes she can still keep them honest.
-- Flaws: Inflexible. When she decides a line exists, it exists -- even if it costs the gang.
+## Personality
+- Traits: The voice of reason. Lectures when Kairon's plans get greedy -- patiently, then less patiently. Gentle with the hurting, immovable with the cruel.
+- Ideals: Justice for those the law ignores. Take only from those who earned it, then give it away.
+- Bonds: Lucan and Kairon are her congregation; she believes she can keep them honest. Lucan is the one who makes the argument bearable.
+- Flaws: Inflexible. When she decides a line exists, it exists, even if it costs the gang. Her moral clarity makes her blind to Lucan's secret.
 
 ## Backstory
 Raised in an Ilmater hospice in the Lower City after losing her family in a harbour fire. Joined the
