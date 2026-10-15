@@ -100,3 +100,39 @@ and Barrow know everything. Vossen expects Lucan at Berth 14 at noon on 4 Kythor
 
 **End state:** All three at full HP and slots (maxes: Lucan 13, Helja 14, Kairon 15). Morning of 3 Kythorn in the
 Marlowe kitchen. Vossen expects Lucan at Berth 14 at noon on 4 Kythorn.
+
+## Session 4 -- 2026-10-15 (3 Kythorn, 1492 DR, midday to four o'clock)
+
+**Party:** Lucan Marlowe (Rogue 1/Bard 1), Helja Torunn (Cleric 1/Paladin 1), Kairon Vesk (Warlock 1/Sorcerer 1), with Brannick (Vossen's contract guard, turned ally).
+
+- **Scouting Quay Row.** Lucan and Kairon watched Vossen's counting-house. Brannick, spotting them, warned them away
+  and then, when Lucan asked, agreed to take four contract men on a "fire drill", leave the quay door on the latch
+  and give them the one hour in which Vossen crosses to the harbour office (noon to one) with two pearl-men.
+- **The plan.** Helja rejoined (Lucan sent a rhyming note by the urchin Wick). Kairon's Charm Person on the
+  passage's pearl-man failed; Lucan lifted the other's pearl; Helja's red cord burned the first pearl to pieces,
+  freeing **Pyke** and **Old Marl**. Lucan dressed them in the broken halves as decoys and put the lights out.
+- **The trap sprang.** Vossen came down the stair with Harker and Dunn (both pearl-men). Pyke and Marl played
+  the beads; Vossen tested Marl; Lucan rushed. Helja and Lucan freed the two escorts, Kairon snatched
+  Vossen's lantern with Mage Hand, and Lucan lifted **Vossen's own pearl**. Vossen broke down.
+- **Vossen talked.** The licences, a chest of black pearls from a wreck, Maren Coldwater (High Tide-Mother,
+  priestess of Umberlee, truly believes it is the Storm Lady), the two locks (Berth 14's stone, the iron under
+  the Seatower) turned together on the Dry Night by a Marlowe and the Singers. Four houses paid: **Crowhurst &
+  Daughters**, **Captain-Admiral Iolo Tarn**, **High Tallyman Osric Penhallow** (Waukeen), **Magistrate Orla Venn**.
+  Wat Dunn (the second Dunn) was given to the Mother in Ches. Four hundred "rested" sit in the House of Salt.
+- **The strongroom.** Three pearls (large, medium, small, bottom to top) in three sockets opened the door.
+  The Mother spoke through the sockets and a bowl, offered back Lucan's memory for his hand, and told him
+  Augustin gave her his wife's name. Lucan defied her. The **Warden** (a giant octopus) came up the hatch and
+  was killed by the party and Brannick. Lucan and Helja shattered the thirty waiting pearls.
+- **Haul.** Master ledger (names, THE NIGHT: Pell 9 Flamerule; Helja "obstruction"; Dunmarrow in Eleint; Isaura
+  pending; "Marlowe, L. at the stone, third bell, 30 Eleint"); a letter from Maren (she turns the iron at the third
+  bell; Vossen delivers Lucan by the second); 50 gp; eleven chests (about 400 gp in silver, 150 gp of stolen church
+  plate, a chest of family heirlooms with name-tags, and a chest with three Singer robes, a bone flute, a white
+  tithe-shell and a **plan of the House of Salt**).
+- **Aftermath.** Vossen played his part for a fish-carter, then went into Sister Hesper's keeping in the hospice
+  laundry. Decided: return the coin to the families and chapels; keep the deeds (109, signed away to the harbour
+  office) as bait for the four houses; no family loses a roof.
+
+**End state:** Lucan 12/13 (no 1st-level slots, 1 Bardic Inspiration left, ears ringing); Helja 13/14 (no slots;
+Lay on Hands spent); Kairon 15/15 (Sorcerer slots full; Pact slot spent; holds a spare Inspiration d6 for a few
+minutes). Afternoon of 3 Kythorn, hospice on Candle Row. Vossen sleeps in the laundry. The dray holds the silver,
+plate, heirlooms and deeds. The Singers will notice Vossen's silent pearl.
