@@ -81,3 +81,6 @@ gang's "robbing those who deserve it" code allows.
   Session 2 (2026-10-14): Confessed the call to Helja and Lucan. Learned Lucan is a Marlowe; was angry,
   then understood. Full slots after a long rest. Has a string under his collar he touches when "pearl"
   is mentioned.
+  Session 4 (2026-10-15): Gave up his own pearl (the voice has been quiet since). Charmed a pearl-man, snatched
+  Vossen's lantern with Mage Hand, helped kill the Warden with Fire Bolt. Pact slot spent; Sorcerer slots full;
+  holds a spare Bardic Inspiration d6 for a few minutes. Argued for keeping a tenth of the silver, and lost.

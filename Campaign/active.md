@@ -4,7 +4,8 @@
 **Character (player):** Lucan Marlowe (`characters/Lucan Marlowe.md`) -- Half-Elf Rogue 1 (Swashbuckler / Bard planned)
 **Party (DM-run companions):** Helja Torunn (Mountain Dwarf Cleric 1, Life/Ilmater; Paladin planned), Kairon Vesk (Tiefling Warlock 1, Great Old One; Sorcerer planned) -- sheets in `characters/`
 
-**Last session:** Session 2 (2026-10-14) -- the Marlowe dinner and study, Vossen's pearl, Isaura's sleepwalking, Lucan's secret shared with the crew. See `campaigns/the-hollow-tide/session-log.md`.
+**Last session:** Session 4 (2026-10-15) -- Vossen's counting-house taken, the beaded guards freed, the strongroom opened and the Warden killed; Vossen in the hospice. See `campaigns/the-hollow-tide/session-log.md` (Session 3 is the cipher and level-up).
+**Party level:** 2 (Lucan Rogue 1/Bard 1, Helja Cleric 1/Paladin 1, Kairon Warlock 1/Sorcerer 1).
 
 **DM secrets:** `campaigns/the-hollow-tide/dm-notes.md` (spoilers -- do not read as player).
 

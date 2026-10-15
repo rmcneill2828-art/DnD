@@ -171,6 +171,23 @@ Heist-and-battle on the drained harbour floor; Ulthuun's lair; the Last Con.
 - The Marlowe cellar connects to the old salvage tunnel under the harbour (not yet explored).
 - Brannick (Aldersey's friend) is still a loose thread.
 
+## 9d. Session 4 deviations (what actually happened)
+- **The counting-house fell in one afternoon.** Vossen is broken, in the hospice; his pearl is in the lead case.
+  Use him as an unreliable witness and a moral problem for Helja and Brannick.
+- **The party now holds** the master ledger, Maren's letter, a plan of the House of Salt, three robes, a flute and
+  a tithe-shell, and all five pearls. The strongroom bowl is intact (a line to Ulthuun).
+- **Maren** (Priest, Tempest Domain) is still free and believes the Mother is Umberlee; Quill is with her with
+  the ledger copy. Wat Dunn is Hollowed in the House of Salt.
+- **The four houses** (Crowhurst, Tarn, Penhallow, Venn) are the next antagonists, and the deeds are their bait.
+  Penhallow knew more than he said; Crowhurst did not want to know.
+- **The Mother noticed**: the voice offered Lucan the memory and the word for his hand, and revealed that
+  Augustin traded his wife's name. Keep that cost in play; it is a lever on Lucan and a hint at what the Marlowe
+  line has paid.
+- **Brannick** is a stand-in sergeant ally; the freed lads will want Vossen to answer when Wat is out.
+- **Process notes:** Bardic Inspiration cannot target self (RAW). Resolve rounds with one roll per beat when a PC is
+  at risk; I rolled round batches of enemy and companion actions in this fight, which was fine for non-lethal
+  stakes but should stay careful.
+
 ## 10. Hooks per character
 - **Lucan's secret (set by the player, 2026-10-14):** he's a scion of **House Marlowe**, a wealthy
   Upper City trading family; the crew doesn't know. His parents keep summoning him. **Tie-in:**

@@ -78,3 +78,6 @@ gang as a girl because they fed her. She keeps the gang's code -- only take from
   Session 2 (2026-10-14): Healed Lucan (Cure Wounds). Woke Isaura with the hymn (this time it held).
   Tied her red cord across the Marlowe cellar door with a line of salt. Knows Lucan is a Marlowe.
   Full slots after the long rest.
+  Session 4 (2026-10-15): Freed Pyke and Harker with the red cord; broke two rows of the Singers' pearls
+  and let Lucan finish the third. Took 6 damage from a pearl-man's cudgel (13/14 now). Used both 1st-level
+  slots (Bless, Cure Wounds) and Lay on Hands (pool empty). Wept over her chapel's stolen plate.

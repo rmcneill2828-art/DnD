@@ -60,7 +60,10 @@
 - Rapier, shortbow and 20 arrows, 2 daggers
 - Leather armor, burglar's pack, thieves' tools
 - Fine clothes, disguise kit, tools of the con (weighted dice, marked cards, and a signet ring he tells everyone is a forgery of an imaginary duke's -- it isn't)
-- Belt pouch: 15 gp
+- Belt pouch: about 84 gp (15 starting + 20 won from Aldersey + 50 crowns from Vossen's strongbox, less small spends)
+- Satchel with a lead-lined dispatch case holding five silenced pearls; the Marlowe salvage log (cipher key ANCHOR)
+- Master ledger of the Singers; Maren Coldwater's letter; plan of the House of Salt
+- Three grey Singer robes, a bone flute, a white tithe-shell on a cord, Tam Harrow's brass key
 
 ## Personality
 - Traits: Charming first, rogue second. Never walks into a room, makes an entrance. Always has a quip loaded.
@@ -85,7 +88,7 @@ of them, which is exactly the thing he can't say out loud.
 ## Current Status
 - Conditions: none
 - Inspiration: no
-- HP: 10 / 10 (long rest; end of Session 2)
+- HP: 12 / 13 (end of Session 4). 1st-level slots: 0 of 2. Bardic Inspiration: 1 of 3 left. Ears ringing briefly.
 - Notes: Session 1 (2026-10-14). Dropped to 0 by a crab critical and brought back by Kairon's patron.
   A memory is missing (not yet identified). Tastes salt. Carries Tam Harrow's brass key. Belt pouch:
   about 34 gp. Holds a chart marked "the Founders' lock".
