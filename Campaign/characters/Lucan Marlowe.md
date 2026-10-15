@@ -61,7 +61,7 @@
 - Leather armor, burglar's pack, thieves' tools
 - Fine clothes, disguise kit, tools of the con (weighted dice, marked cards, and a signet ring he tells everyone is a forgery of an imaginary duke's -- it isn't)
 - Belt pouch: about 84 gp (15 starting + 20 won from Aldersey + 50 crowns from Vossen's strongbox, less small spends)
-- Satchel with a lead-lined dispatch case holding five silenced pearls; the Marlowe salvage log (cipher key ANCHOR)
+- Satchel with a lead-lined dispatch case holding six silenced pearls; the Marlowe salvage log (cipher key ANCHOR)
 - Master ledger of the Singers; Maren Coldwater's letter; plan of the House of Salt
 - Three grey Singer robes, a bone flute, a white tithe-shell on a cord, Tam Harrow's brass key
 

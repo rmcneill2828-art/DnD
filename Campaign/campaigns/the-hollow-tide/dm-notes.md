@@ -188,6 +188,17 @@ Heist-and-battle on the drained harbour floor; Ulthuun's lair; the Last Con.
   at risk; I rolled round batches of enemy and companion actions in this fight, which was fine for non-lethal
   stakes but should stay careful.
 
+## 9e. Session 4 evening notes
+- **Fair pearls:** the Singers have already planted beads in children (Nell). Unknown how many. Maren's plan
+  needs "the fiddle man" at the Highharvestide Fair to hand out the rest; the strongroom's thirty are dust, but
+  she can reissue from the House of Salt. Make this a time pressure on the Fair.
+- **Maren Coldwater:** white hair to the waist, a coral comb, walks without hurry. Leads a nightly procession
+  (30-60 hoods) into the Sailors' Rest at the third bell.
+- **Pell:** knows the old chapel's story; will not leave. Her promise is still owed. Possible price: that Lucan
+  not die before the ninth, or that he bring her something back from the House of Salt (a name).
+- **The tide-stair** (Pell's) is a second, unwatched route to the foot of the nineteen steps. The Singers use the
+  Lane. The tide is still out; the party has three hours of dark before the third bell.
+
 ## 10. Hooks per character
 - **Lucan's secret (set by the player, 2026-10-14):** he's a scion of **House Marlowe**, a wealthy
   Upper City trading family; the crew doesn't know. His parents keep summoning him. **Tie-in:**

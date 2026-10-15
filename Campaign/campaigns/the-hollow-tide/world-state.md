@@ -3,8 +3,8 @@
 _Living tracker -- active threads only. Full history lives in session-log.md._
 
 ## Party
-- **Location:** Ilmater's hospice, Candle Row (Lower City), about four in the afternoon
-- **Date:** 3 Kythorn, 1492 DR
+- **Location:** The Leaky Lantern (Lower City), about ten at night
+- **Date:** 3 Kythorn, 1492 DR (evening)
 - **Current quest(s):** Return the coin and heirlooms to the families (Pell's urchins, Hesper's lay brothers,
   Brannick's lads); hold the deeds as bait for Crowhurst, Tarn, Penhallow and Venn; protect Isaura (the cellar
   cord needs renewing by dark); plan the House of Salt (plan, robes, flute and tithe-shell in hand).
@@ -17,7 +17,7 @@ _Living tracker -- active threads only. Full history lives in session-log.md._
 - Harbour chart marked "the Founders' lock" (off the Seatower) -- Lucan
 - Tam Harrow's brass key (warehouse slip door) -- Lucan
 - Midnight-blue coat and a better rapier, kept in Lucan's Tallow Street trunk (the garret is watched)
-- Lead-lined dispatch case with five silenced pearls (Kairon's small, two medium, Dunn's cracked, Vossen's great one) -- Lucan
+- Lead-lined dispatch case with six silenced pearls (Kairon's small, two medium, Dunn's cracked, Vossen's great one, Nell's pea) -- Lucan
 - Master ledger; Maren's letter; plan of the House of Salt; three grey Singer robes; bone flute; white tithe-shell -- Lucan
 - Augustin's own pearl: still sealed in the Marlowe study safe
 - 50 gp from the strongbox; about 84 gp total on Lucan
@@ -44,7 +44,9 @@ _Living tracker -- active threads only. Full history lives in session-log.md._
 | Aldric Vossen | Harbourmaster's factor | Broken, cooperative | In the hospice laundry; no pearl; confesses morning and evening |
 | Maren Coldwater | High Tide-Mother of the Singers | Enemy | Runs the House of Salt; believes the voice is Umberlee's |
 | Crowhurst & Daughters; Admiral Tarn; Tallyman Penhallow; Magistrate Venn | The four paying houses | Unknown | Paid for protection and priority; may not all have known |
-| Wick | Pell's urchin | Friendly | Carried Lucan's rhyming note |
+| Wick | Pell's urchin | Friendly | Carried Lucan's rhyming note and the grey slips |
+| Rosa and Nell Haskett | Mother and daughter (eight) | Grateful | Nell's planted pearl was lifted; "the fiddle man will give them out at the Fair" |
+| A hooded Singer | Watcher on the quay | Hostile | Saw the red cords and Kairon; went toward the Fishmonger's Stair |
 | The man in the grey coat | Watcher on the Marlowe corner | Hostile | Not always the same man; works for Vossen (his pearl is silent now) |
 
 ## Locations Discovered
@@ -66,6 +68,9 @@ _Living tracker -- active threads only. Full history lives in session-log.md._
 | The House of Salt | Open | Plan in hand: nineteen steps under the Sailors' Rest (Gullet Lane), black door at dead low water, tithe-shell and flute. Four hundred "rested" inside. Maren and Quill (with a copy of the ledger). |
 | The Dry Night | Open | 30 Eleint. Maren turns the iron under the Seatower at the third bell; Vossen was to deliver Lucan to the stone by the second. |
 | The singing-bowl (strongroom) | Open | A direct line to the Mother. Left intact. Possible tool for the false-memory plan. |
+| The tide-stair | Open | Pell's second entrance to the Sailors' Rest, cut in the quay wall, dry at low water, a rotten chain at the grating. Three hundred paces from the Lane. |
+| The Fair pearls | Open | Nell says "the fiddle man" gives pearls out to children at the Fair (Highharvestide). Thirty were in the rack; the strongroom's rack is now dust. Others may already be planted. |
+| Pell's promise | Open | Pell asked for a promise in return for the stair and the drawing; Lucan hasn't named it. |
 
 ## Loose Threads
 - --

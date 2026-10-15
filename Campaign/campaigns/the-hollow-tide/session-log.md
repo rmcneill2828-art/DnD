@@ -136,3 +136,27 @@ Marlowe kitchen. Vossen expects Lucan at Berth 14 at noon on 4 Kythorn.
 Lay on Hands spent); Kairon 15/15 (Sorcerer slots full; Pact slot spent; holds a spare Inspiration d6 for a few
 minutes). Afternoon of 3 Kythorn, hospice on Candle Row. Vossen sleeps in the laundry. The dray holds the silver,
 plate, heirlooms and deeds. The Singers will notice Vossen's silent pearl.
+
+### Session 4, continued -- the evening of 3 Kythorn
+
+- **Vossen at the hospice.** Sister Hesper took him in on conditions: the old laundry, a broom, and a confession
+  morning and evening. He crossed the red cord without harm. Tam Harrow woke and called him "Mister Vossen... is it
+  time?"; Vossen did not answer.
+- **The message.** Wick, Hesper's lay brothers and Brannick's lads carried grey slips ("a mistake in your favour:
+  bring your wage-slip to Candle Row at lamp-lighting, look for a red cord"). Kairon's idea of red cords on every
+  door worked so well that half of Tallow Street and Gullet Lane had one by dusk. Ninety families came; the coin
+  was paid out by the ledger at Brannick's table, and the heirlooms laid out on the trestles by tag.
+- **Nell Haskett** (eight, mother Rosa) had a planted pearl. Helja's cord cracked it but it held (a natural 20 on
+  its save). Lucan lifted it with Sleight of Hand and sang her to sleep. She had told her mother: "The fiddle man
+  will give them out at the Fair. Everyone gets one." The pearl went into the lead case (six now).
+- **A Singer watched.** A grey-hooded figure with a spiral at her breast saw the cords and left toward the
+  Fishmonger's Stair; Kairon saw her see him.
+- **Old Mother Pell.** At the Leaky Lantern she gave Lucan a drawing of the Sailors' Rest (once a pilots' chapel,
+  "Umberlee's Sorrow", nineteen steps to a black door, built for the sea's returned dead) and its second entrance,
+  the **tide-stair** cut in the quay wall, dry now, with a rotten chain. Every night at the third bell she has
+  watched grey hoods go in (sixty last night), led by Maren Coldwater, white-haired with a coral comb. She will
+  not leave the Lantern before the ninth; she asked for a promise in return (not yet given).
+
+**End state (the session closes here):** ten o'clock at night, the Leaky Lantern. Lucan 12/13, Helja 13/14,
+Kairon 15/15. No spell slots for Lucan and Helja. The cellar cord at the Marlowe house is unrenewed. The tide
+has been out for a week.
